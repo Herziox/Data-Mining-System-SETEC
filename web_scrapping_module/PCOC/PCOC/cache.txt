@@ -1,0 +1,6 @@
+Shape data: (167365, 8)
+Page: 10234
+========== Time =========
+Time: 6423758.908719301
+Last session time: 00:13:15.20
+Total time: 1784:22:38.91

@@ -1,0 +1,15 @@
+1. CNC para Operadores de Capacitación - CNCOC
+2. CNC para Organismos Evaluadores de  la Conformidad - CNCOEC
+3. CNC  Perfiles Inhabilitados - CNCPI
+4.  Operadores de Capacitación]- OC
+5.  OC - Suspendidos - OCS
+6. OC - Finalizaron su vigencia de Calificación] - OCF
+7. OC - Cancelados - OCC
+8. Personas Capacitadas por OC - PCOC
+9. Organismos Evaluadores de la Conformidad - OEC
+10. OEC - Suspendidos - OECS
+11. OEC - Finalizaron su vigencia de Reconocimiento] - OECF
+12. OEC - Cancelados - OECC
+13. Personas Certificadas por OEC - PCOEC
+14. Capacitadores Independientes - CI
+15. Personas Capacitadas por CI - PCCI

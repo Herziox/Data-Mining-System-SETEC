@@ -1,0 +1,1464 @@
+####################--------START PROGRAM---------####################  
+####################  2022-07-31 00:05:59.398379  #################### 
+===================================================================== 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-07-31 00:07:07.805140 
+[Session  1] | Resume Mining since page 13158 : 2022-07-31 00:42:23.521814 
+[Session  1] | Start to Mining: 2022-07-31 00:42:23.522818 
+[Session  1] | Expired: 2022-07-31 00:56:37.399009 
+========================= Fail click ===========================
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-07-31 00:58:02.178378 
+[Session  2] | Resume Mining since page 13223 : 2022-07-31 01:24:19.701676 
+[Session  2] | Start to Mining: 2022-07-31 01:24:19.701676 
+[Session  2] | Expired: 2022-07-31 01:47:33.633167 
+========================= Fail click ===========================
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-07-31 01:48:59.013094 
+[Session  3] | Resume Mining since page 13367 : 2022-07-31 02:11:55.553508 
+[Session  3] | Start to Mining: 2022-07-31 02:11:55.553508 
+[Session  3] | Expired: 2022-07-31 02:38:29.427232 
+========================= Fail click ===========================
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-07-31 02:39:49.763662 
+[Session  4] | Resume Mining since page 13562 : 2022-07-31 03:04:36.630267 
+[Session  4] | Start to Mining: 2022-07-31 03:04:36.630267 
+[Session  4] | Expired: 2022-07-31 03:29:22.518220 
+========================= Fail click ===========================
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-07-31 03:30:43.217021 
+[Session  5] | Resume Mining since page 13738 : 2022-07-31 03:56:59.896394 
+[Session  5] | Start to Mining: 2022-07-31 03:56:59.896394 
+[Session  5] | Expired: 2022-07-31 04:20:13.656051 
+========================= Fail click ===========================
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-07-31 04:21:38.068245 
+[Session  6] | Resume Mining since page 13904 : 2022-07-31 04:49:29.467259 
+[Session  6] | Start to Mining: 2022-07-31 04:49:29.467259 
+[Session  6] | Expired: 2022-07-31 05:11:08.797493 
+========================= Fail click ===========================
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-07-31 05:12:32.110589 
+[Session  7] | Resume Mining since page 14068 : 2022-07-31 05:34:14.311605 
+[Session  7] | Start to Mining: 2022-07-31 05:34:14.311605 
+[Session  7] | Expired: 2022-07-31 06:02:02.546808 
+========================= Fail click ===========================
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-07-31 06:03:31.610106 
+[Session  8] | Resume Mining since page 14214 : 2022-07-31 06:26:07.088936 
+[Session  8] | Start to Mining: 2022-07-31 06:26:07.088936 
+[Session  8] | Expired: 2022-07-31 06:53:02.207767 
+========================= Fail click ===========================
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-07-31 06:54:23.641274 
+[Session  9] | Resume Mining since page 14357 : 2022-07-31 07:15:43.262741 
+[Session  9] | Start to Mining: 2022-07-31 07:15:43.262741 
+[Session  9] | Expired: 2022-07-31 07:43:54.152317 
+========================= Fail click ===========================
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-07-31 07:45:12.942211 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-07-31 08:30:48.782436 
+[Session  11] | Resume Mining since page 14504 : 2022-07-31 09:07:21.813462 
+[Session  11] | Start to Mining: 2022-07-31 09:07:21.814462 
+[Session  11] | Expired: 2022-07-31 09:20:19.361804 
+========================= Fail click ===========================
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-07-31 09:21:38.809958 
+[Session  12] | Resume Mining since page 14564 : 2022-07-31 09:57:34.002699 
+[Session  12] | Start to Mining: 2022-07-31 09:57:34.031696 
+[Session  12] | Expired: 2022-07-31 10:11:09.680097 
+========================= Fail click ===========================
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-07-31 10:12:33.648611 
+[Session  13] | Resume Mining since page 14622 : 2022-07-31 10:42:43.992436 
+[Session  13] | Start to Mining: 2022-07-31 10:42:43.992436 
+[Session  13] | Expired: 2022-07-31 11:02:04.030802 
+========================= Fail click ===========================
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-07-31 11:03:28.820280 
+[Session  14] | Resume Mining since page 14738 : 2022-07-31 11:32:12.996976 
+[Session  14] | Start to Mining: 2022-07-31 11:32:12.996976 
+[Session  14] | Expired: 2022-07-31 11:52:59.185547 
+========================= Fail click ===========================
+Sessions: 15 | Falied sessions : 0| Expired sessions: 14
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-07-31 11:54:19.560686 
+[Session  15] | Resume Mining since page 14844 : 2022-07-31 12:22:07.880640 
+[Session  15] | Start to Mining: 2022-07-31 12:22:07.880640 
+[Session  15] | Expired: 2022-07-31 12:43:50.104980 
+========================= Fail click ===========================
+Sessions: 16 | Falied sessions : 0| Expired sessions: 15
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-07-31 12:45:08.558395 
+[Session  16] | Resume Mining since page 14969 : 2022-07-31 13:13:38.296899 
+[Session  16] | Start to Mining: 2022-07-31 13:13:38.296899 
+[Session  16] | Expired: 2022-07-31 13:34:39.027624 
+========================= Fail click ===========================
+Sessions: 17 | Falied sessions : 0| Expired sessions: 16
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-07-31 13:35:55.562764 
+[Session  17] | Resume Mining since page 15093 : 2022-07-31 14:04:18.875604 
+[Session  17] | Start to Mining: 2022-07-31 14:04:18.876603 
+[Session  17] | Expired: 2022-07-31 14:25:26.170321 
+========================= Fail click ===========================
+Sessions: 18 | Falied sessions : 0| Expired sessions: 17
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-07-31 14:26:47.504890 
+[Session  18] | Resume Mining since page 15220 : 2022-07-31 14:52:31.086414 
+[Session  18] | Start to Mining: 2022-07-31 14:52:31.087414 
+[Session  18] | Expired: 2022-07-31 15:16:19.419035 
+========================= Fail click ===========================
+[Session  18] | End Session: 2022-07-31 15:16:49.489831 
+####################--------START PROGRAM---------####################  
+####################  2022-07-31 15:17:17.553377  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-07-31 15:17:51.612888 
+[Session  1] | Resume Mining since page 15327 : 2022-07-31 15:48:01.981387 
+[Session  1] | Start to Mining: 2022-07-31 15:48:01.981387 
+[Session  1] | Expired: 2022-07-31 16:07:22.497383 
+========================= Fail click ===========================
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-07-31 16:08:43.485392 
+[Session  2] | Resume Mining since page 15435 : 2022-07-31 16:44:47.166739 
+[Session  2] | Start to Mining: 2022-07-31 16:44:47.166739 
+[Session  2] | Expired: 2022-07-31 16:58:14.826721 
+========================= Fail click ===========================
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-07-31 16:59:37.483146 
+[Session  3] | Resume Mining since page 15506 : 2022-07-31 17:37:46.559947 
+[Session  3] | Start to Mining: 2022-07-31 17:37:46.588915 
+[Session  3] | Expired: 2022-07-31 17:49:08.064884 
+========================= Fail click ===========================
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-07-31 17:50:31.569804 
+[Session  4] | Resume Mining since page 15555 : 2022-07-31 18:29:12.755129 
+[Session  4] | Start to Mining: 2022-07-31 18:29:12.755129 
+[Session  4] | Expired: 2022-07-31 18:40:02.136730 
+========================= Fail click ===========================
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-07-31 18:41:35.186903 
+[Session  5] | Resume Mining since page 15604 : 2022-07-31 19:20:59.388848 
+[Session  5] | Start to Mining: 2022-07-31 19:20:59.388848 
+[Session  5] | Expired: 2022-07-31 19:31:06.568160 
+========================= Fail click ===========================
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-07-31 19:32:29.844558 
+[Session  6] | Resume Mining since page 15647 : 2022-07-31 20:15:35.493713 
+[Session  6] | Start to Mining: 2022-07-31 20:15:35.493713 
+[Session  6] | Expired: 2022-07-31 20:22:00.286768 
+========================= Fail click ===========================
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-07-31 20:23:24.902788 
+####################--------START PROGRAM---------####################  
+####################  2022-08-01 00:12:25.784273  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-01 00:13:37.161393 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-01 00:15:31.635004 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-01 00:17:11.880148 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-01 00:18:59.385580 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-01 01:05:35.488043 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-01 01:07:16.891246 
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-01 01:08:53.429762 
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-01 01:10:28.684900 
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-01 01:12:05.975626 
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-01 01:13:40.358888 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-01 01:15:14.654083 
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-01 01:16:52.542881 
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-01 01:18:30.496374 
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-01 01:20:05.970004 
+Sessions: 15 | Falied sessions : 0| Expired sessions: 14
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-01 01:21:44.773274 
+Sessions: 16 | Falied sessions : 0| Expired sessions: 15
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-01 01:23:19.683979 
+Sessions: 17 | Falied sessions : 0| Expired sessions: 16
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-01 01:25:02.890323 
+Sessions: 18 | Falied sessions : 0| Expired sessions: 17
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-01 01:26:41.274857 
+Sessions: 19 | Falied sessions : 0| Expired sessions: 18
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-01 01:28:20.866385 
+Sessions: 20 | Falied sessions : 0| Expired sessions: 19
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-01 01:29:54.438190 
+Sessions: 21 | Falied sessions : 0| Expired sessions: 20
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-01 01:31:35.364332 
+Sessions: 22 | Falied sessions : 0| Expired sessions: 21
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-01 01:33:21.820084 
+Sessions: 23 | Falied sessions : 0| Expired sessions: 22
+===================================================================== 
+[Session  23] | Go to last mined page: 2022-08-01 01:35:08.815663 
+Sessions: 24 | Falied sessions : 0| Expired sessions: 23
+===================================================================== 
+[Session  24] | Go to last mined page: 2022-08-01 01:36:43.587194 
+Sessions: 25 | Falied sessions : 0| Expired sessions: 24
+===================================================================== 
+[Session  25] | Go to last mined page: 2022-08-01 01:38:24.084269 
+Sessions: 26 | Falied sessions : 0| Expired sessions: 25
+===================================================================== 
+[Session  26] | Go to last mined page: 2022-08-01 01:40:08.485039 
+Sessions: 27 | Falied sessions : 0| Expired sessions: 26
+===================================================================== 
+[Session  27] | Go to last mined page: 2022-08-01 01:41:47.758950 
+Sessions: 28 | Falied sessions : 0| Expired sessions: 27
+===================================================================== 
+[Session  28] | Go to last mined page: 2022-08-01 01:43:42.341104 
+Sessions: 29 | Falied sessions : 0| Expired sessions: 28
+===================================================================== 
+[Session  29] | Go to last mined page: 2022-08-01 01:45:29.696017 
+Sessions: 30 | Falied sessions : 0| Expired sessions: 29
+===================================================================== 
+[Session  30] | Go to last mined page: 2022-08-01 01:47:08.391704 
+Sessions: 31 | Falied sessions : 0| Expired sessions: 30
+===================================================================== 
+[Session  31] | Go to last mined page: 2022-08-01 01:48:44.080711 
+Sessions: 32 | Falied sessions : 0| Expired sessions: 31
+===================================================================== 
+[Session  32] | Go to last mined page: 2022-08-01 01:50:32.814930 
+[Session  32] | Resume Mining since page 15664 : 2022-08-01 02:27:01.094584 
+[Session  32] | Start to Mining: 2022-08-01 02:27:01.094584 
+[Session  32] | Expired: 2022-08-01 02:40:52.177162 
+========================= Fail click ===========================
+Sessions: 33 | Falied sessions : 0| Expired sessions: 32
+===================================================================== 
+[Session  33] | Go to last mined page: 2022-08-01 02:42:16.569750 
+Sessions: 34 | Falied sessions : 0| Expired sessions: 33
+===================================================================== 
+[Session  34] | Go to last mined page: 2022-08-01 02:44:00.888329 
+Sessions: 35 | Falied sessions : 0| Expired sessions: 34
+===================================================================== 
+[Session  35] | Go to last mined page: 2022-08-01 02:45:37.494358 
+Sessions: 36 | Falied sessions : 0| Expired sessions: 35
+===================================================================== 
+[Session  36] | Go to last mined page: 2022-08-01 02:47:14.496949 
+Sessions: 37 | Falied sessions : 0| Expired sessions: 36
+===================================================================== 
+[Session  37] | Go to last mined page: 2022-08-01 02:48:51.446155 
+Sessions: 38 | Falied sessions : 0| Expired sessions: 37
+===================================================================== 
+[Session  38] | Go to last mined page: 2022-08-01 02:50:35.326436 
+Sessions: 39 | Falied sessions : 0| Expired sessions: 38
+===================================================================== 
+[Session  39] | Go to last mined page: 2022-08-01 02:52:16.434614 
+Sessions: 40 | Falied sessions : 0| Expired sessions: 39
+===================================================================== 
+[Session  40] | Go to last mined page: 2022-08-01 02:53:52.216323 
+Sessions: 41 | Falied sessions : 0| Expired sessions: 40
+===================================================================== 
+[Session  41] | Go to last mined page: 2022-08-01 02:55:31.001866 
+Sessions: 42 | Falied sessions : 0| Expired sessions: 41
+===================================================================== 
+[Session  42] | Go to last mined page: 2022-08-01 02:57:07.859679 
+Sessions: 43 | Falied sessions : 0| Expired sessions: 42
+===================================================================== 
+[Session  43] | Go to last mined page: 2022-08-01 02:58:45.828157 
+Sessions: 44 | Falied sessions : 0| Expired sessions: 43
+===================================================================== 
+[Session  44] | Go to last mined page: 2022-08-01 03:00:21.986513 
+Sessions: 45 | Falied sessions : 0| Expired sessions: 44
+===================================================================== 
+[Session  45] | Go to last mined page: 2022-08-01 03:01:57.891386 
+Sessions: 46 | Falied sessions : 0| Expired sessions: 45
+===================================================================== 
+[Session  46] | Go to last mined page: 2022-08-01 03:03:37.222572 
+Sessions: 47 | Falied sessions : 0| Expired sessions: 46
+===================================================================== 
+[Session  47] | Go to last mined page: 2022-08-01 03:05:13.919841 
+Sessions: 48 | Falied sessions : 0| Expired sessions: 47
+===================================================================== 
+[Session  48] | Go to last mined page: 2022-08-01 03:06:52.030446 
+Sessions: 49 | Falied sessions : 0| Expired sessions: 48
+===================================================================== 
+[Session  49] | Go to last mined page: 2022-08-01 03:08:29.640964 
+Sessions: 50 | Falied sessions : 0| Expired sessions: 49
+===================================================================== 
+[Session  50] | Go to last mined page: 2022-08-01 03:10:00.477780 
+Sessions: 51 | Falied sessions : 0| Expired sessions: 50
+===================================================================== 
+[Session  51] | Go to last mined page: 2022-08-01 03:11:40.387539 
+Sessions: 52 | Falied sessions : 0| Expired sessions: 51
+===================================================================== 
+[Session  52] | Go to last mined page: 2022-08-01 03:13:15.364399 
+Sessions: 53 | Falied sessions : 0| Expired sessions: 52
+===================================================================== 
+[Session  53] | Go to last mined page: 2022-08-01 03:14:57.051103 
+[Session  53] | Resume Mining since page 15707 : 2022-08-01 03:52:28.048086 
+[Session  53] | Start to Mining: 2022-08-01 03:52:28.246844 
+[Session  53] | Expired: 2022-08-01 04:04:28.173860 
+========================= Fail click ===========================
+Sessions: 54 | Falied sessions : 0| Expired sessions: 53
+===================================================================== 
+[Session  54] | Go to last mined page: 2022-08-01 04:05:57.304116 
+Sessions: 55 | Falied sessions : 0| Expired sessions: 54
+===================================================================== 
+[Session  55] | Go to last mined page: 2022-08-01 04:07:36.201945 
+Sessions: 56 | Falied sessions : 0| Expired sessions: 55
+===================================================================== 
+[Session  56] | Go to last mined page: 2022-08-01 04:09:13.568348 
+[Session  56] | Resume Mining since page 15744 : 2022-08-01 04:40:57.804338 
+[Session  56] | Start to Mining: 2022-08-01 04:40:57.804338 
+========================= Fail click ===========================
+Sessions: 57 | Falied sessions : 0| Expired sessions: 55
+===================================================================== 
+[Session  57] | Go to last mined page: 2022-08-01 04:55:04.515826 
+Sessions: 58 | Falied sessions : 0| Expired sessions: 56
+===================================================================== 
+[Session  58] | Go to last mined page: 2022-08-01 04:56:41.792053 
+Sessions: 59 | Falied sessions : 0| Expired sessions: 57
+===================================================================== 
+[Session  59] | Go to last mined page: 2022-08-01 04:58:19.711481 
+Sessions: 60 | Falied sessions : 0| Expired sessions: 58
+===================================================================== 
+[Session  60] | Go to last mined page: 2022-08-01 04:59:54.716780 
+[Session  60] | Resume Mining since page 15834 : 2022-08-01 05:27:55.333192 
+[Session  60] | Start to Mining: 2022-08-01 05:27:55.333192 
+[Session  60] | Expired: 2022-08-01 05:49:24.751500 
+========================= Fail click ===========================
+Sessions: 61 | Falied sessions : 0| Expired sessions: 59
+===================================================================== 
+[Session  61] | Go to last mined page: 2022-08-01 05:50:53.768664 
+Sessions: 62 | Falied sessions : 0| Expired sessions: 60
+===================================================================== 
+[Session  62] | Go to last mined page: 2022-08-01 05:52:40.194800 
+Sessions: 63 | Falied sessions : 0| Expired sessions: 61
+===================================================================== 
+[Session  63] | Go to last mined page: 2022-08-01 05:54:21.922226 
+Sessions: 64 | Falied sessions : 0| Expired sessions: 62
+===================================================================== 
+[Session  64] | Go to last mined page: 2022-08-01 05:55:56.802717 
+Sessions: 65 | Falied sessions : 0| Expired sessions: 63
+===================================================================== 
+[Session  65] | Go to last mined page: 2022-08-01 05:57:35.412680 
+[Session  65] | Resume Mining since page 15963 : 2022-08-01 06:34:39.409457 
+[Session  65] | Start to Mining: 2022-08-01 06:34:39.409457 
+[Session  65] | Expired: 2022-08-01 06:47:06.833999 
+========================= Fail click ===========================
+Sessions: 66 | Falied sessions : 0| Expired sessions: 64
+===================================================================== 
+[Session  66] | Go to last mined page: 2022-08-01 06:48:42.729561 
+Sessions: 67 | Falied sessions : 0| Expired sessions: 65
+===================================================================== 
+[Session  67] | Go to last mined page: 2022-08-01 06:50:19.329284 
+Sessions: 68 | Falied sessions : 0| Expired sessions: 66
+===================================================================== 
+[Session  68] | Go to last mined page: 2022-08-01 06:51:58.000791 
+Sessions: 69 | Falied sessions : 0| Expired sessions: 67
+===================================================================== 
+[Session  69] | Go to last mined page: 2022-08-01 06:53:39.875553 
+Sessions: 70 | Falied sessions : 0| Expired sessions: 68
+===================================================================== 
+[Session  70] | Go to last mined page: 2022-08-01 06:55:28.898360 
+Sessions: 74 | Falied sessions : 3| Expired sessions: 69
+===================================================================== 
+[Session  74] | Go to last mined page: 2022-08-01 07:15:02.088678 
+Sessions: 75 | Falied sessions : 3| Expired sessions: 70
+===================================================================== 
+[Session  75] | Go to last mined page: 2022-08-01 07:16:40.860241 
+Sessions: 76 | Falied sessions : 3| Expired sessions: 71
+===================================================================== 
+[Session  76] | Go to last mined page: 2022-08-01 07:18:35.089319 
+Sessions: 77 | Falied sessions : 3| Expired sessions: 72
+===================================================================== 
+[Session  77] | Go to last mined page: 2022-08-01 07:20:14.422994 
+Sessions: 78 | Falied sessions : 3| Expired sessions: 73
+===================================================================== 
+[Session  78] | Go to last mined page: 2022-08-01 07:21:52.987994 
+Sessions: 79 | Falied sessions : 3| Expired sessions: 74
+===================================================================== 
+[Session  79] | Go to last mined page: 2022-08-01 07:23:29.707523 
+Sessions: 80 | Falied sessions : 3| Expired sessions: 75
+===================================================================== 
+[Session  80] | Go to last mined page: 2022-08-01 07:25:06.550844 
+Sessions: 81 | Falied sessions : 3| Expired sessions: 76
+===================================================================== 
+[Session  81] | Go to last mined page: 2022-08-01 08:11:25.417877 
+Sessions: 82 | Falied sessions : 3| Expired sessions: 77
+===================================================================== 
+[Session  82] | Go to last mined page: 2022-08-01 08:13:20.280042 
+Sessions: 83 | Falied sessions : 3| Expired sessions: 78
+===================================================================== 
+[Session  83] | Go to last mined page: 2022-08-01 08:15:10.903930 
+Sessions: 84 | Falied sessions : 3| Expired sessions: 79
+===================================================================== 
+[Session  84] | Go to last mined page: 2022-08-01 08:17:02.600426 
+Sessions: 85 | Falied sessions : 3| Expired sessions: 80
+===================================================================== 
+[Session  85] | Go to last mined page: 2022-08-01 08:18:57.637898 
+Sessions: 86 | Falied sessions : 3| Expired sessions: 81
+===================================================================== 
+[Session  86] | Go to last mined page: 2022-08-01 08:20:48.339870 
+Sessions: 87 | Falied sessions : 3| Expired sessions: 82
+===================================================================== 
+[Session  87] | Go to last mined page: 2022-08-01 08:22:35.015947 
+Sessions: 88 | Falied sessions : 3| Expired sessions: 83
+===================================================================== 
+[Session  88] | Go to last mined page: 2022-08-01 08:24:28.289874 
+Sessions: 89 | Falied sessions : 3| Expired sessions: 84
+===================================================================== 
+[Session  89] | Go to last mined page: 2022-08-01 08:26:10.644455 
+Sessions: 90 | Falied sessions : 3| Expired sessions: 85
+===================================================================== 
+[Session  90] | Go to last mined page: 2022-08-01 08:27:46.559570 
+Sessions: 91 | Falied sessions : 3| Expired sessions: 86
+===================================================================== 
+[Session  91] | Go to last mined page: 2022-08-01 08:29:32.837772 
+Sessions: 92 | Falied sessions : 3| Expired sessions: 87
+===================================================================== 
+[Session  92] | Go to last mined page: 2022-08-01 08:31:08.057624 
+Sessions: 93 | Falied sessions : 3| Expired sessions: 88
+===================================================================== 
+[Session  93] | Go to last mined page: 2022-08-01 08:32:49.060265 
+Sessions: 94 | Falied sessions : 3| Expired sessions: 89
+===================================================================== 
+[Session  94] | Go to last mined page: 2022-08-01 08:34:30.204625 
+Sessions: 95 | Falied sessions : 3| Expired sessions: 90
+===================================================================== 
+[Session  95] | Go to last mined page: 2022-08-01 08:36:15.245211 
+Sessions: 96 | Falied sessions : 3| Expired sessions: 91
+===================================================================== 
+[Session  96] | Go to last mined page: 2022-08-01 09:22:40.767096 
+Sessions: 97 | Falied sessions : 3| Expired sessions: 92
+===================================================================== 
+[Session  97] | Go to last mined page: 2022-08-01 09:24:50.480203 
+Sessions: 98 | Falied sessions : 3| Expired sessions: 93
+===================================================================== 
+[Session  98] | Go to last mined page: 2022-08-01 09:27:37.418500 
+Sessions: 100 | Falied sessions : 4| Expired sessions: 94
+===================================================================== 
+[Session  100] | Go to last mined page: 2022-08-01 09:30:26.677284 
+Sessions: 101 | Falied sessions : 4| Expired sessions: 95
+===================================================================== 
+[Session  101] | Go to last mined page: 2022-08-01 09:32:35.964285 
+Sessions: 102 | Falied sessions : 4| Expired sessions: 96
+===================================================================== 
+[Session  102] | Go to last mined page: 2022-08-01 09:35:10.974262 
+Sessions: 103 | Falied sessions : 4| Expired sessions: 97
+===================================================================== 
+[Session  103] | Go to last mined page: 2022-08-01 09:37:08.114697 
+Sessions: 104 | Falied sessions : 4| Expired sessions: 98
+===================================================================== 
+[Session  104] | Go to last mined page: 2022-08-01 09:39:00.996517 
+Sessions: 106 | Falied sessions : 5| Expired sessions: 99
+===================================================================== 
+[Session  106] | Go to last mined page: 2022-08-01 09:41:25.178071 
+Sessions: 108 | Falied sessions : 6| Expired sessions: 100
+===================================================================== 
+[Session  108] | Go to last mined page: 2022-08-01 09:53:04.632807 
+Sessions: 109 | Falied sessions : 6| Expired sessions: 101
+===================================================================== 
+[Session  109] | Go to last mined page: 2022-08-01 09:56:17.930100 
+Sessions: 110 | Falied sessions : 6| Expired sessions: 102
+===================================================================== 
+[Session  110] | Go to last mined page: 2022-08-01 10:01:28.414444 
+Sessions: 111 | Falied sessions : 6| Expired sessions: 103
+===================================================================== 
+[Session  111] | Go to last mined page: 2022-08-01 10:03:21.483991 
+Sessions: 112 | Falied sessions : 6| Expired sessions: 104
+===================================================================== 
+[Session  112] | Go to last mined page: 2022-08-01 10:06:10.205634 
+Sessions: 113 | Falied sessions : 6| Expired sessions: 105
+===================================================================== 
+[Session  113] | Go to last mined page: 2022-08-01 10:07:45.864365 
+Sessions: 114 | Falied sessions : 6| Expired sessions: 106
+===================================================================== 
+[Session  114] | Go to last mined page: 2022-08-01 10:09:37.207060 
+Sessions: 115 | Falied sessions : 6| Expired sessions: 107
+===================================================================== 
+[Session  115] | Go to last mined page: 2022-08-01 10:13:31.179565 
+Sessions: 116 | Falied sessions : 6| Expired sessions: 108
+===================================================================== 
+[Session  116] | Go to last mined page: 2022-08-01 10:15:12.515992 
+Sessions: 117 | Falied sessions : 6| Expired sessions: 109
+===================================================================== 
+[Session  117] | Go to last mined page: 2022-08-01 10:16:51.022389 
+Sessions: 118 | Falied sessions : 6| Expired sessions: 110
+===================================================================== 
+[Session  118] | Go to last mined page: 2022-08-01 10:18:30.789506 
+Sessions: 119 | Falied sessions : 6| Expired sessions: 111
+===================================================================== 
+[Session  119] | Go to last mined page: 2022-08-01 10:20:15.548006 
+Sessions: 120 | Falied sessions : 6| Expired sessions: 112
+===================================================================== 
+[Session  120] | Go to last mined page: 2022-08-01 10:21:54.002844 
+Sessions: 121 | Falied sessions : 6| Expired sessions: 113
+===================================================================== 
+[Session  121] | Go to last mined page: 2022-08-01 10:23:44.278318 
+Sessions: 122 | Falied sessions : 6| Expired sessions: 114
+===================================================================== 
+[Session  122] | Go to last mined page: 2022-08-01 10:26:12.268807 
+[Session  122] | Expired: 2022-08-01 10:27:12.789268 
+####################--------START PROGRAM---------####################  
+####################  2022-08-01 23:01:18.511425  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-01 23:02:44.297796 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-01 23:04:40.400207 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-01 23:06:29.157241 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-01 23:08:32.649370 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-01 23:10:31.342445 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-01 23:12:20.506953 
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-01 23:15:05.699083 
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-01 23:16:51.194632 
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-01 23:18:38.664270 
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-01 23:20:36.239020 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-01 23:22:28.514283 
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-01 23:24:10.509584 
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-01 23:25:46.179835 
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-01 23:27:32.564197 
+Sessions: 15 | Falied sessions : 0| Expired sessions: 14
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-01 23:29:18.809992 
+Sessions: 16 | Falied sessions : 0| Expired sessions: 15
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-01 23:31:03.237247 
+Sessions: 17 | Falied sessions : 0| Expired sessions: 16
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-01 23:32:43.213782 
+Sessions: 18 | Falied sessions : 0| Expired sessions: 17
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-01 23:34:26.267039 
+Sessions: 19 | Falied sessions : 0| Expired sessions: 18
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-01 23:36:11.157287 
+Sessions: 20 | Falied sessions : 0| Expired sessions: 19
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-01 23:37:52.466537 
+Sessions: 21 | Falied sessions : 0| Expired sessions: 20
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-01 23:39:31.394067 
+Sessions: 22 | Falied sessions : 0| Expired sessions: 21
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-01 23:41:08.460109 
+Sessions: 23 | Falied sessions : 0| Expired sessions: 22
+===================================================================== 
+[Session  23] | Go to last mined page: 2022-08-01 23:43:00.023332 
+Sessions: 24 | Falied sessions : 0| Expired sessions: 23
+===================================================================== 
+[Session  24] | Go to last mined page: 2022-08-01 23:44:43.207835 
+Sessions: 25 | Falied sessions : 0| Expired sessions: 24
+===================================================================== 
+[Session  25] | Go to last mined page: 2022-08-01 23:46:21.141286 
+Sessions: 26 | Falied sessions : 0| Expired sessions: 25
+===================================================================== 
+[Session  26] | Go to last mined page: 2022-08-01 23:48:05.277114 
+Sessions: 27 | Falied sessions : 0| Expired sessions: 26
+===================================================================== 
+[Session  27] | Go to last mined page: 2022-08-01 23:49:48.018879 
+Sessions: 28 | Falied sessions : 0| Expired sessions: 27
+===================================================================== 
+[Session  28] | Go to last mined page: 2022-08-01 23:51:29.798341 
+Sessions: 29 | Falied sessions : 0| Expired sessions: 28
+===================================================================== 
+[Session  29] | Go to last mined page: 2022-08-01 23:53:08.827684 
+Sessions: 30 | Falied sessions : 0| Expired sessions: 29
+===================================================================== 
+[Session  30] | Go to last mined page: 2022-08-01 23:55:00.758109 
+Sessions: 31 | Falied sessions : 0| Expired sessions: 30
+===================================================================== 
+[Session  31] | Go to last mined page: 2022-08-01 23:56:44.002639 
+Sessions: 32 | Falied sessions : 0| Expired sessions: 31
+===================================================================== 
+[Session  32] | Go to last mined page: 2022-08-01 23:58:31.303060 
+Sessions: 33 | Falied sessions : 0| Expired sessions: 32
+===================================================================== 
+[Session  33] | Go to last mined page: 2022-08-02 00:01:05.689383 
+Sessions: 34 | Falied sessions : 0| Expired sessions: 33
+===================================================================== 
+[Session  34] | Go to last mined page: 2022-08-02 00:02:53.564127 
+Sessions: 35 | Falied sessions : 0| Expired sessions: 34
+===================================================================== 
+[Session  35] | Go to last mined page: 2022-08-02 00:04:39.322293 
+Sessions: 36 | Falied sessions : 0| Expired sessions: 35
+===================================================================== 
+[Session  36] | Go to last mined page: 2022-08-02 00:06:27.776215 
+Sessions: 37 | Falied sessions : 0| Expired sessions: 36
+===================================================================== 
+[Session  37] | Go to last mined page: 2022-08-02 00:08:18.222997 
+Sessions: 38 | Falied sessions : 0| Expired sessions: 37
+===================================================================== 
+[Session  38] | Go to last mined page: 2022-08-02 00:10:10.773960 
+Sessions: 39 | Falied sessions : 0| Expired sessions: 38
+===================================================================== 
+[Session  39] | Go to last mined page: 2022-08-02 00:11:48.534513 
+Sessions: 40 | Falied sessions : 0| Expired sessions: 39
+===================================================================== 
+[Session  40] | Go to last mined page: 2022-08-02 00:13:30.694925 
+Sessions: 41 | Falied sessions : 0| Expired sessions: 40
+===================================================================== 
+[Session  41] | Go to last mined page: 2022-08-02 00:15:21.521569 
+Sessions: 42 | Falied sessions : 0| Expired sessions: 41
+===================================================================== 
+[Session  42] | Go to last mined page: 2022-08-02 00:17:17.101851 
+Sessions: 43 | Falied sessions : 0| Expired sessions: 42
+===================================================================== 
+[Session  43] | Go to last mined page: 2022-08-02 00:20:02.818021 
+Sessions: 44 | Falied sessions : 0| Expired sessions: 43
+===================================================================== 
+[Session  44] | Go to last mined page: 2022-08-02 00:26:17.081105 
+Sessions: 45 | Falied sessions : 0| Expired sessions: 44
+===================================================================== 
+[Session  45] | Go to last mined page: 2022-08-02 00:29:45.897812 
+Sessions: 46 | Falied sessions : 0| Expired sessions: 45
+===================================================================== 
+[Session  46] | Go to last mined page: 2022-08-02 00:31:56.872594 
+[Session  46] | Expired: 2022-08-02 00:32:57.464191 
+####################--------START PROGRAM---------####################  
+####################  2022-08-02 23:15:08.183516  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-02 23:16:56.855358 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-02 23:19:10.074126 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-02 23:21:02.851516 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-03 00:07:29.661535 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-03 00:09:41.516856 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-03 00:12:18.880517 
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-03 00:14:33.767065 
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-03 00:16:42.777399 
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-03 00:19:07.523397 
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-03 00:20:50.029816 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-03 00:22:55.366515 
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-03 00:25:07.974533 
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-03 00:27:20.028384 
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-03 00:29:42.993735 
+Sessions: 15 | Falied sessions : 1| Expired sessions: 14
+####################--------START PROGRAM---------####################  
+####################  2022-08-04 00:31:10.302661  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-04 00:32:12.346397 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-04 00:34:06.247554 
+[Session  2] | Resume Mining since page 15997 : 2022-08-04 01:12:24.845198 
+[Session  2] | Start to Mining: 2022-08-04 01:12:25.000906 
+[Session  2] | Expired: 2022-08-04 01:23:36.112185 
+========================= Fail click ===========================
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-04 01:25:19.156847 
+Sessions: 5 | Falied sessions : 1| Expired sessions: 3
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-04 01:27:20.047020 
+Sessions: 6 | Falied sessions : 1| Expired sessions: 4
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-04 01:29:10.164358 
+Sessions: 7 | Falied sessions : 1| Expired sessions: 5
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-04 01:31:04.225198 
+Sessions: 8 | Falied sessions : 1| Expired sessions: 6
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-04 01:32:45.336328 
+Sessions: 9 | Falied sessions : 1| Expired sessions: 7
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-04 01:34:35.121889 
+Sessions: 10 | Falied sessions : 1| Expired sessions: 8
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-04 01:36:16.721009 
+Sessions: 11 | Falied sessions : 1| Expired sessions: 9
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-04 01:37:54.270964 
+Sessions: 12 | Falied sessions : 1| Expired sessions: 10
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-04 01:39:26.660709 
+Sessions: 13 | Falied sessions : 1| Expired sessions: 11
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-04 01:41:06.292268 
+Sessions: 14 | Falied sessions : 1| Expired sessions: 12
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-04 01:42:45.186155 
+Sessions: 15 | Falied sessions : 1| Expired sessions: 13
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-04 01:44:36.925531 
+Sessions: 16 | Falied sessions : 1| Expired sessions: 14
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-04 01:46:25.986591 
+Sessions: 17 | Falied sessions : 1| Expired sessions: 15
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-04 01:48:15.195472 
+Sessions: 18 | Falied sessions : 1| Expired sessions: 16
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-04 01:49:59.554760 
+Sessions: 19 | Falied sessions : 1| Expired sessions: 17
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-04 01:51:46.918345 
+Sessions: 20 | Falied sessions : 1| Expired sessions: 18
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-04 01:53:39.906408 
+Sessions: 21 | Falied sessions : 1| Expired sessions: 19
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-04 01:55:22.815168 
+Sessions: 22 | Falied sessions : 1| Expired sessions: 20
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-04 01:57:09.950322 
+Sessions: 23 | Falied sessions : 1| Expired sessions: 21
+===================================================================== 
+[Session  23] | Go to last mined page: 2022-08-04 01:58:52.420659 
+Sessions: 24 | Falied sessions : 1| Expired sessions: 22
+===================================================================== 
+[Session  24] | Go to last mined page: 2022-08-04 02:00:36.896673 
+Sessions: 25 | Falied sessions : 1| Expired sessions: 23
+===================================================================== 
+[Session  25] | Go to last mined page: 2022-08-04 02:02:23.766306 
+Sessions: 26 | Falied sessions : 1| Expired sessions: 24
+===================================================================== 
+[Session  26] | Go to last mined page: 2022-08-04 02:04:02.197056 
+Sessions: 27 | Falied sessions : 1| Expired sessions: 25
+===================================================================== 
+[Session  27] | Go to last mined page: 2022-08-04 02:05:39.984936 
+[Session  27] | Resume Mining since page 16034 : 2022-08-04 02:35:53.321810 
+[Session  27] | Start to Mining: 2022-08-04 02:35:53.322810 
+[Session  27] | Expired: 2022-08-04 02:55:09.702181 
+========================= Fail click ===========================
+Sessions: 28 | Falied sessions : 1| Expired sessions: 26
+===================================================================== 
+[Session  28] | Go to last mined page: 2022-08-04 02:56:34.807649 
+[Session  28] | Resume Mining since page 16123 : 2022-08-04 03:39:14.251967 
+[Session  28] | Start to Mining: 2022-08-04 03:39:14.251967 
+[Session  28] | Expired: 2022-08-04 03:46:05.178325 
+========================= Fail click ===========================
+Sessions: 29 | Falied sessions : 1| Expired sessions: 27
+===================================================================== 
+[Session  29] | Go to last mined page: 2022-08-04 03:47:31.087934 
+[Session  29] | Resume Mining since page 16141 : 2022-08-04 04:24:17.487413 
+[Session  29] | Start to Mining: 2022-08-04 04:24:17.487413 
+[Session  29] | Expired: 2022-08-04 04:37:01.030159 
+========================= Fail click ===========================
+Sessions: 30 | Falied sessions : 1| Expired sessions: 28
+===================================================================== 
+[Session  30] | Go to last mined page: 2022-08-04 04:38:31.909192 
+[Session  30] | Resume Mining since page 16195 : 2022-08-04 05:14:06.782192 
+[Session  30] | Start to Mining: 2022-08-04 05:14:06.783190 
+[Session  30] | Expired: 2022-08-04 05:28:02.055571 
+========================= Fail click ===========================
+Sessions: 31 | Falied sessions : 1| Expired sessions: 29
+===================================================================== 
+[Session  31] | Go to last mined page: 2022-08-04 05:29:32.141170 
+[Session  31] | Resume Mining since page 16255 : 2022-08-04 06:09:49.001271 
+[Session  31] | Start to Mining: 2022-08-04 06:09:49.001271 
+[Session  31] | Expired: 2022-08-04 06:19:02.229177 
+========================= Fail click ===========================
+Sessions: 32 | Falied sessions : 1| Expired sessions: 30
+===================================================================== 
+[Session  32] | Go to last mined page: 2022-08-04 06:20:27.709307 
+Sessions: 33 | Falied sessions : 1| Expired sessions: 31
+===================================================================== 
+[Session  33] | Go to last mined page: 2022-08-04 06:22:13.604815 
+Sessions: 34 | Falied sessions : 1| Expired sessions: 32
+===================================================================== 
+[Session  34] | Go to last mined page: 2022-08-04 06:23:48.384302 
+Sessions: 35 | Falied sessions : 1| Expired sessions: 33
+===================================================================== 
+[Session  35] | Go to last mined page: 2022-08-04 06:25:27.220341 
+Sessions: 36 | Falied sessions : 1| Expired sessions: 34
+===================================================================== 
+[Session  36] | Go to last mined page: 2022-08-04 06:27:07.157156 
+Sessions: 37 | Falied sessions : 1| Expired sessions: 35
+===================================================================== 
+[Session  37] | Go to last mined page: 2022-08-04 06:28:39.875163 
+Sessions: 38 | Falied sessions : 1| Expired sessions: 36
+===================================================================== 
+[Session  38] | Go to last mined page: 2022-08-04 06:30:15.513608 
+Sessions: 39 | Falied sessions : 1| Expired sessions: 37
+===================================================================== 
+[Session  39] | Go to last mined page: 2022-08-04 06:31:53.079966 
+Sessions: 40 | Falied sessions : 1| Expired sessions: 38
+===================================================================== 
+[Session  40] | Go to last mined page: 2022-08-04 06:33:30.257396 
+Sessions: 41 | Falied sessions : 1| Expired sessions: 39
+===================================================================== 
+[Session  41] | Go to last mined page: 2022-08-04 06:35:06.511516 
+Sessions: 42 | Falied sessions : 1| Expired sessions: 40
+===================================================================== 
+[Session  42] | Go to last mined page: 2022-08-04 06:36:47.001924 
+Sessions: 43 | Falied sessions : 1| Expired sessions: 41
+===================================================================== 
+[Session  43] | Go to last mined page: 2022-08-04 06:38:25.629182 
+Sessions: 44 | Falied sessions : 1| Expired sessions: 42
+===================================================================== 
+[Session  44] | Go to last mined page: 2022-08-04 06:40:04.894571 
+Sessions: 45 | Falied sessions : 1| Expired sessions: 43
+===================================================================== 
+[Session  45] | Go to last mined page: 2022-08-04 06:41:41.329861 
+Sessions: 46 | Falied sessions : 1| Expired sessions: 44
+===================================================================== 
+[Session  46] | Go to last mined page: 2022-08-04 06:43:21.031606 
+Sessions: 47 | Falied sessions : 1| Expired sessions: 45
+===================================================================== 
+[Session  47] | Go to last mined page: 2022-08-04 06:44:59.334866 
+Sessions: 48 | Falied sessions : 1| Expired sessions: 46
+===================================================================== 
+[Session  48] | Go to last mined page: 2022-08-04 06:46:38.235202 
+Sessions: 49 | Falied sessions : 1| Expired sessions: 47
+===================================================================== 
+[Session  49] | Go to last mined page: 2022-08-04 06:48:15.321253 
+Sessions: 50 | Falied sessions : 1| Expired sessions: 48
+===================================================================== 
+[Session  50] | Go to last mined page: 2022-08-04 06:49:52.760174 
+Sessions: 51 | Falied sessions : 1| Expired sessions: 49
+===================================================================== 
+[Session  51] | Go to last mined page: 2022-08-04 06:51:32.535882 
+Sessions: 52 | Falied sessions : 1| Expired sessions: 50
+===================================================================== 
+[Session  52] | Go to last mined page: 2022-08-04 06:53:11.666328 
+Sessions: 53 | Falied sessions : 1| Expired sessions: 51
+===================================================================== 
+[Session  53] | Go to last mined page: 2022-08-04 06:54:57.939369 
+Sessions: 54 | Falied sessions : 1| Expired sessions: 52
+===================================================================== 
+[Session  54] | Go to last mined page: 2022-08-04 06:56:39.744522 
+Sessions: 55 | Falied sessions : 1| Expired sessions: 53
+===================================================================== 
+[Session  55] | Go to last mined page: 2022-08-04 06:58:19.404161 
+Sessions: 56 | Falied sessions : 1| Expired sessions: 54
+===================================================================== 
+[Session  56] | Go to last mined page: 2022-08-04 06:59:55.514457 
+[Session  56] | Resume Mining since page 16278 : 2022-08-04 07:42:04.535815 
+[Session  56] | Start to Mining: 2022-08-04 07:42:04.535815 
+========================= Fail click ===========================
+Sessions: 57 | Falied sessions : 1| Expired sessions: 54
+===================================================================== 
+[Session  57] | Go to last mined page: 2022-08-04 07:43:11.388090 
+Sessions: 58 | Falied sessions : 1| Expired sessions: 55
+===================================================================== 
+[Session  58] | Go to last mined page: 2022-08-04 07:44:43.862380 
+Sessions: 59 | Falied sessions : 1| Expired sessions: 56
+===================================================================== 
+[Session  59] | Go to last mined page: 2022-08-04 07:46:36.419205 
+Sessions: 60 | Falied sessions : 1| Expired sessions: 57
+===================================================================== 
+[Session  60] | Go to last mined page: 2022-08-04 07:48:39.280295 
+Sessions: 61 | Falied sessions : 1| Expired sessions: 58
+===================================================================== 
+[Session  61] | Go to last mined page: 2022-08-04 07:50:37.586255 
+Sessions: 62 | Falied sessions : 1| Expired sessions: 59
+===================================================================== 
+[Session  62] | Go to last mined page: 2022-08-04 07:52:14.299411 
+Sessions: 63 | Falied sessions : 1| Expired sessions: 60
+===================================================================== 
+[Session  63] | Go to last mined page: 2022-08-04 07:53:52.275190 
+Sessions: 64 | Falied sessions : 1| Expired sessions: 61
+===================================================================== 
+[Session  64] | Go to last mined page: 2022-08-04 07:55:27.536947 
+Sessions: 65 | Falied sessions : 1| Expired sessions: 62
+===================================================================== 
+[Session  65] | Go to last mined page: 2022-08-04 07:57:02.314143 
+Sessions: 66 | Falied sessions : 1| Expired sessions: 63
+===================================================================== 
+[Session  66] | Go to last mined page: 2022-08-04 07:58:42.856156 
+Sessions: 67 | Falied sessions : 1| Expired sessions: 64
+===================================================================== 
+[Session  67] | Go to last mined page: 2022-08-04 08:00:36.801946 
+Sessions: 68 | Falied sessions : 1| Expired sessions: 65
+===================================================================== 
+[Session  68] | Go to last mined page: 2022-08-04 08:02:20.293417 
+Sessions: 69 | Falied sessions : 1| Expired sessions: 66
+===================================================================== 
+[Session  69] | Go to last mined page: 2022-08-04 08:03:59.117595 
+Sessions: 70 | Falied sessions : 1| Expired sessions: 67
+===================================================================== 
+[Session  70] | Go to last mined page: 2022-08-04 08:50:28.210019 
+Sessions: 71 | Falied sessions : 1| Expired sessions: 68
+===================================================================== 
+[Session  71] | Go to last mined page: 2022-08-04 08:52:25.387559 
+Sessions: 72 | Falied sessions : 1| Expired sessions: 69
+===================================================================== 
+[Session  72] | Go to last mined page: 2022-08-04 08:54:14.508752 
+Sessions: 73 | Falied sessions : 1| Expired sessions: 70
+===================================================================== 
+[Session  73] | Go to last mined page: 2022-08-04 08:56:15.029870 
+Sessions: 74 | Falied sessions : 1| Expired sessions: 71
+===================================================================== 
+[Session  74] | Go to last mined page: 2022-08-04 08:58:03.735399 
+Sessions: 76 | Falied sessions : 2| Expired sessions: 72
+===================================================================== 
+[Session  76] | Go to last mined page: 2022-08-04 09:00:29.233391 
+Sessions: 77 | Falied sessions : 2| Expired sessions: 73
+===================================================================== 
+[Session  77] | Go to last mined page: 2022-08-04 09:02:25.223415 
+Sessions: 79 | Falied sessions : 3| Expired sessions: 74
+===================================================================== 
+[Session  79] | Go to last mined page: 2022-08-04 09:06:26.914667 
+Sessions: 81 | Falied sessions : 4| Expired sessions: 75
+===================================================================== 
+[Session  81] | Go to last mined page: 2022-08-04 09:10:33.917991 
+Sessions: 82 | Falied sessions : 4| Expired sessions: 76
+===================================================================== 
+[Session  82] | Go to last mined page: 2022-08-04 09:12:40.286200 
+Sessions: 86 | Falied sessions : 7| Expired sessions: 77
+===================================================================== 
+[Session  86] | Go to last mined page: 2022-08-04 09:17:45.461967 
+Sessions: 88 | Falied sessions : 8| Expired sessions: 78
+===================================================================== 
+[Session  88] | Go to last mined page: 2022-08-04 09:20:46.510799 
+Sessions: 89 | Falied sessions : 8| Expired sessions: 79
+===================================================================== 
+[Session  89] | Go to last mined page: 2022-08-04 09:23:08.640412 
+Sessions: 90 | Falied sessions : 8| Expired sessions: 80
+===================================================================== 
+[Session  90] | Go to last mined page: 2022-08-04 09:25:23.953505 
+Sessions: 91 | Falied sessions : 8| Expired sessions: 81
+===================================================================== 
+[Session  91] | Go to last mined page: 2022-08-04 09:27:29.768359 
+Sessions: 92 | Falied sessions : 8| Expired sessions: 82
+===================================================================== 
+[Session  92] | Go to last mined page: 2022-08-04 09:29:16.335664 
+Sessions: 93 | Falied sessions : 8| Expired sessions: 83
+===================================================================== 
+[Session  93] | Go to last mined page: 2022-08-04 09:31:19.824610 
+Sessions: 94 | Falied sessions : 8| Expired sessions: 84
+===================================================================== 
+[Session  94] | Go to last mined page: 2022-08-04 09:33:17.188985 
+Sessions: 95 | Falied sessions : 8| Expired sessions: 85
+===================================================================== 
+[Session  95] | Go to last mined page: 2022-08-04 09:37:10.580481 
+Sessions: 96 | Falied sessions : 8| Expired sessions: 86
+===================================================================== 
+[Session  96] | Go to last mined page: 2022-08-04 09:39:12.690016 
+Sessions: 97 | Falied sessions : 8| Expired sessions: 87
+===================================================================== 
+[Session  97] | Go to last mined page: 2022-08-04 09:41:11.568046 
+Sessions: 98 | Falied sessions : 8| Expired sessions: 88
+===================================================================== 
+[Session  98] | Go to last mined page: 2022-08-04 09:43:04.692319 
+Sessions: 99 | Falied sessions : 8| Expired sessions: 89
+===================================================================== 
+[Session  99] | Go to last mined page: 2022-08-04 09:45:07.189766 
+Sessions: 100 | Falied sessions : 8| Expired sessions: 90
+===================================================================== 
+[Session  100] | Go to last mined page: 2022-08-04 09:47:23.319260 
+Sessions: 101 | Falied sessions : 8| Expired sessions: 91
+===================================================================== 
+[Session  101] | Go to last mined page: 2022-08-04 09:49:16.188327 
+Sessions: 102 | Falied sessions : 8| Expired sessions: 92
+===================================================================== 
+[Session  102] | Go to last mined page: 2022-08-04 09:51:16.500946 
+Sessions: 103 | Falied sessions : 8| Expired sessions: 93
+===================================================================== 
+[Session  103] | Go to last mined page: 2022-08-04 09:53:03.526979 
+Sessions: 104 | Falied sessions : 8| Expired sessions: 94
+===================================================================== 
+[Session  104] | Go to last mined page: 2022-08-04 09:55:12.136838 
+Sessions: 105 | Falied sessions : 8| Expired sessions: 95
+===================================================================== 
+[Session  105] | Go to last mined page: 2022-08-04 09:56:58.271834 
+Sessions: 106 | Falied sessions : 8| Expired sessions: 96
+===================================================================== 
+[Session  106] | Go to last mined page: 2022-08-04 09:59:15.682904 
+Sessions: 108 | Falied sessions : 9| Expired sessions: 97
+===================================================================== 
+[Session  108] | Go to last mined page: 2022-08-04 10:02:09.620074 
+Sessions: 109 | Falied sessions : 9| Expired sessions: 98
+===================================================================== 
+[Session  109] | Go to last mined page: 2022-08-04 10:04:19.348262 
+Sessions: 110 | Falied sessions : 9| Expired sessions: 99
+===================================================================== 
+[Session  110] | Go to last mined page: 2022-08-04 10:06:38.589472 
+Sessions: 111 | Falied sessions : 9| Expired sessions: 100
+===================================================================== 
+[Session  111] | Go to last mined page: 2022-08-04 10:11:15.746973 
+Sessions: 113 | Falied sessions : 10| Expired sessions: 101
+===================================================================== 
+[Session  113] | Go to last mined page: 2022-08-04 10:15:19.582153 
+Sessions: 114 | Falied sessions : 10| Expired sessions: 102
+===================================================================== 
+[Session  114] | Go to last mined page: 2022-08-04 10:18:31.143605 
+Sessions: 115 | Falied sessions : 10| Expired sessions: 103
+===================================================================== 
+[Session  115] | Go to last mined page: 2022-08-04 10:21:48.317600 
+Sessions: 117 | Falied sessions : 11| Expired sessions: 104
+===================================================================== 
+[Session  117] | Go to last mined page: 2022-08-04 10:24:11.095074 
+Sessions: 119 | Falied sessions : 12| Expired sessions: 105
+===================================================================== 
+[Session  119] | Go to last mined page: 2022-08-04 10:28:01.485451 
+Sessions: 120 | Falied sessions : 12| Expired sessions: 106
+===================================================================== 
+[Session  120] | Go to last mined page: 2022-08-04 10:30:04.396029 
+Sessions: 121 | Falied sessions : 12| Expired sessions: 107
+===================================================================== 
+[Session  121] | Go to last mined page: 2022-08-04 10:32:07.404280 
+Sessions: 122 | Falied sessions : 12| Expired sessions: 108
+===================================================================== 
+[Session  122] | Go to last mined page: 2022-08-04 10:34:17.743582 
+Sessions: 123 | Falied sessions : 12| Expired sessions: 109
+===================================================================== 
+[Session  123] | Go to last mined page: 2022-08-04 10:36:11.235831 
+Sessions: 124 | Falied sessions : 12| Expired sessions: 110
+===================================================================== 
+[Session  124] | Go to last mined page: 2022-08-04 10:37:58.333445 
+Sessions: 125 | Falied sessions : 12| Expired sessions: 111
+===================================================================== 
+[Session  125] | Go to last mined page: 2022-08-04 10:40:16.569667 
+Sessions: 127 | Falied sessions : 13| Expired sessions: 112
+===================================================================== 
+[Session  127] | Go to last mined page: 2022-08-04 10:44:38.176254 
+Sessions: 128 | Falied sessions : 13| Expired sessions: 113
+===================================================================== 
+[Session  128] | Go to last mined page: 2022-08-04 10:46:47.098780 
+Sessions: 129 | Falied sessions : 13| Expired sessions: 114
+===================================================================== 
+[Session  129] | Go to last mined page: 2022-08-04 10:50:15.344122 
+Sessions: 131 | Falied sessions : 14| Expired sessions: 115
+===================================================================== 
+[Session  131] | Go to last mined page: 2022-08-04 10:57:19.895183 
+Sessions: 132 | Falied sessions : 14| Expired sessions: 116
+===================================================================== 
+[Session  132] | Go to last mined page: 2022-08-04 10:59:03.699068 
+Sessions: 135 | Falied sessions : 16| Expired sessions: 117
+===================================================================== 
+[Session  135] | Go to last mined page: 2022-08-04 11:07:50.446612 
+Sessions: 136 | Falied sessions : 16| Expired sessions: 118
+===================================================================== 
+[Session  136] | Go to last mined page: 2022-08-04 11:09:49.589443 
+Sessions: 137 | Falied sessions : 16| Expired sessions: 119
+===================================================================== 
+[Session  137] | Go to last mined page: 2022-08-04 11:11:32.029408 
+Sessions: 138 | Falied sessions : 16| Expired sessions: 120
+===================================================================== 
+[Session  138] | Go to last mined page: 2022-08-04 11:13:12.797456 
+Sessions: 139 | Falied sessions : 16| Expired sessions: 121
+===================================================================== 
+[Session  139] | Go to last mined page: 2022-08-04 11:15:04.045648 
+Sessions: 140 | Falied sessions : 16| Expired sessions: 122
+===================================================================== 
+[Session  140] | Go to last mined page: 2022-08-04 11:16:48.511252 
+####################--------START PROGRAM---------####################  
+####################  2022-08-05 00:08:43.919885  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-05 00:09:55.687201 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-05 00:56:16.398532 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-05 00:58:12.508805 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-05 01:00:01.648609 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-05 01:01:59.084072 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-05 01:03:49.625806 
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-05 01:05:39.034101 
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-05 01:07:29.558248 
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-05 01:10:31.622494 
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-05 01:12:07.765619 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-05 01:13:49.193322 
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-05 01:15:32.988906 
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-05 01:17:25.173302 
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-05 01:19:07.037443 
+Sessions: 15 | Falied sessions : 0| Expired sessions: 14
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-05 01:21:06.352320 
+Sessions: 16 | Falied sessions : 0| Expired sessions: 15
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-05 01:22:49.526652 
+Sessions: 17 | Falied sessions : 0| Expired sessions: 16
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-05 01:24:42.065701 
+Sessions: 18 | Falied sessions : 0| Expired sessions: 17
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-05 01:26:22.007405 
+Sessions: 19 | Falied sessions : 0| Expired sessions: 18
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-05 02:13:27.585321 
+Sessions: 20 | Falied sessions : 0| Expired sessions: 19
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-05 03:01:52.222609 
+Sessions: 21 | Falied sessions : 0| Expired sessions: 20
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-05 03:03:27.226608 
+Sessions: 22 | Falied sessions : 0| Expired sessions: 21
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-05 03:05:02.769617 
+Sessions: 23 | Falied sessions : 0| Expired sessions: 22
+===================================================================== 
+[Session  23] | Go to last mined page: 2022-08-05 03:06:33.928830 
+Sessions: 24 | Falied sessions : 0| Expired sessions: 23
+===================================================================== 
+[Session  24] | Go to last mined page: 2022-08-05 03:08:12.888957 
+[Session  24] | Resume Mining since page 16281 : 2022-08-05 03:26:00.494090 
+[Session  24] | Start to Mining: 2022-08-05 03:26:00.495096 
+[Session  24] | Expired: 2022-08-05 03:57:44.390478 
+========================= Fail click ===========================
+Sessions: 25 | Falied sessions : 0| Expired sessions: 24
+===================================================================== 
+[Session  25] | Go to last mined page: 2022-08-05 03:59:10.565476 
+[Session  25] | Resume Mining since page 16394 : 2022-08-05 04:14:37.805609 
+[Session  25] | Start to Mining: 2022-08-05 04:14:37.924605 
+[Session  25] | Expired: 2022-08-05 04:48:42.974735 
+========================= Fail click ===========================
+Sessions: 26 | Falied sessions : 0| Expired sessions: 25
+===================================================================== 
+[Session  26] | Go to last mined page: 2022-08-05 04:50:17.010734 
+####################--------START PROGRAM---------####################  
+####################  2022-08-10 23:57:53.286770  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-10 23:59:07.630778 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-11 00:02:08.693129 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-11 00:04:18.056819 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-11 00:06:10.902200 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-11 00:09:09.568722 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-11 00:11:08.268600 
+[Session  6] | Expired: 2022-08-11 00:12:08.685324 
+####################--------START PROGRAM---------####################  
+####################  2022-08-11 01:08:51.506689  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-11 01:09:38.289594 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-11 01:11:17.202770 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-11 01:12:58.581235 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-11 01:14:35.781102 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-11 01:16:11.700647 
+Sessions: 6 | Falied sessions : 0| Expired sessions: 5
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-11 01:17:44.851923 
+Sessions: 7 | Falied sessions : 0| Expired sessions: 6
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-11 01:19:33.436699 
+Sessions: 8 | Falied sessions : 0| Expired sessions: 7
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-11 01:21:10.209825 
+Sessions: 9 | Falied sessions : 0| Expired sessions: 8
+===================================================================== 
+[Session  9] | Go to last mined page: 2022-08-11 01:22:47.638987 
+Sessions: 10 | Falied sessions : 0| Expired sessions: 9
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-11 01:24:27.526937 
+Sessions: 11 | Falied sessions : 0| Expired sessions: 10
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-11 01:26:03.429698 
+Sessions: 12 | Falied sessions : 0| Expired sessions: 11
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-11 01:27:36.166887 
+Sessions: 13 | Falied sessions : 0| Expired sessions: 12
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-11 01:29:12.024970 
+Sessions: 14 | Falied sessions : 0| Expired sessions: 13
+===================================================================== 
+[Session  14] | Go to last mined page: 2022-08-11 01:30:47.936873 
+Sessions: 15 | Falied sessions : 0| Expired sessions: 14
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-11 01:32:29.204343 
+Sessions: 16 | Falied sessions : 0| Expired sessions: 15
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-11 01:34:05.480116 
+Sessions: 17 | Falied sessions : 0| Expired sessions: 16
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-11 01:35:42.050637 
+Sessions: 18 | Falied sessions : 0| Expired sessions: 17
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-11 01:37:15.926923 
+Sessions: 19 | Falied sessions : 0| Expired sessions: 18
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-11 01:38:50.997470 
+Sessions: 20 | Falied sessions : 0| Expired sessions: 19
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-11 01:40:28.199361 
+Sessions: 21 | Falied sessions : 0| Expired sessions: 20
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-11 01:42:01.293277 
+Sessions: 22 | Falied sessions : 0| Expired sessions: 21
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-11 01:43:33.142012 
+Sessions: 23 | Falied sessions : 0| Expired sessions: 22
+===================================================================== 
+[Session  23] | Go to last mined page: 2022-08-11 01:45:04.357721 
+Sessions: 24 | Falied sessions : 0| Expired sessions: 23
+===================================================================== 
+[Session  24] | Go to last mined page: 2022-08-11 01:46:39.250531 
+Sessions: 25 | Falied sessions : 0| Expired sessions: 24
+===================================================================== 
+[Session  25] | Go to last mined page: 2022-08-11 01:48:11.898001 
+Sessions: 26 | Falied sessions : 0| Expired sessions: 25
+===================================================================== 
+[Session  26] | Go to last mined page: 2022-08-11 01:49:44.072599 
+[Session  26] | Resume Mining since page 16508 : 2022-08-11 02:06:37.385354 
+[Session  26] | Start to Mining: 2022-08-11 02:06:37.385354 
+[Session  26] | Expired: 2022-08-11 02:39:46.472136 
+========================= Fail click ===========================
+Sessions: 27 | Falied sessions : 0| Expired sessions: 26
+===================================================================== 
+[Session  27] | Go to last mined page: 2022-08-11 02:41:14.921074 
+[Session  27] | Resume Mining since page 16644 : 2022-08-11 02:53:41.686691 
+[Session  27] | Start to Mining: 2022-08-11 02:53:41.686691 
+[Session  27] | Expired: 2022-08-11 03:30:46.403597 
+========================= Fail click ===========================
+Sessions: 28 | Falied sessions : 0| Expired sessions: 27
+===================================================================== 
+[Session  28] | Go to last mined page: 2022-08-11 03:32:14.632815 
+[Session  28] | Resume Mining since page 16817 : 2022-08-11 03:44:27.041950 
+[Session  28] | Start to Mining: 2022-08-11 03:44:27.041950 
+[Session  28] | Expired: 2022-08-11 04:22:16.182683 
+========================= Fail click ===========================
+Sessions: 29 | Falied sessions : 0| Expired sessions: 28
+===================================================================== 
+[Session  29] | Go to last mined page: 2022-08-11 04:23:33.982513 
+[Session  29] | Resume Mining since page 16986 : 2022-08-11 04:37:50.339617 
+[Session  29] | Start to Mining: 2022-08-11 04:37:50.340625 
+[Session  29] | Expired: 2022-08-11 05:13:05.005547 
+========================= Fail click ===========================
+Sessions: 30 | Falied sessions : 0| Expired sessions: 29
+===================================================================== 
+[Session  30] | Go to last mined page: 2022-08-11 05:14:25.904972 
+####################--------START PROGRAM---------####################  
+####################  2022-08-18 00:37:13.693792  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-18 00:38:17.875135 
+[Session  1] | Resume Mining since page 17165 : 2022-08-18 00:56:50.003241 
+[Session  1] | Start to Mining: 2022-08-18 00:56:50.003241 
+[Session  1] | Expired: 2022-08-18 01:27:47.782082 
+========================= Fail click ===========================
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-18 01:29:08.781639 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-18 02:15:19.074985 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-18 03:03:30.006777 
+[Session  4] | Resume Mining since page 17292 : 2022-08-18 03:22:34.306270 
+[Session  4] | Start to Mining: 2022-08-18 03:22:34.306270 
+[Session  4] | Expired: 2022-08-18 03:53:01.304200 
+========================= Fail click ===========================
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-18 03:54:20.679958 
+####################--------START PROGRAM---------####################  
+####################  2022-08-18 12:19:36.108059  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-18 12:20:34.797490 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-18 12:22:12.239082 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-18 12:23:57.878096 
+Sessions: 5 | Falied sessions : 1| Expired sessions: 3
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-18 12:27:26.505149 
+Sessions: 6 | Falied sessions : 1| Expired sessions: 4
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-08-18 12:29:19.179497 
+Sessions: 7 | Falied sessions : 1| Expired sessions: 5
+===================================================================== 
+[Session  7] | Go to last mined page: 2022-08-18 12:31:30.210742 
+Sessions: 8 | Falied sessions : 1| Expired sessions: 6
+===================================================================== 
+[Session  8] | Go to last mined page: 2022-08-18 12:34:07.522309 
+Sessions: 10 | Falied sessions : 2| Expired sessions: 7
+===================================================================== 
+[Session  10] | Go to last mined page: 2022-08-18 12:36:11.619350 
+Sessions: 11 | Falied sessions : 2| Expired sessions: 8
+===================================================================== 
+[Session  11] | Go to last mined page: 2022-08-18 12:38:05.582479 
+Sessions: 12 | Falied sessions : 2| Expired sessions: 9
+===================================================================== 
+[Session  12] | Go to last mined page: 2022-08-18 12:40:09.972917 
+Sessions: 13 | Falied sessions : 2| Expired sessions: 10
+===================================================================== 
+[Session  13] | Go to last mined page: 2022-08-18 12:41:56.055064 
+Sessions: 15 | Falied sessions : 3| Expired sessions: 11
+===================================================================== 
+[Session  15] | Go to last mined page: 2022-08-18 12:44:37.114919 
+Sessions: 16 | Falied sessions : 3| Expired sessions: 12
+===================================================================== 
+[Session  16] | Go to last mined page: 2022-08-18 12:46:18.647607 
+Sessions: 17 | Falied sessions : 3| Expired sessions: 13
+===================================================================== 
+[Session  17] | Go to last mined page: 2022-08-18 12:48:14.933595 
+Sessions: 18 | Falied sessions : 3| Expired sessions: 14
+===================================================================== 
+[Session  18] | Go to last mined page: 2022-08-18 12:50:00.535683 
+Sessions: 19 | Falied sessions : 3| Expired sessions: 15
+===================================================================== 
+[Session  19] | Go to last mined page: 2022-08-18 12:52:12.392692 
+Sessions: 20 | Falied sessions : 3| Expired sessions: 16
+===================================================================== 
+[Session  20] | Go to last mined page: 2022-08-18 12:53:52.749643 
+Sessions: 21 | Falied sessions : 3| Expired sessions: 17
+===================================================================== 
+[Session  21] | Go to last mined page: 2022-08-18 12:55:33.420447 
+Sessions: 22 | Falied sessions : 3| Expired sessions: 18
+===================================================================== 
+[Session  22] | Go to last mined page: 2022-08-18 12:57:02.858540 
+####################--------START PROGRAM---------####################  
+####################  2022-08-18 22:01:04.192135  #################### 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-08-18 22:01:37.217106 
+Sessions: 2 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-08-18 22:03:15.540139 
+Sessions: 3 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-08-18 22:05:26.583034 
+Sessions: 4 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-08-18 22:07:13.297817 
+Sessions: 5 | Falied sessions : 0| Expired sessions: 4
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-08-18 22:08:59.479186 
+[Session  5] | Resume Mining since page 17445 : 2022-08-18 22:29:09.341276 
+[Session  5] | Start to Mining: 2022-08-18 22:29:09.342302 
+[Session  5] | End Session: 2022-08-18 22:43:24.561986 
+############################ END PROGRAM ############################

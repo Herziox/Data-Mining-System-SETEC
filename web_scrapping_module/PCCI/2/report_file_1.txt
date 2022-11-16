@@ -1,0 +1,44 @@
+####################--------START PROGRAM---------####################  
+####################  2022-07-30 00:17:16.528389  #################### 
+===================================================================== 
+===================================================================== 
+Sessions: 1 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  1] | Go to last mined page: 2022-07-30 00:17:35.094779 
+[Session  1] | Resume Mining since page 3616 : 2022-07-30 00:29:16.190241 
+[Session  1] | Start to Mining: 2022-07-30 00:29:16.190241 
+========================= Fail click ===========================
+Sessions: 2 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  2] | Go to last mined page: 2022-07-30 00:47:42.922604 
+[Session  2] | Resume Mining since page 3874 : 2022-07-30 00:54:40.268883 
+[Session  2] | Start to Mining: 2022-07-30 00:54:40.269884 
+[Session  2] | Expired: 2022-07-30 01:37:18.323091 
+========================= Fail click ===========================
+Sessions: 3 | Falied sessions : 0| Expired sessions: 1
+===================================================================== 
+[Session  3] | Go to last mined page: 2022-07-30 01:38:16.729850 
+[Session  3] | Resume Mining since page 4201 : 2022-07-30 01:40:55.253206 
+[Session  3] | Start to Mining: 2022-07-30 01:40:55.254208 
+[Session  3] | Expired: 2022-07-30 02:27:48.651346 
+========================= Fail click ===========================
+Sessions: 4 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  4] | Go to last mined page: 2022-07-30 02:28:46.768727 
+[Session  4] | Resume Mining since page 4806 : 2022-07-30 02:32:05.398196 
+[Session  4] | Start to Mining: 2022-07-30 02:32:05.398196 
+========================= Fail click ===========================
+Sessions: 5 | Falied sessions : 0| Expired sessions: 2
+===================================================================== 
+[Session  5] | Go to last mined page: 2022-07-30 03:14:18.846312 
+[Session  5] | Resume Mining since page 5580 : 2022-07-30 03:18:51.918263 
+[Session  5] | Start to Mining: 2022-07-30 03:18:51.919261 
+[Session  5] | Expired: 2022-07-30 04:04:19.835258 
+========================= Fail click ===========================
+Sessions: 6 | Falied sessions : 0| Expired sessions: 3
+===================================================================== 
+[Session  6] | Go to last mined page: 2022-07-30 04:05:19.161665 
+[Session  6] | Resume Mining since page 6465 : 2022-07-30 04:09:39.151150 
+[Session  6] | Start to Mining: 2022-07-30 04:09:39.151150 
+[Session  6] | End Session: 2022-07-30 04:48:39.128238 
+############################ END PROGRAM ############################
