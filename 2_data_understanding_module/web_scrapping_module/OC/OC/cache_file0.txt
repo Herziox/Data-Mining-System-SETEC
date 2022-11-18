@@ -1,5 +1,5 @@
-Shape_data: (1058, 10)
-Page: 28
+Shape_data: (542, 10)
+Page: 29
 Star_Page: 0
-End_Page: 27
-Last session time: 00:07:07.58
+End_Page: 28
+Last session time: 00:07:21.26

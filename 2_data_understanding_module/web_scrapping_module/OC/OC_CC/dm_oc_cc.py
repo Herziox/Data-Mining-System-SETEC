@@ -25,6 +25,7 @@ xpath_BOTTON_NEXT_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_
 xpath_JUMP_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_bottom"]/span/a[10]'
 xpath_TABLE = 'j_idt24:pnlOrganismo:tblDatosTabla_data' 
 xpath_EXPIRED_SESSION = '/html/body/div[2]/div/span[3]'
+xpath_TABLE_CC = 'frmAreaEspecialidadOc:dataTable_data'
 columns = ['RUC_o_Codigo','Razon_Social',	'Nombre_Comercial',	'Telefono',	'Celular',	'Correo_Electronico',	'Numero_Resolucion',	'Fecha_Resolucion',	'Estado', 'Canton']
 
 
@@ -273,6 +274,16 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
         report_file = open("report_file_"+str(id_bot)+".txt", "a")
         report_file.write(f'[Session  {n_session}] | CSV not found: {datetime.now()} \n')
         report_file.close()
+        
+      
+      data_cc = np.zeros((0,7))
+      try:
+        df_cc = pd.read_csv(doc_name+'_cc'+str(id_bot)+'.csv')
+        data_cc = df_cc.values
+      except:
+        report_file = open("report_file_"+str(id_bot)+".txt", "a")
+        report_file.write(f'[Session  {n_session}] | CSV not found: {datetime.now()} \n')
+        report_file.close()
       
 
       #TIME CONTROL
@@ -294,10 +305,88 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
             table_page =[]
             for row in row_data:
               cell = row.find_elements(By.TAG_NAME,'td')
-              reg = [val.text for val in cell]         
-              table_page.append(reg[:-2])
-              detail_id+=1
-            data=np.append(data,np.array(table_page),axis=0)
+              reg = [val.text for val in cell]
+              cc_button = cell[-1].find_element(By.CLASS_NAME,'ui-button-icon-only')
+              #detail_button.click()
+              driver.execute_script('arguments[0].click()',cc_button)
+
+########################################### DATOS DE CURSOS DE CAPACITACION #########################################              
+              condition_cc = False
+              ## GET TABLE HEADER
+              
+              try:
+                driver.find_element(By.ID,xpath_TABLE_CC)
+                condition_cc = True
+              except:
+                condition_cc = False
+                #Pass
+
+              # Capacitación Continua
+              while(condition_cc):
+                
+                try_load_cc = True
+
+                # naeip = Number of Attempts to Extract Information from the Page
+                naeip_cc = 0
+
+                while(try_load_cc):
+                  try:      
+                    table_cc = driver.find_element(By.ID,xpath_TABLE_CC)
+                    row_detail = table_cc.find_elements(By.TAG_NAME,'tr')
+                    table_data_cc = []
+                    for row_d in row_detail:
+                      cell_d = row_d.find_elements(By.TAG_NAME,'td')
+                      reg_d = [val_d.text for val_d in cell_d]
+                      reg_aux = reg[:2]+reg_d
+                      table_data_cc.append(reg_aux)
+                    
+                    data_cc = np.append(data_cc,np.array(table_data_cc),axis=0)
+                    try_load_cc = False
+
+                    
+                  except Exception: 
+                    e = sys.exc_info()[1]
+                    print("Error data CC: ",e.args[0])
+                    if 'no such element' in str(e.args[0]):
+                      print('Datos de CC no encontrados')
+                      condition_cc = False
+                      try_load_cc = False
+                      break
+                    if naeip_cc>=10:
+                      try:
+                        #Check Expired session
+                          span_expired_session = driver.find_element(By.XPATH, '/html/body/div[2]/div/span[3]')
+                          if 'Sesión Caducada' == span_expired_session.text:
+                            n_expired_sessions +=1
+                            expired_session = True
+                            report_file = open("report_file_"+str(id_bot)+".txt", "a")
+                            report_file.write(f'[Session  {n_session}] | Expired: {datetime.now()} \n')
+                            report_file.close()
+                            break
+                      except:
+                          naeip_cc = 0
+                    else:
+                      #print('carga CC ',naeip_cc)
+                      naeip_cc += 1
+                      try_load_cc = True #FIN
+                
+                
+                
+                try:
+                  driver.implicitly_wait(30)
+                  #button_next_page_cc = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH,'//*[@id="frmAreaEspecialidadOc:dataTable_paginator_bottom"]/a[3]')))
+                  button_next_page_cc =  driver.find_element(By.XPATH,'//*[@id="frmAreaEspecialidadOc:dataTable_paginator_bottom"]/a[3]')
+                    
+                  # SAVE INFORMATION ABOUT MINING CC
+                  df_cc = pd.DataFrame(data=data_cc,columns=['documento','razon_social','area','especialidad','curso','modalidad','carga_horaria'])
+                  df_cc.to_csv(doc_name+'_cc'+str(id_bot)+'.csv',index=False)
+                  
+                  button_next_page_cc.click()
+                except Exception: 
+                  e = sys.exc_info()[1]
+                  print("Error data CLICK CC: ",e.args[0])
+                  condition_cc = False
+                  break
                   
             
             try_load = False
@@ -358,7 +447,7 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
       report_file.write(f'[Session  {n_session}] | End Session: {datetime.now()} \n')
       report_file.close()
 
-      save_info(id_bot,doc_name,data,columns,tiempo_data_inicio,tiempo_data_fin,page_number,start_page,final_page)
+      #save_info(id_bot,doc_name,data,columns,tiempo_data_inicio,tiempo_data_fin,page_number,start_page,final_page)
 
       if(page_number<final_page):
         go = True
