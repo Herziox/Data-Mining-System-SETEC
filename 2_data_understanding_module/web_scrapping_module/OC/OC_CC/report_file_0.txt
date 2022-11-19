@@ -94,3 +94,20 @@ Sessions: 4 | Falied sessions : 0| Expired sessions: 0
 ===================================================================== 
 [Session  4] | Go to page 22: 2022-11-18 11:12:18.422047 
 [Session  4] | Resume Mining since page 23 : 2022-11-18 11:12:19.950047 
+========================= Fail click ===========================
+Sessions: 5 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  5] | Go to page 24: 2022-11-18 11:14:14.233967 
+[Session  5] | Resume Mining since page 24 : 2022-11-18 11:14:15.536973 
+========================= Fail click ===========================
+Sessions: 6 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  6] | Go to page 25: 2022-11-18 11:16:12.414373 
+[Session  6] | Resume Mining since page 26 : 2022-11-18 11:16:14.900194 
+========================= Fail click ===========================
+Sessions: 7 | Falied sessions : 0| Expired sessions: 0
+===================================================================== 
+[Session  7] | Go to page 27: 2022-11-18 11:17:52.274347 
+[Session  7] | Resume Mining since page 27 : 2022-11-18 11:17:54.356737 
+[Session  7] | End Session: 2022-11-18 11:18:01.834163 
+############################ END PROGRAM ############################
