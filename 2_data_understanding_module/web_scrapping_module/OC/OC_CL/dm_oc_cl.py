@@ -276,10 +276,10 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
         report_file.close()
         
       
-      data_cc = np.zeros((0,7))
+      data_cl = np.zeros((0,5))
       try:
-        df_cc = pd.read_csv(doc_name+'_cc'+str(id_bot)+'.csv')
-        data_cc = df_cc.values
+        df_cl = pd.read_csv(doc_name+'_cc'+str(id_bot)+'.csv')
+        data_cl = df_cl.values
       except:
         report_file = open("report_file_"+str(id_bot)+".txt", "a")
         report_file.write(f'[Session  {n_session}] | CSV not found: {datetime.now()} \n')
@@ -310,49 +310,53 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
               #detail_button.click()
               driver.execute_script('arguments[0].click()',cc_button)
 
-########################################### DATOS DE CURSOS DE CAPACITACION #########################################              
-              condition_cc = False
+########################################### DATOS DE CUALIFICACIONES LABORALES ###########################################
+              condition_cl = False
               ## GET TABLE HEADER
               
               try:
-                driver.find_element(By.ID,xpath_TABLE_CC)
-                condition_cc = True
-              except:
-                condition_cc = False
-                #Pass
-
+                table_cl = driver.find_element(By.ID,'frmAreaEspecialidadOc:j_idt245_data')
+                condition_cl = True
+              except Exception: 
+                #e = sys.exc_info()[1]
+                #print("Error data HEADER CL: ",e.args[0])
+                condition_cl = False
+              
               # Capacitación Continua
-              while(condition_cc):
+              while(condition_cl):
                 
-                try_load_cc = True
+                try_load_cl = True
 
                 # naeip = Number of Attempts to Extract Information from the Page
-                naeip_cc = 0
+                naeip_cl = 0
 
-                while(try_load_cc):
+                while(try_load_cl):
                   try:      
-                    table_cc = driver.find_element(By.ID,xpath_TABLE_CC)
-                    row_detail = table_cc.find_elements(By.TAG_NAME,'tr')
-                    table_data_cc = []
-                    for row_d in row_detail:
-                      cell_d = row_d.find_elements(By.TAG_NAME,'td')
-                      reg_d = [val_d.text for val_d in cell_d]
-                      reg_aux = reg[:2]+reg_d
-                      table_data_cc.append(reg_aux)
+                    table_cl = driver.find_element(By.ID,'frmAreaEspecialidadOc:j_idt245_data')
+                    row_detail_cl = table_cl.find_elements(By.TAG_NAME,'tr')
+                    table_data_cl = []
+                    for row_cl in row_detail_cl:
+                      cell_cl = row_cl.find_elements(By.TAG_NAME,'td')
+                      reg_cl = [val_cl.text for val_cl in cell_cl]
+                      reg_aux_cl = reg[:2]+reg_cl
+                      table_data_cl.append(reg_aux_cl)
                     
-                    data_cc = np.append(data_cc,np.array(table_data_cc),axis=0)
-                    try_load_cc = False
+                    #print(table_data_cl)
+                    #print(columns_cl)
+                    #input('Paso')
+                    data_cl = np.append(data_cl,np.array(table_data_cl),axis=0)
+                    try_load_cl = False
 
                     
                   except Exception: 
                     e = sys.exc_info()[1]
-                    print("Error data CC: ",e.args[0])
+                    print("Error data CL: ",e.args[0])
                     if 'no such element' in str(e.args[0]):
-                      print('Datos de CC no encontrados')
-                      condition_cc = False
-                      try_load_cc = False
-                      break
-                    if naeip_cc>=10:
+                      print('Datos de CL no encontrados')
+                      condition_cl = False
+                      try_load_cl = False
+                      break 
+                    if naeip_cl>=10:
                       try:
                         #Check Expired session
                           span_expired_session = driver.find_element(By.XPATH, '/html/body/div[2]/div/span[3]')
@@ -364,35 +368,41 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
                             report_file.close()
                             break
                       except:
-                          naeip_cc = 0
+                          naeip_cl = 0
                     else:
-                      #print('carga CC ',naeip_cc)
-                      naeip_cc += 1
-                      try_load_cc = True #FIN
+                      #print('carga CL ',naeip_cl)
+                      naeip_cl += 1
+                      try_load_cl = True #FIN
                 
                 
-                
+
                 try:
+
                   driver.implicitly_wait(30)
-                  #button_next_page_cc = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH,'//*[@id="frmAreaEspecialidadOc:dataTable_paginator_bottom"]/a[3]')))
-                  button_next_page_cc =  driver.find_element(By.XPATH,'//*[@id="frmAreaEspecialidadOc:dataTable_paginator_bottom"]/a[3]')
+                  #button_next_page_cl = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH,'//*[@id="frmAreaEspecialidadOc:j_idt245_paginator_bottom"]/a[3]')))
+                  button_next_page_cl =  driver.find_element(By.XPATH,'//*[@id="frmAreaEspecialidadOc:j_idt245_paginator_bottom"]/a[3]')
                     
-                  # SAVE INFORMATION ABOUT MINING CC
-                  df_cc = pd.DataFrame(data=data_cc,columns=['documento','razon_social','area','especialidad','curso','modalidad','carga_horaria'])
-                  df_cc.to_csv(doc_name+'_cc'+str(id_bot)+'.csv',index=False)
+                  # SAVE INFORMATION ABOUT MINING CL
+                  df_cl = pd.DataFrame(data=data_cl,columns=['documento','razon_social','familia','sector','perfil'])
+                  df_cl.to_csv(doc_name+'_cl'+str(id_bot)+'.csv',index=False)
                   
-                  button_next_page_cc.click()
-                except Exception: 
-                  e = sys.exc_info()[1]
-                  print("Error data CLICK CC: ",e.args[0])
-                  condition_cc = False
+                  button_next_page_cl.click()
+                except:
+                  condition_cl = False
                   break
+                  
+              button_exit = driver.find_element(By.XPATH,'//*[@id="frmAreaEspecialidadOc:j_idt231"]/div[1]/a')  
+              button_exit.click()
+                  
+              
+              table_page.append(reg)
+              detail_id+=1
                   
             
             try_load = False
           
           except Exception:
-            #print(f'Try to read CSV check at {datetime.now()}') 
+            print(f'Try to read CSV check at {datetime.now()}') 
             e = sys.exc_info()[1]
             print("Error data: ",e.args[0])
             if naeip>=10:
