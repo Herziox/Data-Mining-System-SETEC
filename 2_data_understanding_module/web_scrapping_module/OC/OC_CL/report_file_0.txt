@@ -107,3 +107,125 @@ Sessions: 5 | Falied sessions : 3| Expired sessions: 1
 [Session  5] | Check Expired session: 2022-11-21 16:33:09.319115 
 [Session  5] | Check Expired session: 2022-11-21 16:33:20.926633 
 [Session  5] | Check Expired session: 2022-11-21 16:33:28.357436 
+[Session  5] | Check Expired session: 2022-11-21 16:33:39.805541 
+[Session  5] | Check Expired session: 2022-11-21 16:33:50.850080 
+[Session  5] | Check Expired session: 2022-11-21 16:34:01.841278 
+[Session  5] | Check Expired session: 2022-11-21 16:34:08.488798 
+[Session  5] | Check Expired session: 2022-11-21 16:34:19.744114 
+[Session  5] | Check Expired session: 2022-11-21 16:34:33.608234 
+[Session  5] | Check Expired session: 2022-11-21 16:34:43.121425 
+[Session  5] | Check Expired session: 2022-11-21 16:34:57.229260 
+[Session  5] | Check Expired session: 2022-11-21 16:35:05.540165 
+[Session  5] | Check Expired session: 2022-11-21 16:35:15.718399 
+[Session  5] | Check Expired session: 2022-11-21 16:35:24.778579 
+[Session  5] | Check Expired session: 2022-11-21 16:35:36.875240 
+[Session  5] | Check Expired session: 2022-11-21 16:35:50.015540 
+[Session  5] | Check Expired session: 2022-11-21 16:36:02.054283 
+[Session  5] | Check Expired session: 2022-11-21 16:36:12.401238 
+[Session  5] | Check Expired session: 2022-11-21 16:36:23.610886 
+[Session  5] | Check Expired session: 2022-11-21 16:36:34.201700 
+[Session  5] | Check Expired session: 2022-11-21 16:36:48.424909 
+[Session  5] | Check Expired session: 2022-11-21 16:37:02.803231 
+[Session  5] | Check Expired session: 2022-11-21 16:37:10.821634 
+[Session  5] | Check Expired session: 2022-11-21 16:37:17.984426 
+[Session  5] | Check Expired session: 2022-11-21 16:37:25.564673 
+[Session  5] | Check Expired session: 2022-11-21 16:37:38.487047 
+[Session  5] | Check Expired session: 2022-11-21 16:37:44.379984 
+[Session  5] | Check Expired session: 2022-11-21 16:37:54.093258 
+[Session  5] | Check Expired session: 2022-11-21 16:38:06.834580 
+[Session  5] | Check Expired session: 2022-11-21 16:38:14.036625 
+[Session  5] | Check Expired session: 2022-11-21 16:38:20.414709 
+[Session  5] | Check Expired session: 2022-11-21 16:38:30.980552 
+[Session  5] | Check Expired session: 2022-11-21 16:38:43.071087 
+[Session  5] | Check Expired session: 2022-11-21 16:38:53.689199 
+[Session  5] | Check Expired session: 2022-11-21 16:39:01.226618 
+[Session  5] | Check Expired session: 2022-11-21 16:39:09.493504 
+[Session  5] | Check Expired session: 2022-11-21 16:39:24.423177 
+[Session  5] | Check Expired session: 2022-11-21 16:39:38.780588 
+[Session  5] | Check Expired session: 2022-11-21 16:39:52.500129 
+[Session  5] | Check Expired session: 2022-11-21 16:39:59.063540 
+[Session  5] | Check Expired session: 2022-11-21 16:40:07.820316 
+[Session  5] | Check Expired session: 2022-11-21 16:40:18.911985 
+[Session  5] | Check Expired session: 2022-11-21 16:40:25.896901 
+[Session  5] | Check Expired session: 2022-11-21 16:40:32.263940 
+[Session  5] | Check Expired session: 2022-11-21 16:40:38.861276 
+[Session  5] | Check Expired session: 2022-11-21 16:40:44.870799 
+[Session  5] | Check Expired session: 2022-11-21 16:40:53.712509 
+[Session  5] | Check Expired session: 2022-11-21 16:41:00.800315 
+[Session  5] | Check Expired session: 2022-11-21 16:41:09.850653 
+[Session  5] | Check Expired session: 2022-11-21 16:41:16.756960 
+[Session  5] | Check Expired session: 2022-11-21 16:41:25.537071 
+[Session  5] | Check Expired session: 2022-11-21 16:50:02.212806 
+[Session  5] | Check Expired session: 2022-11-21 16:50:12.013097 
+[Session  5] | Check Expired session: 2022-11-21 16:50:20.990528 
+[Session  5] | Check Expired session: 2022-11-21 16:50:27.212839 
+[Session  5] | Check Expired session: 2022-11-21 16:50:35.271180 
+[Session  5] | Check Expired session: 2022-11-21 16:50:43.017299 
+[Session  5] | Check Expired session: 2022-11-21 16:50:51.047352 
+[Session  5] | Check Expired session: 2022-11-21 16:50:59.055798 
+[Session  5] | Check Expired session: 2022-11-21 16:51:05.768764 
+[Session  5] | Check Expired session: 2022-11-21 16:51:11.802648 
+[Session  5] | Check Expired session: 2022-11-21 16:51:21.187156 
+[Session  5] | Check Expired session: 2022-11-21 16:51:29.131157 
+[Session  5] | Check Expired session: 2022-11-21 16:51:35.311927 
+[Session  5] | Check Expired session: 2022-11-21 16:51:41.983251 
+[Session  5] | Check Expired session: 2022-11-21 16:51:48.675642 
+[Session  5] | Check Expired session: 2022-11-21 16:51:56.298110 
+[Session  5] | Check Expired session: 2022-11-21 16:52:04.470352 
+[Session  5] | Check Expired session: 2022-11-21 16:52:14.658633 
+[Session  5] | Check Expired session: 2022-11-21 16:52:20.699347 
+[Session  5] | Check Expired session: 2022-11-21 16:52:26.884918 
+[Session  5] | Check Expired session: 2022-11-21 16:52:35.484706 
+[Session  5] | Check Expired session: 2022-11-21 16:52:41.562601 
+[Session  5] | Check Expired session: 2022-11-21 16:52:47.491673 
+[Session  5] | Check Expired session: 2022-11-21 16:52:55.677724 
+[Session  5] | Check Expired session: 2022-11-21 16:53:01.506967 
+[Session  5] | Check Expired session: 2022-11-21 16:53:10.185887 
+[Session  5] | Check Expired session: 2022-11-21 16:53:16.763727 
+[Session  5] | Check Expired session: 2022-11-21 16:53:24.997181 
+[Session  5] | Check Expired session: 2022-11-21 16:53:34.237095 
+[Session  5] | Check Expired session: 2022-11-21 16:53:40.754037 
+[Session  5] | Check Expired session: 2022-11-21 16:53:48.327312 
+[Session  5] | Check Expired session: 2022-11-21 16:53:56.895313 
+[Session  5] | Check Expired session: 2022-11-21 16:54:02.997030 
+[Session  5] | Check Expired session: 2022-11-21 16:54:10.147703 
+[Session  5] | Check Expired session: 2022-11-21 16:54:16.002764 
+[Session  5] | Check Expired session: 2022-11-21 16:54:21.872597 
+[Session  5] | Check Expired session: 2022-11-21 16:54:28.228128 
+[Session  5] | Check Expired session: 2022-11-21 16:54:34.117830 
+[Session  5] | Check Expired session: 2022-11-21 16:54:40.369269 
+[Session  5] | Check Expired session: 2022-11-21 16:54:47.881132 
+[Session  5] | Check Expired session: 2022-11-21 16:54:55.371449 
+[Session  5] | Check Expired session: 2022-11-21 16:55:02.977247 
+[Session  5] | Check Expired session: 2022-11-21 16:55:10.454011 
+[Session  5] | Check Expired session: 2022-11-21 16:55:18.471461 
+[Session  5] | Check Expired session: 2022-11-21 16:55:25.435229 
+[Session  5] | Check Expired session: 2022-11-21 16:55:34.257788 
+[Session  5] | Check Expired session: 2022-11-21 16:55:41.467715 
+[Session  5] | Check Expired session: 2022-11-21 16:55:48.336045 
+[Session  5] | Check Expired session: 2022-11-21 16:55:55.872747 
+[Session  5] | Check Expired session: 2022-11-21 16:56:02.513967 
+[Session  5] | Check Expired session: 2022-11-21 16:56:10.554202 
+[Session  5] | Check Expired session: 2022-11-21 16:56:16.766973 
+[Session  5] | Check Expired session: 2022-11-21 16:56:23.469616 
+[Session  5] | Check Expired session: 2022-11-21 16:56:31.227588 
+[Session  5] | Check Expired session: 2022-11-21 16:56:37.533905 
+[Session  5] | Check Expired session: 2022-11-21 16:56:44.406773 
+[Session  5] | Check Expired session: 2022-11-21 16:56:50.405538 
+[Session  5] | Check Expired session: 2022-11-21 16:56:59.671262 
+[Session  5] | Check Expired session: 2022-11-21 16:57:06.230080 
+[Session  5] | Check Expired session: 2022-11-21 16:57:13.330391 
+Sessions: 6 | Falied sessions : 3| Expired sessions: 2
+===================================================================== 
+[Session  6] | Go to page 19: 2022-11-21 16:59:04.135585 
+[Session  6] | Resume Mining since page 19 : 2022-11-21 16:59:04.921038 
+[Session  6] | CSV not found: 2022-11-21 16:59:06.163864 
+[Session  6] | Expired: 2022-11-21 17:49:17.695198 
+========================= Fail click ===========================
+Sessions: 7 | Falied sessions : 3| Expired sessions: 3
+===================================================================== 
+[Session  7] | Go to page 25: 2022-11-21 17:50:13.391681 
+[Session  7] | Resume Mining since page 25 : 2022-11-21 17:50:14.730782 
+[Session  7] | CSV not found: 2022-11-21 17:50:15.744765 
+[Session  7] | End Session: 2022-11-21 18:15:23.848066 
+############################ END PROGRAM ############################
