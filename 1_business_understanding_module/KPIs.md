@@ -1,16 +1,18 @@
 # KPIS
 ## KPIs OC
 
-1	Número de personas capacitadas OC de un curso/perfil por Razón social
-2	Número de personas capacitadas OC de un curso/perfil por Área
-3	Número de personas capacitadas OC de un curso/perfil por Familia
-4	Número de personas capacitadas OC de un curso/perfil por Especialidad
-5	Número de personas capacitadas OC de un curso/perfil por Sector
-6	Número de personas capacitadas OC de un curso/perfil por Modalidad
-7	Número de personas capacitadas OC de un curso/perfil por Carga Horaria
-8	Número de personas capacitadas OC de un curso/perfil por Cantón
-9	Número de personas capacitadas OC de un curso/perfil por Provincia
-10	Número de personas capacitadas OC de un curso/perfil por Año
+1	Número de personas capacitadas OC por curso/perfil por Razón social
+2	Número de personas capacitadas OC por curso/perfil por Área
+3	Número de personas capacitadas OC por curso/perfil por Familia
+4	Número de personas capacitadas OC por curso/perfil por Especialidad
+5	Número de personas capacitadas OC por curso/perfil por Sector
+6	Número de personas capacitadas OC por curso/perfil por Modalidad
+7	Número de personas capacitadas OC por curso/perfil por Carga Horaria
+8	Número de personas capacitadas OC por curso/perfil por Cantón
+9	Número de personas capacitadas OC por curso/perfil por Provincia
+10	Número de personas capacitadas OC por curso/perfil por Año
+
+
 
 
 ## KPIs OEC
