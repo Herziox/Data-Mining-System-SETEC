@@ -70,6 +70,11 @@ df_razon_social_oc = pd.merge(df_razon_social_oc,df_ubicacion,on='canton',how="l
 df_razon_social_oc.pop('id_ubicacion')
 df_razon_social_oc = df_razon_social_oc.fillna({'provincia':'Sin Provincia','Provincia':'Sin Provincia'})
 df_razon_social_oc = df_razon_social_oc.rename_axis('id_oc').reset_index().astype('object')
+
+
+# In[ ]:
+
+
 #df_razon_social_oc.info()
 
 
@@ -98,14 +103,19 @@ df_oc_cc.pop('documento')
 df_oc_cc['tipo'] = 'curso'
 
 
-# In[38]:
+# In[ ]:
 
 
 data_curso_perfil = np.concatenate((df_oc_cc.values,df_oc_cl.values), axis=0)
 df_curso_perfil = pd.DataFrame(data=data_curso_perfil,columns=['razon_social','area_familia','especialidad_sector','curso_perfil','modalidad','carga_horaria','tipo'])
 df_curso_perfil.insert(0,'tipo',df_curso_perfil.pop('tipo'))
 df_curso_perfil = df_curso_perfil.rename_axis('id_curso_perfil').reset_index().astype('object')
-#df_curso_perfil.info()
+
+
+# In[ ]:
+
+
+# df_curso_perfil.info()
 
 
 # In[39]:
@@ -173,9 +183,9 @@ df_pcoc = df_pcoc.drop(['Razon_Social','Fecha_Resolucion'],axis=1)
 
 
 
-df_fecha = pd.DataFrame(data=df_pcoc['anio'].unique(),columns=['anio'])
-df_fecha = df_fecha.rename_axis('id_fecha').reset_index().astype('object')
-df_fecha.to_csv(os.path.join(path_datawarehouse,path_datamart_oc,'dim_fecha.csv'),index=False)
+df_fecha_oc = pd.DataFrame(data=df_pcoc['anio'].unique(),columns=['anio'])
+df_fecha_oc = df_fecha_oc.rename_axis('id_fecha').reset_index().astype('object')
+df_fecha_oc.to_csv(os.path.join(path_datawarehouse,path_datamart_oc,'dim_fecha.csv'),index=False)
 
 
 # In[49]:
@@ -186,7 +196,7 @@ df_fact_oc = df_pcoc.groupby(['Razon_Social_OC','Nombre_Curso_Perfil','anio']).c
 df_fact_oc = df_fact_oc.rename(columns={'Numero_Documento':'num_cap_cer'})
 df_fact_oc = pd.merge(df_fact_oc,df_razon_social_oc,left_on=['Razon_Social_OC'],right_on=['nombre'],how="left")
 df_fact_oc = pd.merge(df_fact_oc,df_curso_perfil,left_on=['Razon_Social_OC','Nombre_Curso_Perfil'],right_on=['razon_social','curso_perfil'],how="left")
-df_fact_oc = pd.merge(df_fact_oc,df_fecha,left_on=['anio'],right_on=['anio'],how="left")
+df_fact_oc = pd.merge(df_fact_oc,df_fecha_oc,left_on=['anio'],right_on=['anio'],how="left")
 df_fact_oc = df_fact_oc[['id_oc','id_curso_perfil','id_fecha','num_cap_cer']]
 
 
@@ -205,13 +215,9 @@ df_fact_oc.to_csv(os.path.join(path_datawarehouse,path_datamart_oc,'fact_oc.csv'
 
 # # Dataframe OEC
 
-# In[ ]:
-
-
-
 # ### Dimensión Razon Social OEC
 
-# In[136]:
+# In[ ]:
 
 
 df_oec_2 = pd.read_csv(os.path.join(path,'oec_dl_provincia_canton.csv'))
@@ -227,6 +233,11 @@ df_razon_social_oec.pop('id_ubicacion')
 df_razon_social_oec = df_razon_social_oec.fillna({'provincia':'Sin Provincia'})
 df_razon_social_oec = df_razon_social_oec.drop_duplicates(subset=['razon_social'], keep='first')
 df_razon_social_oec = df_razon_social_oec.rename_axis('id_oec').reset_index().astype('object')
+
+
+# In[ ]:
+
+
 #df_razon_social_oec.info()
 
 
@@ -238,12 +249,17 @@ df_razon_social_oec.to_csv(os.path.join(path_datawarehouse,path_datamart_oec,'di
 
 # ### Dimension Perfil
 
-# In[134]:
+# In[ ]:
 
 
 df_perfil = pd.read_csv(os.path.join(path,'oec_dl_familia_sector_perfil.csv'))
 df_perfil = df_perfil.rename(columns={'Nombre':'razon_social','Familia':'familia','Sector':'sector','Perfil':'perfil'})
 df_perfil = df_perfil.rename_axis('id_perfil').reset_index().astype('object')
+
+
+# In[ ]:
+
+
 #df_perfil.info()
 
 
@@ -266,34 +282,44 @@ df_demanda_oec = pd.merge(df_demanda_oec,df_razon_social_oec,left_on=['OEC'],rig
 
 # ## Dimension Fecha
 
-# In[150]:
+# In[ ]:
 
 
-df_fecha = df_demanda_oec['Fecha_Certificacion'].drop_duplicates()
-df_fecha = df_fecha.rename_axis('id_fecha').reset_index().astype('object')
-data_fecha = df_fecha['Fecha_Certificacion'].str.rsplit("-", expand=True)
-df_fecha = pd.concat([df_fecha,data_fecha],axis=1)
-df_fecha = df_fecha.rename(columns={0:'dia',1:'mes',2:'año'})
-#df_fecha.info()
+df_fecha_oec = df_demanda_oec['Fecha_Certificacion'].drop_duplicates()
+df_fecha_oec = df_fecha_oec.rename_axis('id_fecha').reset_index().astype('object')
+data_fecha = df_fecha_oec['Fecha_Certificacion'].str.rsplit("-", expand=True)
+df_fecha_oec = pd.concat([df_fecha_oec,data_fecha],axis=1)
+df_fecha_oec = df_fecha_oec.rename(columns={0:'dia',1:'mes',2:'año'})
 
 
-# In[151]:
+# In[ ]:
+
+
+#df_fecha_oec.info()
+
+
+# In[ ]:
 
 
 df_demanda_oec = df_pcoec.groupby(['OEC','Perfil','Fecha_Certificacion']).count().reset_index().iloc[:,:4]
 df_demanda_oec = df_demanda_oec.rename(columns={'Nombres':'num_cer'})
 df_demanda_oec = pd.merge(df_demanda_oec,df_razon_social_oec,left_on=['OEC'],right_on=['razon_social'],how="left")
 df_demanda_oec = pd.merge(df_demanda_oec,df_perfil,left_on=['OEC','Perfil'],right_on=['razon_social','perfil'],how="left")
-df_demanda_oec = pd.merge(df_demanda_oec,df_fecha,left_on=['Fecha_Certificacion'],right_on=['Fecha_Certificacion'],how="left")
+df_demanda_oec = pd.merge(df_demanda_oec,df_fecha_oec,left_on=['Fecha_Certificacion'],right_on=['Fecha_Certificacion'],how="left")
 df_demanda_oec = df_demanda_oec[['id_oec','id_perfil','id_fecha','num_cer']]
+
+
+# In[ ]:
+
+
 #df_demanda_oec.info()
 
 
 # In[152]:
 
 
-df_fecha = df_fecha.drop('Fecha_Certificacion',axis=1)
-df_fecha.to_csv(os.path.join(path_datawarehouse,path_datamart_oec,'dim_fecha.csv'),index=False)
+df_fecha_oec = df_fecha_oec.drop('Fecha_Certificacion',axis=1)
+df_fecha_oec.to_csv(os.path.join(path_datawarehouse,path_datamart_oec,'dim_fecha.csv'),index=False)
 
 
 # In[154]:
@@ -303,11 +329,6 @@ df_demanda_oec.to_csv(os.path.join(path_datawarehouse,path_datamart_oec,'fact_oe
 
 
 # # Dataframe CI
-
-# In[45]:
-
-
-
 
 # ## Dimensión Capacitador independiente
 
@@ -327,15 +348,19 @@ df_capacitador_ci = df_capacitador_ci.rename(columns={'Provincia':'provincia','C
 df_capacitador_ci = df_capacitador_ci.fillna({'provincia':'Sin Provincia','canton':'Sin Canton'})
 df_capacitador_ci['anio'] = df_capacitador_ci['codigo_resolucion'].apply(get_year)
 df_capacitador_ci  = df_capacitador_ci.rename_axis('id_ci').reset_index().astype('object')
-#df_capacitador_ci.info()
 
 
-# In[109]:
+# In[ ]:
 
 
-df_fecha = pd.DataFrame(data=df_capacitador_ci['anio'].unique(),columns=['anio'])
-df_fecha = df_fecha.rename_axis('id_fecha').reset_index().astype('object')
-df_fecha
+# df_capacitador_ci.info()
+
+
+# In[ ]:
+
+
+df_fecha_ci = pd.DataFrame(data=df_capacitador_ci['anio'].unique(),columns=['anio'])
+df_fecha_ci = df_fecha_ci.rename_axis('id_fecha').reset_index().astype('object')
 
 
 # ## Dimensión Curso
@@ -346,12 +371,17 @@ df_fecha
 df_ci_lca = pd.read_csv(os.path.join(path,'ci_lca.csv'))
 df_ci_lca = df_ci_lca.rename(columns={'Nombre_Curso':'curso','Area':'area','Especialidad':'especialidad','Carga Horaria':'carga_horaria'})
 df_ci_lca =  df_ci_lca.rename_axis('id_curso').reset_index().astype('object')
+
+
+# In[ ]:
+
+
 #df_ci_lca.info()
 
 
 # ## Hechos CI
 
-# In[131]:
+# In[ ]:
 
 
 df_pcci = pd.read_csv(os.path.join(path,'pcci.csv'))
@@ -360,9 +390,14 @@ df_pcci = df_pcci.groupby(['Instructor_Capacitador','Nombre_Curso','anio']).coun
 df_pcci = df_pcci.rename(columns={'Numero_Documento':'num_cap'})
 
 df_pcci = pd.merge(df_pcci,df_ci_lca,left_on=['Instructor_Capacitador','Nombre_Curso'],right_on=['Apellidos_Nombres','curso'],how="left")
-df_pcci = pd.merge(df_pcci,df_fecha,left_on=['anio'],right_on=['anio'],how="left")
+df_pcci = pd.merge(df_pcci,df_fecha_ci,left_on=['anio'],right_on=['anio'],how="left")
 df_pcci = pd.merge(df_pcci,df_capacitador_ci,left_on=['Instructor_Capacitador'],right_on=['razon_social'],how="left")
 fact_ci = df_pcci[['id_ci','id_curso','id_fecha','num_cap']]
+
+
+# In[ ]:
+
+
 #fact_ci.info()
 
 
@@ -372,6 +407,6 @@ fact_ci = df_pcci[['id_ci','id_curso','id_fecha','num_cap']]
 df_ci_lca = df_ci_lca.drop(['Numero_Documento', 'Apellidos_Nombres'],axis=1)
 df_ci_lca.to_csv(os.path.join(path_datawarehouse,path_datamart_ci,'dim_curso.csv'),index=False)
 df_capacitador_ci.to_csv(os.path.join(path_datawarehouse,path_datamart_ci,'dim_capacitador_independiente.csv'),index=False)
-df_fecha.to_csv(os.path.join(path_datawarehouse,path_datamart_ci,'dim_fecha.csv'),index=False)
+df_fecha_ci.to_csv(os.path.join(path_datawarehouse,path_datamart_ci,'dim_fecha.csv'),index=False)
 fact_ci.to_csv(os.path.join(path_datawarehouse,path_datamart_ci,'fact_ci.csv'),index=False)
 
