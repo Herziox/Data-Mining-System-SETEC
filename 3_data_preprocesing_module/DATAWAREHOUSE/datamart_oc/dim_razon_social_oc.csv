@@ -1,546 +1,546 @@
-id_oc,nombre,estado,canton,provincia
-0,mogrovejo narvaez jhoni william,calificado,cuenca,sin provincia
-1,capacitación y consultoría de empresas kappaconsulting s.a.,calificado,guayaquil,sin provincia
-2,torres klinger gianni alan,calificado,daule,sin provincia
-3,mauricio arroyo consultores y asociados cia. ltda.,calificado,quito,sin provincia
-4,baldeon quishpe paul enrique,calificado,santo domingo,sin provincia
-5,valdez macias luis alfredo,calificado,guayaquil,sin provincia
-6,chachapoya cachiguango freddy bayardo,calificado,ibarra,sin provincia
-7,instituto de formacion academica proezas insformac s.a.,calificado,guayaquil,sin provincia
-8,panchana san lucas yulafin elizabeth,calificado,guayaquil,sin provincia
-9,chernes chiriguayo meibol tatiana,calificado,babahoyo,sin provincia
-10,stanford,calificado,quito,sin provincia
-11,klavempresarial compañia anonima,calificado,quito,sin provincia
-12,vallejos cupueran jorge ernesto,calificado,quito,sin provincia
-13,fundacion criterium,calificado,quito,sin provincia
-14,proevaluation de el oro proevor cia ltda,calificado,machala,sin provincia
-15,merino gomez adriana karina,calificado,rumiñahui,sin provincia
-16,canon sanchez angie johanna,calificado,manta,sin provincia
-17,castillo ruilova vanessa alejandra,calificado,quito,sin provincia
-18,centro de capacitacion experto contable y tributario,calificado,quito,sin provincia
-19,cueva mogrovejo myriam elizabeth,calificado,quito,sin provincia
-20,bravo intriago annabell cristina,calificado,quito,sin provincia
-21,la escuela de los chefs servichefs s.a.,calificado,guayaquil,sin provincia
-22,pazmiño rivera mayra elizabeth,calificado,ambato,sin provincia
-23,instituto superior tecnológico nelsón torres,calificado,cayambe,sin provincia
-24,federacion nacional de ecuatorianos con discapacidad fisica fenedif,calificado,quito,sin provincia
-25,ramirez chinlli edwin javier,calificado,riobamba,sin provincia
-26,calles jimenez veronica gabriela,calificado,riobamba,sin provincia
-27,sbsmorrigan s.a.,calificado,quito,sin provincia
-28,fernandez cando diego alejandro,calificado,loja,sin provincia
-29,isoserv consultores y servicios cia ltda,calificado,quito,sin provincia
-30,rueda fierro walter santiago,calificado,quito,sin provincia
-31,fundación dolores sopeña,calificado,quito,sin provincia
-32,fundacion sororidad ecuador,calificado,quito,sin provincia
-33,"reybanpac, rey banano del pacifico c.l.",calificado,guayaquil,sin provincia
-34,corporacion de promocion economica conquito,calificado,quito,sin provincia
-35,moncayo ortiz dennis jose,calificado,quito,sin provincia
-36,cevallos villegas paulo cesar,calificado,ibarra,sin provincia
-37,instituto tecnologico superior cenestur,calificado,quito,sin provincia
-38,universidad tecnologica empresarial de guayaquil - uteg,calificado,guayaquil,sin provincia
-39,nuñez castro amanda maricela,calificado,ambato,sin provincia
-40,ministerio de produccion comercio exterior inversiones y pesca,calificado,quito,sin provincia
-41,instituto superior tecnológico luis rogerio gonzález,calificado,azogues,sin provincia
-42,andrade vintimilla julio fernando,calificado,quito,sin provincia
-43,oyaque mora julio mauricio,calificado,ambato,sin provincia
-44,villarreal morales tatiana jeanneth,calificado,pastaza,sin provincia
-45,instituto superior tecnológico cotacachi,calificado,cotacachi,sin provincia
-46,cartagena garces jennyfer estefania,calificado,quito,sin provincia
-47,servicio integrado de seguridad ecu 911,calificado,quito,sin provincia
-48,novoa guanuchi carlos alberto,calificado,quito,sin provincia
-49,noboa vargas sandra cecilia,calificado,quito,sin provincia
-50,formacion de capacitacion empresarial fecaee s.a,calificado,santo domingo,sin provincia
-51,"administrativa, ambiental, financiera, legal guadamud&giler consultconfianza s.a.",calificado,portoviejo,sin provincia
-52,universidad catolica de santiago de guayaquil,calificado,colimes,sin provincia
-53,compañia de enseñanza martillo saa s.a. martisaa,calificado,guayaquil,sin provincia
-54,romero soriano juan lorenzo xavier,calificado,guayaquil,sin provincia
-55,hidalgo santander edgar arturo,calificado,quito,sin provincia
-56,capacitacion profesional geniusec cia.ltda.,calificado,quito,sin provincia
-57,legal coach legal-coach-c&a cia.ltda.,calificado,latacunga,sin provincia
-58,fundacion tainate huasi,calificado,cayambe,sin provincia
-59,tutiven fuentes lider gaston,calificado,guayaquil,sin provincia
-60,alban vazquez s.c.c.,calificado,quito,sin provincia
-61,corporacion nacional de telecomunicaciones - cnt ep,calificado,quito,sin provincia
-62,factor integral social ecuatoriano fialser s.a.,calificado,quito,sin provincia
-63,borniatti sega margareth isabel,calificado,quito,sin provincia
-64,luzuriaga leon leonardo miguel,calificado,loja,sin provincia
+id_oc,razon_social,estado,canton,provincia
+0,mogrovejo narvaez jhoni william,calificado,cuenca,azuay
+1,capacitación y consultoría de empresas kappaconsulting s.a.,calificado,guayaquil,guayas
+2,torres klinger gianni alan,calificado,daule,guayas
+3,mauricio arroyo consultores y asociados cia. ltda.,calificado,quito,pichincha
+4,baldeon quishpe paul enrique,calificado,santo domingo,santo domingo de los tsachilas
+5,valdez macias luis alfredo,calificado,guayaquil,guayas
+6,chachapoya cachiguango freddy bayardo,calificado,ibarra,imbabura
+7,instituto de formacion academica proezas insformac s.a.,calificado,guayaquil,guayas
+8,panchana san lucas yulafin elizabeth,calificado,guayaquil,guayas
+9,chernes chiriguayo meibol tatiana,calificado,babahoyo,los rios
+10,stanford,calificado,quito,pichincha
+11,klavempresarial compañia anonima,calificado,quito,pichincha
+12,vallejos cupueran jorge ernesto,calificado,quito,pichincha
+13,fundacion criterium,calificado,quito,pichincha
+14,proevaluation de el oro proevor cia ltda,calificado,machala,el oro
+15,merino gomez adriana karina,calificado,rumiñahui,pichincha
+16,canon sanchez angie johanna,calificado,manta,manabi
+17,castillo ruilova vanessa alejandra,calificado,quito,pichincha
+18,centro de capacitacion experto contable y tributario,calificado,quito,pichincha
+19,cueva mogrovejo myriam elizabeth,calificado,quito,pichincha
+20,bravo intriago annabell cristina,calificado,quito,pichincha
+21,la escuela de los chefs servichefs s.a.,calificado,guayaquil,guayas
+22,pazmiño rivera mayra elizabeth,calificado,ambato,tungurahua
+23,instituto superior tecnológico nelsón torres,calificado,cayambe,pichincha
+24,federacion nacional de ecuatorianos con discapacidad fisica fenedif,calificado,quito,pichincha
+25,ramirez chinlli edwin javier,calificado,riobamba,chimborazo
+26,calles jimenez veronica gabriela,calificado,riobamba,chimborazo
+27,sbsmorrigan s.a.,calificado,quito,pichincha
+28,fernandez cando diego alejandro,calificado,loja,loja
+29,isoserv consultores y servicios cia ltda,calificado,quito,pichincha
+30,rueda fierro walter santiago,calificado,quito,pichincha
+31,fundación dolores sopeña,calificado,quito,pichincha
+32,fundacion sororidad ecuador,calificado,quito,pichincha
+33,"reybanpac, rey banano del pacifico c.l.",calificado,guayaquil,guayas
+34,corporacion de promocion economica conquito,calificado,quito,pichincha
+35,moncayo ortiz dennis jose,calificado,quito,pichincha
+36,cevallos villegas paulo cesar,calificado,ibarra,imbabura
+37,instituto tecnologico superior cenestur,calificado,quito,pichincha
+38,universidad tecnologica empresarial de guayaquil - uteg,calificado,guayaquil,guayas
+39,nuñez castro amanda maricela,calificado,ambato,tungurahua
+40,ministerio de produccion comercio exterior inversiones y pesca,calificado,quito,pichincha
+41,instituto superior tecnológico luis rogerio gonzález,calificado,azogues,cañar
+42,andrade vintimilla julio fernando,calificado,quito,pichincha
+43,oyaque mora julio mauricio,calificado,ambato,tungurahua
+44,villarreal morales tatiana jeanneth,calificado,pastaza,pastaza
+45,instituto superior tecnológico cotacachi,calificado,cotacachi,imbabura
+46,cartagena garces jennyfer estefania,calificado,quito,pichincha
+47,servicio integrado de seguridad ecu 911,calificado,quito,pichincha
+48,novoa guanuchi carlos alberto,calificado,quito,pichincha
+49,noboa vargas sandra cecilia,calificado,quito,pichincha
+50,formacion de capacitacion empresarial fecaee s.a,calificado,santo domingo,santo domingo de los tsachilas
+51,"administrativa, ambiental, financiera, legal guadamud&giler consultconfianza s.a.",calificado,portoviejo,manabi
+52,universidad catolica de santiago de guayaquil,calificado,colimes,guayas
+53,compañia de enseñanza martillo saa s.a. martisaa,calificado,guayaquil,guayas
+54,romero soriano juan lorenzo xavier,calificado,guayaquil,guayas
+55,hidalgo santander edgar arturo,calificado,quito,pichincha
+56,capacitacion profesional geniusec cia.ltda.,calificado,quito,pichincha
+57,legal coach legal-coach-c&a cia.ltda.,calificado,latacunga,cotopaxi
+58,fundacion tainate huasi,calificado,cayambe,pichincha
+59,tutiven fuentes lider gaston,calificado,guayaquil,guayas
+60,alban vazquez s.c.c.,calificado,quito,pichincha
+61,corporacion nacional de telecomunicaciones - cnt ep,calificado,quito,pichincha
+62,factor integral social ecuatoriano fialser s.a.,calificado,quito,pichincha
+63,borniatti sega margareth isabel,calificado,quito,pichincha
+64,luzuriaga leon leonardo miguel,calificado,loja,loja
 65,sociedad civil anonima cambria international languaje academy efl s.c.,calificado,tulcan,sin provincia
-66,"colegio regional de ingenieros en alimentos de la zona centro ""crinal""",calificado,ambato,sin provincia
-67,tobar jacome mayra catalina,calificado,ambato,sin provincia
-68,instituto superior tecnológico yavirac,calificado,quito,sin provincia
-69,kinnemed cia. ltda.,calificado,quito,sin provincia
+66,"colegio regional de ingenieros en alimentos de la zona centro ""crinal""",calificado,ambato,tungurahua
+67,tobar jacome mayra catalina,calificado,ambato,tungurahua
+68,instituto superior tecnológico yavirac,calificado,quito,pichincha
+69,kinnemed cia. ltda.,calificado,quito,pichincha
 70,hernandez alvarado rodrigo guillermo,calificado,samborondon,sin provincia
-71,narvaez benitez abrahan mauricio,calificado,quito,sin provincia
-72,servicio ecuatoriano de capacitacion,calificado,quito,sin provincia
-73,centro de biociencias clonallyx corporation s.a.s.,calificado,quito,sin provincia
-74,schatz & wissen wichatz cia ltda,calificado,guayaquil,sin provincia
-75,green work consultores,calificado,cuenca,sin provincia
-76,fundacion corporacion para el fortalecimiento social y empresarial corfose,calificado,quito,sin provincia
-77,olmedo perez luis fernando,calificado,quito,sin provincia
-78,abso consultores empresariales s.a.s.,calificado,quito,sin provincia
-79,consultoria y capacitacion - ingelpro cia ltda,calificado,quito,sin provincia
-80,tandalla hidalgo william omar,calificado,quito,sin provincia
-81,formacion continua poliestudios forpolinet s.a.,calificado,quito,sin provincia
-82,andrade vallejo nieves marisol,calificado,quito,sin provincia
-83,muñoz zurita zulay del pilar,calificado,quito,sin provincia
-84,esmeraldas zambrano leonel enrique,calificado,latacunga,sin provincia
-85,kelbi oswaldo ramirez macas,calificado,loja,sin provincia
-86,vasquez peñafiel mauricio german,calificado,quito,sin provincia
-87,teran lopez karla michelle,calificado,quito,sin provincia
-88,tapia camacuari dilmer maximo,calificado,quito,sin provincia
-89,samaniego flor giovanni francisco,calificado,quito,sin provincia
-90,alvarez robayo franklin rolando,calificado,ambato,sin provincia
-91,bioecopaz consultoria y servicios ambientales,calificado,riobamba,sin provincia
-92,centro de actualizacion y desarrollo profesional cenadepro cia.ltda.,calificado,quito,sin provincia
-93,instituto de belleza y cosmetologia ecuador ibce,calificado,santo domingo,sin provincia
-94,urresta pinto silvana ivonne,calificado,quito,sin provincia
-95,deskubretest sociedad por acciones simplificada,calificado,quito,sin provincia
-96,rivera andrade adriana,calificado,quito,sin provincia
-97,forthright trade solutions s.a. fts,calificado,guayaquil,sin provincia
-98,chacaguasay chacaguasay blanca cecilia,calificado,colta,sin provincia
-99,colegio de ingenieros electricos y electronicos de pichincha cieepi,calificado,quito,sin provincia
-100,cctec,calificado,cuenca,sin provincia
-101,academia aeronautica yireh flyting yirehfly cia. ltda.,calificado,cuenca,sin provincia
-102,smith olu,calificado,quito,sin provincia
-103,aguilar benavides juan miguel,calificado,quito,sin provincia
-104,consultorabip s.a.,calificado,quito,sin provincia
-105,rojas robalino paulina jamilett,calificado,manta,sin provincia
-106,capaglobs.a.,calificado,quito,sin provincia
-107,funpipe,calificado,portoviejo,sin provincia
-108,fierro cueva johanna del carmen,calificado,loja,sin provincia
-109,saltos pazuña alonso vicente,calificado,la libertad,sin provincia
-110,sociedad gastronomica ecuatoriana,calificado,quito,sin provincia
-111,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,calificado,cuenca,sin provincia
-112,carvajal campoverde carlos lenin,calificado,quito,sin provincia
-113,moran zambrano jose fernando,calificado,guayaquil,sin provincia
-114,herrera suarez franklin bolivar,calificado,guayaquil,sin provincia
-115,audetic-ec cia.ltda.,calificado,quito,sin provincia
-116,chamorro chamorro wilfrido orlando,calificado,otavalo,sin provincia
-117,suntasig segovia yajaira karina,calificado,quito,sin provincia
-118,educación continua y profesional krece cia.ltda.,calificado,santo domingo,sin provincia
-119,leon leon gerardo,calificado,ambato,sin provincia
-120,greenetics soluciones s.a.,calificado,quito,sin provincia
-121,centro de especializacion y capacitacion integral integralcecai cia. ltda.,calificado,quito,sin provincia
-122,intensive english course s.a. iecsa,calificado,guayaquil,sin provincia
-123,galiano borja patricio raul,calificado,quito,sin provincia
-124,cedecenter,calificado,quito,sin provincia
-125,granda aguilera maria elena,calificado,riobamba,sin provincia
-126,instituto de auditores internos del ecuador.,calificado,quito,sin provincia
-127,palacios mero gysella gynatta,calificado,montecristi,sin provincia
-128,partido izquierda democrática,calificado,quito,sin provincia
-129,instituto de estudios internacionales gavatrade-iei cia. ltda.,calificado,pedernales,sin provincia
-130,sanchez sanchez silvia cristina,calificado,santo domingo,sin provincia
-131,instecvit cia. ltda.,calificado,quito,sin provincia
-132,puce sede manabi,calificado,portoviejo,sin provincia
-133,instituto superior tecnológico centro tecnologico naval,calificado,guayaquil,sin provincia
-134,instituto tecnologico superior ibarra,calificado,ibarra,sin provincia
-135,moraleslaw & consulting cia. ltda.,calificado,quito,sin provincia
-136,instituto superior tecnológico simón bolívar,calificado,guayaquil,sin provincia
-137,rosero rosero ximena alexandra,calificado,quito,sin provincia
-138,buck letting agency bucklet s.a.,calificado,guayaquil,sin provincia
-139,cardenas alvarez german tarquino,calificado,quito,sin provincia
-140,universidad de las fuerzas armadas - espe,calificado,rumiñahui,sin provincia
-141,instituto superior tecnológico cotopaxi,calificado,latacunga,sin provincia
-142,cetecform cia. ltda.,calificado,quito,sin provincia
-143,fundacion asesores en desarrollo social ades,calificado,guayaquil,sin provincia
-144,instituto superior tecnológico vicente leon,calificado,latacunga,sin provincia
-145,jacho villafuerte daniel moises,calificado,latacunga,sin provincia
-146,capacitación e innovaciones innovateach s.a.,calificado,milagro,sin provincia
-147,auditmedic consultoria&formacion s.a.,calificado,portoviejo,sin provincia
+71,narvaez benitez abrahan mauricio,calificado,quito,pichincha
+72,servicio ecuatoriano de capacitacion,calificado,quito,pichincha
+73,centro de biociencias clonallyx corporation s.a.s.,calificado,quito,pichincha
+74,schatz & wissen wichatz cia ltda,calificado,guayaquil,guayas
+75,green work consultores,calificado,cuenca,azuay
+76,fundacion corporacion para el fortalecimiento social y empresarial corfose,calificado,quito,pichincha
+77,olmedo perez luis fernando,calificado,quito,pichincha
+78,abso consultores empresariales s.a.s.,calificado,quito,pichincha
+79,consultoria y capacitacion - ingelpro cia ltda,calificado,quito,pichincha
+80,tandalla hidalgo william omar,calificado,quito,pichincha
+81,formacion continua poliestudios forpolinet s.a.,calificado,quito,pichincha
+82,andrade vallejo nieves marisol,calificado,quito,pichincha
+83,muñoz zurita zulay del pilar,calificado,quito,pichincha
+84,esmeraldas zambrano leonel enrique,calificado,latacunga,cotopaxi
+85,kelbi oswaldo ramirez macas,calificado,loja,loja
+86,vasquez peñafiel mauricio german,calificado,quito,pichincha
+87,teran lopez karla michelle,calificado,quito,pichincha
+88,tapia camacuari dilmer maximo,calificado,quito,pichincha
+89,samaniego flor giovanni francisco,calificado,quito,pichincha
+90,alvarez robayo franklin rolando,calificado,ambato,tungurahua
+91,bioecopaz consultoria y servicios ambientales,calificado,riobamba,chimborazo
+92,centro de actualizacion y desarrollo profesional cenadepro cia.ltda.,calificado,quito,pichincha
+93,instituto de belleza y cosmetologia ecuador ibce,calificado,santo domingo,santo domingo de los tsachilas
+94,urresta pinto silvana ivonne,calificado,quito,pichincha
+95,deskubretest sociedad por acciones simplificada,calificado,quito,pichincha
+96,rivera andrade adriana,calificado,quito,pichincha
+97,forthright trade solutions s.a. fts,calificado,guayaquil,guayas
+98,chacaguasay chacaguasay blanca cecilia,calificado,colta,chimborazo
+99,colegio de ingenieros electricos y electronicos de pichincha cieepi,calificado,quito,pichincha
+100,cctec,calificado,cuenca,azuay
+101,academia aeronautica yireh flyting yirehfly cia. ltda.,calificado,cuenca,azuay
+102,smith olu,calificado,quito,pichincha
+103,aguilar benavides juan miguel,calificado,quito,pichincha
+104,consultorabip s.a.,calificado,quito,pichincha
+105,rojas robalino paulina jamilett,calificado,manta,manabi
+106,capaglobs.a.,calificado,quito,pichincha
+107,funpipe,calificado,portoviejo,manabi
+108,fierro cueva johanna del carmen,calificado,loja,loja
+109,saltos pazuña alonso vicente,calificado,la libertad,santa elena
+110,sociedad gastronomica ecuatoriana,calificado,quito,pichincha
+111,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,calificado,cuenca,azuay
+112,carvajal campoverde carlos lenin,calificado,quito,pichincha
+113,moran zambrano jose fernando,calificado,guayaquil,guayas
+114,herrera suarez franklin bolivar,calificado,guayaquil,guayas
+115,audetic-ec cia.ltda.,calificado,quito,pichincha
+116,chamorro chamorro wilfrido orlando,calificado,otavalo,imbabura
+117,suntasig segovia yajaira karina,calificado,quito,pichincha
+118,educación continua y profesional krece cia.ltda.,calificado,santo domingo,santo domingo de los tsachilas
+119,leon leon gerardo,calificado,ambato,tungurahua
+120,greenetics soluciones s.a.,calificado,quito,pichincha
+121,centro de especializacion y capacitacion integral integralcecai cia. ltda.,calificado,quito,pichincha
+122,intensive english course s.a. iecsa,calificado,guayaquil,guayas
+123,galiano borja patricio raul,calificado,quito,pichincha
+124,cedecenter,calificado,quito,pichincha
+125,granda aguilera maria elena,calificado,riobamba,chimborazo
+126,instituto de auditores internos del ecuador.,calificado,quito,pichincha
+127,palacios mero gysella gynatta,calificado,montecristi,manabi
+128,partido izquierda democrática,calificado,quito,pichincha
+129,instituto de estudios internacionales gavatrade-iei cia. ltda.,calificado,pedernales,manabi
+130,sanchez sanchez silvia cristina,calificado,santo domingo,santo domingo de los tsachilas
+131,instecvit cia. ltda.,calificado,quito,pichincha
+132,puce sede manabi,calificado,portoviejo,manabi
+133,instituto superior tecnológico centro tecnologico naval,calificado,guayaquil,guayas
+134,instituto tecnologico superior ibarra,calificado,ibarra,imbabura
+135,moraleslaw & consulting cia. ltda.,calificado,quito,pichincha
+136,instituto superior tecnológico simón bolívar,calificado,guayaquil,guayas
+137,rosero rosero ximena alexandra,calificado,quito,pichincha
+138,buck letting agency bucklet s.a.,calificado,guayaquil,guayas
+139,cardenas alvarez german tarquino,calificado,quito,pichincha
+140,universidad de las fuerzas armadas - espe,calificado,rumiñahui,pichincha
+141,instituto superior tecnológico cotopaxi,calificado,latacunga,cotopaxi
+142,cetecform cia. ltda.,calificado,quito,pichincha
+143,fundacion asesores en desarrollo social ades,calificado,guayaquil,guayas
+144,instituto superior tecnológico vicente leon,calificado,latacunga,cotopaxi
+145,jacho villafuerte daniel moises,calificado,latacunga,cotopaxi
+146,capacitación e innovaciones innovateach s.a.,calificado,milagro,guayas
+147,auditmedic consultoria&formacion s.a.,calificado,portoviejo,manabi
 148,sociedad general de certificaciones ensayos y calibraciones del ecuador s.a. sgcec del ecuador,calificado,samborondon,sin provincia
-149,capacitalibertad s.a.,calificado,quito,sin provincia
-150,jacome sandoya vinicio alejandro,calificado,quito,sin provincia
-151,ballen murcia martha cecilia,calificado,quito,sin provincia
-152,ediciones legales edle s.a.,calificado,quito,sin provincia
-153,acceso vertical work & rescue training compañia limitada,calificado,quito,sin provincia
-154,"empresa publica de obras, bienes y servicios santa elena ep",calificado,la libertad,sin provincia
-155,ascencap cia.ltda,calificado,rumiñahui,sin provincia
-156,business intelligent iwalton cia. ltda.,calificado,quito,sin provincia
-157,lopez mendoza diana lorena,calificado,manta,sin provincia
+149,capacitalibertad s.a.,calificado,quito,pichincha
+150,jacome sandoya vinicio alejandro,calificado,quito,pichincha
+151,ballen murcia martha cecilia,calificado,quito,pichincha
+152,ediciones legales edle s.a.,calificado,quito,pichincha
+153,acceso vertical work & rescue training compañia limitada,calificado,quito,pichincha
+154,"empresa publica de obras, bienes y servicios santa elena ep",calificado,la libertad,santa elena
+155,ascencap cia.ltda,calificado,rumiñahui,pichincha
+156,business intelligent iwalton cia. ltda.,calificado,quito,pichincha
+157,lopez mendoza diana lorena,calificado,manta,manabi
 158,instituto superior tecnológico diez y siete de julio,calificado,urcuqui,sin provincia
-159,instituto superior pedagogico jaime roldos aguilera-bilingue intercultural,calificado,colta,sin provincia
-160,duran goyes cristina estefania,calificado,ambato,sin provincia
-161,escuela de eventos con carla eventoscarla cia.ltda.,calificado,quito,sin provincia
-162,instituto superior tecnológico bolívar - ambato,calificado,ambato,sin provincia
-163,reasons4life s a,calificado,machala,sin provincia
-164,captecsol s.a.,calificado,guayaquil,sin provincia
-165,instituto superior tecnológico andrés f. córdova - quito,calificado,quito,sin provincia
-166,instituto superior tecnológico dr. enrique novoa arízaga,calificado,la troncal,sin provincia
-167,"fundación ecuatoriana para el desarrollo marítimo, fluvial y lacustre, fundemar",calificado,quito,sin provincia
-168,seguridad industrial salud ocupacional seinsao cia ltda,calificado,quito,sin provincia
-169,seguridad industrial pompier chano seinpomep cia. ltda.,calificado,quito,sin provincia
-170,asprec s.a.,calificado,quito,sin provincia
-171,gonzalez giraldo blanca niria,calificado,quito,sin provincia
-172,automovil club del ecuador aneta,calificado,quito,sin provincia
-173,arias moreno edison rodrigo,calificado,quito,sin provincia
-174,s.g.s. del ecuador s.a.,calificado,guayaquil,sin provincia
-175,"fundacion voluntar centro de familia, voluntariado y cultura deportiva",calificado,quito,sin provincia
-176,asociacion fe y alegria ecuador,calificado,quito,sin provincia
-177,junta nacional de defensa del artesano,calificado,quito,sin provincia
-178,ortega toala nelson eduardo,calificado,manta,sin provincia
-179,corporacion una oportunidad de superacion,calificado,quito,sin provincia
-180,instituto de altos estudios iaetillari cia.ltda.,calificado,quito,sin provincia
-181,peñaloza pesantes alfonso javier,calificado,quito,sin provincia
-182,espe - innovativa e p,calificado,rumiñahui,sin provincia
-183,davila sandoval dario eduardo,calificado,quito,sin provincia
-184,andrade morales beida milena,calificado,quito,sin provincia
-185,cenicap centro nacional integrado de capacitacion profesional cia. ltda.,calificado,lago agrio,sin provincia
-186,llaulli tapia adrian alfredo,calificado,latacunga,sin provincia
-187,minga becerra washington francisco,calificado,quito,sin provincia
-188,jaramillo garcia maria catalina,calificado,quito,sin provincia
-189,universidad tecnica particular de loja,calificado,loja,sin provincia
-190,consorcio aerosuspendido guayaquil poma s.a.s y sofratesa inc.,calificado,guayaquil,sin provincia
-191,corporacion desarrollo cultural integral,calificado,guayaquil,sin provincia
-192,empresa publica de bienes y servicios uce proyectos ep,calificado,quito,sin provincia
-193,instituto tecnico del petroleo instipetrol cia. ltda.,calificado,quito,sin provincia
-194,medifra soluciones medico ocupacionales ecuador cia. ltda.,calificado,rumiñahui,sin provincia
-195,universidad tecnica de cotopaxi,calificado,latacunga,sin provincia
-196,ensicapac c.ltda.,calificado,guayaquil,sin provincia
-197,ruiz delgado gisella rosalin,calificado,santa elena,sin provincia
-198,empresa publica de la universidad tecnica de ambato uta ep,calificado,ambato,sin provincia
-199,berrezueta rios fernando javier,calificado,guayaquil,sin provincia
-200,flores alvarado jacqueline alexandra,calificado,santo domingo,sin provincia
+159,instituto superior pedagogico jaime roldos aguilera-bilingue intercultural,calificado,colta,chimborazo
+160,duran goyes cristina estefania,calificado,ambato,tungurahua
+161,escuela de eventos con carla eventoscarla cia.ltda.,calificado,quito,pichincha
+162,instituto superior tecnológico bolívar - ambato,calificado,ambato,tungurahua
+163,reasons4life s a,calificado,machala,el oro
+164,captecsol s.a.,calificado,guayaquil,guayas
+165,instituto superior tecnológico andrés f. córdova - quito,calificado,quito,pichincha
+166,instituto superior tecnológico dr. enrique novoa arízaga,calificado,la troncal,cañar
+167,"fundación ecuatoriana para el desarrollo marítimo, fluvial y lacustre, fundemar",calificado,quito,pichincha
+168,seguridad industrial salud ocupacional seinsao cia ltda,calificado,quito,pichincha
+169,seguridad industrial pompier chano seinpomep cia. ltda.,calificado,quito,pichincha
+170,asprec s.a.,calificado,quito,pichincha
+171,gonzalez giraldo blanca niria,calificado,quito,pichincha
+172,automovil club del ecuador aneta,calificado,quito,pichincha
+173,arias moreno edison rodrigo,calificado,quito,pichincha
+174,s.g.s. del ecuador s.a.,calificado,guayaquil,guayas
+175,"fundacion voluntar centro de familia, voluntariado y cultura deportiva",calificado,quito,pichincha
+176,asociacion fe y alegria ecuador,calificado,quito,pichincha
+177,junta nacional de defensa del artesano,calificado,quito,pichincha
+178,ortega toala nelson eduardo,calificado,manta,manabi
+179,corporacion una oportunidad de superacion,calificado,quito,pichincha
+180,instituto de altos estudios iaetillari cia.ltda.,calificado,quito,pichincha
+181,peñaloza pesantes alfonso javier,calificado,quito,pichincha
+182,espe - innovativa e p,calificado,rumiñahui,pichincha
+183,davila sandoval dario eduardo,calificado,quito,pichincha
+184,andrade morales beida milena,calificado,quito,pichincha
+185,cenicap centro nacional integrado de capacitacion profesional cia. ltda.,calificado,lago agrio,sucumbios
+186,llaulli tapia adrian alfredo,calificado,latacunga,cotopaxi
+187,minga becerra washington francisco,calificado,quito,pichincha
+188,jaramillo garcia maria catalina,calificado,quito,pichincha
+189,universidad tecnica particular de loja,calificado,loja,loja
+190,consorcio aerosuspendido guayaquil poma s.a.s y sofratesa inc.,calificado,guayaquil,guayas
+191,corporacion desarrollo cultural integral,calificado,guayaquil,guayas
+192,empresa publica de bienes y servicios uce proyectos ep,calificado,quito,pichincha
+193,instituto tecnico del petroleo instipetrol cia. ltda.,calificado,quito,pichincha
+194,medifra soluciones medico ocupacionales ecuador cia. ltda.,calificado,rumiñahui,pichincha
+195,universidad tecnica de cotopaxi,calificado,latacunga,cotopaxi
+196,ensicapac c.ltda.,calificado,guayaquil,guayas
+197,ruiz delgado gisella rosalin,calificado,santa elena,santa elena
+198,empresa publica de la universidad tecnica de ambato uta ep,calificado,ambato,tungurahua
+199,berrezueta rios fernando javier,calificado,guayaquil,guayas
+200,flores alvarado jacqueline alexandra,calificado,santo domingo,santo domingo de los tsachilas
 201,nsf ecuador s.a.,calificado,samborondon,sin provincia
-202,liderazgo capacitacion y consultoria davsoc compañia limitada,calificado,quito,sin provincia
-203,benalcazar lucano hugo cesar,calificado,ibarra,sin provincia
-204,baculima nuñez maria antonieta,calificado,quito,sin provincia
-205,ankukuna,calificado,pastaza,sin provincia
-206,morales teran juan carlos,calificado,quito,sin provincia
-207,ortiz caizapanta marco vinicio,calificado,shushufindi,sin provincia
-208,centro de formación gastronómico milagro diaz & arce cefogami s.a.,calificado,daule,sin provincia
-209,asociacion red de talento humano del ecuador redthumanoec s.a.,calificado,guayaquil,sin provincia
-210,paucarina valles ana cristina,calificado,quito,sin provincia
-211,lara cornejo nathaly alexandra,calificado,quito,sin provincia
-212,bgs vision empresarial bgs2017 c.l.,calificado,quito,sin provincia
-213,jativa diaz karina del rocio,calificado,quito,sin provincia
-214,centro ecuatoriano norteamericano de guayaquil,calificado,guayaquil,sin provincia
-215,condor jami fernando daniel,calificado,quito,sin provincia
-216,capaseg cia. ltda.,calificado,quito,sin provincia
-217,martinez ortiz claudia giselle,calificado,quito,sin provincia
-218,asociacion de municipalidades ecuatorianas,calificado,quito,sin provincia
-219,fondo ecuatoriano populorum progressio,calificado,quito,sin provincia
-220,innovacion desarrollo asesoria empresarial cia. ltda.,calificado,quito,sin provincia
-221,educorp asociacion en cuentas de participacion,calificado,quito,sin provincia
-222,qhse gestion integral cia. ltda.,calificado,quito,sin provincia
-223,consultoria y capacitacion damagecuador s.a.,calificado,salcedo,sin provincia
-224,cecail cia.ltda.,calificado,quito,sin provincia
-225,espinosa marquez carlos fernando,calificado,ibarra,sin provincia
-226,proaño triviño marcelo alejandro,calificado,rumiñahui,sin provincia
-227,cruz roja ecuatoriana junta provincial de pichincha,calificado,quito,sin provincia
+202,liderazgo capacitacion y consultoria davsoc compañia limitada,calificado,quito,pichincha
+203,benalcazar lucano hugo cesar,calificado,ibarra,imbabura
+204,baculima nuñez maria antonieta,calificado,quito,pichincha
+205,ankukuna,calificado,pastaza,pastaza
+206,morales teran juan carlos,calificado,quito,pichincha
+207,ortiz caizapanta marco vinicio,calificado,shushufindi,sucumbios
+208,centro de formación gastronómico milagro diaz & arce cefogami s.a.,calificado,daule,guayas
+209,asociacion red de talento humano del ecuador redthumanoec s.a.,calificado,guayaquil,guayas
+210,paucarina valles ana cristina,calificado,quito,pichincha
+211,lara cornejo nathaly alexandra,calificado,quito,pichincha
+212,bgs vision empresarial bgs2017 c.l.,calificado,quito,pichincha
+213,jativa diaz karina del rocio,calificado,quito,pichincha
+214,centro ecuatoriano norteamericano de guayaquil,calificado,guayaquil,guayas
+215,condor jami fernando daniel,calificado,quito,pichincha
+216,capaseg cia. ltda.,calificado,quito,pichincha
+217,martinez ortiz claudia giselle,calificado,quito,pichincha
+218,asociacion de municipalidades ecuatorianas,calificado,quito,pichincha
+219,fondo ecuatoriano populorum progressio,calificado,quito,pichincha
+220,innovacion desarrollo asesoria empresarial cia. ltda.,calificado,quito,pichincha
+221,educorp asociacion en cuentas de participacion,calificado,quito,pichincha
+222,qhse gestion integral cia. ltda.,calificado,quito,pichincha
+223,consultoria y capacitacion damagecuador s.a.,calificado,salcedo,cotopaxi
+224,cecail cia.ltda.,calificado,quito,pichincha
+225,espinosa marquez carlos fernando,calificado,ibarra,imbabura
+226,proaño triviño marcelo alejandro,calificado,rumiñahui,pichincha
+227,cruz roja ecuatoriana junta provincial de pichincha,calificado,quito,pichincha
 228,inspad instituto pedagogico y atencion a la diversidad s.a.s.,calificado,duran,sin provincia
-229,raven corporation cia.ltda.,calificado,quito,sin provincia
-230,defensoria del pueblo,calificado,quito,sin provincia
-231,guayasamin polanco nyra virna,calificado,quito,sin provincia
-232,morejon arce ana belen,calificado,quito,sin provincia
-233,novillo mendoza max andres,calificado,guayaquil,sin provincia
-234,bravo delgado marcia maribel,calificado,quito,sin provincia
-235,capacitación y asesoria técnica báez espinosa ceimscap cia. ltda,calificado,quito,sin provincia
-236,l'escoffier,calificado,ambato,sin provincia
-237,lincango simbaña silvia patricia,calificado,quito,sin provincia
-238,gerinterpro cia ltda,calificado,quito,sin provincia
-239,yepez bowen tania katerine,calificado,santo domingo,sin provincia
-240,comando de educacion y doctrina militar terrestre,calificado,rumiñahui,sin provincia
-241,proceindustrial s.a.,calificado,quito,sin provincia
-242,fundacion capacitacion para el desarrollo,calificado,quito,sin provincia
-243,fundacion educativa camae - camara maritima del ecuador,calificado,guayaquil,sin provincia
-244,instituto de capacitacion en seguridad s.a. incasi,calificado,guayaquil,sin provincia
-245,torres salazar walter william,calificado,milagro,sin provincia
-246,ctascal cia. ltda,calificado,quito,sin provincia
-247,espinosa bravo jessy jimena,calificado,latacunga,sin provincia
-248,moreno escobar karina natali,calificado,latacunga,sin provincia
-249,corrales perez joselyn mynoska,calificado,quito,sin provincia
-250,l7 lean seven consultores cia.ltda.,calificado,quito,sin provincia
-251,ecuador capacitacion sercafp s.a.s.,calificado,guayaquil,sin provincia
-252,pacheco barreto maria cristina,calificado,guayaquil,sin provincia
-253,damiani consultores cia. ltda.,calificado,guayaquil,sin provincia
+229,raven corporation cia.ltda.,calificado,quito,pichincha
+230,defensoria del pueblo,calificado,quito,pichincha
+231,guayasamin polanco nyra virna,calificado,quito,pichincha
+232,morejon arce ana belen,calificado,quito,pichincha
+233,novillo mendoza max andres,calificado,guayaquil,guayas
+234,bravo delgado marcia maribel,calificado,quito,pichincha
+235,capacitación y asesoria técnica báez espinosa ceimscap cia. ltda,calificado,quito,pichincha
+236,l'escoffier,calificado,ambato,tungurahua
+237,lincango simbaña silvia patricia,calificado,quito,pichincha
+238,gerinterpro cia ltda,calificado,quito,pichincha
+239,yepez bowen tania katerine,calificado,santo domingo,santo domingo de los tsachilas
+240,comando de educacion y doctrina militar terrestre,calificado,rumiñahui,pichincha
+241,proceindustrial s.a.,calificado,quito,pichincha
+242,fundacion capacitacion para el desarrollo,calificado,quito,pichincha
+243,fundacion educativa camae - camara maritima del ecuador,calificado,guayaquil,guayas
+244,instituto de capacitacion en seguridad s.a. incasi,calificado,guayaquil,guayas
+245,torres salazar walter william,calificado,milagro,guayas
+246,ctascal cia. ltda,calificado,quito,pichincha
+247,espinosa bravo jessy jimena,calificado,latacunga,cotopaxi
+248,moreno escobar karina natali,calificado,latacunga,cotopaxi
+249,corrales perez joselyn mynoska,calificado,quito,pichincha
+250,l7 lean seven consultores cia.ltda.,calificado,quito,pichincha
+251,ecuador capacitacion sercafp s.a.s.,calificado,guayaquil,guayas
+252,pacheco barreto maria cristina,calificado,guayaquil,guayas
+253,damiani consultores cia. ltda.,calificado,guayaquil,guayas
 254,instituto de capacitacion tecnico profesional atlanticoquito c.l.,calificado,pillaro,sin provincia
-255,caceres jimenez carol jazmin,calificado,santa cruz,sin provincia
-256,cuerpo de bomberos del gobierno autonomo descentralizado municipal de santo domingo,calificado,santo domingo,sin provincia
-257,fundacion adhara,calificado,quito,sin provincia
-258,morales alarcon cristian hugo,calificado,riobamba,sin provincia
-259,fundacion familia integral fami,calificado,quito,sin provincia
-260,escuela de artes culinarias culinary arts cia. ltda.,calificado,quito,sin provincia
-261,instituto de investigacion geologico y energetico,calificado,quito,sin provincia
-262,naranjo espin carla lorena,calificado,quito,sin provincia
-263,instituto superior tecnológico francisco de orellana,calificado,pastaza,sin provincia
-264,cacex s a,calificado,loja,sin provincia
-265,centro internacional de estudios superiores de comunicacion para america latina,calificado,quito,sin provincia
-266,cantos molina maria cristina,calificado,manta,sin provincia
-267,fenriquez pacheco carmen yadira,calificado,quito,sin provincia
-268,glamorous remi beautyschool s.a.,calificado,quito,sin provincia
-269,airkolor s.a.,calificado,quito,sin provincia
-270,alexandra elizabeht garcia reino,calificado,cuenca,sin provincia
-271,centro de investigacion y desarrollo corporacion peer,calificado,quito,sin provincia
-272,aguirre manosalvas harold francisco,calificado,quito,sin provincia
-273,suarez sanandres rosa del carmen,calificado,guayaquil,sin provincia
-274,cadil english center,calificado,loja,sin provincia
-275,saltos urbina fabiola janeth,calificado,quito,sin provincia
-276,esccape cia.ltda.,calificado,cuenca,sin provincia
-277,ruano sanchez alexandra del rocio,calificado,guayaquil,sin provincia
-278,orange english orangeenglish cia.ltda.,calificado,quito,sin provincia
-279,capacitacion y proyectos en movilidad san francisco sftransit s.a.,calificado,quito,sin provincia
-280,granda angulo monica elizabeth,calificado,quito,sin provincia
-281,haro guanga pola irlanda,calificado,quito,sin provincia
-282,farinango defaz margarita alexandra,calificado,quito,sin provincia
-283,narvaez ibujes elsa esperanza,calificado,latacunga,sin provincia
-284,navas pachar pedro andres,calificado,ambato,sin provincia
-285,ouedraogo inoussa,calificado,mejia,sin provincia
-286,mata iza jorge ruben,calificado,quito,sin provincia
-287,golden training center capacitacion y consultoria consulgolden compañia de responsabilidad limitada,calificado,ibarra,sin provincia
-288,flores martinez jorge anibal,calificado,santo domingo,sin provincia
-289,fundacion kolping ecuador fke,calificado,quito,sin provincia
-290,vazquez rodriguez lupe mercedes,calificado,azogues,sin provincia
-291,fundacion benefica accion solidaria,calificado,guayaquil,sin provincia
-292,arias calero marillac del rocio,calificado,quito,sin provincia
-293,cuero ortiz edder erick,calificado,manta,sin provincia
-294,nusavi c.l.,calificado,quito,sin provincia
-295,corporacion acerfim asesoria financiera y capacitacion empresarial,calificado,guayaquil,sin provincia
-296,sanchez alvarado karen lucia,calificado,manta,sin provincia
-297,lozano pachar ivan rodrigo,calificado,ambato,sin provincia
+255,caceres jimenez carol jazmin,calificado,santa cruz,galapagos
+256,cuerpo de bomberos del gobierno autonomo descentralizado municipal de santo domingo,calificado,santo domingo,santo domingo de los tsachilas
+257,fundacion adhara,calificado,quito,pichincha
+258,morales alarcon cristian hugo,calificado,riobamba,chimborazo
+259,fundacion familia integral fami,calificado,quito,pichincha
+260,escuela de artes culinarias culinary arts cia. ltda.,calificado,quito,pichincha
+261,instituto de investigacion geologico y energetico,calificado,quito,pichincha
+262,naranjo espin carla lorena,calificado,quito,pichincha
+263,instituto superior tecnológico francisco de orellana,calificado,pastaza,pastaza
+264,cacex s a,calificado,loja,loja
+265,centro internacional de estudios superiores de comunicacion para america latina,calificado,quito,pichincha
+266,cantos molina maria cristina,calificado,manta,manabi
+267,fenriquez pacheco carmen yadira,calificado,quito,pichincha
+268,glamorous remi beautyschool s.a.,calificado,quito,pichincha
+269,airkolor s.a.,calificado,quito,pichincha
+270,alexandra elizabeht garcia reino,calificado,cuenca,azuay
+271,centro de investigacion y desarrollo corporacion peer,calificado,quito,pichincha
+272,aguirre manosalvas harold francisco,calificado,quito,pichincha
+273,suarez sanandres rosa del carmen,calificado,guayaquil,guayas
+274,cadil english center,calificado,loja,loja
+275,saltos urbina fabiola janeth,calificado,quito,pichincha
+276,esccape cia.ltda.,calificado,cuenca,azuay
+277,ruano sanchez alexandra del rocio,calificado,guayaquil,guayas
+278,orange english orangeenglish cia.ltda.,calificado,quito,pichincha
+279,capacitacion y proyectos en movilidad san francisco sftransit s.a.,calificado,quito,pichincha
+280,granda angulo monica elizabeth,calificado,quito,pichincha
+281,haro guanga pola irlanda,calificado,quito,pichincha
+282,farinango defaz margarita alexandra,calificado,quito,pichincha
+283,narvaez ibujes elsa esperanza,calificado,latacunga,cotopaxi
+284,navas pachar pedro andres,calificado,ambato,tungurahua
+285,ouedraogo inoussa,calificado,mejia,pichincha
+286,mata iza jorge ruben,calificado,quito,pichincha
+287,golden training center capacitacion y consultoria consulgolden compañia de responsabilidad limitada,calificado,ibarra,imbabura
+288,flores martinez jorge anibal,calificado,santo domingo,santo domingo de los tsachilas
+289,fundacion kolping ecuador fke,calificado,quito,pichincha
+290,vazquez rodriguez lupe mercedes,calificado,azogues,cañar
+291,fundacion benefica accion solidaria,calificado,guayaquil,guayas
+292,arias calero marillac del rocio,calificado,quito,pichincha
+293,cuero ortiz edder erick,calificado,manta,manabi
+294,nusavi c.l.,calificado,quito,pichincha
+295,corporacion acerfim asesoria financiera y capacitacion empresarial,calificado,guayaquil,guayas
+296,sanchez alvarado karen lucia,calificado,manta,manabi
+297,lozano pachar ivan rodrigo,calificado,ambato,tungurahua
 298,instituto superior tecnológico pelileo,calificado,pelileo,sin provincia
-299,lca academia culinaria lcaculinaria c.ltda.,calificado,guayaquil,sin provincia
-300,fine english cia ltda,calificado,loja,sin provincia
-301,escobar machasilla denis paola,calificado,latacunga,sin provincia
-302,lemache aguagallo jorge mauricio,calificado,riobamba,sin provincia
-303,runachay rantiy cia. ltda.,calificado,quito,sin provincia
-304,guerrero & wilbel cia.ltda.,calificado,quito,sin provincia
-305,camara artesanal de pichincha,calificado,quito,sin provincia
-306,imporvalor s.a.,calificado,guayaquil,sin provincia
-307,fad prevention cia. ltda.,calificado,latacunga,sin provincia
-308,corporacion de fomento para la pequeña y mediana empresa corfopym,calificado,ambato,sin provincia
-309,narvaez velasquez pablo alejandro,calificado,daule,sin provincia
-310,f&e ecuatoriana s.a.,calificado,guayaquil,sin provincia
-311,autotrain sa,calificado,quito,sin provincia
-312,edukre centro de capacitación y soluciones elearning cia ltda,calificado,quito,sin provincia
-313,gasterdocens sa,calificado,quito,sin provincia
-314,dos santos alice,calificado,guayaquil,sin provincia
-315,instituto superior tecnológico daniel reyes,calificado,ibarra,sin provincia
-316,colegio de contadores publicos de pichincha y del ecuador,calificado,quito,sin provincia
-317,cecim,calificado,quito,sin provincia
-318,smart ceim institute ceiminstitute s.a.,calificado,chone,sin provincia
-319,instituto superior tecnologico oriente,calificado,ibarra,sin provincia
-320,cruz guevara maria fernanda,calificado,quito,sin provincia
-321,escuela interdiciplinaria para la innovacion y perfeccionamiento esinnper c.a.,calificado,quito,sin provincia
-322,instituto tecnologico superior japon,calificado,quito,sin provincia
-323,guijarro cueva cristian gerardo,calificado,quito,sin provincia
-324,instituto superior tecnológico luis arboleda martínez - manta,calificado,manta,sin provincia
-325,instituto superior tecnológico carlos cisneros,calificado,riobamba,sin provincia
-326,guzman amoroso gil douglas,calificado,pastaza,sin provincia
-327,instituto superior de tecnologias apropiadas - insta,calificado,quito,sin provincia
-328,naula guzman daniel fernando,calificado,quito,sin provincia
-329,accent plus academy ecuador s.a.,calificado,quito,sin provincia
-330,escuela tecnica de conduccion balseca aguas del ecuador cia. ltda.,calificado,quito,sin provincia
-331,aguilera mora sandra magaly,calificado,santo domingo,sin provincia
-332,organizacion hse ecuador ehsq c l,calificado,riobamba,sin provincia
+299,lca academia culinaria lcaculinaria c.ltda.,calificado,guayaquil,guayas
+300,fine english cia ltda,calificado,loja,loja
+301,escobar machasilla denis paola,calificado,latacunga,cotopaxi
+302,lemache aguagallo jorge mauricio,calificado,riobamba,chimborazo
+303,runachay rantiy cia. ltda.,calificado,quito,pichincha
+304,guerrero & wilbel cia.ltda.,calificado,quito,pichincha
+305,camara artesanal de pichincha,calificado,quito,pichincha
+306,imporvalor s.a.,calificado,guayaquil,guayas
+307,fad prevention cia. ltda.,calificado,latacunga,cotopaxi
+308,corporacion de fomento para la pequeña y mediana empresa corfopym,calificado,ambato,tungurahua
+309,narvaez velasquez pablo alejandro,calificado,daule,guayas
+310,f&e ecuatoriana s.a.,calificado,guayaquil,guayas
+311,autotrain sa,calificado,quito,pichincha
+312,edukre centro de capacitación y soluciones elearning cia ltda,calificado,quito,pichincha
+313,gasterdocens sa,calificado,quito,pichincha
+314,dos santos alice,calificado,guayaquil,guayas
+315,instituto superior tecnológico daniel reyes,calificado,ibarra,imbabura
+316,colegio de contadores publicos de pichincha y del ecuador,calificado,quito,pichincha
+317,cecim,calificado,quito,pichincha
+318,smart ceim institute ceiminstitute s.a.,calificado,chone,manabi
+319,instituto superior tecnologico oriente,calificado,ibarra,imbabura
+320,cruz guevara maria fernanda,calificado,quito,pichincha
+321,escuela interdiciplinaria para la innovacion y perfeccionamiento esinnper c.a.,calificado,quito,pichincha
+322,instituto tecnologico superior japon,calificado,quito,pichincha
+323,guijarro cueva cristian gerardo,calificado,quito,pichincha
+324,instituto superior tecnológico luis arboleda martínez - manta,calificado,manta,manabi
+325,instituto superior tecnológico carlos cisneros,calificado,riobamba,chimborazo
+326,guzman amoroso gil douglas,calificado,pastaza,pastaza
+327,instituto superior de tecnologias apropiadas - insta,calificado,quito,pichincha
+328,naula guzman daniel fernando,calificado,quito,pichincha
+329,accent plus academy ecuador s.a.,calificado,quito,pichincha
+330,escuela tecnica de conduccion balseca aguas del ecuador cia. ltda.,calificado,quito,pichincha
+331,aguilera mora sandra magaly,calificado,santo domingo,santo domingo de los tsachilas
+332,organizacion hse ecuador ehsq c l,calificado,riobamba,chimborazo
 333,instituto superior tecnológico primero de mayo,calificado,yanzatza,sin provincia
-334,instituto superior tecnológico ismael pérez pazmiño,calificado,machala,sin provincia
-335,instituto superior tecnológico tres de marzo,calificado,chimbo,sin provincia
-336,vergara hidalgo karina veronica,calificado,quito,sin provincia
-337,instituto superior tecnológico de la policia nacional,calificado,quito,sin provincia
-338,chuquicondor pilamunga carmen yolanda (sherydan international group),calificado,santo domingo,sin provincia
-339,fundacion corfore corporacion ecuatoriana formacion estudiantil,calificado,quito,sin provincia
-340,fundacion para la gestion del conocimiento - gesco,calificado,quito,sin provincia
+334,instituto superior tecnológico ismael pérez pazmiño,calificado,machala,el oro
+335,instituto superior tecnológico tres de marzo,calificado,chimbo,bolivar
+336,vergara hidalgo karina veronica,calificado,quito,pichincha
+337,instituto superior tecnológico de la policia nacional,calificado,quito,pichincha
+338,chuquicondor pilamunga carmen yolanda (sherydan international group),calificado,santo domingo,santo domingo de los tsachilas
+339,fundacion corfore corporacion ecuatoriana formacion estudiantil,calificado,quito,pichincha
+340,fundacion para la gestion del conocimiento - gesco,calificado,quito,pichincha
 341,universidad de investigacion de tecnologia experimental yachay,calificado,urcuqui,sin provincia
-342,jah corporacion afec cia.ltda.,calificado,quito,sin provincia
-343,instituto superior tecnologico del azuay,calificado,cuenca,sin provincia
-344,diaz cuty wilmer giovanny,calificado,quito,sin provincia
-345,abkrea ingenieria cia. ltda.,calificado,ambato,sin provincia
-346,fundacion academia internacional de ciencias empresariales,calificado,quito,sin provincia
-347,sesocorpsa s.a,calificado,guayaquil,sin provincia
-348,lopez mantuano mario henry,calificado,manta,sin provincia
-349,instituto superior tecnologico tsachila,calificado,santo domingo,sin provincia
-350,instituto superior tecnológico riobamba,calificado,riobamba,sin provincia
-351,corporacion tauro cia. ltda.,calificado,quito,sin provincia
-352,instituto asedu ecuador aseduecuador s.a.,calificado,guayaquil,sin provincia
-353,instituto de investigación e innovación superarc c.l.,calificado,quito,sin provincia
-354,perugachi arroyo marlon paul,calificado,quito,sin provincia
-355,jacome vera carlos augusto,calificado,quito,sin provincia
-356,espin salas darwin daniel,calificado,ambato,sin provincia
-357,servicios de evacuación médica de emergencia medevacserv s.a.,calificado,quito,sin provincia
-358,rodriguez silva alexandra estefania,calificado,quito,sin provincia
-359,instituto tecnologico superior tecnoecuatoriano,calificado,quito,sin provincia
-360,federacion nacional de personas sordas del ecuador - fenasec,calificado,quito,sin provincia
-361,sociedad ecuatoriana de desarrollo educativo y social sedes,calificado,guayaquil,sin provincia
-362,pichincha humana,calificado,quito,sin provincia
-363,macias silva evelyn carolina,calificado,riobamba,sin provincia
-364,capacitaciones gastronomicas del ecuador capchef s.a.,calificado,guayaquil,sin provincia
-365,buckingham english center s.a. buckcenter,calificado,guayaquil,sin provincia
-366,fundacion emprender el futuro,calificado,rumiñahui,sin provincia
-367,econstrucciones riego y seguridad industrial seprytsa s.a.,calificado,latacunga,sin provincia
-368,eduproyect proyecto global del ecuador s.a.,calificado,quito,sin provincia
-369,abalco haro cristian patricio,calificado,quito,sin provincia
-370,instituto superior tecnológico eugenio espejo,calificado,riobamba,sin provincia
-371,instituto superior tecnológico libertad,calificado,quito,sin provincia
-372,redtotal cia. ltda.,calificado,quito,sin provincia
-373,anaya centro de formacion style & beauty care,calificado,quito,sin provincia
-374,altitudevm marketing digital cia.ltda.,calificado,guayaquil,sin provincia
-375,fundación cooperación y desarrollo,calificado,quito,sin provincia
-376,centro educacional de idiomas y especializaciones administrativas cendia c.a.,calificado,quito,sin provincia
-377,mateus francisco javier,calificado,quito,sin provincia
-378,guerrero rodriguez ronal americo,calificado,lago agrio,sin provincia
-379,asesorias laboral express & consultores ambientales asociados s.a. laborexconsa,calificado,guayaquil,sin provincia
-380,ecuambiente consulting group cia. ltda.,calificado,quito,sin provincia
-381,fundacion social fiallo serrano,calificado,quito,sin provincia
-382,camacho del castillo maria belen,calificado,quito,sin provincia
-383,bastidas padilla marivel cumanda,calificado,loja,sin provincia
-384,nuñez vasquez angelo fernando,calificado,ambato,sin provincia
-385,empresa tecnica de energia y ambiente emteenam cia. ltda.,calificado,quito,sin provincia
-386,guaman gualpa klever geovanny,calificado,salcedo,sin provincia
-387,suquisupa espinoza angel rogerio,calificado,cuenca,sin provincia
-388,proaño rodriguez fernando andres,calificado,santo domingo,sin provincia
-389,valdez cabrera sadier fabricio,calificado,guayaquil,sin provincia
-390,comite nacional ecuatoriano de la comision de integracion electrica regional,calificado,quito,sin provincia
-391,corporacion de capacitacion social,calificado,guayaquil,sin provincia
-392,armijos carrion jorge luis,calificado,pasaje,sin provincia
-393,instituto tecnologico superior lendan,calificado,quito,sin provincia
-394,letduy s.a.,calificado,guayaquil,sin provincia
-395,corporacion lideres para formacion y capacitacion empresarial,calificado,quito,sin provincia
-396,campaña jaramillo wilson giovanny,calificado,quito,sin provincia
+342,jah corporacion afec cia.ltda.,calificado,quito,pichincha
+343,instituto superior tecnologico del azuay,calificado,cuenca,azuay
+344,diaz cuty wilmer giovanny,calificado,quito,pichincha
+345,abkrea ingenieria cia. ltda.,calificado,ambato,tungurahua
+346,fundacion academia internacional de ciencias empresariales,calificado,quito,pichincha
+347,sesocorpsa s.a,calificado,guayaquil,guayas
+348,lopez mantuano mario henry,calificado,manta,manabi
+349,instituto superior tecnologico tsachila,calificado,santo domingo,santo domingo de los tsachilas
+350,instituto superior tecnológico riobamba,calificado,riobamba,chimborazo
+351,corporacion tauro cia. ltda.,calificado,quito,pichincha
+352,instituto asedu ecuador aseduecuador s.a.,calificado,guayaquil,guayas
+353,instituto de investigación e innovación superarc c.l.,calificado,quito,pichincha
+354,perugachi arroyo marlon paul,calificado,quito,pichincha
+355,jacome vera carlos augusto,calificado,quito,pichincha
+356,espin salas darwin daniel,calificado,ambato,tungurahua
+357,servicios de evacuación médica de emergencia medevacserv s.a.,calificado,quito,pichincha
+358,rodriguez silva alexandra estefania,calificado,quito,pichincha
+359,instituto tecnologico superior tecnoecuatoriano,calificado,quito,pichincha
+360,federacion nacional de personas sordas del ecuador - fenasec,calificado,quito,pichincha
+361,sociedad ecuatoriana de desarrollo educativo y social sedes,calificado,guayaquil,guayas
+362,pichincha humana,calificado,quito,pichincha
+363,macias silva evelyn carolina,calificado,riobamba,chimborazo
+364,capacitaciones gastronomicas del ecuador capchef s.a.,calificado,guayaquil,guayas
+365,buckingham english center s.a. buckcenter,calificado,guayaquil,guayas
+366,fundacion emprender el futuro,calificado,rumiñahui,pichincha
+367,econstrucciones riego y seguridad industrial seprytsa s.a.,calificado,latacunga,cotopaxi
+368,eduproyect proyecto global del ecuador s.a.,calificado,quito,pichincha
+369,abalco haro cristian patricio,calificado,quito,pichincha
+370,instituto superior tecnológico eugenio espejo,calificado,riobamba,chimborazo
+371,instituto superior tecnológico libertad,calificado,quito,pichincha
+372,redtotal cia. ltda.,calificado,quito,pichincha
+373,anaya centro de formacion style & beauty care,calificado,quito,pichincha
+374,altitudevm marketing digital cia.ltda.,calificado,guayaquil,guayas
+375,fundación cooperación y desarrollo,calificado,quito,pichincha
+376,centro educacional de idiomas y especializaciones administrativas cendia c.a.,calificado,quito,pichincha
+377,mateus francisco javier,calificado,quito,pichincha
+378,guerrero rodriguez ronal americo,calificado,lago agrio,sucumbios
+379,asesorias laboral express & consultores ambientales asociados s.a. laborexconsa,calificado,guayaquil,guayas
+380,ecuambiente consulting group cia. ltda.,calificado,quito,pichincha
+381,fundacion social fiallo serrano,calificado,quito,pichincha
+382,camacho del castillo maria belen,calificado,quito,pichincha
+383,bastidas padilla marivel cumanda,calificado,loja,loja
+384,nuñez vasquez angelo fernando,calificado,ambato,tungurahua
+385,empresa tecnica de energia y ambiente emteenam cia. ltda.,calificado,quito,pichincha
+386,guaman gualpa klever geovanny,calificado,salcedo,cotopaxi
+387,suquisupa espinoza angel rogerio,calificado,cuenca,azuay
+388,proaño rodriguez fernando andres,calificado,santo domingo,santo domingo de los tsachilas
+389,valdez cabrera sadier fabricio,calificado,guayaquil,guayas
+390,comite nacional ecuatoriano de la comision de integracion electrica regional,calificado,quito,pichincha
+391,corporacion de capacitacion social,calificado,guayaquil,guayas
+392,armijos carrion jorge luis,calificado,pasaje,el oro
+393,instituto tecnologico superior lendan,calificado,quito,pichincha
+394,letduy s.a.,calificado,guayaquil,guayas
+395,corporacion lideres para formacion y capacitacion empresarial,calificado,quito,pichincha
+396,campaña jaramillo wilson giovanny,calificado,quito,pichincha
 397,estrella castro sebastian benigno,calificado,francisco de orellana,sin provincia
-398,ibrahim vega sara leticia,calificado,quito,sin provincia
+398,ibrahim vega sara leticia,calificado,quito,pichincha
 399,lemma gianluca,calificado,a. baquerizo moreno,sin provincia
-400,fundacion ecuador,calificado,guayaquil,sin provincia
-401,cedeño macias gustavo ernesto,calificado,portoviejo,sin provincia
-402,cvimsa ecuador c-vimsaecuador s.a.,calificado,quito,sin provincia
-403,canec s.a.s. b.i.c.,calificado,quito,sin provincia
-404,novamanaba s.a.s.,calificado,portoviejo,sin provincia
-405,fundacion de la gente de mar,calificado,guayaquil,sin provincia
-406,escuela profesional y tecnica codadepro c.a.,calificado,quito,sin provincia
-407,cranes engineering & operator ecuador cia. ltda,calificado,quito,sin provincia
+400,fundacion ecuador,calificado,guayaquil,guayas
+401,cedeño macias gustavo ernesto,calificado,portoviejo,manabi
+402,cvimsa ecuador c-vimsaecuador s.a.,calificado,quito,pichincha
+403,canec s.a.s. b.i.c.,calificado,quito,pichincha
+404,novamanaba s.a.s.,calificado,portoviejo,manabi
+405,fundacion de la gente de mar,calificado,guayaquil,guayas
+406,escuela profesional y tecnica codadepro c.a.,calificado,quito,pichincha
+407,cranes engineering & operator ecuador cia. ltda,calificado,quito,pichincha
 408,muñeton achi holbach andres,calificado,samborondon,sin provincia
-409,mena argudo freddy roberto,calificado,milagro,sin provincia
-410,multibilingue ecuador mbe s.a.,calificado,guayaquil,sin provincia
-411,centro caec,calificado,quito,sin provincia
-412,culqui tipan javier fernando,calificado,latacunga,sin provincia
-413,asociacion de corredores de bienes raices del guayas acbir,calificado,guayaquil,sin provincia
-414,academia sudamericana de formacion en seguridad integral asfis cia.ltda.,calificado,guayaquil,sin provincia
-415,pablo oswaldo davila castro,calificado,ibarra,sin provincia
-416,fundacion rio guayas,calificado,guayaquil,sin provincia
-417,khozein badiee reuhollah,calificado,quito,sin provincia
-418,empresa publica de administracion y gestion de servicios y productos de proyectos de investigacion de la escuela politecnica nacional,calificado,quito,sin provincia
-419,regalado sangurima johanna maria,calificado,cuenca,sin provincia
-420,ecuaula capacitacion y desarrollo profesional del ecuador cadeproec cia.ltda.,calificado,machala,sin provincia
-421,chavez chavez luis alfonso,calificado,guayaquil,sin provincia
-422,romero sanchez franz hernan,calificado,guayaquil,sin provincia
-423,morales mejia juan francisco,calificado,cuenca,sin provincia
-424,idiomas sudamerica idisud cia. ltda.,calificado,quito,sin provincia
-425,learningecu compañia de responsabilidad limitada,calificado,quito,sin provincia
-426,centro de investigacion y estudios del deporte ciedd c.a.,calificado,quito,sin provincia
-427,contakit s.a.s.,calificado,machala,sin provincia
-428,caiza charco segundo pablo,calificado,pastaza,sin provincia
-429,gobierno autonomo descentralizado del distrito metropolitano de quito,calificado,quito,sin provincia
-430,instituto tecnologico superior jose chiriboga grijalva,calificado,ibarra,sin provincia
-431,farfan pazmiño gisela cristina,calificado,guayaquil,sin provincia
-432,asociacion de corredores de bienes raices acbir-azuay,calificado,cuenca,sin provincia
-433,quisingo caiza lizeth de los angeles,calificado,ambato,sin provincia
-434,ecl s.a.,calificado,quito,sin provincia
-435,element-c&t cia.ltda.,calificado,quito,sin provincia
-436,bustos ayovi fernando abrahan,calificado,quito,sin provincia
-437,insistecqhse s.a.,calificado,quito,sin provincia
-438,comision de transito del ecuador,calificado,guayaquil,sin provincia
-439,instituto superior universitario central tecnico,calificado,quito,sin provincia
-440,instituto tecnologico superior almirante illingworth,calificado,guayaquil,sin provincia
-441,instituto radiofonico fe y alegria - irfeyal,calificado,quito,sin provincia
-442,capacitacion y consultoria asomip cia. ltda.,calificado,quito,sin provincia
-443,corporacion ingenieria avanzada coinav del ecuador s.a.,calificado,ambato,sin provincia
-444,escuela de ingles lincolnenglishcenter cia.ltda.,calificado,machala,sin provincia
-445,get total getcons cia.ltda.,calificado,quito,sin provincia
-446,egae estrategia gestion alimentaria empresarial s.a.,calificado,quito,sin provincia
-447,centro de educacion continua epn,calificado,quito,sin provincia
-448,bustamante torres maria esterfilia,calificado,quito,sin provincia
-449,villegas rodriguez pablo hernan,calificado,quito,sin provincia
-450,fundacion de desarrollo humano y social latacu,calificado,latacunga,sin provincia
-451,dsa development & services advisors cia. ltda.,calificado,quito,sin provincia
-452,arias salazar gabriel esteban,calificado,cuenca,sin provincia
+409,mena argudo freddy roberto,calificado,milagro,guayas
+410,multibilingue ecuador mbe s.a.,calificado,guayaquil,guayas
+411,centro caec,calificado,quito,pichincha
+412,culqui tipan javier fernando,calificado,latacunga,cotopaxi
+413,asociacion de corredores de bienes raices del guayas acbir,calificado,guayaquil,guayas
+414,academia sudamericana de formacion en seguridad integral asfis cia.ltda.,calificado,guayaquil,guayas
+415,pablo oswaldo davila castro,calificado,ibarra,imbabura
+416,fundacion rio guayas,calificado,guayaquil,guayas
+417,khozein badiee reuhollah,calificado,quito,pichincha
+418,empresa publica de administracion y gestion de servicios y productos de proyectos de investigacion de la escuela politecnica nacional,calificado,quito,pichincha
+419,regalado sangurima johanna maria,calificado,cuenca,azuay
+420,ecuaula capacitacion y desarrollo profesional del ecuador cadeproec cia.ltda.,calificado,machala,el oro
+421,chavez chavez luis alfonso,calificado,guayaquil,guayas
+422,romero sanchez franz hernan,calificado,guayaquil,guayas
+423,morales mejia juan francisco,calificado,cuenca,azuay
+424,idiomas sudamerica idisud cia. ltda.,calificado,quito,pichincha
+425,learningecu compañia de responsabilidad limitada,calificado,quito,pichincha
+426,centro de investigacion y estudios del deporte ciedd c.a.,calificado,quito,pichincha
+427,contakit s.a.s.,calificado,machala,el oro
+428,caiza charco segundo pablo,calificado,pastaza,pastaza
+429,gobierno autonomo descentralizado del distrito metropolitano de quito,calificado,quito,pichincha
+430,instituto tecnologico superior jose chiriboga grijalva,calificado,ibarra,imbabura
+431,farfan pazmiño gisela cristina,calificado,guayaquil,guayas
+432,asociacion de corredores de bienes raices acbir-azuay,calificado,cuenca,azuay
+433,quisingo caiza lizeth de los angeles,calificado,ambato,tungurahua
+434,ecl s.a.,calificado,quito,pichincha
+435,element-c&t cia.ltda.,calificado,quito,pichincha
+436,bustos ayovi fernando abrahan,calificado,quito,pichincha
+437,insistecqhse s.a.,calificado,quito,pichincha
+438,comision de transito del ecuador,calificado,guayaquil,guayas
+439,instituto superior universitario central tecnico,calificado,quito,pichincha
+440,instituto tecnologico superior almirante illingworth,calificado,guayaquil,guayas
+441,instituto radiofonico fe y alegria - irfeyal,calificado,quito,pichincha
+442,capacitacion y consultoria asomip cia. ltda.,calificado,quito,pichincha
+443,corporacion ingenieria avanzada coinav del ecuador s.a.,calificado,ambato,tungurahua
+444,escuela de ingles lincolnenglishcenter cia.ltda.,calificado,machala,el oro
+445,get total getcons cia.ltda.,calificado,quito,pichincha
+446,egae estrategia gestion alimentaria empresarial s.a.,calificado,quito,pichincha
+447,centro de educacion continua epn,calificado,quito,pichincha
+448,bustamante torres maria esterfilia,calificado,quito,pichincha
+449,villegas rodriguez pablo hernan,calificado,quito,pichincha
+450,fundacion de desarrollo humano y social latacu,calificado,latacunga,cotopaxi
+451,dsa development & services advisors cia. ltda.,calificado,quito,pichincha
+452,arias salazar gabriel esteban,calificado,cuenca,azuay
 453,universidad particular de especialidades espiritu santo,calificado,samborondon,sin provincia
 454,compañia de ventas de bienes y servicio de seguridad industrial servinseg-pb,calificado,joya de los sachas,sin provincia
-455,bcibureau certificacion & inspeccion de equipos s.a.,calificado,quito,sin provincia
-456,"gestión, consultoría y capacitación pabón & asociados gepea cia.ltda.",calificado,ibarra,sin provincia
-457,gualli panchi silvana del rocio,calificado,riobamba,sin provincia
-458,jacome davalos juan manuel,calificado,quito,sin provincia
-459,yepez garcia yamil leonardo,calificado,quito,sin provincia
-460,montaño gonzalez jenny ximena,calificado,loja,sin provincia
-461,barrazueta & asociados consultora para el cambio organizacional cia. ltda.,calificado,quito,sin provincia
-462,3cgreat solutions s.a.s.,calificado,latacunga,sin provincia
-463,instituto superior tecnologico de futbol de quito istfq,calificado,quito,sin provincia
-464,mier mejia mary jeanneth,calificado,quito,sin provincia
-465,datalights cia.ltda.,calificado,cuenca,sin provincia
-466,barahona reyes mercedes lucia,calificado,quito,sin provincia
-467,granda gualpa darwin patricio,calificado,latacunga,sin provincia
-468,macias robles edmundo rafael,calificado,quito,sin provincia
-469,garcia villamarin marcia soledad,calificado,quito,sin provincia
-470,cardenas paz juan sebastian,calificado,manta,sin provincia
-471,xide,calificado,ibarra,sin provincia
-472,vera quintana asociados,calificado,quito,sin provincia
-473,consultoria de sistema integrado de gestión cia. ltda. cecuasig,calificado,guayaquil,sin provincia
-474,guevara aguilar yesenia del carmen,calificado,pastaza,sin provincia
-475,junta provincial de la cruz roja del guayas,calificado,guayaquil,sin provincia
-476,instituto superior tecnologico san antonio,calificado,quito,sin provincia
-477,instituto tecnologico superior vida nueva,calificado,quito,sin provincia
-478,vectigal consultores s.a.,calificado,guayaquil,sin provincia
-479,vasco vasco jorge antonio,calificado,riobamba,sin provincia
-480,editorial oceano ecuatoriana (edioceano) s.a.,calificado,quito,sin provincia
-481,instituto superior tecnológico manuel galecio,calificado,alausi,sin provincia
-482,instituto tecnologico sudamericano intesud,calificado,quito,sin provincia
-483,instituto tecnico de seguridad integral inssi cia.ltda.,calificado,quito,sin provincia
-484,excellence asesoría y capacitación suqvas cia.ltda.,calificado,cuenca,sin provincia
-485,universidad de las americas,calificado,quito,sin provincia
-486,greor ecuador grouptraining cia.ltda.,calificado,quito,sin provincia
-487,instituto superior pedagógico bilingue intercultural martha bucaram de roldós,calificado,lago agrio,sin provincia
-488,ccelite s.a.s.,calificado,guaranda,sin provincia
-489,asoinmed instituto tecnologico de investigaciones medicas & capacitacion de profesionales de la salud medicalinvest sociedad anonima,calificado,guayaquil,sin provincia
-490,flores recalde rodrigo fernando,calificado,quito,sin provincia
-491,centro de transferencia de tecnologias san gregorio,calificado,portoviejo,sin provincia
-492,servicios de capacitacion cadil moreira carpio&compañia,calificado,loja,sin provincia
-493,muñoz ochoa mauro alberto,calificado,loja,sin provincia
-494,servicios de formacion&desarrollo cotopaxi fordex cia.ltda.,calificado,latacunga,sin provincia
-495,obando montenegro jose enrique,calificado,guayaquil,sin provincia
-496,cuerpo de bomberos del distrito metropolitano de quito,calificado,quito,sin provincia
-497,instituto superior tecnológico tena,calificado,tena,sin provincia
-498,coloma almeida erick santiago,calificado,rumiñahui,sin provincia
-499,modeloares,calificado,quito,sin provincia
-500,vinueza tapia katherine stefany,calificado,quito,sin provincia
-501,instituto superior tecnológico sucre,calificado,quito,sin provincia
-502,instituto superior tecnológico cariamanga,calificado,loja,sin provincia
-503,chem consultores cia. ltda.,calificado,quito,sin provincia
-504,instituto tecnologico superior estetica integral,calificado,quito,sin provincia
-505,zurita guevara jose roberto,calificado,santo domingo,sin provincia
-506,clik capacitacion innovacion y liderazgo s.a.,calificado,santo domingo,sin provincia
-507,jimenez mendoza dolores monica,calificado,portoviejo,sin provincia
-508,marcillo gomez carlos augusto,calificado,quito,sin provincia
-509,centro de capacitacion profesional maldonado & moreira ccprom&m cia.ltda.,calificado,machala,sin provincia
-510,calle ramos froilan efrain,calificado,santo domingo,sin provincia
-511,fundacion de ayuda a la educacion,calificado,guayaquil,sin provincia
-512,suquisupa espinoza lucio humberto,calificado,cuenca,sin provincia
-513,asociacion experimento de convivencia internacional del ecuador,calificado,quito,sin provincia
-514,administracion de riesgos auditoria en seguridad y cobranzas arasco c.a.,calificado,guayaquil,sin provincia
-515,universidad tecnica de machala,calificado,machala,sin provincia
-516,instituto tecnologico superior tecnopolis instegpoli c.a.,calificado,guayaquil,sin provincia
-517,marmol uquillas jenny alexandra,calificado,quito,sin provincia
-518,formar centro de capacitacion profesional cia. ltda.,calificado,loja,sin provincia
-519,escuela nacional de ajedrez anaj s.a.,calificado,morona,sin provincia
-520,insurance training center capacitacion s.a.,calificado,quito,sin provincia
-521,servicios gastronomicos apeticorp (culinary trainer school),calificado,quito,sin provincia
-522,ortiz bustamante jostin josue,calificado,machala,sin provincia
-523,loayza cueva elisa maria,calificado,quito,sin provincia
-524,belleza y formacion bellform s.a.,calificado,quito,sin provincia
-525,empresa publica la uemprende ep,calificado,ibarra,sin provincia
-526,instituto de capacitación y entrenamiento airrescue s.a.,calificado,quito,sin provincia
-527,fernandez morales mariusky alexandra,calificado,quito,sin provincia
-528,instituto superior tecnologico del transporte,calificado,quito,sin provincia
-529,vicariato apostolico de esmeraldas mision comboniana,calificado,esmeraldas,sin provincia
-530,universidad de cuenca,calificado,cuenca,sin provincia
-531,"instituto superior de transito, criminalistica y ciencias forenses ecuaforenxia s.a.",calificado,guayaquil,sin provincia
-532,morocho jerez johnny byron,calificado,cuenca,sin provincia
-533,empresa publica de produccion y desarrollo estrategico de la universidad tecnica estatal de quevedo,calificado,quevedo,sin provincia
-534,peralta beltran consultores asociados cia. ltda,calificado,quito,sin provincia
-535,capetra risk consulting s.c.c.,calificado,quito,sin provincia
-536,hispaniarum s.a.s.,calificado,quito,sin provincia
-537,galindo losada julian andres,calificado,quito,sin provincia
-538,jaramillo morales norma violeta,calificado,guayaquil,sin provincia
-539,cuerpo de bomberos de shushufindi,calificado,shushufindi,sin provincia
-540,liderar ecuador liderarec cia. ltda.,calificado,quito,sin provincia
-541,cecad-centro de capacitaciones s.a.s. b.i.c.,calificado,cuenca,sin provincia
+455,bcibureau certificacion & inspeccion de equipos s.a.,calificado,quito,pichincha
+456,"gestión, consultoría y capacitación pabón & asociados gepea cia.ltda.",calificado,ibarra,imbabura
+457,gualli panchi silvana del rocio,calificado,riobamba,chimborazo
+458,jacome davalos juan manuel,calificado,quito,pichincha
+459,yepez garcia yamil leonardo,calificado,quito,pichincha
+460,montaño gonzalez jenny ximena,calificado,loja,loja
+461,barrazueta & asociados consultora para el cambio organizacional cia. ltda.,calificado,quito,pichincha
+462,3cgreat solutions s.a.s.,calificado,latacunga,cotopaxi
+463,instituto superior tecnologico de futbol de quito istfq,calificado,quito,pichincha
+464,mier mejia mary jeanneth,calificado,quito,pichincha
+465,datalights cia.ltda.,calificado,cuenca,azuay
+466,barahona reyes mercedes lucia,calificado,quito,pichincha
+467,granda gualpa darwin patricio,calificado,latacunga,cotopaxi
+468,macias robles edmundo rafael,calificado,quito,pichincha
+469,garcia villamarin marcia soledad,calificado,quito,pichincha
+470,cardenas paz juan sebastian,calificado,manta,manabi
+471,xide,calificado,ibarra,imbabura
+472,vera quintana asociados,calificado,quito,pichincha
+473,consultoria de sistema integrado de gestión cia. ltda. cecuasig,calificado,guayaquil,guayas
+474,guevara aguilar yesenia del carmen,calificado,pastaza,pastaza
+475,junta provincial de la cruz roja del guayas,calificado,guayaquil,guayas
+476,instituto superior tecnologico san antonio,calificado,quito,pichincha
+477,instituto tecnologico superior vida nueva,calificado,quito,pichincha
+478,vectigal consultores s.a.,calificado,guayaquil,guayas
+479,vasco vasco jorge antonio,calificado,riobamba,chimborazo
+480,editorial oceano ecuatoriana (edioceano) s.a.,calificado,quito,pichincha
+481,instituto superior tecnológico manuel galecio,calificado,alausi,chimborazo
+482,instituto tecnologico sudamericano intesud,calificado,quito,pichincha
+483,instituto tecnico de seguridad integral inssi cia.ltda.,calificado,quito,pichincha
+484,excellence asesoría y capacitación suqvas cia.ltda.,calificado,cuenca,azuay
+485,universidad de las americas,calificado,quito,pichincha
+486,greor ecuador grouptraining cia.ltda.,calificado,quito,pichincha
+487,instituto superior pedagógico bilingue intercultural martha bucaram de roldós,calificado,lago agrio,sucumbios
+488,ccelite s.a.s.,calificado,guaranda,bolivar
+489,asoinmed instituto tecnologico de investigaciones medicas & capacitacion de profesionales de la salud medicalinvest sociedad anonima,calificado,guayaquil,guayas
+490,flores recalde rodrigo fernando,calificado,quito,pichincha
+491,centro de transferencia de tecnologias san gregorio,calificado,portoviejo,manabi
+492,servicios de capacitacion cadil moreira carpio&compañia,calificado,loja,loja
+493,muñoz ochoa mauro alberto,calificado,loja,loja
+494,servicios de formacion&desarrollo cotopaxi fordex cia.ltda.,calificado,latacunga,cotopaxi
+495,obando montenegro jose enrique,calificado,guayaquil,guayas
+496,cuerpo de bomberos del distrito metropolitano de quito,calificado,quito,pichincha
+497,instituto superior tecnológico tena,calificado,tena,napo
+498,coloma almeida erick santiago,calificado,rumiñahui,pichincha
+499,modeloares,calificado,quito,pichincha
+500,vinueza tapia katherine stefany,calificado,quito,pichincha
+501,instituto superior tecnológico sucre,calificado,quito,pichincha
+502,instituto superior tecnológico cariamanga,calificado,loja,loja
+503,chem consultores cia. ltda.,calificado,quito,pichincha
+504,instituto tecnologico superior estetica integral,calificado,quito,pichincha
+505,zurita guevara jose roberto,calificado,santo domingo,santo domingo de los tsachilas
+506,clik capacitacion innovacion y liderazgo s.a.,calificado,santo domingo,santo domingo de los tsachilas
+507,jimenez mendoza dolores monica,calificado,portoviejo,manabi
+508,marcillo gomez carlos augusto,calificado,quito,pichincha
+509,centro de capacitacion profesional maldonado & moreira ccprom&m cia.ltda.,calificado,machala,el oro
+510,calle ramos froilan efrain,calificado,santo domingo,santo domingo de los tsachilas
+511,fundacion de ayuda a la educacion,calificado,guayaquil,guayas
+512,suquisupa espinoza lucio humberto,calificado,cuenca,azuay
+513,asociacion experimento de convivencia internacional del ecuador,calificado,quito,pichincha
+514,administracion de riesgos auditoria en seguridad y cobranzas arasco c.a.,calificado,guayaquil,guayas
+515,universidad tecnica de machala,calificado,machala,el oro
+516,instituto tecnologico superior tecnopolis instegpoli c.a.,calificado,guayaquil,guayas
+517,marmol uquillas jenny alexandra,calificado,quito,pichincha
+518,formar centro de capacitacion profesional cia. ltda.,calificado,loja,loja
+519,escuela nacional de ajedrez anaj s.a.,calificado,morona,morona santiago
+520,insurance training center capacitacion s.a.,calificado,quito,pichincha
+521,servicios gastronomicos apeticorp (culinary trainer school),calificado,quito,pichincha
+522,ortiz bustamante jostin josue,calificado,machala,el oro
+523,loayza cueva elisa maria,calificado,quito,pichincha
+524,belleza y formacion bellform s.a.,calificado,quito,pichincha
+525,empresa publica la uemprende ep,calificado,ibarra,imbabura
+526,instituto de capacitación y entrenamiento airrescue s.a.,calificado,quito,pichincha
+527,fernandez morales mariusky alexandra,calificado,quito,pichincha
+528,instituto superior tecnologico del transporte,calificado,quito,pichincha
+529,vicariato apostolico de esmeraldas mision comboniana,calificado,esmeraldas,esmeraldas
+530,universidad de cuenca,calificado,cuenca,azuay
+531,"instituto superior de transito, criminalistica y ciencias forenses ecuaforenxia s.a.",calificado,guayaquil,guayas
+532,morocho jerez johnny byron,calificado,cuenca,azuay
+533,empresa publica de produccion y desarrollo estrategico de la universidad tecnica estatal de quevedo,calificado,quevedo,los rios
+534,peralta beltran consultores asociados cia. ltda,calificado,quito,pichincha
+535,capetra risk consulting s.c.c.,calificado,quito,pichincha
+536,hispaniarum s.a.s.,calificado,quito,pichincha
+537,galindo losada julian andres,calificado,quito,pichincha
+538,jaramillo morales norma violeta,calificado,guayaquil,guayas
+539,cuerpo de bomberos de shushufindi,calificado,shushufindi,sucumbios
+540,liderar ecuador liderarec cia. ltda.,calificado,quito,pichincha
+541,cecad-centro de capacitaciones s.a.s. b.i.c.,calificado,cuenca,azuay
 542,valencia martinez nelly beatriz,suspendido,sin cantón,sin provincia
 543,escobar garces marcela felicidad,finalizo vigencia de calificacion,sin cantón,sin provincia
 544,aules centeno sandra amparito,finalizo vigencia de calificacion,sin cantón,sin provincia
@@ -572,710 +572,170 @@ id_oc,nombre,estado,canton,provincia
 570,soluciones estrategicas empresariales solec cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
 571,bellaexpert representaciones cia.ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
 572,andrade haro byron robespierre,finalizo vigencia de calificacion,sin cantón,sin provincia
-573,universidad tecnica de cotopaxi,finalizo vigencia de calificacion,sin cantón,sin provincia
-574,herrera armas marlene rafaela,finalizo vigencia de calificacion,sin cantón,sin provincia
-575,velasco merizalde erick israel,finalizo vigencia de calificacion,sin cantón,sin provincia
-576,ceron gordon jorge david,finalizo vigencia de calificacion,sin cantón,sin provincia
-577,cordero crespo diana paola,finalizo vigencia de calificacion,sin cantón,sin provincia
-578,instituto superior tecnológico paulo emilio macías,finalizo vigencia de calificacion,sin cantón,sin provincia
-579,instituto superior tecnológico babahoyo,finalizo vigencia de calificacion,sin cantón,sin provincia
-580,rosales vicente dilcia barbarita,finalizo vigencia de calificacion,sin cantón,sin provincia
-581,empresa de calidad y servicios organizacionales ecso s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-582,centro de capacitacion ocupacional particular canadian,finalizo vigencia de calificacion,sin cantón,sin provincia
-583,corrales andrade marco patricio,finalizo vigencia de calificacion,sin cantón,sin provincia
-584,instituto de capacitacion de la pequena industria de pichincha icapi,finalizo vigencia de calificacion,sin cantón,sin provincia
-585,software y soluciones softcontrol s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-586,fine tuned catamayo,finalizo vigencia de calificacion,sin cantón,sin provincia
-587,"centro de formacion profesional "" nikola tesla"" niktesla cia ltda.",finalizo vigencia de calificacion,sin cantón,sin provincia
-588,cedeño rodriguez leonor andrea,finalizo vigencia de calificacion,sin cantón,sin provincia
-589,instituto superior tecnologico bolivariano de tecnologia,finalizo vigencia de calificacion,sin cantón,sin provincia
-590,escuela latinoamericana de seguridad eslaseg cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
-591,"empresa publica de obras, bienes y servicios santa elena ep",finalizo vigencia de calificacion,sin cantón,sin provincia
-592,escuela de conductores profesionales espol ep,finalizo vigencia de calificacion,sin cantón,sin provincia
-593,instituto superior tecnologico de artes visuales de quito,finalizo vigencia de calificacion,sin cantón,sin provincia
-594,fundacion centro integral de la familia,finalizo vigencia de calificacion,sin cantón,sin provincia
-595,facultad de comunicacion social de la universidad central del ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
-596,eci sc,finalizo vigencia de calificacion,sin cantón,sin provincia
-597,endavant s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-598,rodas duque consultores integrales cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-599,serrador osorio yuli marcela,finalizo vigencia de calificacion,sin cantón,sin provincia
-600,centro de enseñanza de idiomas simon bolivar/ bolivar education s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-601,information security del ecuador inc. s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-602,capasuem sociedad anónima,finalizo vigencia de calificacion,sin cantón,sin provincia
-603,british school of languages cia. ltda. acambrit,finalizo vigencia de calificacion,sin cantón,sin provincia
-604,coronel andrade luis eduardo,finalizo vigencia de calificacion,sin cantón,sin provincia
-605,asociacion de profesionales naturopatas del ecuador a.p.n.e.,finalizo vigencia de calificacion,sin cantón,sin provincia
-606,instituto superior tecnológico benito juarez,finalizo vigencia de calificacion,sin cantón,sin provincia
-607,acosta morales & asociados soluciones empresariales s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-608,gls tech,finalizo vigencia de calificacion,sin cantón,sin provincia
-609,gobierno autonomo descentralizado provincial de santo domingo de los tsachilas,finalizo vigencia de calificacion,sin cantón,sin provincia
-610,jativa diaz karina del rocio,finalizo vigencia de calificacion,sin cantón,sin provincia
-611,dajavcorp cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-612,robayo luzuriaga dorys xeomara,finalizo vigencia de calificacion,sin cantón,sin provincia
-613,aguirre farinango monica del rocio,finalizo vigencia de calificacion,sin cantón,sin provincia
-614,real cruz jinsop daniel,finalizo vigencia de calificacion,sin cantón,sin provincia
-615,academia culinaria esmeraldas gourmet consultora y capacitadora turística,finalizo vigencia de calificacion,sin cantón,sin provincia
-616,servicios de consultoria y capacitacion sircap cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-617,cconsultora groupsaoc cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
-618,institutosantafe s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-619,fuel almendariz nuvia estela,finalizo vigencia de calificacion,sin cantón,sin provincia
-620,instituto tecnologico superior honorable consejo provincial de pichincha,finalizo vigencia de calificacion,sin cantón,sin provincia
-621,instituto superior tecnológico luis napoleón dillon,finalizo vigencia de calificacion,sin cantón,sin provincia
-622,amauta spanish school amauspanish cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-623,gobierno autonomo descentralizado del distrito metropolitano de quito,finalizo vigencia de calificacion,sin cantón,sin provincia
-624,corporacion de servicios tbl s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-625,erazo luna andres mauricio,finalizo vigencia de calificacion,sin cantón,sin provincia
-626,ponce rosero juan ramon,finalizo vigencia de calificacion,sin cantón,sin provincia
-627,centro de capacitacion ocupacional particular gusteau,finalizo vigencia de calificacion,sin cantón,sin provincia
-628,cabascango guato diego patricio,finalizo vigencia de calificacion,sin cantón,sin provincia
-629,estrella saltos jorge luis,finalizo vigencia de calificacion,sin cantón,sin provincia
-630,coba baca diana carolina,finalizo vigencia de calificacion,sin cantón,sin provincia
-631,lar 7 estudio,finalizo vigencia de calificacion,sin cantón,sin provincia
-632,albangroupcce cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-633,zevallos layana maria daniela,finalizo vigencia de calificacion,sin cantón,sin provincia
-634,morales estrella kevin daniel,finalizo vigencia de calificacion,sin cantón,sin provincia
-635,sanchez ortiz gladys mariana de jesus,finalizo vigencia de calificacion,sin cantón,sin provincia
-636,chalco maza cristhian emilio,finalizo vigencia de calificacion,sin cantón,sin provincia
-637,fundacion familia integral fami,finalizo vigencia de calificacion,sin cantón,sin provincia
-638,alata-innovacion s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-639,centro particular de capacitacion ocupacional carapungo,finalizo vigencia de calificacion,sin cantón,sin provincia
-640,manomarchef s a,finalizo vigencia de calificacion,sin cantón,sin provincia
-641,direccion nacional de registro de datos publicos,finalizo vigencia de calificacion,sin cantón,sin provincia
-642,ennas academia culinaria eac s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-643,asesoria y servicios serviasmg s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-644,projectic-ingenieria y capacitacion s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-645,hidrobo salazar raul hernan,finalizo vigencia de calificacion,sin cantón,sin provincia
-646,integrity solutions intsolutions cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-647,andrade cadena sonia geoconda del rocio,finalizo vigencia de calificacion,sin cantón,sin provincia
-648,freire perugachi leoncio miguel,finalizo vigencia de calificacion,sin cantón,sin provincia
-649,elitelogis servicios & soluciones logisticas s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-650,instituto superior tecnológico oscar efrén reyes,finalizo vigencia de calificacion,sin cantón,sin provincia
-651,rodriguez morales jessenia nathaly,finalizo vigencia de calificacion,sin cantón,sin provincia
-652,escobar lopez gustavo vicente,finalizo vigencia de calificacion,sin cantón,sin provincia
-653,baldeon parreño fabian wladimir,finalizo vigencia de calificacion,sin cantón,sin provincia
-654,hospitality training school hotrs cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-655,ingenieria para el desarrollo acurio y asociados s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-656,ecuaforense gestion forense e investigaciones digitales cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-657,"ccorporacion fanaem formacion, actualizacion, normas y asesoria empresarialorpo",finalizo vigencia de calificacion,sin cantón,sin provincia
-658,tenorio pantoja adela cristina,finalizo vigencia de calificacion,sin cantón,sin provincia
-659,camara de comercio del canton santo domingo,finalizo vigencia de calificacion,sin cantón,sin provincia
-660,gestion en informacion y tecnologia gestiontec cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-661,rivadeneira jimenez carmen italia,finalizo vigencia de calificacion,sin cantón,sin provincia
-662,soluciones de comercio exterior capacitacion y consultoria cia ltda sc3 cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
-663,leon diaz emerson simon,finalizo vigencia de calificacion,sin cantón,sin provincia
-664,consultora paradigma de servicios educativos innovaeduca cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
-665,kognitive s.c.c.,finalizo vigencia de calificacion,sin cantón,sin provincia
-666,operacion y gerencia oeg s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-667,ccorh s a,finalizo vigencia de calificacion,sin cantón,sin provincia
-668,noriega ureña yolanda narcisa,finalizo vigencia de calificacion,sin cantón,sin provincia
-669,asesoria integral de gestion asinge,finalizo vigencia de calificacion,sin cantón,sin provincia
-670,consultora de formacion integral y superior cfisec s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-671,romero gallardo maria elena,finalizo vigencia de calificacion,sin cantón,sin provincia
-672,qesconsultores s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-673,centro de capacitacion ocupacional fine tuned zamora,finalizo vigencia de calificacion,sin cantón,sin provincia
-674,corporacion educativa ser,finalizo vigencia de calificacion,sin cantón,sin provincia
-675,instituto superior tecnológico victoria vásconez cuvi,finalizo vigencia de calificacion,sin cantón,sin provincia
-676,lopez arcia yunier,finalizo vigencia de calificacion,sin cantón,sin provincia
-677,buzetta ricaurte maria fernanda,finalizo vigencia de calificacion,sin cantón,sin provincia
-678,guaman calvopiña miguel marcelo,finalizo vigencia de calificacion,sin cantón,sin provincia
-679,gina fernanda martinez garrido,finalizo vigencia de calificacion,sin cantón,sin provincia
-680,castro gonzales fredy,finalizo vigencia de calificacion,sin cantón,sin provincia
-681,instituto superior tecnológico república del ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
-682,jaramillo zuñiga jenny patricia concepcion,finalizo vigencia de calificacion,sin cantón,sin provincia
-683,tcla training center for latin america,finalizo vigencia de calificacion,sin cantón,sin provincia
-684,espinosa calderon jefferson manuel,finalizo vigencia de calificacion,sin cantón,sin provincia
-685,idrovo ortiz francisco xavier,finalizo vigencia de calificacion,sin cantón,sin provincia
-686,olivo cruz margarita carolina,finalizo vigencia de calificacion,sin cantón,sin provincia
-687,pullas y moreno asociados cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
-688,cevallos palma juan kleber,finalizo vigencia de calificacion,sin cantón,sin provincia
-689,instituto superior tecnológico josé benigno iglesias,finalizo vigencia de calificacion,sin cantón,sin provincia
-690,hernandez bustos roque jacinto,finalizo vigencia de calificacion,sin cantón,sin provincia
-691,centro de enseñanza superior cenperior c.a,finalizo vigencia de calificacion,sin cantón,sin provincia
-692,summaservices s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-693,instituto superior tecnológico ángel polivio chavez,finalizo vigencia de calificacion,sin cantón,sin provincia
-694,pineda rojas darwin jack,finalizo vigencia de calificacion,sin cantón,sin provincia
-695,fundacion sumate por la equidad,finalizo vigencia de calificacion,sin cantón,sin provincia
-696,unae-ep,finalizo vigencia de calificacion,sin cantón,sin provincia
-697,arias huertas rafael ricardo,finalizo vigencia de calificacion,sin cantón,sin provincia
-698,davila mera arturo rene,finalizo vigencia de calificacion,sin cantón,sin provincia
-699,instituto superior tecnologico cruz roja ecuatoriana,finalizo vigencia de calificacion,sin cantón,sin provincia
-700,instituto superior tecnológico consejo provincial de pichincha,finalizo vigencia de calificacion,sin cantón,sin provincia
-701,instituto superior tecnológico luis a. martínez (agronomico),finalizo vigencia de calificacion,sin cantón,sin provincia
-702,estandares normativas & inspeccion enii s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-703,guzman banegas david rene,finalizo vigencia de calificacion,sin cantón,sin provincia
-704,amagua guallichico luis renato,finalizo vigencia de calificacion,sin cantón,sin provincia
-705,oña suquillo martha soledad,finalizo vigencia de calificacion,sin cantón,sin provincia
-706,instituto de capacitacion tecnico profesional incateprof cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-707,mendoza perez everlidys,finalizo vigencia de calificacion,sin cantón,sin provincia
-708,carbay vacacela walther vinicio,finalizo vigencia de calificacion,sin cantón,sin provincia
-709,human resources asesoria davitalent s.a,finalizo vigencia de calificacion,sin cantón,sin provincia
-710,sindicato provincial de choferes profesionales de imbabura,finalizo vigencia de calificacion,sin cantón,sin provincia
-711,araujo carrasco vilma cumanda,finalizo vigencia de calificacion,sin cantón,sin provincia
-712,capacitacion y proyectos en movilidad san francisco sftransit s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
-713,universidad andina simon bolivar sede ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
-714,corporacion elite,finalizo vigencia de calificacion,sin cantón,sin provincia
-715,fortia consulting fortiaec cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-716,moreano pozo nataly karina,finalizo vigencia de calificacion,sin cantón,sin provincia
-717,villagomez cabezas richard italo,finalizo vigencia de calificacion,sin cantón,sin provincia
-718,fundacion centro de investigacion y capacitacion electrica cice,finalizo vigencia de calificacion,sin cantón,sin provincia
-719,rousetcgj de cautivo s.a,finalizo vigencia de calificacion,sin cantón,sin provincia
-720,kpacinnova cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
-721,caiza logacho edison fernando,cancelado definitivamente,sin cantón,sin provincia
-722,centro de capacitacion lady del valle,cancelado definitivamente,sin cantón,sin provincia
-723,centro de formacion security safety and training sstt cia. ltda.,cancelado definitivamente,sin cantón,sin provincia
-724,blue-it s.a.,cancelado definitivamente,sin cantón,sin provincia
-725,bautista moposita lucia maricela,cancelado definitivamente,sin cantón,sin provincia
-726,villavicencio reyes oscar patricio,cancelado definitivamente,sin cantón,sin provincia
-727,pico espin alba estela,cancelado definitivamente,sin cantón,sin provincia
-728,ctsa s.a. centro de capacitacion para tripulantes de cabinas y servicios aeroportuarios,cancelado definitivamente,sin cantón,sin provincia
-729,araujo carrasco mirian maribel / centro de capacitación artesanal evolución internacional,cancelado definitivamente,sin cantón,sin provincia
-730,fundacion educativa mons. candido rada,cancelado definitivamente,sin cantón,sin provincia
-731,eta - elite tactical academy-ec cia.ltda.,cancelado definitivamente,sin cantón,sin provincia
-732,logroño mendoza henry nicolas,cancelado definitivamente,sin cantón,sin provincia
-733,regalado sangurima johanna maria,desconocido,cuenca,azuay
-734,esccape cia.ltda.,desconocido,cuenca,azuay
-735,green work consultores,desconocido,cuenca,azuay
-736,arias salazar gabriel esteban,desconocido,cuenca,azuay
-737,instituto superior tecnologico del azuay,desconocido,cuenca,azuay
-738,datalights cia.ltda.,desconocido,cuenca,azuay
-739,mogrovejo narvaez jhoni william,desconocido,cuenca,azuay
-740,alexandra elizabeht garcia reino,desconocido,cuenca,azuay
-741,asociacion de corredores de bienes raices acbir-azuay,desconocido,cuenca,azuay
-742,excellence asesoría y capacitación suqvas cia.ltda.,desconocido,cuenca,azuay
-743,universidad de cuenca,desconocido,cuenca,azuay
-744,suquisupa espinoza angel rogerio,desconocido,cuenca,azuay
-745,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,desconocido,cuenca,azuay
-746,morocho jerez johnny byron,desconocido,cuenca,azuay
-747,morales mejia juan francisco,desconocido,cuenca,azuay
-748,academia aeronautica yireh flyting yirehfly cia. ltda.,desconocido,cuenca,azuay
-749,suquisupa espinoza lucio humberto,desconocido,cuenca,azuay
-750,cctec,desconocido,cuenca,azuay
-751,cecad-centro de capacitaciones s.a.s. b.i.c.,desconocido,cuenca,azuay
-752,instituto superior tecnológico san pablo de atenas,desconocido,san miguel,bolivar
-753,ccelite s.a.s.,desconocido,guaranda,bolivar
-754,instituto superior tecnológico tres de marzo,desconocido,chimbo,bolivar
-755,instituto superior tecnológico ángel polivio chavez,desconocido,guaranda,bolivar
-756,instituto superior tecnológico guaranda,desconocido,guaranda,bolivar
-757,instituto superior tecnológico luis rogerio gonzález,desconocido,azogues,cañar
-758,instituto superior tecnológico dr. enrique novoa arízaga,desconocido,la troncal,cañar
-759,sociedad civil anonima cambria international languaje academy efl s.c.,desconocido,tulcan,sin provincia
-760,fad prevention cia. ltda.,desconocido,latacunga,cotopaxi
-761,narvaez ibujes elsa esperanza,desconocido,latacunga,cotopaxi
-762,esmeraldas zambrano leonel enrique,desconocido,latacunga,cotopaxi
-763,culqui tipan javier fernando,desconocido,latacunga,cotopaxi
-764,universidad tecnica de cotopaxi,desconocido,latacunga,cotopaxi
-765,consultoria y capacitacion damagecuador s.a.,desconocido,salcedo,cotopaxi
-766,guaman gualpa klever geovanny,desconocido,salcedo,cotopaxi
-767,escobar machasilla denis paola,desconocido,latacunga,cotopaxi
-768,servicios de formacion&desarrollo cotopaxi fordex cia.ltda.,desconocido,latacunga,cotopaxi
-769,espinosa bravo jessy jimena,desconocido,latacunga,cotopaxi
-770,instituto superior tecnológico vicente leon,desconocido,latacunga,cotopaxi
-771,instituto superior tecnológico cotopaxi,desconocido,latacunga,cotopaxi
-772,legal coach legal-coach-c&a cia.ltda.,desconocido,latacunga,cotopaxi
-773,llaulli tapia adrian alfredo,desconocido,latacunga,cotopaxi
-774,moreno escobar karina natali,desconocido,latacunga,cotopaxi
-775,granda gualpa darwin patricio,desconocido,latacunga,cotopaxi
-776,fundacion de desarrollo humano y social latacu,desconocido,latacunga,cotopaxi
-777,3cgreat solutions s.a.s.,desconocido,latacunga,cotopaxi
-778,jacho villafuerte daniel moises,desconocido,latacunga,cotopaxi
-779,econstrucciones riego y seguridad industrial seprytsa s.a.,desconocido,latacunga,cotopaxi
-780,organizacion hse ecuador ehsq c l,desconocido,riobamba,chimborazo
-781,vasco vasco jorge antonio,desconocido,riobamba,chimborazo
-782,morales alarcon cristian hugo,desconocido,riobamba,chimborazo
-783,calles jimenez veronica gabriela,desconocido,riobamba,chimborazo
-784,ramirez chinlli edwin javier,desconocido,riobamba,chimborazo
-785,macias silva evelyn carolina,desconocido,riobamba,chimborazo
-786,instituto superior tecnológico eugenio espejo,desconocido,riobamba,chimborazo
-787,bioecopaz consultoria y servicios ambientales,desconocido,riobamba,chimborazo
-788,lemache aguagallo jorge mauricio,desconocido,riobamba,chimborazo
-789,instituto superior tecnológico carlos cisneros,desconocido,riobamba,chimborazo
-790,instituto superior pedagogico jaime roldos aguilera-bilingue intercultural,desconocido,colta,chimborazo
-791,instituto superior tecnológico riobamba,desconocido,riobamba,chimborazo
-792,gualli panchi silvana del rocio,desconocido,riobamba,chimborazo
-793,instituto superior tecnológico manuel galecio,desconocido,alausi,chimborazo
-794,reasons4life s a,desconocido,machala,el oro
-795,ecuaula capacitacion y desarrollo profesional del ecuador cadeproec cia.ltda.,desconocido,machala,el oro
-796,proevaluation de el oro proevor cia ltda,desconocido,machala,el oro
-797,instituto superior tecnológico ismael pérez pazmiño,desconocido,machala,el oro
-798,universidad tecnica de machala,desconocido,machala,el oro
-799,centro de capacitacion profesional maldonado & moreira ccprom&m cia.ltda.,desconocido,machala,el oro
-800,contakit s.a.s.,desconocido,machala,el oro
-801,ortiz bustamante jostin josue,desconocido,machala,el oro
-802,escuela de ingles lincolnenglishcenter cia.ltda.,desconocido,machala,el oro
-803,armijos carrion jorge luis,desconocido,pasaje,el oro
-804,vicariato apostolico de esmeraldas mision comboniana,desconocido,esmeraldas,esmeraldas
-805,caceres jimenez carol jazmin,desconocido,santa cruz,galapagos
-806,compañia de enseñanza martillo saa s.a. martisaa,desconocido,guayaquil,guayas
-807,jaramillo morales norma violeta,desconocido,guayaquil,guayas
-808,valdez macias luis alfredo,desconocido,guayaquil,guayas
-809,instituto de formacion academica proezas insformac s.a.,desconocido,guayaquil,guayas
-810,panchana san lucas yulafin elizabeth,desconocido,guayaquil,guayas
-811,"instituto superior de transito, criminalistica y ciencias forenses ecuaforenxia s.a.",desconocido,guayaquil,guayas
-812,la escuela de los chefs servichefs s.a.,desconocido,guayaquil,guayas
-813,instituto tecnologico superior tecnopolis instegpoli c.a.,desconocido,guayaquil,guayas
-814,administracion de riesgos auditoria en seguridad y cobranzas arasco c.a.,desconocido,guayaquil,guayas
-815,fundacion de ayuda a la educacion,desconocido,guayaquil,guayas
-816,"reybanpac, rey banano del pacifico c.l.",desconocido,guayaquil,guayas
-817,obando montenegro jose enrique,desconocido,guayaquil,guayas
-818,universidad tecnologica empresarial de guayaquil - uteg,desconocido,guayaquil,guayas
-819,asoinmed instituto tecnologico de investigaciones medicas & capacitacion de profesionales de la salud medicalinvest sociedad anonima,desconocido,guayaquil,guayas
-820,capacitación y consultoría de empresas kappaconsulting s.a.,desconocido,guayaquil,guayas
-821,vectigal consultores s.a.,desconocido,guayaquil,guayas
-822,universidad catolica de santiago de guayaquil,desconocido,colimes,guayas
-823,centro ecuatoriano norteamericano de guayaquil,desconocido,guayaquil,guayas
-824,romero soriano juan lorenzo xavier,desconocido,guayaquil,guayas
-825,junta provincial de la cruz roja del guayas,desconocido,guayaquil,guayas
-826,consultoria de sistema integrado de gestión cia. ltda. cecuasig,desconocido,guayaquil,guayas
-827,tutiven fuentes lider gaston,desconocido,guayaquil,guayas
-828,hernandez alvarado rodrigo guillermo,desconocido,samborondon,sin provincia
-829,universidad particular de especialidades espiritu santo,desconocido,samborondon,sin provincia
-830,schatz & wissen wichatz cia ltda,desconocido,guayaquil,guayas
-831,instituto tecnologico superior almirante illingworth,desconocido,guayaquil,guayas
-832,comision de transito del ecuador,desconocido,guayaquil,guayas
-833,farfan pazmiño gisela cristina,desconocido,guayaquil,guayas
-834,romero sanchez franz hernan,desconocido,guayaquil,guayas
-835,chavez chavez luis alfonso,desconocido,guayaquil,guayas
-836,fundacion rio guayas,desconocido,guayaquil,guayas
-837,academia sudamericana de formacion en seguridad integral asfis cia.ltda.,desconocido,guayaquil,guayas
-838,asociacion de corredores de bienes raices del guayas acbir,desconocido,guayaquil,guayas
-839,multibilingue ecuador mbe s.a.,desconocido,guayaquil,guayas
-840,forthright trade solutions s.a. fts,desconocido,guayaquil,guayas
-841,mena argudo freddy roberto,desconocido,milagro,guayas
-842,muñeton achi holbach andres,desconocido,samborondon,sin provincia
-843,fundacion de la gente de mar,desconocido,guayaquil,guayas
-844,ecugenius s.a.,desconocido,guayaquil,guayas
-845,fundacion ecuador,desconocido,guayaquil,guayas
-846,lemma gianluca,desconocido,a. baquerizo moreno,sin provincia
-847,moran zambrano jose fernando,desconocido,guayaquil,guayas
-848,herrera suarez franklin bolivar,desconocido,guayaquil,guayas
-849,letduy s.a.,desconocido,guayaquil,guayas
-850,corporacion de capacitacion social,desconocido,guayaquil,guayas
-851,valdez cabrera sadier fabricio,desconocido,guayaquil,guayas
-852,intensive english course s.a. iecsa,desconocido,guayaquil,guayas
-853,asesorias laboral express & consultores ambientales asociados s.a. laborexconsa,desconocido,guayaquil,guayas
-854,altitudevm marketing digital cia.ltda.,desconocido,guayaquil,guayas
-855,buckingham english center s.a. buckcenter,desconocido,guayaquil,guayas
-856,capacitaciones gastronomicas del ecuador capchef s.a.,desconocido,guayaquil,guayas
-857,instituto superior tecnológico centro tecnologico naval,desconocido,guayaquil,guayas
-858,instituto superior tecnológico simón bolívar,desconocido,guayaquil,guayas
-859,sociedad ecuatoriana de desarrollo educativo y social sedes,desconocido,guayaquil,guayas
-860,buck letting agency bucklet s.a.,desconocido,guayaquil,guayas
-861,instituto asedu ecuador aseduecuador s.a.,desconocido,guayaquil,guayas
-862,fundacion asesores en desarrollo social ades,desconocido,guayaquil,guayas
-863,capacitación e innovaciones innovateach s.a.,desconocido,milagro,guayas
-864,sociedad general de certificaciones ensayos y calibraciones del ecuador s.a. sgcec del ecuador,desconocido,samborondon,sin provincia
-865,sesocorpsa s.a,desconocido,guayaquil,guayas
-866,captecsol s.a.,desconocido,guayaquil,guayas
-867,dos santos alice,desconocido,guayaquil,guayas
-868,f&e ecuatoriana s.a.,desconocido,guayaquil,guayas
-869,narvaez velasquez pablo alejandro,desconocido,daule,guayas
-870,fundacion proyecto salesiano guayaquil,desconocido,guayaquil,guayas
-871,imporvalor s.a.,desconocido,guayaquil,guayas
-872,s.g.s. del ecuador s.a.,desconocido,guayaquil,guayas
-873,lca academia culinaria lcaculinaria c.ltda.,desconocido,guayaquil,guayas
-874,corporacion acerfim asesoria financiera y capacitacion empresarial,desconocido,guayaquil,guayas
-875,ruano sanchez alexandra del rocio,desconocido,guayaquil,guayas
-876,suarez sanandres rosa del carmen,desconocido,guayaquil,guayas
-877,consorcio aerosuspendido guayaquil poma s.a.s y sofratesa inc.,desconocido,guayaquil,guayas
-878,corporacion desarrollo cultural integral,desconocido,guayaquil,guayas
-879,ensicapac c.ltda.,desconocido,guayaquil,guayas
-880,damiani consultores cia. ltda.,desconocido,guayaquil,guayas
-881,berrezueta rios fernando javier,desconocido,guayaquil,guayas
-882,pacheco barreto maria cristina,desconocido,guayaquil,guayas
-883,nsf ecuador s.a.,desconocido,samborondon,sin provincia
-884,ecuador capacitacion sercafp s.a.s.,desconocido,guayaquil,guayas
-885,torres klinger gianni alan,desconocido,daule,guayas
-886,torres salazar walter william,desconocido,milagro,guayas
-887,centro de formación gastronómico milagro diaz & arce cefogami s.a.,desconocido,daule,guayas
-888,asociacion red de talento humano del ecuador redthumanoec s.a.,desconocido,guayaquil,guayas
-889,instituto de capacitacion en seguridad s.a. incasi,desconocido,guayaquil,guayas
-890,fundacion educativa camae - camara maritima del ecuador,desconocido,guayaquil,guayas
-891,novillo mendoza max andres,desconocido,guayaquil,guayas
-892,fundacion benefica accion solidaria,desconocido,guayaquil,guayas
-893,inspad instituto pedagogico y atencion a la diversidad s.a.s.,desconocido,duran,sin provincia
-894,chamorro chamorro wilfrido orlando,desconocido,otavalo,imbabura
-895,instituto tecnologico superior ibarra,desconocido,ibarra,imbabura
-896,instituto superior tecnologico oriente,desconocido,ibarra,imbabura
-897,instituto tecnologico superior jose chiriboga grijalva,desconocido,ibarra,imbabura
-898,instituto superior tecnológico diez y siete de julio,desconocido,urcuqui,sin provincia
-899,universidad de investigacion de tecnologia experimental yachay,desconocido,urcuqui,sin provincia
-900,"centro de capacitacion y formacion profesional en turismo y afines ""cendfop gth""",desconocido,ibarra,imbabura
-901,empresa publica la uemprende ep,desconocido,ibarra,imbabura
-902,benalcazar lucano hugo cesar,desconocido,ibarra,imbabura
-903,"gestión, consultoría y capacitación pabón & asociados gepea cia.ltda.",desconocido,ibarra,imbabura
-904,instituto superior tecnológico daniel reyes,desconocido,ibarra,imbabura
-905,cevallos villegas paulo cesar,desconocido,ibarra,imbabura
-906,pablo oswaldo davila castro,desconocido,ibarra,imbabura
-907,chachapoya cachiguango freddy bayardo,desconocido,ibarra,imbabura
-908,instituto superior tecnológico cotacachi,desconocido,cotacachi,imbabura
-909,espinosa marquez carlos fernando,desconocido,ibarra,imbabura
-910,xide,desconocido,ibarra,imbabura
-911,golden training center capacitacion y consultoria consulgolden compañia de responsabilidad limitada,desconocido,ibarra,imbabura
-912,universidad tecnica particular de loja,desconocido,loja,loja
-913,kelbi oswaldo ramirez macas,desconocido,loja,loja
-914,fernandez cando diego alejandro,desconocido,loja,loja
-915,montaño gonzalez jenny ximena,desconocido,loja,loja
-916,formar centro de capacitacion profesional cia. ltda.,desconocido,loja,loja
-917,cadil english center,desconocido,loja,loja
-918,luzuriaga leon leonardo miguel,desconocido,loja,loja
-919,servicios de capacitacion cadil moreira carpio&compañia,desconocido,loja,loja
-920,instituto superior tecnológico cariamanga,desconocido,loja,loja
-921,muñoz ochoa mauro alberto,desconocido,loja,loja
-922,bastidas padilla marivel cumanda,desconocido,loja,loja
-923,cacex s a,desconocido,loja,loja
-924,fine english cia ltda,desconocido,loja,loja
-925,fierro cueva johanna del carmen,desconocido,loja,loja
-926,chernes chiriguayo meibol tatiana,desconocido,babahoyo,los rios
-927,empresa publica de produccion y desarrollo estrategico de la universidad tecnica estatal de quevedo,desconocido,quevedo,los rios
-928,lopez mantuano mario henry,desconocido,manta,manabi
-929,centro de transferencia de tecnologias san gregorio,desconocido,portoviejo,manabi
-930,smart ceim institute ceiminstitute s.a.,desconocido,chone,manabi
-931,funpipe,desconocido,portoviejo,manabi
-932,cantos molina maria cristina,desconocido,manta,manabi
-933,cedeño macias gustavo ernesto,desconocido,portoviejo,manabi
-934,rojas robalino paulina jamilett,desconocido,manta,manabi
-935,jimenez mendoza dolores monica,desconocido,portoviejo,manabi
-936,novamanaba s.a.s.,desconocido,portoviejo,manabi
-937,palacios mero gysella gynatta,desconocido,montecristi,manabi
-938,instituto de estudios internacionales gavatrade-iei cia. ltda.,desconocido,pedernales,manabi
-939,canon sanchez angie johanna,desconocido,manta,manabi
-940,sanchez alvarado karen lucia,desconocido,manta,manabi
-941,puce sede manabi,desconocido,portoviejo,manabi
-942,ortega toala nelson eduardo,desconocido,manta,manabi
-943,cuero ortiz edder erick,desconocido,manta,manabi
-944,lopez mendoza diana lorena,desconocido,manta,manabi
-945,auditmedic consultoria&formacion s.a.,desconocido,portoviejo,manabi
-946,cardenas paz juan sebastian,desconocido,manta,manabi
-947,"administrativa, ambiental, financiera, legal guadamud&giler consultconfianza s.a.",desconocido,portoviejo,manabi
-948,instituto superior tecnológico luis arboleda martínez - manta,desconocido,manta,manabi
-949,escuela nacional de ajedrez anaj s.a.,desconocido,morona,morona santiago
-950,instituto superior tecnológico tena,desconocido,tena,napo
-951,compañia de ventas de bienes y servicio de seguridad industrial servinseg-pb,desconocido,joya de los sachas,sin provincia
-952,estrella castro sebastian benigno,desconocido,francisco de orellana,sin provincia
-953,guevara aguilar yesenia del carmen,desconocido,pastaza,pastaza
-954,villarreal morales tatiana jeanneth,desconocido,pastaza,pastaza
-955,ankukuna,desconocido,pastaza,pastaza
-956,instituto superior tecnológico francisco de orellana,desconocido,pastaza,pastaza
-957,guzman amoroso gil douglas,desconocido,pastaza,pastaza
-958,caiza charco segundo pablo,desconocido,pastaza,pastaza
-959,fondo ecuatoriano populorum progressio,desconocido,quito,pichincha
-960,educorp asociacion en cuentas de participacion,desconocido,quito,pichincha
-961,qhse gestion integral cia. ltda.,desconocido,quito,pichincha
-962,capaseg cia. ltda.,desconocido,quito,pichincha
-963,cecail cia.ltda.,desconocido,quito,pichincha
-964,condor jami fernando daniel,desconocido,quito,pichincha
-965,proaño triviño marcelo alejandro,desconocido,rumiñahui,pichincha
-966,cruz roja ecuatoriana junta provincial de pichincha,desconocido,quito,pichincha
-967,jativa diaz karina del rocio,desconocido,quito,pichincha
-968,raven corporation cia.ltda.,desconocido,quito,pichincha
-969,defensoria del pueblo,desconocido,quito,pichincha
-970,guayasamin polanco nyra virna,desconocido,quito,pichincha
-971,bgs vision empresarial bgs2017 c.l.,desconocido,quito,pichincha
-972,morejon arce ana belen,desconocido,quito,pichincha
-973,lara cornejo nathaly alexandra,desconocido,quito,pichincha
-974,bravo delgado marcia maribel,desconocido,quito,pichincha
-975,capacitación y asesoria técnica báez espinosa ceimscap cia. ltda,desconocido,quito,pichincha
-976,flores recalde rodrigo fernando,desconocido,quito,pichincha
-977,andrade vintimilla julio fernando,desconocido,quito,pichincha
-978,cruz sanchez cornelio favian,desconocido,quito,pichincha
-979,ministerio de produccion comercio exterior inversiones y pesca,desconocido,quito,pichincha
-980,instituto tecnologico superior cenestur,desconocido,quito,pichincha
-981,cuerpo de bomberos del distrito metropolitano de quito,desconocido,quito,pichincha
-982,moncayo ortiz dennis jose,desconocido,quito,pichincha
-983,coloma almeida erick santiago,desconocido,rumiñahui,pichincha
-984,modeloares,desconocido,quito,pichincha
-985,vinueza tapia katherine stefany,desconocido,quito,pichincha
-986,instituto superior tecnológico sucre,desconocido,quito,pichincha
-987,corporacion de promocion economica conquito,desconocido,quito,pichincha
-988,chem consultores cia. ltda.,desconocido,quito,pichincha
-989,instituto tecnologico superior estetica integral,desconocido,quito,pichincha
-990,fundacion sororidad ecuador,desconocido,quito,pichincha
-991,marcillo gomez carlos augusto,desconocido,quito,pichincha
-992,fundación dolores sopeña,desconocido,quito,pichincha
-993,rueda fierro walter santiago,desconocido,quito,pichincha
-994,isoserv consultores y servicios cia ltda,desconocido,quito,pichincha
-995,asociacion experimento de convivencia internacional del ecuador,desconocido,quito,pichincha
-996,sbsmorrigan s.a.,desconocido,quito,pichincha
-997,federacion nacional de ecuatorianos con discapacidad fisica fenedif,desconocido,quito,pichincha
-998,instituto superior tecnológico nelsón torres,desconocido,cayambe,pichincha
-999,marmol uquillas jenny alexandra,desconocido,quito,pichincha
-1000,bravo intriago annabell cristina,desconocido,quito,pichincha
-1001,insurance training center capacitacion s.a.,desconocido,quito,pichincha
-1002,cueva mogrovejo myriam elizabeth,desconocido,quito,pichincha
-1003,servicios gastronomicos apeticorp (culinary trainer school),desconocido,quito,pichincha
-1004,centro de capacitacion experto contable y tributario,desconocido,quito,pichincha
-1005,loayza cueva elisa maria,desconocido,quito,pichincha
-1006,belleza y formacion bellform s.a.,desconocido,quito,pichincha
-1007,castillo ruilova vanessa alejandra,desconocido,quito,pichincha
-1008,instituto de capacitación y entrenamiento airrescue s.a.,desconocido,quito,pichincha
-1009,fernandez morales mariusky alexandra,desconocido,quito,pichincha
-1010,instituto superior tecnologico del transporte,desconocido,quito,pichincha
-1011,merino gomez adriana karina,desconocido,rumiñahui,pichincha
-1012,fundacion criterium,desconocido,quito,pichincha
-1013,vallejos cupueran jorge ernesto,desconocido,quito,pichincha
-1014,klavempresarial compañia anonima,desconocido,quito,pichincha
-1015,stanford,desconocido,quito,pichincha
-1016,peralta beltran consultores asociados cia. ltda,desconocido,quito,pichincha
-1017,capetra risk consulting s.c.c.,desconocido,quito,pichincha
-1018,hispaniarum s.a.s.,desconocido,quito,pichincha
-1019,galindo losada julian andres,desconocido,quito,pichincha
-1020,martinez ortiz claudia giselle,desconocido,quito,pichincha
-1021,asociacion de municipalidades ecuatorianas,desconocido,quito,pichincha
-1022,innovacion desarrollo asesoria empresarial cia. ltda.,desconocido,quito,pichincha
-1023,lincango simbaña silvia patricia,desconocido,quito,pichincha
-1024,gerinterpro cia ltda,desconocido,quito,pichincha
-1025,comando de educacion y doctrina militar terrestre,desconocido,rumiñahui,pichincha
-1026,proceindustrial s.a.,desconocido,quito,pichincha
-1027,fundacion capacitacion para el desarrollo,desconocido,quito,pichincha
-1028,moreira moreira leidy mariana,desconocido,quito,pichincha
-1029,paucarina valles ana cristina,desconocido,quito,pichincha
-1030,ctascal cia. ltda,desconocido,quito,pichincha
-1031,morales teran juan carlos,desconocido,quito,pichincha
-1032,baculima nuñez maria antonieta,desconocido,quito,pichincha
-1033,corrales perez joselyn mynoska,desconocido,quito,pichincha
-1034,l7 lean seven consultores cia.ltda.,desconocido,quito,pichincha
-1035,liderazgo capacitacion y consultoria davsoc compañia limitada,desconocido,quito,pichincha
-1036,fundacion adhara,desconocido,quito,pichincha
-1037,medifra soluciones medico ocupacionales ecuador cia. ltda.,desconocido,rumiñahui,pichincha
-1038,fundacion familia integral fami,desconocido,quito,pichincha
-1039,escuela de artes culinarias culinary arts cia. ltda.,desconocido,quito,pichincha
-1040,instituto de investigacion geologico y energetico,desconocido,quito,pichincha
-1041,naranjo espin carla lorena,desconocido,quito,pichincha
-1042,instituto tecnico del petroleo instipetrol cia. ltda.,desconocido,quito,pichincha
-1043,centro internacional de estudios superiores de comunicacion para america latina,desconocido,quito,pichincha
-1044,empresa publica de bienes y servicios uce proyectos ep,desconocido,quito,pichincha
-1045,fenriquez pacheco carmen yadira,desconocido,quito,pichincha
-1046,glamorous remi beautyschool s.a.,desconocido,quito,pichincha
-1047,airkolor s.a.,desconocido,quito,pichincha
-1048,jaramillo garcia maria catalina,desconocido,quito,pichincha
-1049,centro de investigacion y desarrollo corporacion peer,desconocido,quito,pichincha
-1050,aguirre manosalvas harold francisco,desconocido,quito,pichincha
-1051,minga becerra washington francisco,desconocido,quito,pichincha
-1052,saltos urbina fabiola janeth,desconocido,quito,pichincha
-1053,andrade morales beida milena,desconocido,quito,pichincha
-1054,davila sandoval dario eduardo,desconocido,quito,pichincha
-1055,orange english orangeenglish cia.ltda.,desconocido,quito,pichincha
-1056,granda angulo monica elizabeth,desconocido,quito,pichincha
-1057,haro guanga pola irlanda,desconocido,quito,pichincha
-1058,farinango defaz margarita alexandra,desconocido,quito,pichincha
-1059,espe - innovativa e p,desconocido,rumiñahui,pichincha
-1060,ouedraogo inoussa,desconocido,mejia,pichincha
-1061,mata iza jorge ruben,desconocido,quito,pichincha
-1062,peñaloza pesantes alfonso javier,desconocido,quito,pichincha
-1063,fundacion kolping ecuador fke,desconocido,quito,pichincha
-1064,arias calero marillac del rocio,desconocido,quito,pichincha
-1065,instituto de altos estudios iaetillari cia.ltda.,desconocido,quito,pichincha
-1066,nusavi c.l.,desconocido,quito,pichincha
-1067,corporacion una oportunidad de superacion,desconocido,quito,pichincha
-1068,junta nacional de defensa del artesano,desconocido,quito,pichincha
-1069,asociacion fe y alegria ecuador,desconocido,quito,pichincha
-1070,"fundacion voluntar centro de familia, voluntariado y cultura deportiva",desconocido,quito,pichincha
-1071,arias moreno edison rodrigo,desconocido,quito,pichincha
-1072,organizacion educativa oe s.a.,desconocido,quito,pichincha
-1073,runachay rantiy cia. ltda.,desconocido,quito,pichincha
-1074,guerrero & wilbel cia.ltda.,desconocido,quito,pichincha
-1075,camara artesanal de pichincha,desconocido,quito,pichincha
-1076,automovil club del ecuador aneta,desconocido,quito,pichincha
-1077,gonzalez giraldo blanca niria,desconocido,quito,pichincha
-1078,asprec s.a.,desconocido,quito,pichincha
-1079,seguridad industrial pompier chano seinpomep cia. ltda.,desconocido,quito,pichincha
-1080,seguridad industrial salud ocupacional seinsao cia ltda,desconocido,quito,pichincha
-1081,autotrain sa,desconocido,quito,pichincha
-1082,edukre centro de capacitación y soluciones elearning cia ltda,desconocido,quito,pichincha
-1083,gasterdocens sa,desconocido,quito,pichincha
-1084,"fundación ecuatoriana para el desarrollo marítimo, fluvial y lacustre, fundemar",desconocido,quito,pichincha
-1085,instituto superior tecnológico andrés f. córdova - quito,desconocido,quito,pichincha
-1086,colegio de contadores publicos de pichincha y del ecuador,desconocido,quito,pichincha
-1087,cecim,desconocido,quito,pichincha
-1088,escuela de eventos con carla eventoscarla cia.ltda.,desconocido,quito,pichincha
-1089,cruz guevara maria fernanda,desconocido,quito,pichincha
-1090,escuela interdiciplinaria para la innovacion y perfeccionamiento esinnper c.a.,desconocido,quito,pichincha
-1091,instituto tecnologico superior japon,desconocido,quito,pichincha
-1092,guijarro cueva cristian gerardo,desconocido,quito,pichincha
-1093,business intelligent iwalton cia. ltda.,desconocido,quito,pichincha
-1094,liderar ecuador liderarec cia. ltda.,desconocido,quito,pichincha
-1095,instituto superior de tecnologias apropiadas - insta,desconocido,quito,pichincha
-1096,naula guzman daniel fernando,desconocido,quito,pichincha
-1097,accent plus academy ecuador s.a.,desconocido,quito,pichincha
-1098,escuela tecnica de conduccion balseca aguas del ecuador cia. ltda.,desconocido,quito,pichincha
-1099,ascencap cia.ltda,desconocido,rumiñahui,pichincha
-1100,acceso vertical work & rescue training compañia limitada,desconocido,quito,pichincha
-1101,ediciones legales edle s.a.,desconocido,quito,pichincha
-1102,vergara hidalgo karina veronica,desconocido,quito,pichincha
-1103,instituto superior tecnológico de la policia nacional,desconocido,quito,pichincha
-1104,fundacion corfore corporacion ecuatoriana formacion estudiantil,desconocido,quito,pichincha
-1105,fundacion para la gestion del conocimiento - gesco,desconocido,quito,pichincha
-1106,ballen murcia martha cecilia,desconocido,quito,pichincha
-1107,jah corporacion afec cia.ltda.,desconocido,quito,pichincha
-1108,jacome sandoya vinicio alejandro,desconocido,quito,pichincha
-1109,diaz cuty wilmer giovanny,desconocido,quito,pichincha
-1110,fundacion academia internacional de ciencias empresariales,desconocido,quito,pichincha
-1111,capacitalibertad s.a.,desconocido,quito,pichincha
-1112,cetecform cia. ltda.,desconocido,quito,pichincha
-1113,universidad de las fuerzas armadas - espe,desconocido,rumiñahui,pichincha
-1114,corporacion tauro cia. ltda.,desconocido,quito,pichincha
-1115,cardenas alvarez german tarquino,desconocido,quito,pichincha
-1116,instituto de investigación e innovación superarc c.l.,desconocido,quito,pichincha
-1117,perugachi arroyo marlon paul,desconocido,quito,pichincha
-1118,jacome vera carlos augusto,desconocido,quito,pichincha
-1119,instituto tecnologico superior tecnoecuatoriano,desconocido,quito,pichincha
-1120,federacion nacional de personas sordas del ecuador - fenasec,desconocido,quito,pichincha
-1121,rosero rosero ximena alexandra,desconocido,quito,pichincha
-1122,pichincha humana,desconocido,quito,pichincha
-1123,moraleslaw & consulting cia. ltda.,desconocido,quito,pichincha
-1124,instecvit cia. ltda.,desconocido,quito,pichincha
-1125,fundacion emprender el futuro,desconocido,rumiñahui,pichincha
-1126,partido izquierda democrática,desconocido,quito,pichincha
-1127,eduproyect proyecto global del ecuador s.a.,desconocido,quito,pichincha
-1128,abalco haro cristian patricio,desconocido,quito,pichincha
-1129,instituto de auditores internos del ecuador.,desconocido,quito,pichincha
-1130,instituto superior tecnológico libertad,desconocido,quito,pichincha
-1131,redtotal cia. ltda.,desconocido,quito,pichincha
-1132,anaya centro de formacion style & beauty care,desconocido,quito,pichincha
-1133,cedecenter,desconocido,quito,pichincha
-1134,fundación cooperación y desarrollo,desconocido,quito,pichincha
-1135,centro educacional de idiomas y especializaciones administrativas cendia c.a.,desconocido,quito,pichincha
-1136,mateus francisco javier,desconocido,quito,pichincha
-1137,galiano borja patricio raul,desconocido,quito,pichincha
-1138,ecuambiente consulting group cia. ltda.,desconocido,quito,pichincha
-1139,fundacion social fiallo serrano,desconocido,quito,pichincha
-1140,camacho del castillo maria belen,desconocido,quito,pichincha
-1141,caepre s.c.c.,desconocido,quito,pichincha
-1142,jaramillo veloz marivel rosario,desconocido,quito,pichincha
-1143,empresa tecnica de energia y ambiente emteenam cia. ltda.,desconocido,quito,pichincha
-1144,centro de especializacion y capacitacion integral integralcecai cia. ltda.,desconocido,quito,pichincha
-1145,greenetics soluciones s.a.,desconocido,quito,pichincha
-1146,comite nacional ecuatoriano de la comision de integracion electrica regional,desconocido,quito,pichincha
-1147,suntasig segovia yajaira karina,desconocido,quito,pichincha
-1148,instituto tecnologico superior lendan,desconocido,quito,pichincha
-1149,audetic-ec cia.ltda.,desconocido,quito,pichincha
-1150,corporacion lideres para formacion y capacitacion empresarial,desconocido,quito,pichincha
-1151,campaña jaramillo wilson giovanny,desconocido,quito,pichincha
-1152,carvajal campoverde carlos lenin,desconocido,quito,pichincha
-1153,ibrahim vega sara leticia,desconocido,quito,pichincha
-1154,sociedad gastronomica ecuatoriana,desconocido,quito,pichincha
-1155,capaglobs.a.,desconocido,quito,pichincha
-1156,cvimsa ecuador c-vimsaecuador s.a.,desconocido,quito,pichincha
-1157,canec s.a.s. b.i.c.,desconocido,quito,pichincha
-1158,aguilar benavides juan miguel,desconocido,quito,pichincha
-1159,smith olu,desconocido,quito,pichincha
-1160,escuela profesional y tecnica codadepro c.a.,desconocido,quito,pichincha
-1161,cranes engineering & operator ecuador cia. ltda,desconocido,quito,pichincha
-1162,consultorabip s.a.,desconocido,quito,pichincha
-1163,colegio de ingenieros electricos y electronicos de pichincha cieepi,desconocido,quito,pichincha
-1164,rivera andrade adriana,desconocido,quito,pichincha
-1165,centro caec,desconocido,quito,pichincha
-1166,deskubretest sociedad por acciones simplificada,desconocido,quito,pichincha
-1167,urresta pinto silvana ivonne,desconocido,quito,pichincha
-1168,centro de actualizacion y desarrollo profesional cenadepro cia.ltda.,desconocido,quito,pichincha
-1169,khozein badiee reuhollah,desconocido,quito,pichincha
-1170,empresa publica de administracion y gestion de servicios y productos de proyectos de investigacion de la escuela politecnica nacional,desconocido,quito,pichincha
-1171,samaniego flor giovanni francisco,desconocido,quito,pichincha
-1172,tapia camacuari dilmer maximo,desconocido,quito,pichincha
-1173,teran lopez karla michelle,desconocido,quito,pichincha
-1174,vasquez peñafiel mauricio german,desconocido,quito,pichincha
-1175,idiomas sudamerica idisud cia. ltda.,desconocido,quito,pichincha
-1176,learningecu compañia de responsabilidad limitada,desconocido,quito,pichincha
-1177,centro de investigacion y estudios del deporte ciedd c.a.,desconocido,quito,pichincha
-1178,mauricio arroyo consultores y asociados cia. ltda.,desconocido,quito,pichincha
-1179,gobierno autonomo descentralizado del distrito metropolitano de quito,desconocido,quito,pichincha
-1180,muñoz zurita zulay del pilar,desconocido,quito,pichincha
-1181,andrade vallejo nieves marisol,desconocido,quito,pichincha
-1182,formacion continua  poliestudios forpolinet s.a.,desconocido,quito,pichincha
-1183,ecl s.a.,desconocido,quito,pichincha
-1184,element-c&t cia.ltda.,desconocido,quito,pichincha
-1185,bustos ayovi fernando abrahan,desconocido,quito,pichincha
-1186,insistecqhse s.a.,desconocido,quito,pichincha
-1187,tandalla hidalgo william omar,desconocido,quito,pichincha
-1188,instituto superior universitario central tecnico,desconocido,quito,pichincha
-1189,consultoria y capacitacion - ingelpro cia ltda,desconocido,quito,pichincha
-1190,instituto radiofonico fe y alegria - irfeyal,desconocido,quito,pichincha
-1191,capacitacion y consultoria asomip cia. ltda.,desconocido,quito,pichincha
-1192,abso consultores empresariales s.a.s.,desconocido,quito,pichincha
-1193,get total getcons cia.ltda.,desconocido,quito,pichincha
-1194,egae estrategia gestion alimentaria empresarial s.a.,desconocido,quito,pichincha
-1195,centro de educacion continua epn,desconocido,quito,pichincha
-1196,bustamante torres maria esterfilia,desconocido,quito,pichincha
-1197,villegas rodriguez pablo hernan,desconocido,quito,pichincha
-1198,olmedo perez luis fernando,desconocido,quito,pichincha
-1199,dsa development & services advisors cia. ltda.,desconocido,quito,pichincha
-1200,fundacion corporacion para el fortalecimiento social y empresarial corfose,desconocido,quito,pichincha
-1201,centro de biociencias clonallyx corporation s.a.s.,desconocido,quito,pichincha
-1202,kinnemed cia. ltda.,desconocido,quito,pichincha
-1203,bcibureau certificacion & inspeccion de equipos s.a.,desconocido,quito,pichincha
-1204,narvaez benitez abrahan mauricio,desconocido,quito,pichincha
-1205,instituto superior tecnológico yavirac,desconocido,quito,pichincha
-1206,jacome davalos juan manuel,desconocido,quito,pichincha
-1207,yepez garcia yamil leonardo,desconocido,quito,pichincha
-1208,barrazueta & asociados consultora para el cambio organizacional cia. ltda.,desconocido,quito,pichincha
-1209,instituto superior tecnologico de futbol de quito istfq,desconocido,quito,pichincha
-1210,mier mejia mary jeanneth,desconocido,quito,pichincha
-1211,borniatti sega margareth isabel,desconocido,quito,pichincha
-1212,barahona reyes mercedes lucia,desconocido,quito,pichincha
-1213,factor integral social ecuatoriano fialser s.a.,desconocido,quito,pichincha
-1214,macias robles edmundo rafael,desconocido,quito,pichincha
-1215,garcia villamarin marcia soledad,desconocido,quito,pichincha
-1216,corporacion nacional de telecomunicaciones - cnt ep,desconocido,quito,pichincha
-1217,alban vazquez s.c.c.,desconocido,quito,pichincha
-1218,vera quintana asociados,desconocido,quito,pichincha
-1219,fundacion tainate huasi,desconocido,cayambe,pichincha
-1220,capacitacion profesional geniusec cia.ltda.,desconocido,quito,pichincha
-1221,hidalgo santander edgar arturo,desconocido,quito,pichincha
-1222,instituto superior tecnologico san antonio,desconocido,quito,pichincha
-1223,instituto tecnologico superior vida nueva,desconocido,quito,pichincha
-1224,noboa vargas sandra cecilia,desconocido,quito,pichincha
-1225,editorial oceano ecuatoriana (edioceano) s.a.,desconocido,quito,pichincha
-1226,novoa guanuchi carlos alberto,desconocido,quito,pichincha
-1227,instituto tecnologico sudamericano intesud,desconocido,quito,pichincha
-1228,instituto tecnico de seguridad integral inssi cia.ltda.,desconocido,quito,pichincha
-1229,servicio integrado de seguridad ecu 911,desconocido,quito,pichincha
-1230,universidad de las americas,desconocido,quito,pichincha
-1231,greor ecuador grouptraining cia.ltda.,desconocido,quito,pichincha
-1232,cartagena garces jennyfer estefania,desconocido,quito,pichincha
-1233,ruiz delgado gisella rosalin,desconocido,santa elena,santa elena
-1234,saltos pazuña alonso vicente,desconocido,la libertad,santa elena
-1235,"empresa publica de obras, bienes y servicios santa elena ep",desconocido,la libertad,santa elena
-1236,zurita guevara jose roberto,desconocido,santo domingo,santo domingo de los tsachilas
-1237,clik capacitacion innovacion y liderazgo s.a.,desconocido,santo domingo,santo domingo de los tsachilas
-1238,aguilera mora sandra magaly,desconocido,santo domingo,santo domingo de los tsachilas
-1239,flores martinez jorge anibal,desconocido,santo domingo,santo domingo de los tsachilas
-1240,calle ramos froilan efrain,desconocido,santo domingo,santo domingo de los tsachilas
-1241,flores alvarado jacqueline alexandra,desconocido,santo domingo,santo domingo de los tsachilas
-1242,instituto de belleza y cosmetologia ecuador ibce,desconocido,santo domingo,santo domingo de los tsachilas
-1243,baldeon quishpe paul enrique,desconocido,santo domingo,santo domingo de los tsachilas
-1244,formacion de capacitacion empresarial fecaee s.a,desconocido,santo domingo,santo domingo de los tsachilas
-1245,chuquicondor pilamunga carmen yolanda (sherydan international group),desconocido,santo domingo,santo domingo de los tsachilas
-1246,educación continua y profesional krece cia.ltda.,desconocido,santo domingo,santo domingo de los tsachilas
-1247,instituto superior tecnologico tsachila,desconocido,santo domingo,santo domingo de los tsachilas
-1248,yepez bowen tania katerine,desconocido,santo domingo,santo domingo de los tsachilas
-1249,cuerpo de bomberos del gobierno autonomo descentralizado municipal de santo domingo,desconocido,santo domingo,santo domingo de los tsachilas
-1250,sanchez sanchez silvia cristina,desconocido,santo domingo,santo domingo de los tsachilas
-1251,proaño rodriguez fernando andres,desconocido,santo domingo,santo domingo de los tsachilas
-1252,cenicap centro nacional integrado de capacitacion profesional cia. ltda.,desconocido,lago agrio,sucumbios
-1253,cuerpo de bomberos de shushufindi,desconocido,shushufindi,sucumbios
-1254,ortiz caizapanta marco vinicio,desconocido,shushufindi,sucumbios
-1255,instituto superior pedagógico bilingue intercultural martha bucaram de roldós,desconocido,lago agrio,sucumbios
-1256,guerrero rodriguez ronal americo,desconocido,lago agrio,sucumbios
-1257,alvarez robayo franklin rolando,desconocido,ambato,tungurahua
-1258,navas pachar pedro andres,desconocido,ambato,tungurahua
-1259,nuñez castro amanda maricela,desconocido,ambato,tungurahua
-1260,espin salas darwin daniel,desconocido,ambato,tungurahua
-1261,nuñez vasquez angelo fernando,desconocido,ambato,tungurahua
-1262,tobar jacome mayra catalina,desconocido,ambato,tungurahua
-1263,"colegio regional de ingenieros en alimentos de la zona centro ""crinal""",desconocido,ambato,tungurahua
-1264,empresa publica de la universidad tecnica de ambato uta ep,desconocido,ambato,tungurahua
-1265,instituto de capacitacion tecnico profesional atlanticoquito c.l.,desconocido,pillaro,sin provincia
-1266,leon leon gerardo,desconocido,ambato,tungurahua
-1267,oyaque mora julio mauricio,desconocido,ambato,tungurahua
-1268,instituto superior tecnológico pelileo,desconocido,pelileo,sin provincia
-1269,corporacion de fomento para la pequeña y mediana empresa corfopym,desconocido,ambato,tungurahua
-1270,lozano pachar ivan rodrigo,desconocido,ambato,tungurahua
-1271,instituto superior tecnológico baños,desconocido,baños,sin provincia
-1272,abkrea ingenieria cia. ltda.,desconocido,ambato,tungurahua
-1273,corporacion ingenieria avanzada coinav del ecuador s.a.,desconocido,ambato,tungurahua
-1274,pazmiño rivera mayra elizabeth,desconocido,ambato,tungurahua
-1275,instituto superior tecnológico bolívar - ambato,desconocido,ambato,tungurahua
-1276,l'escoffier,desconocido,ambato,tungurahua
-1277,quisingo caiza lizeth de los angeles,desconocido,ambato,tungurahua
-1278,duran goyes cristina estefania,desconocido,ambato,tungurahua
-1279,instituto superior tecnológico primero de mayo,desconocido,yanzatza,sin provincia
+573,herrera armas marlene rafaela,finalizo vigencia de calificacion,sin cantón,sin provincia
+574,velasco merizalde erick israel,finalizo vigencia de calificacion,sin cantón,sin provincia
+575,ceron gordon jorge david,finalizo vigencia de calificacion,sin cantón,sin provincia
+576,cordero crespo diana paola,finalizo vigencia de calificacion,sin cantón,sin provincia
+577,instituto superior tecnológico paulo emilio macías,finalizo vigencia de calificacion,sin cantón,sin provincia
+578,instituto superior tecnológico babahoyo,finalizo vigencia de calificacion,sin cantón,sin provincia
+579,rosales vicente dilcia barbarita,finalizo vigencia de calificacion,sin cantón,sin provincia
+580,empresa de calidad y servicios organizacionales ecso s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+581,centro de capacitacion ocupacional particular canadian,finalizo vigencia de calificacion,sin cantón,sin provincia
+582,corrales andrade marco patricio,finalizo vigencia de calificacion,sin cantón,sin provincia
+583,instituto de capacitacion de la pequena industria de pichincha icapi,finalizo vigencia de calificacion,sin cantón,sin provincia
+584,software y soluciones softcontrol s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+585,fine tuned catamayo,finalizo vigencia de calificacion,sin cantón,sin provincia
+586,"centro de formacion profesional "" nikola tesla"" niktesla cia ltda.",finalizo vigencia de calificacion,sin cantón,sin provincia
+587,cedeño rodriguez leonor andrea,finalizo vigencia de calificacion,sin cantón,sin provincia
+588,instituto superior tecnologico bolivariano de tecnologia,finalizo vigencia de calificacion,sin cantón,sin provincia
+589,escuela latinoamericana de seguridad eslaseg cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
+590,escuela de conductores profesionales espol ep,finalizo vigencia de calificacion,sin cantón,sin provincia
+591,instituto superior tecnologico de artes visuales de quito,finalizo vigencia de calificacion,sin cantón,sin provincia
+592,fundacion centro integral de la familia,finalizo vigencia de calificacion,sin cantón,sin provincia
+593,facultad de comunicacion social de la universidad central del ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
+594,eci sc,finalizo vigencia de calificacion,sin cantón,sin provincia
+595,endavant s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+596,rodas duque consultores integrales cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+597,serrador osorio yuli marcela,finalizo vigencia de calificacion,sin cantón,sin provincia
+598,centro de enseñanza de idiomas simon bolivar/ bolivar education s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+599,information security del ecuador inc. s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+600,capasuem sociedad anónima,finalizo vigencia de calificacion,sin cantón,sin provincia
+601,british school of languages cia. ltda. acambrit,finalizo vigencia de calificacion,sin cantón,sin provincia
+602,coronel andrade luis eduardo,finalizo vigencia de calificacion,sin cantón,sin provincia
+603,asociacion de profesionales naturopatas del ecuador a.p.n.e.,finalizo vigencia de calificacion,sin cantón,sin provincia
+604,instituto superior tecnológico benito juarez,finalizo vigencia de calificacion,sin cantón,sin provincia
+605,acosta morales & asociados soluciones empresariales s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+606,gls tech,finalizo vigencia de calificacion,sin cantón,sin provincia
+607,gobierno autonomo descentralizado provincial de santo domingo de los tsachilas,finalizo vigencia de calificacion,sin cantón,sin provincia
+608,dajavcorp cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+609,robayo luzuriaga dorys xeomara,finalizo vigencia de calificacion,sin cantón,sin provincia
+610,aguirre farinango monica del rocio,finalizo vigencia de calificacion,sin cantón,sin provincia
+611,real cruz jinsop daniel,finalizo vigencia de calificacion,sin cantón,sin provincia
+612,academia culinaria esmeraldas gourmet consultora y capacitadora turística,finalizo vigencia de calificacion,sin cantón,sin provincia
+613,servicios de consultoria y capacitacion sircap cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+614,cconsultora groupsaoc cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
+615,institutosantafe s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+616,fuel almendariz nuvia estela,finalizo vigencia de calificacion,sin cantón,sin provincia
+617,instituto tecnologico superior honorable consejo provincial de pichincha,finalizo vigencia de calificacion,sin cantón,sin provincia
+618,instituto superior tecnológico luis napoleón dillon,finalizo vigencia de calificacion,sin cantón,sin provincia
+619,amauta spanish school amauspanish cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+620,corporacion de servicios tbl s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+621,erazo luna andres mauricio,finalizo vigencia de calificacion,sin cantón,sin provincia
+622,ponce rosero juan ramon,finalizo vigencia de calificacion,sin cantón,sin provincia
+623,centro de capacitacion ocupacional particular gusteau,finalizo vigencia de calificacion,sin cantón,sin provincia
+624,cabascango guato diego patricio,finalizo vigencia de calificacion,sin cantón,sin provincia
+625,estrella saltos jorge luis,finalizo vigencia de calificacion,sin cantón,sin provincia
+626,coba baca diana carolina,finalizo vigencia de calificacion,sin cantón,sin provincia
+627,lar 7 estudio,finalizo vigencia de calificacion,sin cantón,sin provincia
+628,albangroupcce cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+629,zevallos layana maria daniela,finalizo vigencia de calificacion,sin cantón,sin provincia
+630,morales estrella kevin daniel,finalizo vigencia de calificacion,sin cantón,sin provincia
+631,sanchez ortiz gladys mariana de jesus,finalizo vigencia de calificacion,sin cantón,sin provincia
+632,chalco maza cristhian emilio,finalizo vigencia de calificacion,sin cantón,sin provincia
+633,alata-innovacion s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+634,centro particular de capacitacion ocupacional carapungo,finalizo vigencia de calificacion,sin cantón,sin provincia
+635,manomarchef s a,finalizo vigencia de calificacion,sin cantón,sin provincia
+636,direccion nacional de registro de datos publicos,finalizo vigencia de calificacion,sin cantón,sin provincia
+637,ennas academia culinaria eac s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+638,asesoria y servicios serviasmg s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+639,projectic-ingenieria y capacitacion s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+640,hidrobo salazar raul hernan,finalizo vigencia de calificacion,sin cantón,sin provincia
+641,integrity solutions intsolutions cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+642,andrade cadena sonia geoconda del rocio,finalizo vigencia de calificacion,sin cantón,sin provincia
+643,freire perugachi leoncio miguel,finalizo vigencia de calificacion,sin cantón,sin provincia
+644,elitelogis servicios & soluciones logisticas s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+645,instituto superior tecnológico oscar efrén reyes,finalizo vigencia de calificacion,sin cantón,sin provincia
+646,rodriguez morales jessenia nathaly,finalizo vigencia de calificacion,sin cantón,sin provincia
+647,escobar lopez gustavo vicente,finalizo vigencia de calificacion,sin cantón,sin provincia
+648,baldeon parreño fabian wladimir,finalizo vigencia de calificacion,sin cantón,sin provincia
+649,hospitality training school hotrs cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+650,ingenieria para el desarrollo acurio y asociados s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+651,ecuaforense gestion forense e investigaciones digitales cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+652,"ccorporacion fanaem formacion, actualizacion, normas y asesoria empresarialorpo",finalizo vigencia de calificacion,sin cantón,sin provincia
+653,tenorio pantoja adela cristina,finalizo vigencia de calificacion,sin cantón,sin provincia
+654,camara de comercio del canton santo domingo,finalizo vigencia de calificacion,sin cantón,sin provincia
+655,gestion en informacion y tecnologia gestiontec cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+656,rivadeneira jimenez carmen italia,finalizo vigencia de calificacion,sin cantón,sin provincia
+657,soluciones de comercio exterior capacitacion y consultoria cia ltda sc3 cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
+658,leon diaz emerson simon,finalizo vigencia de calificacion,sin cantón,sin provincia
+659,consultora paradigma de servicios educativos innovaeduca cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
+660,kognitive s.c.c.,finalizo vigencia de calificacion,sin cantón,sin provincia
+661,operacion y gerencia oeg s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+662,ccorh s a,finalizo vigencia de calificacion,sin cantón,sin provincia
+663,noriega ureña yolanda narcisa,finalizo vigencia de calificacion,sin cantón,sin provincia
+664,asesoria integral de gestion asinge,finalizo vigencia de calificacion,sin cantón,sin provincia
+665,consultora de formacion integral y superior cfisec s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+666,romero gallardo maria elena,finalizo vigencia de calificacion,sin cantón,sin provincia
+667,qesconsultores s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+668,centro de capacitacion ocupacional fine tuned zamora,finalizo vigencia de calificacion,sin cantón,sin provincia
+669,corporacion educativa ser,finalizo vigencia de calificacion,sin cantón,sin provincia
+670,instituto superior tecnológico victoria vásconez cuvi,finalizo vigencia de calificacion,sin cantón,sin provincia
+671,lopez arcia yunier,finalizo vigencia de calificacion,sin cantón,sin provincia
+672,buzetta ricaurte maria fernanda,finalizo vigencia de calificacion,sin cantón,sin provincia
+673,guaman calvopiña miguel marcelo,finalizo vigencia de calificacion,sin cantón,sin provincia
+674,gina fernanda martinez garrido,finalizo vigencia de calificacion,sin cantón,sin provincia
+675,castro gonzales fredy,finalizo vigencia de calificacion,sin cantón,sin provincia
+676,instituto superior tecnológico república del ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
+677,jaramillo zuñiga jenny patricia concepcion,finalizo vigencia de calificacion,sin cantón,sin provincia
+678,tcla training center for latin america,finalizo vigencia de calificacion,sin cantón,sin provincia
+679,espinosa calderon jefferson manuel,finalizo vigencia de calificacion,sin cantón,sin provincia
+680,idrovo ortiz francisco xavier,finalizo vigencia de calificacion,sin cantón,sin provincia
+681,olivo cruz margarita carolina,finalizo vigencia de calificacion,sin cantón,sin provincia
+682,pullas y moreno asociados cia ltda,finalizo vigencia de calificacion,sin cantón,sin provincia
+683,cevallos palma juan kleber,finalizo vigencia de calificacion,sin cantón,sin provincia
+684,instituto superior tecnológico josé benigno iglesias,finalizo vigencia de calificacion,sin cantón,sin provincia
+685,hernandez bustos roque jacinto,finalizo vigencia de calificacion,sin cantón,sin provincia
+686,centro de enseñanza superior cenperior c.a,finalizo vigencia de calificacion,sin cantón,sin provincia
+687,summaservices s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+688,instituto superior tecnológico ángel polivio chavez,finalizo vigencia de calificacion,sin cantón,sin provincia
+689,pineda rojas darwin jack,finalizo vigencia de calificacion,sin cantón,sin provincia
+690,fundacion sumate por la equidad,finalizo vigencia de calificacion,sin cantón,sin provincia
+691,unae-ep,finalizo vigencia de calificacion,sin cantón,sin provincia
+692,arias huertas rafael ricardo,finalizo vigencia de calificacion,sin cantón,sin provincia
+693,davila mera arturo rene,finalizo vigencia de calificacion,sin cantón,sin provincia
+694,instituto superior tecnologico cruz roja ecuatoriana,finalizo vigencia de calificacion,sin cantón,sin provincia
+695,instituto superior tecnológico consejo provincial de pichincha,finalizo vigencia de calificacion,sin cantón,sin provincia
+696,instituto superior tecnológico luis a. martínez (agronomico),finalizo vigencia de calificacion,sin cantón,sin provincia
+697,estandares normativas & inspeccion enii s.a.,finalizo vigencia de calificacion,sin cantón,sin provincia
+698,guzman banegas david rene,finalizo vigencia de calificacion,sin cantón,sin provincia
+699,amagua guallichico luis renato,finalizo vigencia de calificacion,sin cantón,sin provincia
+700,oña suquillo martha soledad,finalizo vigencia de calificacion,sin cantón,sin provincia
+701,instituto de capacitacion tecnico profesional incateprof cia. ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+702,mendoza perez everlidys,finalizo vigencia de calificacion,sin cantón,sin provincia
+703,carbay vacacela walther vinicio,finalizo vigencia de calificacion,sin cantón,sin provincia
+704,human resources asesoria davitalent s.a,finalizo vigencia de calificacion,sin cantón,sin provincia
+705,sindicato provincial de choferes profesionales de imbabura,finalizo vigencia de calificacion,sin cantón,sin provincia
+706,araujo carrasco vilma cumanda,finalizo vigencia de calificacion,sin cantón,sin provincia
+707,universidad andina simon bolivar sede ecuador,finalizo vigencia de calificacion,sin cantón,sin provincia
+708,corporacion elite,finalizo vigencia de calificacion,sin cantón,sin provincia
+709,fortia consulting fortiaec cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+710,moreano pozo nataly karina,finalizo vigencia de calificacion,sin cantón,sin provincia
+711,villagomez cabezas richard italo,finalizo vigencia de calificacion,sin cantón,sin provincia
+712,fundacion centro de investigacion y capacitacion electrica cice,finalizo vigencia de calificacion,sin cantón,sin provincia
+713,rousetcgj de cautivo s.a,finalizo vigencia de calificacion,sin cantón,sin provincia
+714,kpacinnova cia.ltda.,finalizo vigencia de calificacion,sin cantón,sin provincia
+715,caiza logacho edison fernando,cancelado definitivamente,sin cantón,sin provincia
+716,centro de capacitacion lady del valle,cancelado definitivamente,sin cantón,sin provincia
+717,centro de formacion security safety and training sstt cia. ltda.,cancelado definitivamente,sin cantón,sin provincia
+718,blue-it s.a.,cancelado definitivamente,sin cantón,sin provincia
+719,bautista moposita lucia maricela,cancelado definitivamente,sin cantón,sin provincia
+720,villavicencio reyes oscar patricio,cancelado definitivamente,sin cantón,sin provincia
+721,pico espin alba estela,cancelado definitivamente,sin cantón,sin provincia
+722,ctsa s.a. centro de capacitacion para tripulantes de cabinas y servicios aeroportuarios,cancelado definitivamente,sin cantón,sin provincia
+723,araujo carrasco mirian maribel / centro de capacitación artesanal evolución internacional,cancelado definitivamente,sin cantón,sin provincia
+724,fundacion educativa mons. candido rada,cancelado definitivamente,sin cantón,sin provincia
+725,eta - elite tactical academy-ec cia.ltda.,cancelado definitivamente,sin cantón,sin provincia
+726,logroño mendoza henry nicolas,cancelado definitivamente,sin cantón,sin provincia
+727,instituto superior tecnológico san pablo de atenas,desconocido,san miguel,bolivar
+728,instituto superior tecnológico ángel polivio chavez,desconocido,guaranda,bolivar
+729,instituto superior tecnológico guaranda,desconocido,guaranda,bolivar
+730,ecugenius s.a.,desconocido,guayaquil,guayas
+731,fundacion proyecto salesiano guayaquil,desconocido,guayaquil,guayas
+732,"centro de capacitacion y formacion profesional en turismo y afines ""cendfop gth""",desconocido,ibarra,imbabura
+733,cruz sanchez cornelio favian,desconocido,quito,pichincha
+734,moreira moreira leidy mariana,desconocido,quito,pichincha
+735,organizacion educativa oe s.a.,desconocido,quito,pichincha
+736,caepre s.c.c.,desconocido,quito,pichincha
+737,jaramillo veloz marivel rosario,desconocido,quito,pichincha
+738,formacion continua  poliestudios forpolinet s.a.,desconocido,quito,pichincha
+739,instituto superior tecnológico baños,desconocido,baños,sin provincia
