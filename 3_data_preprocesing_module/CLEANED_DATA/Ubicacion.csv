@@ -1,225 +1,225 @@
 id_ubicacion,canton,provincia
-101,CUENCA,AZUAY
-102,GIRÓN,AZUAY
-103,GUALACEO,AZUAY
-104,NABÓN,AZUAY
-105,PAUTE,AZUAY
-106,PUCARA,AZUAY
-107,SAN FERNANDO,AZUAY
-108,SANTA ISABEL,AZUAY
-109,SIGSIG,AZUAY
-110,OÑA,AZUAY
-111,CHORDELEG,AZUAY
-112,EL PAN,AZUAY
-113,SEVILLA DE ORO,AZUAY
-114,GUACHAPALA,AZUAY
-115,CAMILO PONCE ENRÍQUEZ,AZUAY
-201,GUARANDA,BOLIVAR
-202,CHILLANES,BOLIVAR
-203,CHIMBO,BOLIVAR
-204,ECHEANDÍA,BOLIVAR
-205,SAN MIGUEL,BOLIVAR
-206,CALUMA,BOLIVAR
-207,LAS NAVES,BOLIVAR
-301,AZOGUES,CAÑAR
-302,BIBLIÁN,CAÑAR
-303,CAÑAR,CAÑAR
-304,LA TRONCAL,CAÑAR
-305,EL TAMBO,CAÑAR
-306,DÉLEG,CAÑAR
-307,SUSCAL,CAÑAR
-401,TULCÁN,CARCHI
-402,BOLÍVAR,CARCHI
-403,ESPEJO,CARCHI
-404,MIRA,CARCHI
-405,MONTÚFAR,CARCHI
-406,SAN PEDRO DE HUACA,CARCHI
-501,LATACUNGA,COTOPAXI
-502,LA MANÁ,COTOPAXI
-503,PANGUA,COTOPAXI
-504,PUJILI,COTOPAXI
-505,SALCEDO,COTOPAXI
-506,SAQUISILÍ,COTOPAXI
-507,SIGCHOS,COTOPAXI
-601,RIOBAMBA,CHIMBORAZO
-602,ALAUSI,CHIMBORAZO
-603,COLTA,CHIMBORAZO
-604,CHAMBO,CHIMBORAZO
-605,CHUNCHI,CHIMBORAZO
-606,GUAMOTE,CHIMBORAZO
-607,GUANO,CHIMBORAZO
-608,PALLATANGA,CHIMBORAZO
-609,PENIPE,CHIMBORAZO
-610,CUMANDÁ,CHIMBORAZO
-701,MACHALA,EL ORO
-702,ARENILLAS,EL ORO
-703,ATAHUALPA,EL ORO
-704,BALSAS,EL ORO
-705,CHILLA,EL ORO
-706,EL GUABO,EL ORO
-707,HUAQUILLAS,EL ORO
-708,MARCABELÍ,EL ORO
-709,PASAJE,EL ORO
-710,PIÑAS,EL ORO
-711,PORTOVELO,EL ORO
-712,SANTA ROSA,EL ORO
-713,ZARUMA,EL ORO
-714,LAS LAJAS,EL ORO
-801,ESMERALDAS,ESMERALDAS
-802,ELOY ALFARO,ESMERALDAS
-803,MUISNE,ESMERALDAS
-804,QUININDÉ,ESMERALDAS
-805,SAN LORENZO,ESMERALDAS
-806,ATACAMES,ESMERALDAS
-807,RIOVERDE,ESMERALDAS
-808,LA CONCORDIA,ESMERALDAS
-901,GUAYAQUIL,GUAYAS
-902,ALFREDO BAQUERIZO MORENO (JUJÁN),GUAYAS
-903,BALAO,GUAYAS
-904,BALZAR,GUAYAS
-905,COLIMES,GUAYAS
-906,DAULE,GUAYAS
-907,DURÁN,GUAYAS
-908,EL EMPALME,GUAYAS
-909,EL TRIUNFO,GUAYAS
-910,MILAGRO,GUAYAS
-911,NARANJAL,GUAYAS
-912,NARANJITO,GUAYAS
-913,PALESTINA,GUAYAS
-914,PEDRO CARBO,GUAYAS
-916,SAMBORONDÓN,GUAYAS
-918,SANTA LUCÍA,GUAYAS
-919,SALITRE (URBINA JADO),GUAYAS
-920,SAN JACINTO DE YAGUACHI,GUAYAS
-921,PLAYAS,GUAYAS
-922,SIMÓN BOLÍVAR,GUAYAS
-923,CORONEL MARCELINO MARIDUEÑA,GUAYAS
-924,LOMAS DE SARGENTILLO,GUAYAS
-925,NOBOL,GUAYAS
-927,GENERAL ANTONIO ELIZALDE,GUAYAS
-928,ISIDRO AYORA,GUAYAS
-1001,IBARRA,IMBABURA
-1002,ANTONIO ANTE,IMBABURA
-1003,COTACACHI,IMBABURA
-1004,OTAVALO,IMBABURA
-1005,PIMAMPIRO,IMBABURA
-1006,SAN MIGUEL DE URCUQUÍ,IMBABURA
-1101,LOJA,LOJA
-1102,CALVAS,LOJA
-1103,CATAMAYO,LOJA
-1104,CELICA,LOJA
-1105,CHAGUARPAMBA,LOJA
-1106,ESPÍNDOLA,LOJA
-1107,GONZANAMÁ,LOJA
-1108,MACARÁ,LOJA
-1109,PALTAS,LOJA
-1110,PUYANGO,LOJA
-1111,SARAGURO,LOJA
-1112,SOZORANGA,LOJA
-1113,ZAPOTILLO,LOJA
-1114,PINDAL,LOJA
-1115,QUILANGA,LOJA
-1116,OLMEDO,LOJA
-1201,BABAHOYO,LOS RIOS
-1202,BABA,LOS RIOS
-1203,MONTALVO,LOS RIOS
-1204,PUEBLOVIEJO,LOS RIOS
-1205,QUEVEDO,LOS RIOS
-1206,URDANETA,LOS RIOS
-1207,VENTANAS,LOS RIOS
-1208,VÍNCES,LOS RIOS
-1209,PALENQUE,LOS RIOS
-1210,BUENA FÉ,LOS RIOS
-1211,VALENCIA,LOS RIOS
-1212,MOCACHE,LOS RIOS
-1213,QUINSALOMA,LOS RIOS
-1301,PORTOVIEJO,MANABI
-1302,BOLÍVAR,MANABI
-1303,CHONE,MANABI
-1304,EL CARMEN,MANABI
-1305,FLAVIO ALFARO,MANABI
-1306,JIPIJAPA,MANABI
-1307,JUNÍN,MANABI
-1308,MANTA,MANABI
-1309,MONTECRISTI,MANABI
-1310,PAJÁN,MANABI
-1311,PICHINCHA,MANABI
-1312,ROCAFUERTE,MANABI
-1313,SANTA ANA,MANABI
-1314,SUCRE,MANABI
-1315,TOSAGUA,MANABI
-1316,24 DE MAYO,MANABI
-1317,PEDERNALES,MANABI
-1318,OLMEDO,MANABI
-1319,PUERTO LÓPEZ,MANABI
-1320,JAMA,MANABI
-1321,JARAMIJÓ,MANABI
-1322,SAN VICENTE,MANABI
-1401,MORONA,MORONA SANTIAGO
-1402,GUALAQUIZA,MORONA SANTIAGO
-1403,LIMÓN INDANZA,MORONA SANTIAGO
-1404,PALORA,MORONA SANTIAGO
-1405,SANTIAGO,MORONA SANTIAGO
-1406,SUCÚA,MORONA SANTIAGO
-1407,HUAMBOYA,MORONA SANTIAGO
-1408,SAN JUAN BOSCO,MORONA SANTIAGO
-1409,TAISHA,MORONA SANTIAGO
-1410,LOGROÑO,MORONA SANTIAGO
-1411,PABLO SEXTO,MORONA SANTIAGO
-1412,TIWINTZA,MORONA SANTIAGO
-1501,TENA,NAPO
-1503,ARCHIDONA,NAPO
-1504,EL CHACO,NAPO
-1507,QUIJOS,NAPO
-1509,CARLOS JULIO AROSEMENA TOLA,NAPO
-1601,PASTAZA,PASTAZA
-1602,MERA,PASTAZA
-1603,SANTA CLARA,PASTAZA
-1604,ARAJUNO,PASTAZA
-1701,QUITO,PICHINCHA
-1702,CAYAMBE,PICHINCHA
-1703,MEJIA,PICHINCHA
-1704,PEDRO MONCAYO,PICHINCHA
-1705,RUMIÑAHUI,PICHINCHA
-1707,SAN MIGUEL DE LOS BANCOS,PICHINCHA
-1708,PEDRO VICENTE MALDONADO,PICHINCHA
-1709,PUERTO QUITO,PICHINCHA
-1801,AMBATO,TUNGURAHUA
-1802,BAÑOS DE AGUA SANTA,TUNGURAHUA
-1803,CEVALLOS,TUNGURAHUA
-1804,MOCHA,TUNGURAHUA
-1805,PATATE,TUNGURAHUA
-1806,QUERO,TUNGURAHUA
-1807,SAN PEDRO DE PELILEO,TUNGURAHUA
-1808,SANTIAGO DE PÍLLARO,TUNGURAHUA
-1809,TISALEO,TUNGURAHUA
-1901,ZAMORA,ZAMORA CHINCHIPE
-1902,CHINCHIPE,ZAMORA CHINCHIPE
-1903,NANGARITZA,ZAMORA CHINCHIPE
-1904,YACUAMBI,ZAMORA CHINCHIPE
-1905,YANTZAZA (YANZATZA),ZAMORA CHINCHIPE
-1906,EL PANGUI,ZAMORA CHINCHIPE
-1907,CENTINELA DEL CÓNDOR,ZAMORA CHINCHIPE
-1908,PALANDA,ZAMORA CHINCHIPE
-1909,PAQUISHA,ZAMORA CHINCHIPE
-2001,SAN CRISTÓBAL,GALAPAGOS
-2002,ISABELA,GALAPAGOS
-2003,SANTA CRUZ,GALAPAGOS
-2101,LAGO AGRIO,SUCUMBIOS
-2102,GONZALO PIZARRO,SUCUMBIOS
-2103,PUTUMAYO,SUCUMBIOS
-2104,SHUSHUFINDI,SUCUMBIOS
-2105,SUCUMBÍOS,SUCUMBIOS
-2106,CASCALES,SUCUMBIOS
-2107,CUYABENO,SUCUMBIOS
-2201,ORELLANA,ORELLANA
-2202,AGUARICO,ORELLANA
-2203,LA JOYA DE LOS SACHAS,ORELLANA
-2204,LORETO,ORELLANA
-2301,SANTO DOMINGO,SANTO DOMINGO DE LOS TSACHILAS
-2401,SANTA ELENA,SANTA ELENA
-2402,LA LIBERTAD,SANTA ELENA
-2403,SALINAS,SANTA ELENA
-9001,LAS GOLONDRINAS,ZONAS NO DELIMITADAS
-9003,MANGA DEL CURA,ZONAS NO DELIMITADAS
-9004,EL PIEDRERO,ZONAS NO DELIMITADAS
+101,cuenca,azuay
+102,girón,azuay
+103,gualaceo,azuay
+104,nabón,azuay
+105,paute,azuay
+106,pucara,azuay
+107,san fernando,azuay
+108,santa isabel,azuay
+109,sigsig,azuay
+110,oña,azuay
+111,chordeleg,azuay
+112,el pan,azuay
+113,sevilla de oro,azuay
+114,guachapala,azuay
+115,camilo ponce enríquez,azuay
+201,guaranda,bolivar
+202,chillanes,bolivar
+203,chimbo,bolivar
+204,echeandía,bolivar
+205,san miguel,bolivar
+206,caluma,bolivar
+207,las naves,bolivar
+301,azogues,cañar
+302,biblián,cañar
+303,cañar,cañar
+304,la troncal,cañar
+305,el tambo,cañar
+306,déleg,cañar
+307,suscal,cañar
+401,tulcán,carchi
+402,bolívar,carchi
+403,espejo,carchi
+404,mira,carchi
+405,montúfar,carchi
+406,san pedro de huaca,carchi
+501,latacunga,cotopaxi
+502,la maná,cotopaxi
+503,pangua,cotopaxi
+504,pujili,cotopaxi
+505,salcedo,cotopaxi
+506,saquisilí,cotopaxi
+507,sigchos,cotopaxi
+601,riobamba,chimborazo
+602,alausi,chimborazo
+603,colta,chimborazo
+604,chambo,chimborazo
+605,chunchi,chimborazo
+606,guamote,chimborazo
+607,guano,chimborazo
+608,pallatanga,chimborazo
+609,penipe,chimborazo
+610,cumandá,chimborazo
+701,machala,el oro
+702,arenillas,el oro
+703,atahualpa,el oro
+704,balsas,el oro
+705,chilla,el oro
+706,el guabo,el oro
+707,huaquillas,el oro
+708,marcabelí,el oro
+709,pasaje,el oro
+710,piñas,el oro
+711,portovelo,el oro
+712,santa rosa,el oro
+713,zaruma,el oro
+714,las lajas,el oro
+801,esmeraldas,esmeraldas
+802,eloy alfaro,esmeraldas
+803,muisne,esmeraldas
+804,quinindé,esmeraldas
+805,san lorenzo,esmeraldas
+806,atacames,esmeraldas
+807,rioverde,esmeraldas
+808,la concordia,esmeraldas
+901,guayaquil,guayas
+902,alfredo baquerizo moreno (juján),guayas
+903,balao,guayas
+904,balzar,guayas
+905,colimes,guayas
+906,daule,guayas
+907,durán,guayas
+908,el empalme,guayas
+909,el triunfo,guayas
+910,milagro,guayas
+911,naranjal,guayas
+912,naranjito,guayas
+913,palestina,guayas
+914,pedro carbo,guayas
+916,samborondón,guayas
+918,santa lucía,guayas
+919,salitre (urbina jado),guayas
+920,san jacinto de yaguachi,guayas
+921,playas,guayas
+922,simón bolívar,guayas
+923,coronel marcelino maridueña,guayas
+924,lomas de sargentillo,guayas
+925,nobol,guayas
+927,general antonio elizalde,guayas
+928,isidro ayora,guayas
+1001,ibarra,imbabura
+1002,antonio ante,imbabura
+1003,cotacachi,imbabura
+1004,otavalo,imbabura
+1005,pimampiro,imbabura
+1006,san miguel de urcuquí,imbabura
+1101,loja,loja
+1102,calvas,loja
+1103,catamayo,loja
+1104,celica,loja
+1105,chaguarpamba,loja
+1106,espíndola,loja
+1107,gonzanamá,loja
+1108,macará,loja
+1109,paltas,loja
+1110,puyango,loja
+1111,saraguro,loja
+1112,sozoranga,loja
+1113,zapotillo,loja
+1114,pindal,loja
+1115,quilanga,loja
+1116,olmedo,loja
+1201,babahoyo,los rios
+1202,baba,los rios
+1203,montalvo,los rios
+1204,puebloviejo,los rios
+1205,quevedo,los rios
+1206,urdaneta,los rios
+1207,ventanas,los rios
+1208,vínces,los rios
+1209,palenque,los rios
+1210,buena fé,los rios
+1211,valencia,los rios
+1212,mocache,los rios
+1213,quinsaloma,los rios
+1301,portoviejo,manabi
+1302,bolívar,manabi
+1303,chone,manabi
+1304,el carmen,manabi
+1305,flavio alfaro,manabi
+1306,jipijapa,manabi
+1307,junín,manabi
+1308,manta,manabi
+1309,montecristi,manabi
+1310,paján,manabi
+1311,pichincha,manabi
+1312,rocafuerte,manabi
+1313,santa ana,manabi
+1314,sucre,manabi
+1315,tosagua,manabi
+1316,24 de mayo,manabi
+1317,pedernales,manabi
+1318,olmedo,manabi
+1319,puerto lópez,manabi
+1320,jama,manabi
+1321,jaramijó,manabi
+1322,san vicente,manabi
+1401,morona,morona santiago
+1402,gualaquiza,morona santiago
+1403,limón indanza,morona santiago
+1404,palora,morona santiago
+1405,santiago,morona santiago
+1406,sucúa,morona santiago
+1407,huamboya,morona santiago
+1408,san juan bosco,morona santiago
+1409,taisha,morona santiago
+1410,logroño,morona santiago
+1411,pablo sexto,morona santiago
+1412,tiwintza,morona santiago
+1501,tena,napo
+1503,archidona,napo
+1504,el chaco,napo
+1507,quijos,napo
+1509,carlos julio arosemena tola,napo
+1601,pastaza,pastaza
+1602,mera,pastaza
+1603,santa clara,pastaza
+1604,arajuno,pastaza
+1701,quito,pichincha
+1702,cayambe,pichincha
+1703,mejia,pichincha
+1704,pedro moncayo,pichincha
+1705,rumiñahui,pichincha
+1707,san miguel de los bancos,pichincha
+1708,pedro vicente maldonado,pichincha
+1709,puerto quito,pichincha
+1801,ambato,tungurahua
+1802,baños de agua santa,tungurahua
+1803,cevallos,tungurahua
+1804,mocha,tungurahua
+1805,patate,tungurahua
+1806,quero,tungurahua
+1807,san pedro de pelileo,tungurahua
+1808,santiago de píllaro,tungurahua
+1809,tisaleo,tungurahua
+1901,zamora,zamora chinchipe
+1902,chinchipe,zamora chinchipe
+1903,nangaritza,zamora chinchipe
+1904,yacuambi,zamora chinchipe
+1905,yantzaza (yanzatza),zamora chinchipe
+1906,el pangui,zamora chinchipe
+1907,centinela del cóndor,zamora chinchipe
+1908,palanda,zamora chinchipe
+1909,paquisha,zamora chinchipe
+2001,san cristóbal,galapagos
+2002,isabela,galapagos
+2003,santa cruz,galapagos
+2101,lago agrio,sucumbios
+2102,gonzalo pizarro,sucumbios
+2103,putumayo,sucumbios
+2104,shushufindi,sucumbios
+2105,sucumbíos,sucumbios
+2106,cascales,sucumbios
+2107,cuyabeno,sucumbios
+2201,orellana,orellana
+2202,aguarico,orellana
+2203,la joya de los sachas,orellana
+2204,loreto,orellana
+2301,santo domingo,santo domingo de los tsachilas
+2401,santa elena,santa elena
+2402,la libertad,santa elena
+2403,salinas,santa elena
+9001,las golondrinas,zonas no delimitadas
+9003,manga del cura,zonas no delimitadas
+9004,el piedrero,zonas no delimitadas
