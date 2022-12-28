@@ -1,4 +1,5 @@
 #Libraries
+from csv import writer
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -26,6 +27,7 @@ xpath_JUMP_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_bottom"
 xpath_TABLE = 'j_idt24:pnlOrganismo:tblDatosTabla_data' 
 xpath_EXPIRED_SESSION = '/html/body/div[2]/div/span[3]'
 columns = ['RUC_o_Codigo','Razon_Social',	'Nombre_Comercial',	'Telefono',	'Celular',	'Correo_Electronico',	'Numero_Resolucion',	'Fecha_Resolucion',	'Estado', 'Canton']
+
 
 
 def save_info(id_bot,doc_name,data,columns,tds,tde,page,start_page,final_page):
