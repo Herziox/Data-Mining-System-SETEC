@@ -1,0 +1,7 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+numero_documento,2970,0,int64,914804364
+apellidos_nombres,2970,0,object,VALENZUELA MENDIETA RICHARD OSWALDO
+codigo_resolucion,2970,0,object,RESOLUCIÓN No. MDT-CI-CAL-2021-0115
+vigencia_resolucion,2970,0,object,3/8/2023
+correo_electronico,2970,0,object,rickovm@gmail.com
+celular,2970,0,object,996521955

@@ -1,0 +1,4 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,100,0,object,1091747029001
+razon_social,100,0,object,FUNDEHS CONSULTING
+estado,100,0,object,FINALIZO VIGENCIA DE RECONOCIMIENTO

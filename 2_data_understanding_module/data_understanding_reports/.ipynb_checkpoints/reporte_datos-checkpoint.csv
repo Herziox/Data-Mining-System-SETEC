@@ -1,0 +1,20 @@
+Archivo,# Filas,# Columnas,Total datos,Total datos NO Nulos
+ci0.csv,2970,6,17820,17820
+ci_lca0.csv,7105,6,42630,42346
+cncoc.csv,659,4,2636,2636
+cncoec0.csv,209,4,836,836
+cncpi0.csv,280,3,840,840
+oc0.csv,542,10,5420,5333
+occ.csv,12,3,36,36
+ocf0.csv,178,3,534,534
+ocs.csv,1,3,3,3
+oc_cc0.csv,5217,7,36519,36519
+oc_cl0.csv,100,5,500,500
+oec0.csv,221,10,2210,2210
+oecc.csv,14,3,42,42
+oecf0.csv,100,3,300,300
+oecs.csv,4,3,12,12
+oec_dr0.csv,1205,4,4820,4604
+pcci.csv,146010,5,730050,730050
+pcoc.csv,251989,8,2015912,1993246
+pcoec.csv,301572,8,2412576,2412576

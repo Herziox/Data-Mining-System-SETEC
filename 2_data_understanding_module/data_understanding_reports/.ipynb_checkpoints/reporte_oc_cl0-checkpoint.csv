@@ -1,0 +1,6 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,100,0,object,1.70926E+12
+razon_social,100,0,object,CHACHAPOYA CACHIGUANGO FREDDY BAYARDO
+familia,100,0,object,Industrias manufactureras
+sector,100,0,object,Elaboración de comidas y platos preparados
+perfil,100,0,object,PREPARACIÓN GASTRONÓMICA DE COCINA

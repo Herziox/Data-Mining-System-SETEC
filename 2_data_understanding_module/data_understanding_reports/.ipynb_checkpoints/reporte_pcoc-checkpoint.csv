@@ -1,0 +1,9 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+numero_documento,251946,43,object,1203986540
+apellidos_nombres,251876,113,object,LUIS ALBERTO ALBARRACIN ANDRADE
+tipo_capacitacion,251989,0,object,CAPACITACIÓN CONTINUA
+nombre_curso_perfil,251989,0,object,ENGLISH LEVEL BASIC A2
+numero_horas,251872,117,float64,240.0
+razon_social_oc,251946,43,object,CHUQUICONDOR PILAMUNGA CARMEN YOLANDA
+nombre_comercial_oc,229639,22350,object,SHERYDAN INTERNATIONAL GROUP
+numero_certificado,251989,0,object,SHIG ASTFR 01-02-01-01-01-2018

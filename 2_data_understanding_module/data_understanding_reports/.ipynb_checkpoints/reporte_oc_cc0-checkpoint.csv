@@ -1,0 +1,8 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+documento,5217,0,object,102889730001
+razon_social,5217,0,object,MOGROVEJO NARVAEZ JHONI WILLIAM
+area,5217,0,object,MECÁNICA AUTOMOTRIZ
+especialidad,5217,0,object,MECÁNICA GENERAL
+curso,5217,0,object,MECÁNICA AUTOMOTRIZ
+modalidad,5217,0,object,PRESENCIAL
+carga_horaria,5217,0,int64,120

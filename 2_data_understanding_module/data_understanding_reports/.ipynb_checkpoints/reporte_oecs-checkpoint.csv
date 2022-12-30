@@ -1,0 +1,4 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,4,0,int64,1792257077001
+razon_social,4,0,object,LIDERAZGO CAPACITACION Y CONSULTORIA DAVSOC COMPAÑIA LIMITADA
+estado,4,0,object,SUSPENDIDO

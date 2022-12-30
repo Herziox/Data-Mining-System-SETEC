@@ -1,0 +1,11 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,542,0,object,102889730001
+razon_social,542,0,object,MOGROVEJO NARVAEZ JHONI WILLIAM
+nombre_comercial,455,87,object,
+telefono,542,0,object,00-0000000
+celular,542,0,object,0
+correo_electronico,542,0,object,centrodecapacitacionesaustro@gmail.com
+numero_resolucion,542,0,object,MDT-SCP-2021-0016
+fecha_resolucion,542,0,object,26-01-2021
+estado,542,0,object,CALIFICADO
+canton,542,0,object,CUENCA

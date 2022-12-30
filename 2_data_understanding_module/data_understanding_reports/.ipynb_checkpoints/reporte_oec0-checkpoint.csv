@@ -1,0 +1,11 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,221,0,object,1801742642001
+razon_social,221,0,object,NAVAS ESCOBAR FAUSTO ENRIQUE
+direccion,221,0,object,LAS LIMAS S/N Y LOS HIGOS
+telefono,221,0,object,03-2855442
+celular,221,0,int64,983538213
+correo_electronico,221,0,object,faustoenriquenavas@hotmail.com
+numero_resolucion,221,0,object,MDT-SCP-2021-0073
+fecha_resolucion,221,0,object,3/4/2021
+canton,221,0,object,AMBATO
+estado,221,0,object,HABILITADO

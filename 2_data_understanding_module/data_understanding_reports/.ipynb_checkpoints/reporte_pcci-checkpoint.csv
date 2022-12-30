@@ -1,0 +1,6 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+numero_documento,146010,0,object,1713185427
+apellidos_nombres,146010,0,object,LUIS EDGAR TIMBILA SALAS
+curso,146010,0,object,"CONTRATACIÓN PÚBLICA DE BIENES Y SERVICIOS, PARA PROVEEDORES DEL ESTADO"
+numero_horas,146010,0,int64,32
+capacitador_independiente,146010,0,object,CHAVEZ JARAMILLO JONATHAN AUGUSTO

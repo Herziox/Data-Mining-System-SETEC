@@ -1,0 +1,7 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+numero_documento,7105,0,int64,914804364
+apellidos_nombres,7105,0,object,VALENZUELA MENDIETA RICHARD OSWALDO
+curso,7034,71,object,PREVENCIÓN DE RIESGOS LABORALES
+area,7034,71,object,PROCESOS INDUSTRIALES
+especialidad,7034,71,object,SEGURIDAD PREVENCIÓN DE RIESGOS E HIGIENE INDUSTRIAL
+carga_horaria,7034,71,float64,16.0

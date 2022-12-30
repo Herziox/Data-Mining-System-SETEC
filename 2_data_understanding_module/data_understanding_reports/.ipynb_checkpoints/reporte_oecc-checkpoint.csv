@@ -1,0 +1,4 @@
+Nombre de columna,# de datos NO nulos,# de datos nulos,Tipo de datos,Ejemplo
+ruc_o_codigo,14,0,int64,1704980158001
+razon_social,14,0,object,MIER MEJIA MARY JEANNETH
+estado,14,0,object,CANCELADO DEFINITIVAMENTE
