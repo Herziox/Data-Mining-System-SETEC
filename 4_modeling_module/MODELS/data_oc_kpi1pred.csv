@@ -1,0 +1,633 @@
+"area_familia","modalidad","canton","provincia","total_cursos","volumen_capacitados","total_horas","total_ganancias","%_asistencia","carga_horaria","costo","anio","num_cap_cer","prediction(num_cap_cer)"
+"construcción e infraestructura","presencial","quito","pichincha",4.0,52.0,1360.0,0.0,0.0,40.0,0.0,2021.0,34.0,35.25
+"servicios socioculturales y a la comunidad","online","guayaquil","guayas",2.0,249.0,9760.0,0.0,0.0,40.0,0.0,2021.0,244.0,277.0
+"educación y capacitación","presencial","quito","pichincha",10.0,495.0,1380.0,0.0,0.0,60.0,0.0,2021.0,23.0,21.5
+"educación y capacitación","presencial","quito","pichincha",10.0,495.0,270.0,0.0,0.0,30.0,0.0,2021.0,9.0,9.333333333333334
+"educación y capacitación","presencial","quito","pichincha",10.0,95.0,180.0,0.0,0.0,30.0,0.0,2018.0,6.0,5.0
+"educación y capacitación","presencial","quito","pichincha",2.0,42.0,12600.0,0.0,0.0,360.0,0.0,2021.0,35.0,62.5
+"educación y capacitación","presencial","quito","pichincha",2.0,42.0,14000.0,0.0,0.0,400.0,0.0,2021.0,35.0,62.5
+"comunicación y artes gráficas","online","guayaquil","guayas",2.0,655.0,17190.0,0.0,0.0,30.0,0.0,2021.0,573.0,709.4285714285714
+"alimentación gastronomía y turismo","presencial","pastaza","pastaza",3.0,36.0,4000.0,0.0,0.0,200.0,0.0,2018.0,20.0,16.0
+"electricidad y electrónica","presencial","cuenca","azuay",5.0,108.0,50.0,0.0,0.0,25.0,0.0,2021.0,2.0,3.1666666666666665
+"electricidad y electrónica","presencial","cuenca","azuay",5.0,108.0,846.0,0.0,0.0,18.0,0.0,2021.0,47.0,48.42857142857143
+"electricidad y electrónica","online","cuenca","azuay",5.0,108.0,90.0,0.0,0.0,30.0,0.0,2021.0,3.0,3.5
+"electricidad y electrónica","presencial","cuenca","azuay",4.0,80.0,1908.0,0.0,0.0,36.0,0.0,2018.0,53.0,48.0
+"electricidad y electrónica","presencial","cuenca","azuay",3.0,71.0,1332.0,0.0,0.0,36.0,0.0,2019.0,37.0,30.5
+"procesos industriales","presencial","rumiñahui","pichincha",8.0,438.0,360.0,0.0,0.0,12.0,0.0,2021.0,30.0,35.75
+"alimentación gastronomía y turismo","presencial","rumiñahui","pichincha",8.0,438.0,5160.0,0.0,0.0,40.0,0.0,2021.0,129.0,97.11111111111113
+"procesos industriales","presencial","rumiñahui","pichincha",3.0,227.0,5240.0,0.0,0.0,40.0,0.0,2018.0,131.0,82.8
+"procesos industriales","presencial","quito","pichincha",4.0,42.0,200.0,0.0,0.0,50.0,0.0,2021.0,4.0,5.0
+"procesos industriales","presencial","quito","pichincha",4.0,42.0,4050.0,0.0,0.0,150.0,0.0,2021.0,27.0,16.0
+"mecánica industrial y minería","presencial","quito","pichincha",4.0,42.0,1050.0,0.0,0.0,150.0,0.0,2021.0,7.0,7.857142857142857
+"procesos industriales","presencial","santo domingo","santo domingo de los tsachilas",2.0,20.0,40.0,0.0,0.0,40.0,0.0,2021.0,1.0,1.0
+"educación y capacitación","presencial","quito","pichincha",9.0,11.0,268.0,0.0,0.0,268.0,0.0,2021.0,1.0,1.0
+"educación y capacitación","presencial","quito","pichincha",7.0,19.0,267.0,0.0,0.0,267.0,0.0,2018.0,1.0,2.0
+"procesos industriales","presencial","quito","pichincha",12.0,1394.0,280.0,0.0,0.0,8.0,0.0,2021.0,35.0,34.0
+"procesos industriales","presencial","quito","pichincha",12.0,1394.0,2136.0,0.0,0.0,8.0,0.0,2021.0,267.0,204.0
+"procesos industriales","online","quito","pichincha",12.0,1394.0,2136.0,0.0,0.0,8.0,0.0,2021.0,267.0,204.0
+"procesos industriales","presencial","quito","pichincha",12.0,1394.0,32.0,0.0,0.0,8.0,0.0,2021.0,4.0,4.0
+"procesos industriales","presencial","quito","pichincha",17.0,247.0,24.0,0.0,0.0,8.0,0.0,2019.0,3.0,3.0
+"procesos industriales","online","quito","pichincha",17.0,247.0,160.0,0.0,0.0,8.0,0.0,2019.0,20.0,16.666666666666668
+"procesos industriales","presencial","quito","pichincha",17.0,247.0,272.0,0.0,0.0,16.0,0.0,2019.0,17.0,17.5
+"procesos industriales","presencial","quito","pichincha",17.0,247.0,384.0,0.0,0.0,16.0,0.0,2019.0,24.0,19.5
+"procesos industriales","online","quito","pichincha",17.0,247.0,232.0,0.0,0.0,8.0,0.0,2019.0,29.0,29.0
+"procesos industriales","online","quito","pichincha",17.0,247.0,344.0,0.0,0.0,8.0,0.0,2019.0,43.0,37.666666666666664
+"procesos industriales","presencial","quito","pichincha",17.0,247.0,248.0,0.0,0.0,8.0,0.0,2019.0,31.0,29.285714285714285
+"procesos industriales","online","quito","pichincha",17.0,247.0,248.0,0.0,0.0,8.0,0.0,2019.0,31.0,29.0
+"procesos industriales","online","quito","pichincha",17.0,247.0,32.0,0.0,0.0,16.0,0.0,2019.0,2.0,1.0
+"educación y capacitación","online","ibarra","imbabura",9.0,245.0,880.0,0.0,0.0,40.0,0.0,2021.0,22.0,22.25
+"alimentación gastronomía y turismo","presencial","ibarra","imbabura",9.0,245.0,4560.0,0.0,0.0,40.0,0.0,2021.0,114.0,97.11111111111113
+"alimentación gastronomía y turismo","online","ibarra","imbabura",9.0,245.0,4560.0,0.0,0.0,40.0,0.0,2021.0,114.0,97.11111111111113
+"educación y capacitación","presencial","ibarra","imbabura",4.0,60.0,640.0,0.0,0.0,40.0,0.0,2018.0,16.0,15.5
+"educación y capacitación","online","ibarra","imbabura",4.0,60.0,640.0,0.0,0.0,40.0,0.0,2018.0,16.0,15.5
+"administración y legislación","presencial","quito","pichincha",1.0,3.0,120.0,0.0,0.0,40.0,0.0,2020.0,3.0,5.0
+"administración y legislación","presencial","quito","pichincha",3.0,75.0,2360.0,0.0,0.0,40.0,0.0,2022.0,59.0,57.5
+"administración y legislación","presencial","quito","pichincha",3.0,75.0,400.0,0.0,0.0,40.0,0.0,2022.0,10.0,9.777777777777779
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",1.0,5.0,200.0,0.0,0.0,40.0,0.0,2021.0,5.0,5.0
+"alimentación gastronomía y turismo","presencial","quito","pichincha",13.0,1219.0,51120.0,0.0,0.0,240.0,0.0,2021.0,213.0,523.0
+"alimentación gastronomía y turismo","presencial","quito","pichincha",13.0,1219.0,6600.0,0.0,0.0,200.0,0.0,2021.0,33.0,78.5
+"alimentación gastronomía y turismo","presencial","quito","pichincha",13.0,1219.0,10560.0,0.0,0.0,240.0,0.0,2021.0,44.0,78.5
+"educación y capacitación","semipresencial","guayaquil","guayas",3.0,1307.0,108450.0,0.0,0.0,150.0,0.0,2021.0,723.0,619.0
+"artes y artesanía","presencial","quito","pichincha",3.0,24.0,160.0,0.0,0.0,40.0,0.0,2021.0,4.0,5.0
+"educación y capacitación","online","santo domingo","santo domingo de los tsachilas",15.0,1119.0,360.0,0.0,0.0,40.0,0.0,2021.0,9.0,9.5
+"procesos industriales","online","santo domingo","santo domingo de los tsachilas",15.0,1119.0,1616.0,0.0,0.0,8.0,0.0,2021.0,202.0,198.5
+"procesos industriales","presencial","santo domingo","santo domingo de los tsachilas",15.0,1119.0,180.0,0.0,0.0,60.0,0.0,2021.0,3.0,1.75
+"administración y legislación","presencial","santo domingo","santo domingo de los tsachilas",15.0,1119.0,440.0,0.0,0.0,8.0,0.0,2021.0,55.0,42.45454545454545
+"tecnologías de la información y comunicación","presencial","quito","pichincha",23.0,1218.0,1120.0,16520.0,0.2333333333333333,40.0,590.0,2021.0,28.0,29.2
+"tecnologías de la información y comunicación","presencial","quito","pichincha",23.0,1218.0,640.0,6188.8,0.1333333333333333,40.0,386.8,2021.0,16.0,15.5
+"electricidad y electrónica","presencial","quito","pichincha",23.0,1218.0,600.0,0.0,0.125,40.0,0.0,2021.0,15.0,15.5
+"educación y capacitación","presencial","quito","pichincha",23.0,1218.0,3800.0,0.0,0.7916666666666667,40.0,0.0,2021.0,95.0,121.25
+"tecnologías de la información y comunicación","presencial","quito","pichincha",23.0,1218.0,4600.0,83352.00000000001,0.9583333333333331,40.0,724.8000000000001,2021.0,115.0,121.25
+"tecnologías de la información y comunicación","presencial","quito","pichincha",23.0,1218.0,40.0,386.8,0.0083333333333333,40.0,386.8,2021.0,1.0,1.0
+"educación y capacitación","presencial","quito","pichincha",23.0,1218.0,480.0,0.0,0.0333333333333333,120.0,0.0,2021.0,4.0,4.5
+"tecnologías de la información y comunicación","presencial","quito","pichincha",23.0,1218.0,600.0,1998.0,0.125,40.0,133.2,2021.0,15.0,15.5
+"tecnologías de la información y comunicación","presencial","quito","pichincha",14.0,127.0,480.0,4641.6,0.1,40.0,386.8,2019.0,12.0,12.0
+"educación y capacitación","presencial","quito","pichincha",14.0,127.0,160.0,0.0,0.0333333333333333,40.0,0.0,2019.0,4.0,3.1666666666666665
+"tecnologías de la información y comunicación","presencial","quito","pichincha",14.0,127.0,120.0,1160.4,0.025,40.0,386.8,2019.0,3.0,3.0
+"alimentación gastronomía y turismo","presencial","guayaquil","guayas",3.0,14.0,1728.0,0.0,0.0,144.0,0.0,2021.0,12.0,9.5
+"alimentación gastronomía y turismo","online","guayaquil","guayas",3.0,14.0,1728.0,0.0,0.0,144.0,0.0,2021.0,12.0,9.5
+"alimentación gastronomía y turismo","presencial","guayaquil","guayas",3.0,21.0,2016.0,0.0,0.0,144.0,0.0,2019.0,14.0,13.25
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",3.0,69.0,1020.0,15045.0,0.0,20.0,295.0,2021.0,51.0,47.2
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",3.0,69.0,400.0,7500.0,0.0,40.0,750.0,2021.0,10.0,9.777777777777779
+"procesos industriales","presencial","quito","pichincha",12.0,282.0,520.0,0.0,0.0,40.0,0.0,2021.0,13.0,13.5
+"procesos industriales","presencial","quito","pichincha",12.0,282.0,1600.0,0.0,0.0,40.0,0.0,2021.0,40.0,41.0
+"procesos industriales","presencial","quito","pichincha",12.0,282.0,2240.0,0.0,0.0,40.0,0.0,2021.0,56.0,55.5
+"procesos industriales","presencial","quito","pichincha",12.0,282.0,520.0,0.0,0.0,40.0,0.0,2021.0,13.0,13.5
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",4.0,55.0,1000.0,0.0,0.0,100.0,0.0,2019.0,10.0,7.857142857142857
+"alimentación gastronomía y turismo","presencial","daule","guayas",4.0,235.0,240.0,0.0,0.0,40.0,0.0,2021.0,6.0,6.0
+"alimentación gastronomía y turismo","presencial","daule","guayas",4.0,235.0,18720.0,0.0,0.0,312.0,0.0,2021.0,60.0,82.8
+"alimentación gastronomía y turismo","presencial","daule","guayas",2.0,54.0,13728.0,0.0,0.0,312.0,0.0,2019.0,44.0,62.5
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,60.0,580.2,0.0071377587437544,30.0,290.1,2021.0,2.0,3.1666666666666665
+"comunicación y artes gráficas","presencial","quito","pichincha",40.0,2808.0,1260.0,0.0,0.1498929336188436,30.0,0.0,2021.0,42.0,40.333333333333336
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,390.0,2683.2000000000003,0.046395431834404,30.0,206.4,2021.0,13.0,9.777777777777779
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,8580.0,90090.0,1.020699500356888,30.0,315.0,2021.0,286.0,527.6666666666666
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,630.0,1417.5,0.0749464668094218,30.0,67.5,2021.0,21.0,16.5
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,20460.0,65642.49999318,2.4339757316202717,30.0,96.24999999,2021.0,682.0,709.4285714285714
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,960.0,10080.0,0.1142041399000713,30.0,315.0,2021.0,32.0,30.25
+"comunicación y artes gráficas","presencial","quito","pichincha",40.0,2808.0,5100.0,0.0,0.9100642398286938,20.0,0.0,2021.0,255.0,247.25
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,30.0,182.7,0.0035688793718772,30.0,182.7,2021.0,1.0,1.0
+"tecnologías de la información y comunicación","presencial","quito","pichincha",40.0,2808.0,1290.0,8604.3,0.1534618129907209,30.0,200.1,2021.0,43.0,40.333333333333336
+"educación y capacitación","presencial","ibarra","imbabura",8.0,312.0,11096.0,0.0,0.0,152.0,0.0,2021.0,73.0,30.5
+"educación y capacitación","presencial","ibarra","imbabura",8.0,312.0,3610.0,0.0,0.0,190.0,0.0,2021.0,19.0,16.0
+"procesos industriales","presencial","guayaquil","guayas",7.0,104.0,80.0,0.0,0.0,16.0,0.0,2021.0,5.0,4.0
+"procesos industriales","online","MISSING","cotopaxi",5.0,193.0,900.0,0.0,0.0,30.0,0.0,2021.0,30.0,30.25
+"procesos industriales","online","MISSING","cotopaxi",5.0,193.0,2260.0,0.0,0.0,20.0,0.0,2021.0,113.0,118.5
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,1320.0,0.0,0.0,60.0,0.0,2021.0,22.0,28.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,342.0,0.0,0.0,18.0,0.0,2021.0,19.0,16.333333333333332
+"procesos industriales","online","quito","pichincha",38.0,3266.0,342.0,0.0,0.0,18.0,0.0,2021.0,19.0,14.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,32.0,0.0,0.0,16.0,0.0,2021.0,2.0,2.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,272.0,0.0,0.0,16.0,0.0,2021.0,17.0,17.5
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,120.0,0.0,0.0,20.0,0.0,2021.0,6.0,6.0
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,2200.0,0.0,0.0,100.0,0.0,2021.0,22.0,20.5
+"electricidad y electrónica","online","quito","pichincha",38.0,3266.0,2200.0,0.0,0.0,100.0,0.0,2021.0,22.0,20.5
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,60.0,0.0,0.0,20.0,0.0,2021.0,3.0,3.1666666666666665
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,600.0,0.0,0.0,120.0,0.0,2021.0,5.0,6.0
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,500.0,0.0,0.0,100.0,0.0,2021.0,5.0,4.5
+"educación y capacitación","presencial","quito","pichincha",38.0,3266.0,880.0,0.0,0.0,40.0,0.0,2021.0,22.0,22.25
+"educación y capacitación","online","quito","pichincha",38.0,3266.0,880.0,0.0,0.0,40.0,0.0,2021.0,22.0,22.25
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,1500.0,0.0,0.0,100.0,0.0,2021.0,15.0,10.666666666666666
+"procesos industriales","online","quito","pichincha",38.0,3266.0,1500.0,0.0,0.0,100.0,0.0,2021.0,15.0,10.666666666666666
+"electricidad y electrónica","presencial","quito","pichincha",38.0,3266.0,1500.0,0.0,0.0,60.0,0.0,2021.0,25.0,28.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,2480.0,0.0,0.0,10.0,0.0,2021.0,248.0,275.3333333333333
+"procesos industriales","online","quito","pichincha",38.0,3266.0,4464.0,0.0,0.0,18.0,0.0,2021.0,248.0,247.25
+"procesos industriales","online","quito","pichincha",38.0,3266.0,2480.0,0.0,0.0,10.0,0.0,2021.0,248.0,275.3333333333333
+"electricidad y electrónica","online","quito","pichincha",38.0,3266.0,96.0,0.0,0.0,16.0,0.0,2021.0,6.0,8.666666666666666
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,140.0,0.0,0.0,10.0,0.0,2021.0,14.0,17.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,4656.0,0.0,0.0,24.0,0.0,2021.0,194.0,202.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,4656.0,0.0,0.0,24.0,0.0,2021.0,194.0,202.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,1940.0,0.0,0.0,10.0,0.0,2021.0,194.0,181.5
+"procesos industriales","online","quito","pichincha",38.0,3266.0,7760.0,0.0,0.0,40.0,0.0,2021.0,194.0,197.5
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,3880.0,0.0,0.0,20.0,0.0,2021.0,194.0,198.0
+"procesos industriales","semipresencial","quito","pichincha",38.0,3266.0,4656.0,0.0,0.0,24.0,0.0,2021.0,194.0,202.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,5148.0,0.0,0.0,36.0,0.0,2021.0,143.0,202.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,5148.0,0.0,0.0,36.0,0.0,2021.0,143.0,202.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,5720.0,0.0,0.0,40.0,0.0,2021.0,143.0,175.25
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,21960.0,0.0,0.0,30.0,0.0,2021.0,732.0,709.4285714285714
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,11712.0,0.0,0.0,16.0,0.0,2021.0,732.0,709.4285714285714
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,8784.0,0.0,0.0,12.0,0.0,2021.0,732.0,482.3333333333333
+"procesos industriales","online","quito","pichincha",38.0,3266.0,29280.0,0.0,0.0,40.0,0.0,2021.0,732.0,472.3333333333333
+"procesos industriales","online","quito","pichincha",38.0,3266.0,8784.0,0.0,0.0,12.0,0.0,2021.0,732.0,482.3333333333333
+"procesos industriales","online","quito","pichincha",38.0,3266.0,11712.0,0.0,0.0,16.0,0.0,2021.0,732.0,709.4285714285714
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,1280.0,0.0,0.0,10.0,0.0,2021.0,128.0,113.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,13820.0,0.0,0.0,20.0,0.0,2021.0,691.0,709.4285714285714
+"procesos industriales","online","quito","pichincha",38.0,3266.0,6910.0,0.0,0.0,10.0,0.0,2021.0,691.0,712.5
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,16584.0,0.0,0.0,24.0,0.0,2021.0,691.0,709.4285714285714
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,240.0,0.0,0.0,16.0,0.0,2021.0,15.0,15.5
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,120.0,0.0,0.0,10.0,0.0,2021.0,12.0,15.0
+"mecánica industrial y minería","online","quito","pichincha",38.0,3266.0,1360.0,0.0,0.0,16.0,0.0,2021.0,85.0,86.33333333333333
+"procesos industriales","online","quito","pichincha",38.0,3266.0,2060.0,0.0,0.0,20.0,0.0,2021.0,103.0,99.0
+"procesos industriales","presencial","quito","pichincha",38.0,3266.0,2472.0,0.0,0.0,24.0,0.0,2021.0,103.0,96.0
+"procesos industriales","online","quito","pichincha",38.0,3266.0,2472.0,0.0,0.0,24.0,0.0,2021.0,103.0,96.0
+"procesos industriales","semipresencial","quito","pichincha",38.0,3266.0,2472.0,0.0,0.0,24.0,0.0,2021.0,103.0,96.0
+"procesos industriales","presencial","quito","pichincha",4.0,9.0,48.0,0.0,0.0,16.0,0.0,2021.0,3.0,3.6666666666666665
+"procesos industriales","presencial","quito","pichincha",4.0,9.0,24.0,0.0,0.0,8.0,0.0,2021.0,3.0,3.0
+"administración y legislación","online","quito","pichincha",1.0,1337.0,85568.0,0.0,0.0,64.0,0.0,2021.0,1337.0,472.3333333333333
+"transporte y logística","presencial","latacunga","cotopaxi",12.0,2045.0,520.0,0.0,0.0,20.0,0.0,2021.0,26.0,22.0
+"construcción e infraestructura","presencial","latacunga","cotopaxi",12.0,2045.0,520.0,0.0,0.0,40.0,0.0,2021.0,13.0,13.5
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,4284.0,0.0,0.0,21.0,0.0,2021.0,204.0,198.0
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,4599.0,0.0,0.0,21.0,0.0,2021.0,219.0,247.25
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,672.0,0.0,0.0,21.0,0.0,2021.0,32.0,33.333333333333336
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,10836.0,0.0,0.0,28.0,0.0,2021.0,387.0,709.4285714285714
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,4480.0,0.0,0.0,28.0,0.0,2021.0,160.0,121.25
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,672.0,0.0,0.0,28.0,0.0,2021.0,24.0,21.5
+"educación y capacitación","online","quito","pichincha",30.0,2885.0,1617.0,0.0,0.0,21.0,0.0,2021.0,77.0,92.0
+"educación y capacitación","online","quito","pichincha",20.0,692.0,651.0,0.0,0.0,21.0,0.0,2019.0,31.0,33.333333333333336
+"administración y legislación","online","quito","pichincha",3.0,18.0,440.0,0.0,0.0,40.0,0.0,2021.0,11.0,7.666666666666667
+"administración y legislación","presencial","quito","pichincha",10.0,305.0,1600.0,0.0,0.0,40.0,0.0,2021.0,40.0,41.0
+"educación y capacitación","presencial","guayaquil","guayas",4.0,110.0,4320.0,0.0,0.0,80.0,0.0,2021.0,54.0,64.0
+"procesos industriales","online","quito","pichincha",17.0,3031.0,4848.0,0.0,0.0,24.0,0.0,2021.0,202.0,202.0
+"procesos industriales","presencial","quito","pichincha",17.0,3031.0,8520.0,0.0,0.0,24.0,0.0,2021.0,355.0,368.6666666666667
+"procesos industriales","online","quito","pichincha",17.0,3031.0,8520.0,0.0,0.0,24.0,0.0,2021.0,355.0,368.6666666666667
+"procesos industriales","semipresencial","quito","pichincha",17.0,3031.0,8520.0,0.0,0.0,24.0,0.0,2021.0,355.0,368.6666666666667
+"procesos industriales","presencial","quito","pichincha",13.0,648.0,552.0,0.0,0.0,24.0,0.0,2019.0,23.0,22.0
+"procesos industriales","online","quito","pichincha",13.0,648.0,552.0,0.0,0.0,24.0,0.0,2019.0,23.0,22.0
+"industrias  manufactureras","desconocida","guayaquil","guayas",2.0,20.0,0.0,0.0,0.0,0.0,0.0,2021.0,19.0,45.95238095238095
+"procesos industriales","presencial","quito","pichincha",6.0,236.0,570.0,0.0,0.0,10.0,0.0,2021.0,57.0,55.666666666666664
+"procesos industriales","presencial","quito","pichincha",6.0,236.0,20.0,0.0,0.0,10.0,0.0,2021.0,2.0,2.0
+"administración y legislación","online","latacunga","cotopaxi",24.0,3608.0,43200.0,0.0,0.0,200.0,0.0,2021.0,216.0,245.75
+"administración y legislación","online","latacunga","cotopaxi",24.0,3608.0,960.0,0.0,0.0,40.0,0.0,2021.0,24.0,24.0
+"finanzas comercio y ventas","online","latacunga","cotopaxi",24.0,3608.0,32720.0,0.0,0.0,80.0,0.0,2021.0,409.0,472.3333333333333
+"educación y capacitación","presencial","latacunga","cotopaxi",24.0,3608.0,12900.0,0.0,0.0,150.0,0.0,2021.0,86.0,78.5
+"administración y legislación","online","guayaquil","guayas",20.0,5039.0,144.0,0.0,0.0,24.0,0.0,2021.0,6.0,8.333333333333334
+"procesos industriales","online","guayaquil","guayas",20.0,5039.0,850.0,0.0,0.0,10.0,0.0,2021.0,85.0,83.0
+"transporte y logística","presencial","guayaquil","guayas",20.0,5039.0,1254.0,0.0,0.0,38.0,0.0,2021.0,33.0,33.0
+"transporte y logística","online","guayaquil","guayas",20.0,5039.0,120.0,0.0,0.0,40.0,0.0,2021.0,3.0,7.5
+"transporte y logística","presencial","guayaquil","guayas",20.0,5039.0,320.0,0.0,0.0,40.0,0.0,2021.0,8.0,8.0
+"transporte y logística","presencial","guayaquil","guayas",20.0,5039.0,2080.0,0.0,0.0,26.0,0.0,2021.0,80.0,77.75
+"administración y legislación","online","guayaquil","guayas",23.0,1389.0,792.0,0.0,0.0,12.0,0.0,2021.0,66.0,83.0
+"administración y legislación","online","guayaquil","guayas",23.0,1389.0,156.0,0.0,0.0,12.0,0.0,2021.0,13.0,13.0
+"administración y legislación","online","guayaquil","guayas",23.0,1389.0,1512.0,0.0,0.0,12.0,0.0,2021.0,126.0,147.83333333333334
+"administración y legislación","online","guayaquil","guayas",23.0,1389.0,120.0,0.0,0.0,12.0,0.0,2021.0,10.0,7.5
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",23.0,1389.0,228.0,731.499999924,0.0,12.0,38.499999996,2021.0,19.0,20.666666666666668
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",23.0,1389.0,444.0,6549.0,0.0,12.0,177.0,2021.0,37.0,38.0
+"administración y legislación","online","guayaquil","guayas",23.0,1389.0,228.0,0.0,0.0,12.0,0.0,2021.0,19.0,19.333333333333332
+"administración y legislación","presencial","guayaquil","guayas",23.0,1389.0,1740.0,0.0,0.0,12.0,0.0,2021.0,145.0,147.83333333333334
+"procesos industriales","presencial","guayaquil","guayas",23.0,1389.0,456.0,0.0,0.0,12.0,0.0,2021.0,38.0,38.0
+"procesos industriales","online","guayaquil","guayas",23.0,1389.0,456.0,0.0,0.0,12.0,0.0,2021.0,38.0,38.0
+"procesos industriales","online","guayaquil","guayas",23.0,1389.0,240.0,0.0,0.0,12.0,0.0,2021.0,20.0,19.333333333333332
+"procesos industriales","online","guayaquil","guayas",23.0,1389.0,168.0,0.0,0.0,12.0,0.0,2021.0,14.0,16.0
+"procesos industriales","presencial","guayaquil","guayas",23.0,1389.0,312.0,0.0,0.0,12.0,0.0,2021.0,26.0,35.75
+"procesos industriales","online","guayaquil","guayas",23.0,1389.0,312.0,0.0,0.0,12.0,0.0,2021.0,26.0,19.333333333333332
+"procesos industriales","online","guayaquil","guayas",23.0,1389.0,384.0,0.0,0.0,12.0,0.0,2021.0,32.0,23.0
+"educación y capacitación","online","guayaquil","guayas",23.0,1389.0,96.0,0.0,0.0,12.0,0.0,2021.0,8.0,8.666666666666666
+"educación y capacitación","presencial","guayaquil","guayas",23.0,1389.0,96.0,0.0,0.0,12.0,0.0,2021.0,8.0,7.0
+"mecánica automotriz","presencial","cayambe","pichincha",10.0,178.0,6200.0,0.0,0.0,200.0,0.0,2021.0,31.0,24.8
+"alimentación gastronomía y turismo","presencial","quito","pichincha",8.0,324.0,1080.0,0.0,0.0,120.0,0.0,2021.0,9.0,10.666666666666666
+"electricidad y electrónica","presencial","quito","pichincha",8.0,324.0,2040.0,0.0,0.0,120.0,0.0,2021.0,17.0,18.25
+"alimentación gastronomía y turismo","presencial","quito","pichincha",8.0,324.0,8520.0,0.0,0.0,120.0,0.0,2021.0,71.0,30.5
+"alimentación gastronomía y turismo","presencial","quito","pichincha",12.0,202.0,3360.0,0.0,0.0,120.0,0.0,2018.0,28.0,28.0
+"tecnologías de la información y comunicación","presencial","quito","pichincha",12.0,202.0,360.0,3481.2000000000003,0.0,120.0,1160.4,2018.0,3.0,4.0
+"educación y capacitación","presencial","quito","pichincha",11.0,352.0,28920.0,0.0,0.0,120.0,0.0,2021.0,241.0,158.5
+"procesos industriales","presencial","quito","pichincha",6.0,349.0,224.0,0.0,0.0,8.0,0.0,2021.0,28.0,29.285714285714285
+"procesos industriales","presencial","quito","pichincha",6.0,349.0,1024.0,0.0,0.0,8.0,0.0,2021.0,128.0,124.0
+"procesos industriales","presencial","quito","pichincha",6.0,349.0,472.0,0.0,0.0,8.0,0.0,2021.0,59.0,59.0
+"procesos industriales","presencial","quito","pichincha",6.0,349.0,360.0,0.0,0.0,12.0,0.0,2021.0,30.0,35.75
+"procesos industriales","presencial","quito","pichincha",8.0,149.0,384.0,0.0,0.0,8.0,0.0,2018.0,48.0,42.45454545454545
+"procesos industriales","presencial","quito","pichincha",8.0,149.0,60.0,0.0,0.0,12.0,0.0,2018.0,5.0,4.0
+"administración y legislación","presencial","quito","pichincha",3.0,9.0,120.0,0.0,0.0,24.0,0.0,2021.0,5.0,4.5
+"procesos industriales","online","latacunga","cotopaxi",15.0,1256.0,2060.0,0.0,0.0,10.0,0.0,2021.0,206.0,204.0
+"procesos industriales","presencial","latacunga","cotopaxi",15.0,1256.0,4860.0,0.0,0.0,20.0,0.0,2021.0,243.0,247.25
+"procesos industriales","presencial","latacunga","cotopaxi",15.0,1256.0,780.0,0.0,0.0,15.0,0.0,2021.0,52.0,48.42857142857143
+"procesos industriales","presencial","latacunga","cotopaxi",15.0,1256.0,60.0,0.0,0.0,10.0,0.0,2021.0,6.0,7.25
+"procesos industriales","online","latacunga","cotopaxi",15.0,1256.0,60.0,0.0,0.0,10.0,0.0,2021.0,6.0,3.0
+"procesos industriales","presencial","latacunga","cotopaxi",15.0,1256.0,945.0,0.0,0.0,15.0,0.0,2021.0,63.0,53.333333333333336
+"procesos industriales","online","latacunga","cotopaxi",15.0,1256.0,945.0,0.0,0.0,15.0,0.0,2021.0,63.0,53.333333333333336
+"procesos industriales","presencial","latacunga","cotopaxi",3.0,44.0,560.0,0.0,0.0,40.0,0.0,2019.0,14.0,13.5
+"tecnologías de la información y comunicación","presencial","riobamba","chimborazo",2.0,13.0,200.0,1334.0,0.0,40.0,266.8,2021.0,5.0,5.0
+"artes y artesanía","presencial","pastaza","pastaza",2.0,16.0,1800.0,0.0,0.0,360.0,0.0,2021.0,5.0,6.375
+"artes y artesanía","presencial","pastaza","pastaza",2.0,16.0,1100.0,0.0,0.0,100.0,0.0,2021.0,11.0,10.666666666666666
+"educación y capacitación","presencial","quito","pichincha",1.0,3.0,720.0,0.0,0.0,240.0,0.0,2021.0,3.0,3.5
+"administración y legislación","presencial","quito","pichincha",10.0,351.0,512.0,0.0,0.0,16.0,0.0,2021.0,32.0,32.0
+"administración y legislación","online","quito","pichincha",10.0,351.0,512.0,0.0,0.0,16.0,0.0,2021.0,32.0,32.0
+"educación y capacitación","presencial","quito","pichincha",10.0,351.0,2240.0,0.0,0.0,280.0,0.0,2021.0,8.0,6.375
+"administración y legislación","presencial","quito","pichincha",10.0,351.0,2540.0,0.0,0.0,20.0,0.0,2021.0,127.0,128.5
+"administración y legislación","online","quito","pichincha",10.0,351.0,2540.0,0.0,0.0,20.0,0.0,2021.0,127.0,128.5
+"procesos industriales","presencial","quito","pichincha",10.0,351.0,280.0,0.0,0.0,20.0,0.0,2021.0,14.0,16.333333333333332
+"finanzas comercio y ventas","online","quito","pichincha",10.0,351.0,512.0,0.0,0.0,16.0,0.0,2021.0,32.0,32.0
+"tecnologías de la información y comunicación","online","cayambe","pichincha",3.0,121.0,2040.0,30090.0,0.0,40.0,590.0,2021.0,51.0,51.0
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",2.0,33.0,750.0,7252.500000000001,0.2033677702757667,30.0,290.1,2021.0,25.0,24.0
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",2.0,33.0,240.0,3540.0,0.0650776864882453,30.0,442.5,2021.0,8.0,8.0
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",4.0,107.0,1230.0,11894.1,0.3335231432522574,30.0,290.1,2018.0,41.0,40.333333333333336
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",4.0,107.0,990.0,6603.3,0.268445456764012,30.0,200.1,2018.0,33.0,30.25
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",7.0,397.0,1320.0,12764.4,0.3579272756853494,30.0,290.1,2019.0,44.0,40.333333333333336
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",7.0,397.0,180.0,2655.0,0.048808264866184,30.0,442.5,2019.0,6.0,5.0
+"administración y legislación","online","quito","pichincha",19.0,1118.0,512.0,0.0,0.5149662053427744,16.0,0.0,2021.0,32.0,32.0
+"procesos industriales","presencial","quito","pichincha",19.0,1118.0,1104.0,0.0,1.4805278403604765,12.0,0.0,2021.0,92.0,113.0
+"administración y legislación","presencial","quito","pichincha",19.0,1118.0,440.0,0.0,0.8850981654328934,8.0,0.0,2021.0,55.0,42.45454545454545
+"administración y legislación","online","quito","pichincha",19.0,1118.0,320.0,0.0,0.3218538783392339,16.0,0.0,2021.0,20.0,17.0
+"administración y legislación","online","quito","pichincha",19.0,1118.0,704.0,0.0,1.4161570646926296,8.0,0.0,2021.0,88.0,88.0
+"procesos industriales","presencial","quito","pichincha",19.0,1118.0,48.0,0.0,0.0643707756678468,12.0,0.0,2021.0,4.0,3.6666666666666665
+"procesos industriales","presencial","quito","pichincha",19.0,1118.0,684.0,0.0,0.9172835532668168,12.0,0.0,2021.0,57.0,58.5
+"finanzas comercio y ventas","online","quito","pichincha",11.0,680.0,4080.0,0.0,1.641454779530093,40.0,0.0,2019.0,102.0,103.66666666666667
+"procesos industriales","presencial","quito","pichincha",11.0,680.0,168.0,0.0,0.2252977148374637,12.0,0.0,2019.0,14.0,14.666666666666666
+"procesos industriales","presencial","quito","pichincha",11.0,680.0,918.0,0.0,0.8207273897650467,18.0,0.0,2019.0,51.0,53.333333333333336
+"educación y capacitación","presencial","quito","pichincha",1.0,16.0,128.0,0.0,0.0,8.0,0.0,2021.0,16.0,17.083333333333336
+"alimentación gastronomía y turismo","presencial","ambato","tungurahua",12.0,354.0,2312.0,0.0,0.0,68.0,0.0,2021.0,34.0,33.0
+"administración y legislación","online","quito","pichincha",4.0,104.0,1000.0,0.0,0.0,20.0,0.0,2021.0,50.0,47.2
+"actividades de atención de la salud humana y de asistencia social","desconocida","loja","loja",3.0,80.0,0.0,0.0,0.0,0.0,0.0,2021.0,35.0,45.95238095238095
+"educación y capacitación","presencial","quito","pichincha",1.0,69.0,4140.0,0.0,0.0,60.0,0.0,2018.0,69.0,64.0
+"educación y capacitación","presencial","quito","pichincha",2.0,57.0,240.0,0.0,0.0,60.0,0.0,2019.0,4.0,6.0
+"servicios socioculturales y a la comunidad","online","quito","pichincha",9.0,109.0,1760.0,0.0,0.0,160.0,0.0,2021.0,11.0,13.25
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",9.0,109.0,160.0,0.0,0.0,160.0,0.0,2021.0,1.0,1.0
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,510.0,0.0,0.0,30.0,0.0,2021.0,17.0,16.5
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,336.0,0.0,0.0,12.0,0.0,2021.0,28.0,35.75
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,8640.0,0.0,0.0,18.0,0.0,2021.0,480.0,527.6666666666666
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,612.0,0.0,0.0,12.0,0.0,2021.0,51.0,48.333333333333336
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,36.0,0.0,0.0,36.0,0.0,2021.0,1.0,1.0
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,5148.0,0.0,0.0,12.0,0.0,2021.0,429.0,462.75
+"procesos industriales","online","quito","pichincha",20.0,1373.0,5148.0,0.0,0.0,12.0,0.0,2021.0,429.0,462.75
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,1332.0,0.0,0.0,12.0,0.0,2021.0,111.0,147.83333333333334
+"procesos industriales","presencial","quito","pichincha",20.0,1373.0,228.0,0.0,0.0,12.0,0.0,2021.0,19.0,20.666666666666668
+"procesos industriales","online","quito","pichincha",9.0,238.0,1512.0,0.0,0.0,18.0,0.0,2019.0,84.0,86.33333333333333
+"procesos industriales","online","quito","pichincha",9.0,238.0,672.0,0.0,0.0,8.0,0.0,2019.0,84.0,88.0
+"educación y capacitación","online","milagro","guayas",7.0,239.0,7920.0,0.0,0.0,120.0,0.0,2021.0,66.0,82.8
+"educación y capacitación","presencial","milagro","guayas",7.0,239.0,4920.0,0.0,0.0,120.0,0.0,2021.0,41.0,43.333333333333336
+"educación y capacitación","presencial","milagro","guayas",3.0,91.0,6240.0,0.0,0.0,240.0,0.0,2019.0,26.0,24.8
+"educación y capacitación","online","milagro","guayas",3.0,91.0,6240.0,0.0,0.0,240.0,0.0,2019.0,26.0,24.8
+"administración y legislación","online","guayaquil","guayas",12.0,621.0,512.0,0.0,0.0,32.0,0.0,2021.0,16.0,16.5
+"administración y legislación","online","guayaquil","guayas",12.0,621.0,3616.0,0.0,0.0,32.0,0.0,2021.0,113.0,104.66666666666667
+"administración y legislación","online","guayaquil","guayas",4.0,47.0,1152.0,0.0,0.0,32.0,0.0,2018.0,36.0,29.2
+"administración y legislación","online","guayaquil","guayas",14.0,336.0,5440.0,0.0,0.0,32.0,0.0,2019.0,170.0,30.5
+"administración y legislación","online","guayaquil","guayas",14.0,336.0,114.0,0.0,0.0,38.0,0.0,2019.0,3.0,5.666666666666667
+"administración y legislación","online","guayaquil","guayas",14.0,336.0,648.0,0.0,0.0,24.0,0.0,2019.0,27.0,33.333333333333336
+"educación y capacitación","presencial","quito","pichincha",1.0,3.0,288.0,0.0,0.0,96.0,0.0,2021.0,3.0,4.0
+"alimentación gastronomía y turismo","presencial","portoviejo","manabi",1.0,6.0,60.0,0.0,0.0,10.0,0.0,2021.0,6.0,7.25
+"administración y legislación","online","guayaquil","guayas",38.0,1280.0,2080.0,0.0,0.0971962616822429,40.0,0.0,2021.0,52.0,51.0
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",38.0,1280.0,280.0,4130.0,0.0261682242990654,20.0,295.0,2021.0,14.0,16.333333333333332
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",38.0,1280.0,440.0,6490.0,0.0411214953271028,20.0,295.0,2021.0,22.0,23.5
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",38.0,1280.0,2760.0,28980.0,0.1289719626168224,40.0,420.0,2021.0,69.0,71.5
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,660.0,2640.0,0.0616822429906542,20.0,80.0,2021.0,33.0,33.333333333333336
+"construcción e infraestructura","online","guayaquil","guayas",38.0,1280.0,740.0,0.0,0.0691588785046729,20.0,0.0,2021.0,37.0,36.666666666666664
+"construcción e infraestructura","presencial","guayaquil","guayas",38.0,1280.0,820.0,0.0,0.0766355140186915,20.0,0.0,2021.0,41.0,36.666666666666664
+"construcción e infraestructura","online","guayaquil","guayas",38.0,1280.0,160.0,0.0,0.0149532710280373,20.0,0.0,2021.0,8.0,8.5
+"administración y legislación","presencial","guayaquil","guayas",38.0,1280.0,9240.0,0.0,0.4317757009345794,40.0,0.0,2021.0,231.0,229.0
+"construcción e infraestructura","online","guayaquil","guayas",38.0,1280.0,200.0,0.0,0.0186915887850467,20.0,0.0,2021.0,10.0,8.5
+"electricidad y electrónica","online","guayaquil","guayas",38.0,1280.0,360.0,0.0,0.016822429906542,40.0,0.0,2021.0,9.0,9.5
+"finanzas comercio y ventas","online","guayaquil","guayas",38.0,1280.0,96.0,0.0,0.011214953271028,16.0,0.0,2021.0,6.0,4.0
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,160.0,640.0,0.0149532710280373,20.0,80.0,2021.0,8.0,8.5
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",38.0,1280.0,840.0,11415.6,0.0523364485981308,30.0,407.7,2021.0,28.0,30.25
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,1400.0,8526.0,0.0654205607476635,40.0,243.6,2021.0,35.0,35.25
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,440.0,7972.799999999999,0.0411214953271028,20.0,362.4,2021.0,22.0,23.0
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",38.0,1280.0,2320.0,34220.0,0.216822429906542,20.0,295.0,2021.0,116.0,112.0
+"administración y legislación","presencial","guayaquil","guayas",38.0,1280.0,208.0,0.0,0.0242990654205607,16.0,0.0,2021.0,13.0,11.0
+"administración y legislación","online","guayaquil","guayas",38.0,1280.0,208.0,0.0,0.0242990654205607,16.0,0.0,2021.0,13.0,13.0
+"construcción e infraestructura","presencial","guayaquil","guayas",38.0,1280.0,200.0,0.0,0.0186915887850467,20.0,0.0,2021.0,10.0,9.8
+"construcción e infraestructura","online","guayaquil","guayas",38.0,1280.0,200.0,0.0,0.0186915887850467,20.0,0.0,2021.0,10.0,8.5
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,480.0,4641.6,0.0448598130841121,20.0,193.4,2021.0,24.0,28.5
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,2160.0,8640.0,0.2018691588785046,20.0,80.0,2021.0,108.0,112.0
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,40.0,160.0,0.0037383177570093,20.0,80.0,2021.0,2.0,1.0
+"tecnologías de la información y comunicación","online","guayaquil","guayas",38.0,1280.0,600.0,2400.0,0.0560747663551401,20.0,80.0,2021.0,30.0,28.5
+"administración y legislación","presencial","guayaquil","guayas",8.0,318.0,4240.0,0.0,0.1981308411214953,40.0,0.0,2019.0,106.0,117.0
+"construcción e infraestructura","presencial","guayaquil","guayas",8.0,318.0,480.0,0.0,0.022429906542056,40.0,0.0,2019.0,12.0,12.0
+"tecnologías de la información y comunicación","online","guayaquil","guayas",8.0,318.0,3040.0,6840.0,0.1420560747663551,40.0,90.0,2019.0,76.0,71.5
+"tecnologías de la información y comunicación","online","quito","pichincha",5.0,50.0,320.0,3865.6,0.0,40.0,483.2,2021.0,8.0,7.666666666666667
+"educación y capacitación","presencial","quito","pichincha",5.0,50.0,200.0,0.0,0.0,40.0,0.0,2021.0,5.0,5.0
+"educación y capacitación","semipresencial","quito","pichincha",5.0,50.0,200.0,0.0,0.0,40.0,0.0,2021.0,5.0,6.0
+"tecnologías de la información y comunicación","online","quito","pichincha",5.0,50.0,240.0,2320.8,0.0,40.0,386.8,2021.0,6.0,5.5
+"tecnologías de la información y comunicación","semipresencial","quito","pichincha",5.0,86.0,400.0,4832.0,0.0,40.0,483.2,2019.0,10.0,6.0
+"tecnologías de la información y comunicación","online","quito","pichincha",5.0,86.0,400.0,4832.0,0.0,40.0,483.2,2019.0,10.0,7.666666666666667
+"tecnologías de la información y comunicación","online","quito","pichincha",5.0,86.0,480.0,4641.6,0.0,40.0,386.8,2019.0,12.0,12.0
+"tecnologías de la información y comunicación","online","quito","pichincha",5.0,86.0,1440.0,13924.8,0.0,120.0,1160.4,2019.0,12.0,10.666666666666666
+"administración y legislación","semipresencial","quito","pichincha",5.0,86.0,1840.0,0.0,0.0,40.0,0.0,2019.0,46.0,46.0
+"procesos industriales","presencial","riobamba","chimborazo",2.0,2.0,18.0,0.0,0.0,18.0,0.0,2021.0,1.0,1.0
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,168.0,0.0,0.0,8.0,0.0,2018.0,21.0,20.333333333333332
+"procesos industriales","online","riobamba","chimborazo",54.0,1783.0,168.0,0.0,0.0,8.0,0.0,2018.0,21.0,16.666666666666668
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,168.0,0.0,0.0,8.0,0.0,2018.0,21.0,20.333333333333332
+"forestal ecología y medio ambiente","presencial","riobamba","chimborazo",54.0,1783.0,60.0,0.0,0.0,30.0,0.0,2018.0,2.0,3.1666666666666665
+"educación y capacitación","online","riobamba","chimborazo",54.0,1783.0,1440.0,0.0,0.0,120.0,0.0,2018.0,12.0,10.666666666666666
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,256.0,0.0,0.0,8.0,0.0,2018.0,32.0,26.0
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,1536.0,0.0,0.0,8.0,0.0,2018.0,192.0,198.5
+"procesos industriales","online","riobamba","chimborazo",54.0,1783.0,1536.0,0.0,0.0,8.0,0.0,2018.0,192.0,198.5
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,80.0,0.0,0.0,8.0,0.0,2018.0,10.0,8.5
+"procesos industriales","presencial","riobamba","chimborazo",54.0,1783.0,240.0,0.0,0.0,24.0,0.0,2018.0,10.0,11.2
+"procesos industriales","presencial","riobamba","chimborazo",27.0,1271.0,2790.0,0.0,0.0,18.0,0.0,2019.0,155.0,180.8
+"educación y capacitación","presencial","riobamba","chimborazo",27.0,1271.0,3000.0,0.0,0.0,120.0,0.0,2019.0,25.0,24.0
+"forestal ecología y medio ambiente","presencial","riobamba","chimborazo",27.0,1271.0,160.0,0.0,0.0,8.0,0.0,2019.0,20.0,20.333333333333332
+"procesos industriales","online","riobamba","chimborazo",27.0,1271.0,160.0,0.0,0.0,8.0,0.0,2019.0,20.0,16.666666666666668
+"procesos industriales","online","riobamba","chimborazo",27.0,1271.0,344.0,0.0,0.0,8.0,0.0,2019.0,43.0,44.0
+"procesos industriales","online","riobamba","chimborazo",27.0,1271.0,72.0,0.0,0.0,8.0,0.0,2019.0,9.0,5.25
+"educación y capacitación","presencial","riobamba","chimborazo",27.0,1271.0,420.0,0.0,0.0,30.0,0.0,2019.0,14.0,11.666666666666666
+"procesos industriales","presencial","riobamba","chimborazo",2.0,2.0,18.0,0.0,0.0,18.0,0.0,2020.0,1.0,1.0
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,3582.0,0.0,0.0,18.0,0.0,2022.0,199.0,180.8
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,1072.0,0.0,0.0,8.0,0.0,2022.0,134.0,135.33333333333334
+"forestal ecología y medio ambiente","presencial","riobamba","chimborazo",39.0,2842.0,2000.0,0.0,0.0,40.0,0.0,2022.0,50.0,51.0
+"educación y capacitación","online","riobamba","chimborazo",39.0,2842.0,19320.0,0.0,0.0,120.0,0.0,2022.0,161.0,472.3333333333333
+"procesos industriales","online","riobamba","chimborazo",39.0,2842.0,240.0,0.0,0.0,8.0,0.0,2022.0,30.0,29.0
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,2216.0,0.0,0.0,8.0,0.0,2022.0,277.0,277.6666666666667
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,1064.0,0.0,0.0,8.0,0.0,2022.0,133.0,135.33333333333334
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,2128.0,0.0,0.0,16.0,0.0,2022.0,133.0,99.0
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,312.0,0.0,0.0,8.0,0.0,2022.0,39.0,42.45454545454545
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,7712.0,0.0,0.0,16.0,0.0,2022.0,482.0,527.6666666666666
+"administración y legislación","presencial","riobamba","chimborazo",39.0,2842.0,30.0,0.0,0.0,30.0,0.0,2022.0,1.0,1.0
+"educación y capacitación","presencial","riobamba","chimborazo",39.0,2842.0,240.0,0.0,0.0,40.0,0.0,2022.0,6.0,6.0
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,224.0,0.0,0.0,8.0,0.0,2022.0,28.0,29.285714285714285
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,448.0,0.0,0.0,16.0,0.0,2022.0,28.0,32.0
+"forestal ecología y medio ambiente","presencial","riobamba","chimborazo",39.0,2842.0,4760.0,0.0,0.0,40.0,0.0,2022.0,119.0,121.25
+"forestal ecología y medio ambiente","presencial","riobamba","chimborazo",39.0,2842.0,208.0,0.0,0.0,8.0,0.0,2022.0,26.0,20.333333333333332
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,108.0,0.0,0.0,12.0,0.0,2022.0,9.0,9.666666666666666
+"procesos industriales","presencial","riobamba","chimborazo",39.0,2842.0,5232.0,0.0,0.0,16.0,0.0,2022.0,327.0,239.33333333333334
+"administración y legislación","presencial","ibarra","imbabura",3.0,216.0,660.0,0.0,0.0,20.0,0.0,2021.0,33.0,33.333333333333336
+"administración y legislación","presencial","ibarra","imbabura",3.0,216.0,59200.0,0.0,0.0,400.0,0.0,2021.0,148.0,158.5
+"administración y legislación","presencial","ibarra","imbabura",3.0,216.0,7000.0,0.0,0.0,200.0,0.0,2021.0,35.0,82.8
+"educación y capacitación","presencial","quito","pichincha",2.0,223.0,16490.0,0.0,0.0,170.0,0.0,2021.0,97.0,168.0
+"administración y legislación","presencial","quito","pichincha",2.0,77.0,6120.0,0.0,0.0,170.0,0.0,2019.0,36.0,79.16666666666667
+"educación y capacitación","presencial","quito","pichincha",2.0,77.0,6970.0,0.0,0.0,170.0,0.0,2019.0,41.0,79.16666666666667
+"artes y artesanía","presencial","quito","pichincha",25.0,2940.0,22720.0,0.0,0.0,80.0,0.0,2021.0,284.0,523.0
+"artes y artesanía","presencial","quito","pichincha",5.0,17.0,360.0,0.0,0.0,360.0,0.0,2021.0,1.0,2.0
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",5.0,17.0,360.0,0.0,0.0,360.0,0.0,2021.0,1.0,2.0
+"administración y legislación","presencial","guayaquil","guayas",5.0,161.0,480.0,0.0,0.0,24.0,0.0,2021.0,20.0,25.0
+"administración y legislación","online","guayaquil","guayas",5.0,161.0,480.0,0.0,0.0,24.0,0.0,2021.0,20.0,25.0
+"finanzas comercio y ventas","presencial","quito","pichincha",11.0,190.0,48.0,0.0,0.0,8.0,0.0,2021.0,6.0,6.0
+"transporte y logística","presencial","quito","pichincha",11.0,190.0,312.0,0.0,0.0,13.0,0.0,2021.0,24.0,35.75
+"administración y legislación","presencial","quito","pichincha",11.0,190.0,368.0,0.0,0.0,16.0,0.0,2021.0,23.0,19.5
+"administración y legislación","presencial","quito","pichincha",12.0,116.0,96.0,0.0,0.0,12.0,0.0,2019.0,8.0,7.0
+"transporte y logística","presencial","quito","pichincha",12.0,116.0,104.0,0.0,0.0,13.0,0.0,2019.0,8.0,9.666666666666666
+"procesos industriales","presencial","guayaquil","guayas",10.0,385.0,418.0,0.0,0.0,22.0,0.0,2021.0,19.0,19.5
+"electricidad y electrónica","presencial","guayaquil","guayas",10.0,385.0,180.0,0.0,0.0,20.0,0.0,2021.0,9.0,9.8
+"electricidad y electrónica","presencial","guayaquil","guayas",10.0,385.0,140.0,0.0,0.0,20.0,0.0,2021.0,7.0,7.0
+"procesos industriales","presencial","guayaquil","guayas",10.0,385.0,462.0,0.0,0.0,22.0,0.0,2021.0,21.0,22.0
+"procesos industriales","presencial","guayaquil","guayas",10.0,385.0,2760.0,0.0,0.0,12.0,0.0,2021.0,230.0,275.3333333333333
+"mecánica industrial y minería","presencial","guayaquil","guayas",10.0,385.0,900.0,0.0,0.0,20.0,0.0,2021.0,45.0,47.2
+"procesos industriales","presencial","guayaquil","guayas",10.0,385.0,12.0,0.0,0.0,12.0,0.0,2021.0,1.0,1.0
+"procesos industriales","presencial","guayaquil","guayas",17.0,840.0,40.0,0.0,0.0,8.0,0.0,2018.0,5.0,4.0
+"procesos industriales","presencial","guayaquil","guayas",17.0,840.0,120.0,0.0,0.0,12.0,0.0,2018.0,10.0,9.666666666666666
+"procesos industriales","presencial","guayaquil","guayas",17.0,840.0,252.0,0.0,0.0,12.0,0.0,2018.0,21.0,20.666666666666668
+"tecnologías de la información y comunicación","presencial","guayaquil","guayas",17.0,840.0,96.0,307.999999968,0.0,16.0,51.333333328,2018.0,6.0,7.0
+"procesos industriales","presencial","guayaquil","guayas",17.0,840.0,632.0,0.0,0.0,8.0,0.0,2018.0,79.0,75.0
+"mecánica industrial y minería","presencial","guayaquil","guayas",17.0,840.0,320.0,0.0,0.0,20.0,0.0,2018.0,16.0,16.333333333333332
+"procesos industriales","presencial","samborondon","sin provincia",9.0,186.0,120.0,0.0,0.0,12.0,0.0,2021.0,10.0,9.666666666666666
+"administración y legislación","presencial","samborondon","sin provincia",9.0,186.0,320.0,0.0,0.0,32.0,0.0,2021.0,10.0,9.333333333333334
+"MISSING","desconocida","quito","pichincha",3.0,103.0,0.0,0.0,0.0,0.0,0.0,2021.0,32.0,45.95238095238095
+"MISSING","desconocida","riobamba","chimborazo",3.0,116.0,0.0,0.0,0.0,0.0,0.0,2021.0,35.0,45.95238095238095
+"artes y artesanía","presencial","pastaza","pastaza",2.0,12.0,3564.0,0.0,0.0,324.0,0.0,2019.0,11.0,11.333333333333334
+"administración y legislación","presencial","quito","pichincha",9.0,65.0,240.0,0.0,0.0,40.0,0.0,2021.0,6.0,6.0
+"educación y capacitación","online","ibarra","imbabura",3.0,219.0,14640.0,0.0,0.0,120.0,0.0,2021.0,122.0,82.8
+"educación y capacitación","online","ibarra","imbabura",3.0,219.0,1680.0,0.0,0.0,120.0,0.0,2021.0,14.0,15.666666666666666
+"artes y artesanía","presencial","quito","pichincha",6.0,36.0,320.0,0.0,0.0,40.0,0.0,2018.0,8.0,8.0
+"artes y artesanía","presencial","quito","pichincha",5.0,16.0,280.0,0.0,0.0,40.0,0.0,2019.0,7.0,7.0
+"artes y artesanía","presencial","quito","pichincha",4.0,21.0,200.0,0.0,0.0,40.0,0.0,2022.0,5.0,5.0
+"artes y artesanía","presencial","quito","pichincha",4.0,21.0,280.0,0.0,0.0,40.0,0.0,2022.0,7.0,7.0
+"artes y artesanía","presencial","quito","pichincha",4.0,21.0,364.0,0.0,0.0,52.0,0.0,2022.0,7.0,8.333333333333334
+"tecnologías de la información y comunicación","online","cuenca","azuay",5.0,203.0,1560.0,6240.0,0.7090909090909091,40.0,160.0,2018.0,39.0,41.0
+"tecnologías de la información y comunicación","online","cuenca","azuay",5.0,203.0,1840.0,7360.0,0.8363636363636363,40.0,160.0,2018.0,46.0,46.5
+"administración y legislación","presencial","quito","pichincha",4.0,71.0,140.0,0.0,0.0,20.0,0.0,2018.0,7.0,4.5
+"administración y legislación","presencial","quito","pichincha",4.0,105.0,1060.0,0.0,0.0,20.0,0.0,2022.0,53.0,64.0
+"administración y legislación","presencial","quito","pichincha",4.0,105.0,150.0,0.0,0.0,15.0,0.0,2022.0,10.0,9.0
+"administración y legislación","presencial","quito","pichincha",4.0,105.0,80.0,0.0,0.0,20.0,0.0,2022.0,4.0,3.1666666666666665
+"administración y legislación","presencial","quito","pichincha",4.0,105.0,760.0,0.0,0.0,20.0,0.0,2022.0,38.0,36.666666666666664
+"alimentación gastronomía y turismo","presencial","quito","pichincha",18.0,780.0,200.0,0.0,0.0,10.0,0.0,2018.0,20.0,14.666666666666666
+"alimentación gastronomía y turismo","presencial","quito","pichincha",18.0,780.0,240.0,0.0,0.0,10.0,0.0,2018.0,24.0,29.285714285714285
+"alimentación gastronomía y turismo","presencial","quito","pichincha",18.0,780.0,560.0,0.0,0.0,10.0,0.0,2018.0,56.0,55.666666666666664
+"alimentación gastronomía y turismo","presencial","quito","pichincha",3.0,3.0,10.0,0.0,0.0,10.0,0.0,2019.0,1.0,1.0
+"procesos industriales","presencial","latacunga","cotopaxi",1.0,29.0,232.0,0.0,0.0,8.0,0.0,2018.0,29.0,29.285714285714285
+"procesos industriales","presencial","latacunga","cotopaxi",10.0,1580.0,11836.0,0.0,0.0,22.0,0.0,2022.0,538.0,709.4285714285714
+"educación y capacitación","presencial","santo domingo","santo domingo de los tsachilas",5.0,323.0,104.0,0.0,0.0,8.0,0.0,2022.0,13.0,12.0
+"procesos industriales","presencial","santo domingo","santo domingo de los tsachilas",5.0,323.0,260.0,0.0,0.0,26.0,0.0,2022.0,10.0,14.0
+"administración y legislación","presencial","santo domingo","santo domingo de los tsachilas",5.0,323.0,2248.0,0.0,0.0,8.0,0.0,2022.0,281.0,277.6666666666667
+"procesos industriales","presencial","quito","pichincha",9.0,321.0,600.0,0.0,0.0,12.0,0.0,2018.0,50.0,48.333333333333336
+"forestal ecología y medio ambiente","presencial","quito","pichincha",3.0,16.0,70.0,0.0,0.0,10.0,0.0,2022.0,7.0,7.25
+"alimentación gastronomía y turismo","presencial","guayaquil","guayas",1.0,35.0,8400.0,0.0,0.0,240.0,0.0,2018.0,35.0,38.0
+"enseñanza","desconocida","portoviejo","manabi",2.0,290.0,0.0,0.0,0.0,0.0,0.0,2019.0,256.0,45.95238095238095
+"administración y legislación","presencial","guayaquil","guayas",10.0,205.0,60.0,0.0,0.0036127167630057,12.0,0.0,2019.0,5.0,4.0
+"administración y legislación","presencial","guayaquil","guayas",10.0,205.0,120.0,0.0,0.0108381502890173,8.0,0.0,2019.0,15.0,15.0
+"educación y capacitación","online","quito","pichincha",7.0,29.0,720.0,0.0,0.0,120.0,0.0,2019.0,6.0,6.0
+"educación y capacitación","online","quito","pichincha",3.0,80.0,8640.0,0.0,0.0,120.0,0.0,2022.0,72.0,79.16666666666667
+"educación y capacitación","presencial","quito","pichincha",6.0,332.0,220.0,0.0,0.0,20.0,0.0,2019.0,11.0,11.2
+"servicios socioculturales y a la comunidad","online","guayaquil","guayas",5.0,400.0,10960.0,0.0,0.0,40.0,0.0,2022.0,274.0,302.3333333333333
+"artes y artesanía","presencial","guayaquil","guayas",5.0,400.0,1080.0,0.0,0.0,40.0,0.0,2022.0,27.0,29.2
+"procesos industriales","online","manta","manabi",5.0,118.0,720.0,0.0,0.0,40.0,0.0,2019.0,18.0,18.0
+"tecnologías de la información y comunicación","presencial","manta","manabi",5.0,118.0,1640.0,24190.0,0.0,40.0,590.0,2019.0,41.0,41.0
+"tecnologías de la información y comunicación","online","manta","manabi",5.0,118.0,1640.0,24190.0,0.0,40.0,590.0,2019.0,41.0,41.0
+"alimentación gastronomía y turismo","presencial","quito","pichincha",6.0,382.0,2480.0,0.0,0.0,40.0,0.0,2022.0,62.0,62.0
+"alimentación gastronomía y turismo","presencial","quito","pichincha",6.0,382.0,2480.0,0.0,0.0,40.0,0.0,2022.0,62.0,62.0
+"administración y legislación","presencial","manta","manabi",5.0,271.0,396.0,0.0,0.0,12.0,0.0,2019.0,33.0,35.75
+"alimentación gastronomía y turismo","presencial","manta","manabi",5.0,271.0,774.0,0.0,0.0,18.0,0.0,2019.0,43.0,48.42857142857143
+"industria agropecuaria","presencial","manta","manabi",11.0,364.0,2220.0,0.0,0.0,30.0,0.0,2022.0,74.0,77.75
+"alimentación gastronomía y turismo","presencial","manta","manabi",11.0,364.0,1350.0,0.0,0.0,18.0,0.0,2022.0,75.0,86.33333333333333
+"alimentación gastronomía y turismo","presencial","manta","manabi",11.0,364.0,832.0,0.0,0.0,16.0,0.0,2022.0,52.0,48.42857142857143
+"procesos industriales","presencial","samborondon","sin provincia",4.0,59.0,600.0,0.0,0.0,40.0,0.0,2019.0,15.0,15.5
+"procesos industriales","presencial","samborondon","sin provincia",4.0,59.0,558.0,0.0,0.0,18.0,0.0,2019.0,31.0,35.0
+"transporte y logística","presencial","cuenca","azuay",5.0,175.0,6880.0,0.0,0.0,172.0,0.0,2020.0,40.0,38.0
+"transporte y logística","online","cuenca","azuay",5.0,175.0,4872.0,0.0,0.0,168.0,0.0,2020.0,29.0,25.25
+"administración y legislación","presencial","quito","pichincha",22.0,2850.0,192.0,0.0,0.0757862826828344,32.0,0.0,2020.0,6.0,6.5
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,6208.0,0.0,2.4504231400783123,32.0,0.0,2020.0,194.0,175.25
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,4448.0,0.0,1.7557155488189973,32.0,0.0,2020.0,139.0,137.0
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,1472.0,0.0,0.5810281672350638,32.0,0.0,2020.0,46.0,40.333333333333336
+"tecnologías de la información y comunicación","presencial","quito","pichincha",22.0,2850.0,1856.0,17947.52,0.7326007326007326,32.0,309.44,2020.0,58.0,46.5
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,3584.0,0.0,1.414677276746242,32.0,0.0,2020.0,112.0,121.25
+"finanzas comercio y ventas","presencial","quito","pichincha",22.0,2850.0,640.0,0.0,0.2526209422761147,32.0,0.0,2020.0,20.0,16.5
+"finanzas comercio y ventas","presencial","quito","pichincha",22.0,2850.0,992.0,0.0,0.3915624605279778,32.0,0.0,2020.0,31.0,30.25
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,320.0,0.0,0.1263104711380573,32.0,0.0,2020.0,10.0,9.333333333333334
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,12672.0,0.0,5.001894657067071,32.0,0.0,2020.0,396.0,302.3333333333333
+"tecnologías de la información y comunicación","presencial","quito","pichincha",22.0,2850.0,6432.0,62197.44,2.5388404698749527,32.0,309.44,2020.0,201.0,175.25
+"electricidad y electrónica","presencial","quito","pichincha",22.0,2850.0,10880.0,0.0,4.2945560186939495,32.0,0.0,2020.0,340.0,302.3333333333333
+"tecnologías de la información y comunicación","presencial","quito","pichincha",22.0,2850.0,5536.0,53533.12,2.185171150688392,32.0,309.44,2020.0,173.0,175.25
+"finanzas comercio y ventas","presencial","quito","pichincha",22.0,2850.0,192.0,0.0,0.0757862826828344,32.0,0.0,2020.0,6.0,6.5
+"procesos industriales","online","quito","pichincha",3.0,435.0,3780.0,0.0,0.0,20.0,0.0,2020.0,189.0,198.0
+"construcción e infraestructura","online","MISSING","imbabura",1.0,6.0,240.0,0.0,0.0,40.0,0.0,2020.0,6.0,5.5
+"construcción e infraestructura","online","loja","loja",3.0,81.0,120.0,0.0,0.0,60.0,0.0,2020.0,2.0,5.666666666666667
+"administración y legislación","presencial","quito","pichincha",2.0,66.0,312.0,0.0,0.0,24.0,0.0,2020.0,13.0,14.0
+"tecnologías de la información y comunicación","presencial","manta","manabi",4.0,91.0,2508.0,24252.36,0.0,132.0,1276.44,2020.0,19.0,22.5
+"procesos industriales","online","quito","pichincha",56.0,3423.0,176.0,0.0,1.790073230268511,8.0,0.0,2020.0,22.0,25.333333333333332
+"artes y artesanía","presencial","santo domingo","santo domingo de los tsachilas",4.0,75.0,120.0,0.0,0.0,40.0,0.0,2022.0,3.0,5.0
+"transporte y logística","presencial","quito","pichincha",5.0,240.0,1044.0,0.0,0.0,12.0,0.0,2022.0,87.0,76.5
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,380.0,0.0,0.0,20.0,0.0,2022.0,19.0,19.5
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,792.0,0.0,0.0,24.0,0.0,2022.0,33.0,36.666666666666664
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,10800.0,0.0,0.0,120.0,0.0,2022.0,90.0,30.5
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,48.0,0.0,0.0,8.0,0.0,2022.0,6.0,6.0
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,580.0,0.0,0.0,20.0,0.0,2022.0,29.0,22.0
+"educación y capacitación","presencial","quito","pichincha",13.0,348.0,200.0,0.0,0.0,40.0,0.0,2022.0,5.0,5.0
+"administración y legislación","presencial","quito","pichincha",13.0,348.0,800.0,0.0,0.0,20.0,0.0,2022.0,40.0,36.666666666666664
+"finanzas comercio y ventas","presencial","quito","pichincha",13.0,348.0,48.0,0.0,0.0,8.0,0.0,2022.0,6.0,6.0
+"administración y legislación","presencial","quito","pichincha",4.0,39.0,1280.0,0.0,0.0,40.0,0.0,2022.0,32.0,30.5
+"procesos industriales","presencial","quito","pichincha",8.0,582.0,8.0,0.0,0.0,8.0,0.0,2022.0,1.0,1.0
+"procesos industriales","presencial","quito","pichincha",8.0,582.0,192.0,0.0,0.0,8.0,0.0,2022.0,24.0,20.333333333333332
+"procesos industriales","semipresencial","quito","pichincha",8.0,582.0,9200.0,0.0,0.0,40.0,0.0,2022.0,230.0,229.0
+"procesos industriales","presencial","quito","pichincha",8.0,582.0,960.0,0.0,0.0,16.0,0.0,2022.0,60.0,62.0
+"procesos industriales","presencial","quito","pichincha",8.0,582.0,192.0,0.0,0.0,8.0,0.0,2022.0,24.0,20.333333333333332
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",13.0,2079.0,12000.0,0.0,0.0,40.0,0.0,2022.0,300.0,302.3333333333333
+"administración y legislación","presencial","manta","manabi",3.0,619.0,19000.0,0.0,0.0,40.0,0.0,2022.0,475.0,308.25
+"administración y legislación","presencial","manta","manabi",3.0,619.0,4080.0,0.0,0.0,40.0,0.0,2022.0,102.0,97.11111111111113
+"educación y capacitación","presencial","guayaquil","guayas",1.0,793.0,456768.0,0.0,0.0,576.0,0.0,2022.0,793.0,523.0
+"industrias manufactureras","desconocida","ibarra","imbabura",4.0,220.0,0.0,0.0,0.0,0.0,0.0,2022.0,42.0,45.95238095238095
+"servicios socioculturales y a la comunidad","online","santo domingo","santo domingo de los tsachilas",30.0,786.0,160.0,0.0,0.1262626262626262,160.0,0.0,2022.0,1.0,5.8
+"administración y legislación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,80.0,0.0,0.1262626262626262,80.0,0.0,2022.0,1.0,2.0
+"transporte y logística","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,12672.0,0.0,8.333333333333332,192.0,0.0,2022.0,66.0,78.5
+"educación y capacitación","online","santo domingo","santo domingo de los tsachilas",30.0,786.0,405.0,0.0,1.1363636363636365,45.0,0.0,2022.0,9.0,9.5
+"administración y legislación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,120.0,0.0,0.1262626262626262,120.0,0.0,2022.0,1.0,1.0
+"servicios socioculturales y a la comunidad","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,22704.0,0.0,59.72222222222222,48.0,0.0,2022.0,473.0,523.0
+"servicios socioculturales y a la comunidad","online","santo domingo","santo domingo de los tsachilas",30.0,786.0,22704.0,0.0,59.72222222222222,48.0,0.0,2022.0,473.0,472.3333333333333
+"educación y capacitación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,960.0,0.0,1.0101010101010102,120.0,0.0,2022.0,8.0,7.857142857142857
+"educación y capacitación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,4800.0,0.0,2.525252525252525,240.0,0.0,2022.0,20.0,25.25
+"educación y capacitación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,7680.0,0.0,2.0202020202020203,480.0,0.0,2022.0,16.0,78.5
+"educación y capacitación","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,1920.0,0.0,2.0202020202020203,120.0,0.0,2022.0,16.0,15.666666666666666
+"procesos industriales","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,360.0,0.0,0.7575757575757576,60.0,0.0,2022.0,6.0,8.333333333333334
+"servicios socioculturales y a la comunidad","presencial","santo domingo","santo domingo de los tsachilas",30.0,786.0,40.0,0.0,0.1262626262626262,40.0,0.0,2022.0,1.0,1.0
+"administración y legislación","online","quito","pichincha",2.0,854.0,16000.0,0.0,0.0,50.0,0.0,2022.0,320.0,472.3333333333333
+"administración y legislación","presencial","guayaquil","guayas",2.0,29.0,880.0,0.0,0.0,40.0,0.0,2022.0,22.0,22.25
+"administración y legislación","presencial","quito","pichincha",11.0,580.0,80.0,0.0,0.0,8.0,0.0,2022.0,10.0,10.0
+"tecnologías de la información y comunicación","online","quito","pichincha",14.0,96.0,576.0,8496.0,0.0,64.0,944.0,2022.0,9.0,8.333333333333334
+"tecnologías de la información y comunicación","presencial","quito","pichincha",14.0,96.0,40.0,550.0,0.0,40.0,550.0,2022.0,1.0,1.0
+"procesos industriales","presencial","quito","pichincha",14.0,96.0,100.0,0.0,0.0,20.0,0.0,2022.0,5.0,4.5
+"procesos industriales","presencial","ambato","tungurahua",35.0,1795.0,104.0,0.0,0.0,8.0,0.0,2022.0,13.0,12.0
+"procesos industriales","presencial","ambato","tungurahua",35.0,1795.0,864.0,0.0,0.0,8.0,0.0,2022.0,108.0,91.0
+"procesos industriales","presencial","ambato","tungurahua",35.0,1795.0,342.0,0.0,0.0,18.0,0.0,2022.0,19.0,16.333333333333332
+"procesos industriales","presencial","ambato","tungurahua",35.0,1795.0,252.0,0.0,0.0,12.0,0.0,2022.0,21.0,20.666666666666668
+"procesos industriales","presencial","ambato","tungurahua",35.0,1795.0,7236.0,0.0,0.0,12.0,0.0,2022.0,603.0,527.6666666666666
+"procesos industriales","online","ambato","tungurahua",35.0,1795.0,732.0,0.0,0.0,12.0,0.0,2022.0,61.0,61.0
+"procesos industriales","online","ambato","tungurahua",35.0,1795.0,1620.0,0.0,0.0,12.0,0.0,2022.0,135.0,147.83333333333334
+"artes y artesanía","presencial","quito","pichincha",4.0,94.0,384.0,0.0,0.0,48.0,0.0,2022.0,8.0,8.333333333333334
+"otras actividades de servicios","desconocida","quito","pichincha",4.0,94.0,0.0,0.0,0.0,0.0,0.0,2022.0,46.0,45.95238095238095
+"educación y capacitación","online","latacunga","cotopaxi",4.0,132.0,1360.0,0.0,0.0,40.0,0.0,2022.0,34.0,35.25
+"educación y capacitación","online","latacunga","cotopaxi",4.0,132.0,7980.0,0.0,0.0,140.0,0.0,2022.0,57.0,79.16666666666667
+"administración y legislación","online","quito","pichincha",55.0,5435.0,60.0,0.0,1.7857142857142856,20.0,0.0,2022.0,3.0,3.0
+"procesos industriales","online","quito","pichincha",55.0,5435.0,208.0,0.0,15.476190476190476,8.0,0.0,2022.0,26.0,25.333333333333332
+"administración y legislación","presencial","quito","pichincha",55.0,5435.0,224.0,0.0,16.666666666666664,8.0,0.0,2022.0,28.0,29.285714285714285
+"procesos industriales","online","quito","pichincha",55.0,5435.0,320.0,0.0,23.809523809523807,8.0,0.0,2022.0,40.0,37.666666666666664
+"procesos industriales","online","quito","pichincha",55.0,5435.0,224.0,0.0,16.666666666666664,8.0,0.0,2022.0,28.0,29.0
+"procesos industriales","online","quito","pichincha",55.0,5435.0,168.0,0.0,12.5,8.0,0.0,2022.0,21.0,16.666666666666668
+"forestal ecología y medio ambiente","online","quito","pichincha",55.0,5435.0,20.0,0.0,1.1904761904761905,10.0,0.0,2022.0,2.0,2.0
+"educación y capacitación","presencial","quito","pichincha",55.0,5435.0,3360.0,0.0,100.0,20.0,0.0,2022.0,168.0,180.8
+"construcción e infraestructura","presencial","quito","pichincha",55.0,5435.0,20.0,0.0,0.5952380952380952,20.0,0.0,2022.0,1.0,1.0
+"construcción e infraestructura","online","quito","pichincha",55.0,5435.0,20.0,0.0,0.5952380952380952,20.0,0.0,2022.0,1.0,1.0
+"comunicación y artes gráficas","presencial","quito","pichincha",55.0,5435.0,288.0,3024.0,21.428571428571427,8.0,84.0,2022.0,36.0,36.5
+"administración y legislación","online","quito","pichincha",55.0,5435.0,280.0,0.0,20.833333333333336,8.0,0.0,2022.0,35.0,37.666666666666664
+"tecnologías de la información y comunicación","presencial","quito","pichincha",55.0,5435.0,120.0,384.99999996,4.761904761904762,15.0,48.124999995,2022.0,8.0,6.0
+"tecnologías de la información y comunicación","online","quito","pichincha",55.0,5435.0,8.0,84.0,0.5952380952380952,8.0,84.0,2022.0,1.0,2.5
+"procesos industriales","online","quito","pichincha",55.0,5435.0,170.0,0.0,10.11904761904762,10.0,0.0,2022.0,17.0,16.0
+"transporte y logística","online","quito","pichincha",55.0,5435.0,32.0,0.0,2.380952380952381,8.0,0.0,2022.0,4.0,4.0
+"administración y legislación","presencial","quito","pichincha",55.0,5435.0,1800.0,0.0,53.57142857142857,20.0,0.0,2022.0,90.0,92.0
+"procesos industriales","online","quito","pichincha",55.0,5435.0,10.0,0.0,0.5952380952380952,10.0,0.0,2022.0,1.0,2.0
+"tecnologías de la información y comunicación","presencial","quito","pichincha",55.0,5435.0,20.0,62.400000000000006,0.5952380952380952,20.0,62.400000000000006,2022.0,1.0,1.0
+"procesos industriales","online","quito","pichincha",55.0,5435.0,2032.0,0.0,151.19047619047618,8.0,0.0,2022.0,254.0,198.5
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,2032.0,0.0,151.19047619047618,8.0,0.0,2022.0,254.0,198.5
+"procesos industriales","online","quito","pichincha",55.0,5435.0,2448.0,0.0,182.14285714285717,8.0,0.0,2022.0,306.0,320.5
+"educación y capacitación","online","quito","pichincha",55.0,5435.0,376.0,0.0,27.97619047619048,8.0,0.0,2022.0,47.0,37.666666666666664
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,8.0,0.0,0.5952380952380952,8.0,0.0,2022.0,1.0,1.0
+"procesos industriales","online","quito","pichincha",55.0,5435.0,8.0,0.0,0.5952380952380952,8.0,0.0,2022.0,1.0,2.5
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,4128.0,0.0,307.1428571428572,8.0,0.0,2022.0,516.0,462.75
+"procesos industriales","online","quito","pichincha",55.0,5435.0,8256.0,0.0,307.1428571428572,16.0,0.0,2022.0,516.0,368.6666666666667
+"servicios socioculturales y a la comunidad","online","quito","pichincha",55.0,5435.0,64.0,0.0,4.761904761904762,8.0,0.0,2022.0,8.0,5.25
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",55.0,5435.0,88.0,0.0,6.547619047619048,8.0,0.0,2022.0,11.0,11.0
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,40.0,0.0,2.976190476190476,8.0,0.0,2022.0,5.0,4.0
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,40.0,0.0,2.976190476190476,8.0,0.0,2022.0,5.0,4.0
+"administración y legislación","presencial","quito","pichincha",55.0,5435.0,20.0,0.0,0.5952380952380952,20.0,0.0,2022.0,1.0,1.0
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,10380.0,0.0,308.92857142857144,20.0,0.0,2022.0,519.0,482.3333333333333
+"procesos industriales","presencial","quito","pichincha",55.0,5435.0,20.0,0.0,1.1904761904761905,10.0,0.0,2022.0,2.0,2.0
+"procesos industriales","presencial","quito","pichincha",1.0,12.0,768.0,0.0,0.0,64.0,0.0,2022.0,12.0,14.0
+"educación y capacitación","presencial","guayaquil","guayas",5.0,193.0,8856.0,0.0,0.0,72.0,0.0,2022.0,123.0,82.8
+"educación y capacitación","online","guayaquil","guayas",5.0,193.0,2448.0,0.0,0.0,72.0,0.0,2022.0,34.0,33.0
+"artes y artesanía","presencial","latacunga","cotopaxi",27.0,708.0,115.0,0.0,0.0,115.0,0.0,2022.0,1.0,1.0
+"administración y legislación","online","quito","pichincha",6.0,96.0,440.0,0.0,0.0,40.0,0.0,2022.0,11.0,7.666666666666667
+"administración y legislación","online","quito","pichincha",6.0,96.0,1400.0,0.0,0.0,40.0,0.0,2022.0,35.0,35.25
+"tecnologías de la información y comunicación","online","quito","pichincha",6.0,96.0,600.0,5802.0,0.0,40.0,386.8,2022.0,15.0,15.5
+"administración y legislación","presencial","quito","pichincha",6.0,96.0,400.0,0.0,0.0,20.0,0.0,2022.0,20.0,19.5
+"transporte y logística","presencial","quito","pichincha",5.0,64.0,54.0,0.0,0.0,9.0,0.0,2022.0,6.0,7.25
+"educación y capacitación","presencial","quito","pichincha",5.0,64.0,689.0,0.0,0.0,53.0,0.0,2022.0,13.0,10.25
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,304.0,0.0,0.0,8.0,0.0,2022.0,38.0,42.45454545454545
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,6260.0,0.0,0.0,20.0,0.0,2022.0,313.0,527.6666666666666
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,3472.0,0.0,0.0,8.0,0.0,2022.0,434.0,320.5
+"administración y legislación","presencial","quito","pichincha",14.0,1310.0,328.0,0.0,0.0,8.0,0.0,2022.0,41.0,42.45454545454545
+"administración y legislación","online","quito","pichincha",14.0,1310.0,328.0,0.0,0.0,8.0,0.0,2022.0,41.0,37.666666666666664
+"educación y capacitación","presencial","quito","pichincha",14.0,1310.0,88.0,0.0,0.0,8.0,0.0,2022.0,11.0,11.0
+"educación y capacitación","online","quito","pichincha",14.0,1310.0,88.0,0.0,0.0,8.0,0.0,2022.0,11.0,3.0
+"finanzas comercio y ventas","presencial","quito","pichincha",14.0,1310.0,240.0,0.0,0.0,40.0,0.0,2022.0,6.0,6.0
+"administración y legislación","presencial","quito","pichincha",14.0,1310.0,580.0,0.0,0.0,20.0,0.0,2022.0,29.0,22.0
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,156.0,0.0,0.0,12.0,0.0,2022.0,13.0,14.666666666666666
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,248.0,0.0,0.0,8.0,0.0,2022.0,31.0,29.285714285714285
+"procesos industriales","presencial","quito","pichincha",14.0,1310.0,876.0,0.0,0.0,12.0,0.0,2022.0,73.0,83.0
+"administración y legislación","presencial","quito","pichincha",14.0,1310.0,64.0,0.0,0.0,8.0,0.0,2022.0,8.0,7.25
+"educación y capacitación","online","loja","loja",7.0,1657.0,106920.0,0.0,0.0,360.0,0.0,2022.0,297.0,337.0
+"mecánica automotriz","presencial","quito","pichincha",6.0,94.0,240.0,0.0,0.0,120.0,0.0,2022.0,2.0,4.0
+"artes y artesanía","presencial","quito","pichincha",6.0,94.0,5200.0,0.0,0.0,200.0,0.0,2022.0,26.0,25.25
+"alimentación gastronomía y turismo","presencial","quito","pichincha",6.0,94.0,1400.0,0.0,0.0,200.0,0.0,2022.0,7.0,9.5
+"educación y capacitación","online","loja","loja",21.0,1300.0,18200.0,0.0,0.0,200.0,0.0,2022.0,91.0,245.75
+"educación y capacitación","online","loja","loja",21.0,1300.0,9200.0,0.0,0.0,100.0,0.0,2022.0,92.0,78.5
+"educación y capacitación","online","loja","loja",21.0,1300.0,9600.0,0.0,0.0,100.0,0.0,2022.0,96.0,78.5
+"procesos industriales","semipresencial","quito","pichincha",5.0,245.0,500.0,0.0,0.0,20.0,0.0,2022.0,25.0,25.0
+"educación y capacitación","semipresencial","quito","pichincha",5.0,245.0,880.0,0.0,0.0,40.0,0.0,2022.0,22.0,22.25
+"administración y legislación","semipresencial","quito","pichincha",5.0,245.0,1264.0,0.0,0.0,16.0,0.0,2022.0,79.0,86.33333333333333
+"alimentación gastronomía y turismo","presencial","quito","pichincha",5.0,245.0,790.0,0.0,0.0,10.0,0.0,2022.0,79.0,76.5
+"procesos industriales","presencial","cuenca","azuay",4.0,94.0,496.0,0.0,0.0,16.0,0.0,2022.0,31.0,32.0
+"educación y capacitación","presencial","quito","pichincha",4.0,76.0,2400.0,0.0,0.0,600.0,0.0,2022.0,4.0,3.0
+"educación y capacitación","presencial","quito","pichincha",4.0,76.0,5100.0,0.0,0.0,300.0,0.0,2022.0,17.0,11.333333333333334
+"educación y capacitación","presencial","quito","pichincha",4.0,76.0,20400.0,0.0,0.0,600.0,0.0,2022.0,34.0,62.5
+"forestal ecología y medio ambiente","presencial","pastaza","pastaza",18.0,1462.0,12960.0,0.0,0.0,96.0,0.0,2022.0,135.0,78.5
+"electricidad y electrónica","presencial","pastaza","pastaza",18.0,1462.0,960.0,0.0,0.0,64.0,0.0,2022.0,15.0,14.0
+"actividades profesionales, científicas y técnicas","desconocida","pastaza","pastaza",18.0,1462.0,0.0,0.0,0.0,0.0,0.0,2022.0,169.0,45.95238095238095
+"forestal ecología y medio ambiente","online","pastaza","pastaza",18.0,1462.0,3200.0,0.0,0.0,64.0,0.0,2022.0,50.0,47.5
+"enseñanza","desconocida","MISSING","sin provincia",4.0,192.0,0.0,0.0,0.0,0.0,0.0,2022.0,35.0,45.95238095238095
+"educación y capacitación","semipresencial","quito","pichincha",1.0,26.0,4680.0,0.0,0.0,180.0,0.0,2022.0,26.0,25.25
+"electricidad y electrónica","presencial","latacunga","cotopaxi",3.0,195.0,1160.0,0.0,0.0,40.0,0.0,2022.0,29.0,29.2
+"tecnologías de la información y comunicación","presencial","latacunga","cotopaxi",3.0,195.0,3760.0,55460.0,0.0,40.0,590.0,2022.0,94.0,82.0
+"alimentación gastronomía y turismo","presencial","quito","pichincha",9.0,120.0,312.0,0.0,0.0,24.0,0.0,2022.0,13.0,14.0
+"enseñanza","desconocida","quito","pichincha",5.0,117.0,0.0,0.0,0.0,0.0,0.0,2022.0,14.0,45.95238095238095
+"educación y capacitación","presencial","portoviejo","manabi",3.0,90.0,2880.0,0.0,0.0,180.0,0.0,2022.0,16.0,13.25
+"educación y capacitación","presencial","portoviejo","manabi",3.0,90.0,14560.0,0.0,0.0,260.0,0.0,2022.0,56.0,62.5
+"servicios socioculturales y a la comunidad","presencial","quito","pichincha",4.0,237.0,5760.0,0.0,0.0,48.0,0.0,2022.0,120.0,82.8
+"administración y legislación","presencial","quito","pichincha",1.0,15.0,900.0,0.0,0.0,60.0,0.0,2022.0,15.0,14.0
+"procesos industriales","presencial","rumiñahui","pichincha",7.0,78.0,3888.0,0.0,0.0,216.0,0.0,2022.0,18.0,16.0
+"otras actividades de servicios","desconocida","rumiñahui","pichincha",7.0,78.0,0.0,0.0,0.0,0.0,0.0,2022.0,19.0,45.95238095238095
+"otras actividades de servicios","desconocida","rumiñahui","pichincha",7.0,78.0,0.0,0.0,0.0,0.0,0.0,2022.0,16.0,45.95238095238095
+"servicios socioculturales y a la comunidad","presencial","daule","guayas",5.0,887.0,680.0,0.0,0.0,40.0,0.0,2022.0,17.0,17.0
+"servicios socioculturales y a la comunidad","presencial","daule","guayas",5.0,887.0,15712.0,0.0,0.0,32.0,0.0,2022.0,491.0,308.25
+"servicios socioculturales y a la comunidad","online","daule","guayas",5.0,887.0,17280.0,0.0,0.0,48.0,0.0,2022.0,360.0,472.3333333333333
+"procesos industriales","presencial","shushufindi","sucumbios",12.0,865.0,6760.0,0.0,0.0,20.0,0.0,2022.0,338.0,527.6666666666666
+"administración y legislación","presencial","shushufindi","sucumbios",12.0,865.0,1760.0,0.0,0.0,20.0,0.0,2022.0,88.0,92.0
+"administración y legislación","presencial","ambato","tungurahua",2.0,30.0,560.0,0.0,0.0,40.0,0.0,2022.0,14.0,13.5
+"administración y legislación","presencial","ambato","tungurahua",2.0,30.0,640.0,0.0,0.0,40.0,0.0,2022.0,16.0,15.5
+"artes y artesanía","presencial","guayaquil","guayas",3.0,80.0,8975.0,0.0,0.0,359.0,0.0,2022.0,25.0,30.5
+"administración y legislación","online","rumiñahui","pichincha",7.0,104.0,800.0,0.0,0.0,40.0,0.0,2022.0,20.0,20.0
+"administración y legislación","online","rumiñahui","pichincha",7.0,104.0,440.0,0.0,0.0,40.0,0.0,2022.0,11.0,7.666666666666667
+"tecnologías de la información y comunicación","online","rumiñahui","pichincha",7.0,104.0,1600.0,15472.0,0.0,40.0,386.8,2022.0,40.0,41.0
+"administración y legislación","online","rumiñahui","pichincha",7.0,104.0,432.0,0.0,0.0,24.0,0.0,2022.0,18.0,11.0
+"administración y legislación","online","rumiñahui","pichincha",7.0,104.0,720.0,0.0,0.0,40.0,0.0,2022.0,18.0,18.0
+"procesos industriales","presencial","quito","pichincha",9.0,450.0,2424.0,0.0,0.0,12.0,0.0,2022.0,202.0,275.3333333333333
+"procesos industriales","presencial","quito","pichincha",9.0,450.0,192.0,0.0,0.0,8.0,0.0,2022.0,24.0,20.333333333333332
+"alimentación gastronomía y turismo","presencial","la libertad","santa elena",5.0,146.0,2800.0,0.0,0.0,70.0,0.0,2022.0,40.0,41.0
+"finanzas comercio y ventas","presencial","guayaquil","guayas",2.0,227.0,1520.0,0.0,0.0,10.0,0.0,2022.0,152.0,147.83333333333334
+"procesos industriales","online","quito","pichincha",14.0,485.0,360.0,0.0,0.0,40.0,0.0,2022.0,9.0,9.5
+"procesos industriales","online","quito","pichincha",14.0,485.0,1160.0,0.0,0.0,40.0,0.0,2022.0,29.0,29.2
+"procesos industriales","presencial","quito","pichincha",14.0,485.0,464.0,0.0,0.0,16.0,0.0,2022.0,29.0,32.0
+"procesos industriales","online","quito","pichincha",14.0,485.0,200.0,0.0,0.0,40.0,0.0,2022.0,5.0,5.8
+"procesos industriales","online","quito","pichincha",14.0,485.0,1200.0,0.0,0.0,40.0,0.0,2022.0,30.0,32.0
+"procesos industriales","presencial","quito","pichincha",14.0,485.0,928.0,0.0,0.0,8.0,0.0,2022.0,116.0,124.0
+"procesos industriales","online","quito","pichincha",14.0,485.0,928.0,0.0,0.0,8.0,0.0,2022.0,116.0,124.0
+"educación y capacitación","online","quito","pichincha",2.0,75.0,660.0,0.0,0.0,20.0,0.0,2022.0,33.0,33.333333333333336
+"educación y capacitación","presencial","chone","manabi",2.0,10.0,1680.0,0.0,0.0,240.0,0.0,2022.0,7.0,9.5
+"educación y capacitación","presencial","quito","pichincha",4.0,16.0,600.0,0.0,0.0,150.0,0.0,2022.0,4.0,5.25
+"educación y capacitación","presencial","quito","pichincha",4.0,16.0,750.0,0.0,0.0,150.0,0.0,2022.0,5.0,5.25
+"educación y capacitación","presencial","tulcan","sin provincia",3.0,23.0,1080.0,0.0,0.0,120.0,0.0,2022.0,9.0,10.666666666666666
+"educación y capacitación","presencial","quito","pichincha",5.0,150.0,1920.0,0.0,0.0,120.0,0.0,2022.0,16.0,15.666666666666666
+"administración y legislación","presencial","ambato","tungurahua",4.0,294.0,3800.0,0.0,0.0,40.0,0.0,2022.0,95.0,97.11111111111113
+"administración y legislación","online","ambato","tungurahua",4.0,294.0,3800.0,0.0,0.0,40.0,0.0,2022.0,95.0,97.11111111111113
+"administración y legislación","online","ambato","tungurahua",4.0,294.0,1300.0,0.0,0.0,50.0,0.0,2022.0,26.0,21.5
+"administración y legislación","online","ambato","tungurahua",4.0,294.0,2650.0,0.0,0.0,50.0,0.0,2022.0,53.0,33.0
+"alimentación gastronomía y turismo","online","ambato","tungurahua",4.0,294.0,4800.0,0.0,0.0,40.0,0.0,2022.0,120.0,97.11111111111113
+"educación y capacitación","presencial","machala","el oro",3.0,95.0,1380.0,0.0,0.0,60.0,0.0,2022.0,23.0,21.5
+"actividades profesionales, científicas y técnicas","desconocida","quito","pichincha",13.0,469.0,0.0,0.0,0.0,0.0,0.0,2022.0,7.0,45.95238095238095
+"educación y capacitación","presencial","quito","pichincha",13.0,469.0,3240.0,0.0,0.0,40.0,0.0,2022.0,81.0,112.33333333333333
+"administración y legislación","presencial","quito","pichincha",13.0,469.0,1360.0,0.0,0.0,40.0,0.0,2022.0,34.0,35.25
+"educación y capacitación","presencial","quito","pichincha",13.0,469.0,1100.0,0.0,0.0,220.0,0.0,2022.0,5.0,9.5
+"artes y artesanía","online","quito","pichincha",5.0,116.0,440.0,0.0,0.0,20.0,0.0,2022.0,22.0,20.0
+"artes y artesanía","presencial","quito","pichincha",5.0,116.0,60.0,0.0,0.0,20.0,0.0,2022.0,3.0,3.1666666666666665
