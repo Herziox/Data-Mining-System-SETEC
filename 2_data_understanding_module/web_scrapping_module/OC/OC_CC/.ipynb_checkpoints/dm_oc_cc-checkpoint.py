@@ -387,7 +387,7 @@ def bot(id_bot,doc_name,options,start_page,final_page,QUERY_INPUT=' '):
                   print("Error data CLICK CC: ",e.args[0])
                   condition_cc = False
                   break
-              print('Next row')
+                print('Next row')
                   
             
             try_load = False

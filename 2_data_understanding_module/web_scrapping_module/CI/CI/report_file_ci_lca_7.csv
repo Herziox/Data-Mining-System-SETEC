@@ -1,0 +1,80 @@
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:52:40.173151,7,ci_lca,0,0,0,231,264,231,0,0,START PROGRAM
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:53:20.521967,7,ci_lca,1,0,0,231,264,231,0,0,"Page Loaded, Go to Page"
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:02.363201,7,ci_lca,1,0,0,231,264,231,0,0,Resume Mining
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:03.370625,7,ci_lca,1,0,0,231,264,231,0,0,CSV Not Found
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:16.508123,7,ci_lca,1,0,0,231,264,231,10,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:23.843375,7,ci_lca,1,0,0,231,264,231,20,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:41.045532,7,ci_lca,1,0,0,231,264,233,30,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:54:48.758888,7,ci_lca,1,0,0,231,264,234,40,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:06.757731,7,ci_lca,1,0,0,231,264,235,50,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:17.563993,7,ci_lca,1,0,0,231,264,236,60,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:23.776530,7,ci_lca,1,0,0,231,264,237,70,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:29.010874,7,ci_lca,1,0,0,231,264,238,80,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:33.875743,7,ci_lca,1,0,0,231,264,239,90,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:39.236594,7,ci_lca,1,0,0,231,264,240,100,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:46.771371,7,ci_lca,1,0,0,231,264,241,110,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:55:54.920940,7,ci_lca,1,0,0,231,264,242,120,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:01.576699,7,ci_lca,1,0,0,231,264,243,130,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:08.133506,7,ci_lca,1,0,0,231,264,244,140,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:15.437993,7,ci_lca,1,0,0,231,264,245,150,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:22.153513,7,ci_lca,1,0,0,231,264,246,160,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:28.813730,7,ci_lca,1,0,0,231,264,247,170,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:36.341657,7,ci_lca,1,0,0,231,264,248,180,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:43.499049,7,ci_lca,1,0,0,231,264,249,190,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:51.014719,7,ci_lca,1,0,0,231,264,250,200,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:56:58.449333,7,ci_lca,1,0,0,231,264,251,210,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:06.493783,7,ci_lca,1,0,0,231,264,252,220,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:16.864704,7,ci_lca,1,0,0,231,264,253,230,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:31.750297,7,ci_lca,1,0,0,231,264,254,240,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:42.396828,7,ci_lca,1,0,0,231,264,255,250,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:50.788965,7,ci_lca,1,0,0,231,264,256,260,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:57:59.030995,7,ci_lca,1,0,0,231,264,257,270,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:06.840288,7,ci_lca,1,0,0,231,264,258,280,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:15.440610,7,ci_lca,1,0,0,231,264,259,290,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:24.014979,7,ci_lca,1,0,0,231,264,260,300,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:32.355827,7,ci_lca,1,0,0,231,264,261,310,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:39.572122,7,ci_lca,1,0,0,231,264,262,320,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:46.414474,7,ci_lca,1,0,0,231,264,263,330,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:53.202302,7,ci_lca,1,0,0,231,264,264,340,6,Saved Data
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:53.206986,7,ci_lca,1,0,0,231,264,264,0,0,End Session
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-16 00:58:53.222134,7,ci_lca,1,0,0,231,264,264,340,6,END PROGRAM
