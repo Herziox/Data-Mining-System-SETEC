@@ -6,9 +6,9 @@ import time
 from threading import Thread, Barrier
 
 arr = ['oc','ocf','occ','ocs','oc_cc','oc_cl','pcoc','oec','oecc','oecs','oecf','pcoec','ci','ci_lca','pcci']
-doc_name = 'ci_lca'
+doc_name = 'pcci'
 QUERY_INPUT = '_'
-N_DRIVERS = 8
+N_DRIVERS = 4
 new_ws = 'no'
 
 

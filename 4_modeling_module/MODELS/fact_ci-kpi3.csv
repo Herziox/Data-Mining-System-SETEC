@@ -1,0 +1,441 @@
+"area","provincia","id_fact_ci","num_cap","total_cursos","total_horas","carga_horaria","anio","volumen_capacitados","prediction(volumen_capacitados)"
+"procesos industriales","el oro",2.0,102.0,3.0,1632.0,16.0,2021.0,126.0,345.5
+"forestal ecología y medio ambiente","cotopaxi",9.0,27.0,2.0,1080.0,40.0,2021.0,113.0,52.673611111111114
+"forestal ecología y medio ambiente","cotopaxi",10.0,86.0,2.0,3440.0,40.0,2021.0,113.0,155.0
+"procesos industriales","azuay",11.0,2.0,1.0,80.0,40.0,2021.0,2.0,2.0
+"educación y capacitación","guayas",14.0,22.0,1.0,880.0,40.0,2021.0,22.0,22.0
+"administración y legislación","guayas",15.0,43.0,1.0,1032.0,24.0,2021.0,43.0,41.0
+"procesos industriales","cotopaxi",18.0,6.0,2.0,48.0,8.0,2021.0,50.0,52.673611111111114
+"administración y legislación","el oro",21.0,10.0,2.0,160.0,16.0,2021.0,17.0,52.673611111111114
+"educación y capacitación","pichincha",27.0,2.0,1.0,80.0,40.0,2021.0,2.0,2.0
+"artes y artesanía","guayas",30.0,48.0,3.0,1920.0,40.0,2021.0,160.0,160.0
+"finanzas comercio y ventas","pichincha",32.0,1.0,1.0,40.0,40.0,2021.0,1.0,1.0
+"electricidad y electrónica","pichincha",33.0,12.0,2.0,480.0,40.0,2021.0,19.0,52.673611111111114
+"procesos industriales","guayas",35.0,32.0,3.0,256.0,8.0,2021.0,170.0,130.0
+"procesos industriales","guayas",36.0,85.0,3.0,1360.0,16.0,2021.0,170.0,345.5
+"procesos industriales","guayas",37.0,53.0,3.0,2120.0,40.0,2021.0,170.0,160.0
+"tecnologías de la información y comunicación","sin provincia",38.0,30.0,1.0,720.0,24.0,2021.0,30.0,29.0
+"servicios socioculturales y a la comunidad","pichincha",39.0,23.0,1.0,920.0,40.0,2021.0,23.0,24.0
+"educación y capacitación","pichincha",41.0,1.0,1.0,24.0,24.0,2021.0,1.0,1.0
+"educación y capacitación","cotopaxi",44.0,1.0,3.0,40.0,40.0,2021.0,6.0,5.333333333333333
+"procesos industriales","guayas",46.0,9.0,1.0,216.0,24.0,2021.0,9.0,9.0
+"procesos industriales","guayas",49.0,70.0,4.0,1120.0,16.0,2021.0,472.0,345.5
+"procesos industriales","guayas",50.0,356.0,4.0,14240.0,40.0,2021.0,472.0,1066.0
+"artes y artesanía","cañar",52.0,59.0,2.0,2360.0,40.0,2021.0,76.0,155.0
+"procesos industriales","santa elena",55.0,4.0,1.0,160.0,40.0,2021.0,4.0,4.0
+"procesos industriales","pichincha",56.0,88.0,1.0,704.0,8.0,2021.0,88.0,87.25
+"educación y capacitación","guayas",58.0,274.0,2.0,10960.0,40.0,2021.0,295.0,282.3333333333333
+"finanzas comercio y ventas","santo domingo de los tsachilas",60.0,6.0,1.0,240.0,40.0,2021.0,6.0,7.0
+"administración y legislación","guayas",62.0,5.0,1.0,160.0,32.0,2021.0,5.0,5.0
+"forestal ecología y medio ambiente","pichincha",64.0,13.0,2.0,208.0,16.0,2021.0,21.0,52.673611111111114
+"educación y capacitación","pichincha",66.0,218.0,2.0,6976.0,32.0,2021.0,274.0,282.3333333333333
+"administración y legislación","pichincha",70.0,5.0,1.0,200.0,40.0,2021.0,5.0,5.0
+"transporte y logística","pichincha",72.0,37.0,2.0,888.0,24.0,2021.0,49.0,52.673611111111114
+"administración y legislación","imbabura",73.0,9.0,2.0,360.0,40.0,2021.0,55.0,52.673611111111114
+"educación y capacitación","azuay",77.0,34.0,2.0,1360.0,40.0,2021.0,112.0,52.673611111111114
+"tecnologías de la información y comunicación","azuay",78.0,78.0,2.0,3120.0,40.0,2021.0,112.0,155.0
+"procesos industriales","pichincha",79.0,40.0,5.0,320.0,8.0,2021.0,238.0,472.0
+"procesos industriales","pichincha",81.0,9.0,5.0,144.0,16.0,2021.0,238.0,472.0
+"procesos industriales","pichincha",82.0,11.0,5.0,440.0,40.0,2021.0,238.0,824.6666666666666
+"procesos industriales","pichincha",83.0,138.0,5.0,5520.0,40.0,2021.0,238.0,129.66666666666666
+"construcción e infraestructura","cañar",86.0,5.0,1.0,200.0,40.0,2021.0,5.0,5.0
+"forestal ecología y medio ambiente","loja",89.0,45.0,4.0,1080.0,24.0,2021.0,304.0,271.0
+"procesos industriales","sin provincia",90.0,41.0,7.0,328.0,8.0,2021.0,172.0,172.0
+"procesos industriales","sin provincia",94.0,21.0,7.0,168.0,8.0,2021.0,172.0,184.0
+"forestal ecología y medio ambiente","guayas",97.0,6.0,3.0,96.0,16.0,2021.0,228.0,130.0
+"procesos industriales","guayas",98.0,219.0,3.0,1752.0,8.0,2021.0,228.0,282.3333333333333
+"procesos industriales","el oro",99.0,3.0,1.0,120.0,40.0,2021.0,3.0,3.0
+"forestal ecología y medio ambiente","pastaza",101.0,8.0,1.0,320.0,40.0,2021.0,8.0,8.0
+"alimentación gastronomía y turismo","tungurahua",102.0,40.0,3.0,1600.0,40.0,2021.0,110.0,90.0
+"alimentación gastronomía y turismo","tungurahua",104.0,46.0,3.0,1840.0,40.0,2021.0,110.0,160.0
+"administración y legislación","santo domingo de los tsachilas",105.0,1.0,6.0,24.0,24.0,2021.0,62.0,184.0
+"administración y legislación","santo domingo de los tsachilas",106.0,1.0,6.0,40.0,40.0,2021.0,62.0,117.0
+"administración y legislación","santo domingo de los tsachilas",107.0,1.0,6.0,40.0,40.0,2021.0,62.0,117.0
+"administración y legislación","santo domingo de los tsachilas",108.0,18.0,6.0,576.0,32.0,2021.0,62.0,184.0
+"educación y capacitación","santo domingo de los tsachilas",109.0,20.0,6.0,800.0,40.0,2021.0,62.0,117.0
+"procesos industriales","pichincha",111.0,343.0,4.0,13720.0,40.0,2021.0,1046.0,988.0
+"procesos industriales","guayas",115.0,24.0,2.0,384.0,16.0,2021.0,28.0,52.673611111111114
+"procesos industriales","guayas",116.0,4.0,2.0,160.0,40.0,2021.0,28.0,52.673611111111114
+"servicios socioculturales y a la comunidad","pichincha",117.0,1.0,1.0,24.0,24.0,2021.0,1.0,1.0
+"administración y legislación","pichincha",118.0,1.0,1.0,8.0,8.0,2021.0,1.0,1.0
+"procesos industriales","pichincha",119.0,34.0,2.0,816.0,24.0,2021.0,39.0,52.673611111111114
+"tecnologías de la información y comunicación","guayas",122.0,2.0,2.0,48.0,24.0,2021.0,7.0,52.673611111111114
+"procesos industriales","chimborazo",123.0,33.0,2.0,528.0,16.0,2021.0,45.0,52.673611111111114
+"artes y artesanía","pichincha",129.0,1.0,1.0,40.0,40.0,2021.0,1.0,1.0
+"tecnologías de la información y comunicación","sucumbios",130.0,73.0,1.0,2920.0,40.0,2021.0,73.0,76.5
+"procesos industriales","guayas",134.0,10.0,1.0,80.0,8.0,2021.0,10.0,10.0
+"forestal ecología y medio ambiente","pastaza",136.0,1.0,1.0,24.0,24.0,2021.0,1.0,1.0
+"alimentación gastronomía y turismo","guayas",137.0,1.0,3.0,40.0,40.0,2021.0,4.0,5.333333333333333
+"alimentación gastronomía y turismo","guayas",138.0,1.0,3.0,40.0,40.0,2021.0,4.0,5.333333333333333
+"educación y capacitación","cotopaxi",141.0,185.0,2.0,7400.0,40.0,2021.0,312.0,282.3333333333333
+"procesos industriales","pichincha",143.0,3.0,1.0,48.0,16.0,2021.0,3.0,3.0
+"procesos industriales","azuay",147.0,16.0,4.0,640.0,40.0,2021.0,77.0,77.0
+"forestal ecología y medio ambiente","azuay",148.0,4.0,4.0,96.0,24.0,2021.0,77.0,186.66666666666666
+"finanzas comercio y ventas","pichincha",149.0,301.0,4.0,12040.0,40.0,2021.0,872.0,453.5
+"administración y legislación","cotopaxi",154.0,6.0,3.0,240.0,40.0,2021.0,64.0,90.0
+"administración y legislación","cotopaxi",155.0,47.0,3.0,752.0,16.0,2021.0,64.0,130.0
+"finanzas comercio y ventas","imbabura",156.0,18.0,2.0,144.0,8.0,2021.0,44.0,52.673611111111114
+"educación y capacitación","pichincha",160.0,9.0,2.0,216.0,24.0,2021.0,12.0,52.673611111111114
+"educación y capacitación","guayas",164.0,1.0,2.0,32.0,32.0,2021.0,15.0,52.673611111111114
+"servicios socioculturales y a la comunidad","pichincha",166.0,13.0,1.0,312.0,24.0,2021.0,13.0,13.0
+"alimentación gastronomía y turismo","el oro",171.0,28.0,1.0,1120.0,40.0,2021.0,28.0,27.833333333333332
+"finanzas comercio y ventas","guayas",175.0,16.0,1.0,128.0,8.0,2021.0,16.0,16.0
+"alimentación gastronomía y turismo","manabi",177.0,7.0,2.0,280.0,40.0,2021.0,84.0,52.673611111111114
+"procesos industriales","santa elena",178.0,16.0,1.0,256.0,16.0,2021.0,16.0,16.0
+"procesos industriales","pichincha",182.0,32.0,2.0,1280.0,40.0,2021.0,34.0,52.673611111111114
+"procesos industriales","guayas",185.0,180.0,2.0,1440.0,8.0,2021.0,211.0,179.5
+"procesos industriales","guayas",186.0,31.0,2.0,1240.0,40.0,2021.0,211.0,52.673611111111114
+"administración y legislación","guayas",191.0,572.0,2.0,13728.0,24.0,2021.0,582.0,954.6666666666666
+"educación y capacitación","guayas",192.0,7.0,3.0,280.0,40.0,2021.0,96.0,90.0
+"educación y capacitación","guayas",193.0,37.0,3.0,1184.0,32.0,2021.0,96.0,90.0
+"educación y capacitación","imbabura",196.0,18.0,4.0,576.0,32.0,2021.0,556.0,77.0
+"educación y capacitación","imbabura",197.0,8.0,4.0,320.0,40.0,2021.0,556.0,824.6666666666666
+"educación y capacitación","pichincha",202.0,23.0,2.0,552.0,24.0,2021.0,85.0,52.673611111111114
+"educación y capacitación","guayas",204.0,7.0,1.0,224.0,32.0,2021.0,7.0,7.0
+"administración y legislación","cañar",205.0,7.0,1.0,224.0,32.0,2021.0,7.0,7.0
+"comunicación y artes gráficas","pichincha",206.0,92.0,1.0,3680.0,40.0,2021.0,92.0,97.0
+"educación y capacitación","azuay",208.0,102.0,1.0,4080.0,40.0,2021.0,102.0,97.0
+"administración y legislación","pichincha",211.0,60.0,2.0,960.0,16.0,2021.0,68.0,83.28571428571429
+"procesos industriales","cotopaxi",213.0,14.0,2.0,336.0,24.0,2021.0,15.0,52.673611111111114
+"procesos industriales","cotopaxi",214.0,1.0,2.0,16.0,16.0,2021.0,15.0,52.673611111111114
+"administración y legislación","guayas",219.0,50.0,5.0,800.0,16.0,2021.0,1066.0,77.0
+"finanzas comercio y ventas","pichincha",220.0,17.0,1.0,408.0,24.0,2021.0,17.0,17.0
+"procesos industriales","pichincha",224.0,8.0,2.0,320.0,40.0,2021.0,12.0,52.673611111111114
+"procesos industriales","cotopaxi",227.0,205.0,2.0,8200.0,40.0,2021.0,206.0,282.3333333333333
+"administración y legislación","cotopaxi",228.0,1.0,2.0,40.0,40.0,2021.0,206.0,52.673611111111114
+"procesos industriales","azuay",236.0,1.0,3.0,40.0,40.0,2021.0,21.0,8.0
+"tecnologías de la información y comunicación","azuay",238.0,3.0,3.0,120.0,40.0,2021.0,21.0,8.0
+"educación y capacitación","pichincha",239.0,66.0,3.0,2640.0,40.0,2021.0,355.0,148.5
+"servicios socioculturales y a la comunidad","pichincha",240.0,282.0,3.0,11280.0,40.0,2021.0,355.0,282.3333333333333
+"administración y legislación","pichincha",250.0,12.0,3.0,480.0,40.0,2021.0,36.0,39.0
+"forestal ecología y medio ambiente","manabi",253.0,19.0,1.0,304.0,16.0,2021.0,19.0,18.8
+"administración y legislación","guayas",261.0,161.0,3.0,5152.0,32.0,2021.0,263.0,642.3333333333334
+"procesos industriales","guayas",262.0,100.0,3.0,1600.0,16.0,2021.0,263.0,345.5
+"educación y capacitación","pichincha",268.0,23.0,1.0,920.0,40.0,2021.0,23.0,24.0
+"educación y capacitación","tungurahua",273.0,8.0,1.0,320.0,40.0,2021.0,8.0,8.0
+"educación y capacitación","cotopaxi",274.0,16.0,1.0,640.0,40.0,2021.0,16.0,16.0
+"administración y legislación","tungurahua",275.0,99.0,1.0,1584.0,16.0,2021.0,99.0,94.33333333333333
+"procesos industriales","tungurahua",276.0,106.0,1.0,4240.0,40.0,2021.0,106.0,97.0
+"procesos industriales","santo domingo de los tsachilas",278.0,40.0,2.0,1600.0,40.0,2021.0,47.0,52.673611111111114
+"tecnologías de la información y comunicación","sin provincia",279.0,1.0,1.0,40.0,40.0,2021.0,1.0,1.0
+"administración y legislación","pichincha",280.0,15.0,4.0,240.0,16.0,2021.0,507.0,149.0
+"administración y legislación","pichincha",283.0,23.0,2.0,368.0,16.0,2021.0,24.0,52.673611111111114
+"servicios socioculturales y a la comunidad","pichincha",286.0,33.0,3.0,1320.0,40.0,2021.0,86.0,80.0
+"alimentación gastronomía y turismo","loja",293.0,3.0,2.0,120.0,40.0,2021.0,11.0,52.673611111111114
+"procesos industriales","tungurahua",295.0,4.0,1.0,160.0,40.0,2021.0,4.0,4.0
+"administración y legislación","loja",297.0,13.0,1.0,520.0,40.0,2021.0,13.0,13.0
+"transporte y logística","pichincha",298.0,124.0,1.0,4960.0,40.0,2021.0,124.0,132.5
+"servicios socioculturales y a la comunidad","pichincha",301.0,24.0,1.0,960.0,40.0,2021.0,24.0,24.0
+"administración y legislación","pichincha",302.0,3.0,1.0,96.0,32.0,2021.0,3.0,3.0
+"procesos industriales","pichincha",303.0,2.0,1.0,32.0,16.0,2021.0,2.0,2.0
+"administración y legislación","pichincha",307.0,26.0,2.0,416.0,16.0,2021.0,37.0,52.673611111111114
+"procesos industriales","guayas",311.0,7.0,2.0,56.0,8.0,2021.0,9.0,52.673611111111114
+"finanzas comercio y ventas","manabi",313.0,6.0,2.0,144.0,24.0,2021.0,13.0,52.673611111111114
+"finanzas comercio y ventas","manabi",314.0,7.0,2.0,224.0,32.0,2021.0,13.0,52.673611111111114
+"administración y legislación","pichincha",318.0,331.0,4.0,13240.0,40.0,2021.0,883.0,988.0
+"administración y legislación","pichincha",319.0,471.0,4.0,7536.0,16.0,2021.0,883.0,497.0
+"forestal ecología y medio ambiente","tungurahua",323.0,37.0,2.0,592.0,16.0,2021.0,49.0,52.673611111111114
+"educación y capacitación","guayas",327.0,1.0,1.0,40.0,40.0,2021.0,1.0,1.0
+"finanzas comercio y ventas","sin provincia",330.0,11.0,3.0,440.0,40.0,2021.0,42.0,47.0
+"finanzas comercio y ventas","loja",335.0,25.0,3.0,1000.0,40.0,2021.0,124.0,47.0
+"procesos industriales","imbabura",337.0,5.0,2.0,160.0,32.0,2021.0,59.0,52.673611111111114
+"procesos industriales","imbabura",338.0,54.0,2.0,864.0,16.0,2021.0,59.0,83.28571428571429
+"procesos industriales","guayas",341.0,74.0,3.0,592.0,8.0,2021.0,257.0,345.5
+"administración y legislación","pichincha",344.0,12.0,1.0,384.0,32.0,2021.0,12.0,11.25
+"tecnologías de la información y comunicación","pichincha",345.0,6.0,1.0,96.0,16.0,2021.0,6.0,7.0
+"educación y capacitación","sin provincia",346.0,5.0,2.0,200.0,40.0,2021.0,15.0,52.673611111111114
+"servicios socioculturales y a la comunidad","los rios",349.0,54.0,10.0,2160.0,40.0,2021.0,258.0,258.0
+"procesos industriales","los rios",350.0,48.0,10.0,384.0,8.0,2021.0,258.0,258.0
+"procesos industriales","los rios",351.0,64.0,10.0,512.0,8.0,2021.0,258.0,258.0
+"procesos industriales","los rios",352.0,8.0,10.0,320.0,40.0,2021.0,258.0,258.0
+"procesos industriales","los rios",355.0,11.0,10.0,176.0,16.0,2021.0,258.0,258.0
+"procesos industriales","guayas",356.0,2.0,2.0,16.0,8.0,2021.0,6.0,52.673611111111114
+"procesos industriales","guayas",357.0,4.0,2.0,64.0,16.0,2021.0,6.0,52.673611111111114
+"educación y capacitación","guayas",360.0,8.0,3.0,192.0,24.0,2021.0,17.0,108.0
+"forestal ecología y medio ambiente","sin provincia",362.0,11.0,2.0,440.0,40.0,2021.0,54.0,52.673611111111114
+"procesos industriales","azuay",364.0,47.0,2.0,752.0,16.0,2021.0,94.0,52.673611111111114
+"procesos industriales","guayas",367.0,26.0,2.0,416.0,16.0,2021.0,110.0,52.673611111111114
+"servicios socioculturales y a la comunidad","guayas",369.0,29.0,2.0,1160.0,40.0,2021.0,270.0,52.673611111111114
+"transporte y logística","pichincha",370.0,7.0,3.0,112.0,16.0,2021.0,36.0,101.33333333333333
+"finanzas comercio y ventas","cotopaxi",376.0,1.0,3.0,40.0,40.0,2021.0,58.0,111.33333333333333
+"electricidad y electrónica","cotopaxi",381.0,6.0,2.0,144.0,24.0,2021.0,36.0,52.673611111111114
+"electricidad y electrónica","cotopaxi",382.0,30.0,2.0,960.0,32.0,2021.0,36.0,52.673611111111114
+"procesos industriales","guayas",385.0,9.0,1.0,72.0,8.0,2021.0,9.0,9.0
+"tecnologías de la información y comunicación","azuay",386.0,84.0,2.0,672.0,8.0,2021.0,94.0,128.5
+"transporte y logística","azuay",387.0,10.0,2.0,400.0,40.0,2021.0,94.0,52.673611111111114
+"tecnologías de la información y comunicación","imbabura",389.0,56.0,2.0,1344.0,24.0,2021.0,81.0,83.28571428571429
+"procesos industriales","pichincha",391.0,26.0,1.0,624.0,24.0,2021.0,26.0,26.0
+"servicios socioculturales y a la comunidad","guayas",398.0,1.0,3.0,16.0,16.0,2021.0,373.0,24.5
+"servicios socioculturales y a la comunidad","guayas",399.0,10.0,3.0,80.0,8.0,2021.0,373.0,80.0
+"administración y legislación","pichincha",400.0,17.0,1.0,544.0,32.0,2021.0,17.0,17.0
+"procesos industriales","guayas",405.0,9.0,3.0,360.0,40.0,2021.0,30.0,48.0
+"procesos industriales","santo domingo de los tsachilas",410.0,15.0,1.0,600.0,40.0,2021.0,15.0,14.0
+"finanzas comercio y ventas","guayas",415.0,1.0,5.0,24.0,24.0,2021.0,95.0,186.66666666666666
+"servicios socioculturales y a la comunidad","pichincha",416.0,21.0,1.0,840.0,40.0,2021.0,21.0,21.0
+"servicios socioculturales y a la comunidad","guayas",423.0,9.0,4.0,360.0,40.0,2021.0,234.0,423.3333333333333
+"educación y capacitación","guayas",425.0,65.0,3.0,2600.0,40.0,2021.0,174.0,148.5
+"finanzas comercio y ventas","guayas",428.0,7.0,3.0,224.0,32.0,2021.0,16.0,47.0
+"administración y legislación","pichincha",433.0,5.0,2.0,40.0,8.0,2021.0,10.0,52.673611111111114
+"tecnologías de la información y comunicación","guayas",436.0,2.0,1.0,80.0,40.0,2021.0,2.0,2.0
+"servicios socioculturales y a la comunidad","sin provincia",437.0,74.0,1.0,2960.0,40.0,2021.0,74.0,76.5
+"servicios socioculturales y a la comunidad","pichincha",438.0,22.0,2.0,176.0,8.0,2021.0,53.0,52.673611111111114
+"electricidad y electrónica","guayas",439.0,4.0,1.0,160.0,40.0,2021.0,4.0,4.0
+"forestal ecología y medio ambiente","pichincha",441.0,18.0,4.0,288.0,16.0,2021.0,115.0,99.5
+"forestal ecología y medio ambiente","pichincha",444.0,10.0,4.0,160.0,16.0,2021.0,115.0,99.5
+"procesos industriales","guayas",448.0,309.0,4.0,12360.0,40.0,2021.0,673.0,1066.0
+"procesos industriales","guayas",449.0,21.0,4.0,840.0,40.0,2021.0,673.0,423.3333333333333
+"educación y capacitación","el oro",451.0,207.0,2.0,8280.0,40.0,2021.0,208.0,282.3333333333333
+"procesos industriales","pichincha",457.0,16.0,3.0,640.0,40.0,2021.0,35.0,97.0
+"alimentación gastronomía y turismo","manabi",461.0,43.0,3.0,1720.0,40.0,2021.0,289.0,101.33333333333333
+"alimentación gastronomía y turismo","manabi",463.0,48.0,3.0,1152.0,24.0,2021.0,289.0,101.33333333333333
+"servicios socioculturales y a la comunidad","pichincha",469.0,29.0,6.0,1160.0,40.0,2021.0,184.0,117.0
+"servicios socioculturales y a la comunidad","pichincha",470.0,34.0,6.0,1360.0,40.0,2021.0,184.0,117.0
+"administración y legislación","pichincha",472.0,11.0,1.0,88.0,8.0,2021.0,11.0,11.25
+"procesos industriales","pichincha",473.0,1.0,2.0,40.0,40.0,2021.0,3.0,52.673611111111114
+"alimentación gastronomía y turismo","tungurahua",477.0,5.0,2.0,200.0,40.0,2021.0,6.0,52.673611111111114
+"procesos industriales","guayas",479.0,3.0,4.0,120.0,40.0,2021.0,93.0,186.66666666666666
+"procesos industriales","guayas",480.0,16.0,4.0,256.0,16.0,2021.0,93.0,99.5
+"procesos industriales","guayas",481.0,33.0,4.0,1320.0,40.0,2021.0,93.0,134.0
+"servicios socioculturales y a la comunidad","chimborazo",482.0,1.0,2.0,40.0,40.0,2021.0,13.0,52.673611111111114
+"finanzas comercio y ventas","pichincha",484.0,3.0,2.0,72.0,24.0,2021.0,6.0,52.673611111111114
+"mecánica automotriz","azuay",485.0,2.0,2.0,80.0,40.0,2021.0,16.0,52.673611111111114
+"mecánica automotriz","azuay",486.0,14.0,2.0,448.0,32.0,2021.0,16.0,52.673611111111114
+"servicios socioculturales y a la comunidad","azuay",487.0,1.0,3.0,24.0,24.0,2021.0,72.0,24.5
+"servicios socioculturales y a la comunidad","azuay",488.0,70.0,3.0,2800.0,40.0,2021.0,72.0,148.5
+"educación y capacitación","azuay",489.0,1.0,3.0,32.0,32.0,2021.0,72.0,111.33333333333333
+"procesos industriales","pichincha",491.0,58.0,3.0,2320.0,40.0,2021.0,126.0,126.0
+"educación y capacitación","pichincha",494.0,49.0,1.0,1960.0,40.0,2021.0,49.0,46.333333333333336
+"alimentación gastronomía y turismo","pichincha",502.0,3.0,3.0,120.0,40.0,2021.0,65.0,60.5
+"alimentación gastronomía y turismo","pichincha",504.0,58.0,3.0,2320.0,40.0,2021.0,65.0,101.33333333333333
+"tecnologías de la información y comunicación","loja",505.0,2.0,1.0,48.0,24.0,2021.0,2.0,2.0
+"procesos industriales","pichincha",511.0,1.0,4.0,8.0,8.0,2021.0,231.0,186.66666666666666
+"procesos industriales","el oro",515.0,4.0,2.0,64.0,16.0,2021.0,67.0,52.673611111111114
+"procesos industriales","el oro",516.0,63.0,2.0,2520.0,40.0,2021.0,67.0,155.0
+"electricidad y electrónica","cañar",518.0,62.0,5.0,1984.0,32.0,2021.0,160.0,953.0
+"electricidad y electrónica","cañar",520.0,2.0,5.0,80.0,40.0,2021.0,160.0,186.66666666666666
+"procesos industriales","cañar",521.0,38.0,5.0,1520.0,40.0,2021.0,160.0,183.66666666666666
+"administración y legislación","santa elena",523.0,26.0,3.0,832.0,32.0,2021.0,56.0,115.75
+"administración y legislación","santa elena",524.0,27.0,3.0,1080.0,40.0,2021.0,56.0,115.75
+"procesos industriales","sucumbios",526.0,28.0,1.0,448.0,16.0,2021.0,28.0,27.833333333333332
+"educación y capacitación","pichincha",528.0,4.0,1.0,160.0,40.0,2021.0,4.0,4.0
+"servicios socioculturales y a la comunidad","pichincha",530.0,99.0,1.0,3960.0,40.0,2021.0,99.0,97.0
+"tecnologías de la información y comunicación","pichincha",532.0,7.0,3.0,280.0,40.0,2021.0,171.0,206.5
+"administración y legislación","pichincha",533.0,151.0,3.0,3624.0,24.0,2021.0,171.0,239.66666666666666
+"procesos industriales","pichincha",534.0,13.0,3.0,312.0,24.0,2021.0,171.0,97.0
+"procesos industriales","guayas",535.0,15.0,1.0,360.0,24.0,2021.0,15.0,14.0
+"administración y legislación","pichincha",536.0,63.0,2.0,2520.0,40.0,2021.0,74.0,155.0
+"procesos industriales","guayas",545.0,21.0,1.0,504.0,24.0,2021.0,21.0,21.0
+"administración y legislación","sin provincia",546.0,14.0,2.0,336.0,24.0,2021.0,21.0,52.673611111111114
+"servicios socioculturales y a la comunidad","chimborazo",550.0,18.0,2.0,720.0,40.0,2021.0,21.0,52.673611111111114
+"servicios socioculturales y a la comunidad","chimborazo",551.0,3.0,2.0,24.0,8.0,2021.0,21.0,52.673611111111114
+"procesos industriales","santo domingo de los tsachilas",553.0,153.0,3.0,1224.0,8.0,2021.0,299.0,345.5
+"procesos industriales","el oro",556.0,17.0,1.0,680.0,40.0,2021.0,17.0,17.0
+"tecnologías de la información y comunicación","pichincha",557.0,42.0,1.0,1680.0,40.0,2021.0,42.0,41.0
+"transporte y logística","pichincha",562.0,259.0,5.0,10360.0,40.0,2021.0,674.0,987.0
+"procesos industriales","pichincha",563.0,173.0,5.0,2768.0,16.0,2021.0,674.0,987.0
+"servicios socioculturales y a la comunidad","pichincha",565.0,189.0,5.0,7560.0,40.0,2021.0,674.0,987.0
+"procesos industriales","pichincha",566.0,1.0,5.0,16.0,16.0,2021.0,674.0,39.285714285714285
+"electricidad y electrónica","pichincha",567.0,92.0,2.0,3680.0,40.0,2021.0,125.0,216.0
+"educación y capacitación","los rios",569.0,1.0,1.0,32.0,32.0,2021.0,1.0,1.0
+"transporte y logística","sin provincia",571.0,5.0,1.0,80.0,16.0,2021.0,5.0,5.0
+"transporte y logística","pichincha",572.0,94.0,1.0,2256.0,24.0,2021.0,94.0,94.33333333333333
+"servicios socioculturales y a la comunidad","chimborazo",576.0,15.0,1.0,600.0,40.0,2021.0,15.0,14.0
+"administración y legislación","pichincha",578.0,35.0,6.0,560.0,16.0,2021.0,426.0,426.0
+"finanzas comercio y ventas","pichincha",579.0,152.0,6.0,3648.0,24.0,2021.0,426.0,363.5
+"administración y legislación","pichincha",580.0,74.0,6.0,592.0,8.0,2021.0,426.0,426.0
+"finanzas comercio y ventas","pichincha",581.0,12.0,6.0,288.0,24.0,2021.0,426.0,426.0
+"educación y capacitación","pichincha",584.0,4.0,1.0,128.0,32.0,2021.0,4.0,4.0
+"procesos industriales","pichincha",585.0,35.0,1.0,1400.0,40.0,2021.0,35.0,35.5
+"administración y legislación","pichincha",586.0,2.0,1.0,48.0,24.0,2021.0,2.0,2.0
+"procesos industriales","guayas",594.0,2.0,5.0,32.0,16.0,2021.0,50.0,39.285714285714285
+"procesos industriales","guayas",595.0,8.0,5.0,320.0,40.0,2021.0,50.0,50.0
+"tecnologías de la información y comunicación","azuay",599.0,121.0,3.0,4840.0,40.0,2021.0,239.0,335.5833333333333
+"alimentación gastronomía y turismo","pichincha",600.0,307.0,1.0,12280.0,40.0,2021.0,307.0,408.6666666666667
+"servicios socioculturales y a la comunidad","pichincha",602.0,50.0,1.0,400.0,8.0,2021.0,50.0,46.333333333333336
+"administración y legislación","pichincha",603.0,1.0,1.0,24.0,24.0,2021.0,1.0,1.0
+"procesos industriales","pichincha",609.0,238.0,2.0,9520.0,40.0,2021.0,240.0,282.3333333333333
+"finanzas comercio y ventas","pichincha",611.0,10.0,2.0,400.0,40.0,2021.0,20.0,52.673611111111114
+"servicios socioculturales y a la comunidad","pichincha",612.0,4.0,2.0,64.0,16.0,2021.0,94.0,52.673611111111114
+"servicios socioculturales y a la comunidad","pichincha",613.0,90.0,2.0,3600.0,40.0,2021.0,94.0,216.0
+"administración y legislación","pichincha",616.0,7.0,1.0,280.0,40.0,2021.0,7.0,7.0
+"educación y capacitación","pichincha",618.0,319.0,2.0,12760.0,40.0,2021.0,328.0,408.6666666666667
+"educación y capacitación","chimborazo",621.0,12.0,2.0,480.0,40.0,2021.0,13.0,52.673611111111114
+"educación y capacitación","azuay",624.0,167.0,1.0,6680.0,40.0,2021.0,167.0,179.5
+"administración y legislación","pichincha",625.0,90.0,1.0,1440.0,16.0,2021.0,90.0,87.25
+"educación y capacitación","sin provincia",629.0,8.0,3.0,128.0,16.0,2021.0,13.0,55.75
+"comunicación y artes gráficas","pichincha",630.0,1.0,3.0,32.0,32.0,2021.0,3.0,111.33333333333333
+"comunicación y artes gráficas","pichincha",631.0,1.0,3.0,40.0,40.0,2021.0,3.0,111.33333333333333
+"comunicación y artes gráficas","pichincha",632.0,1.0,3.0,40.0,40.0,2021.0,3.0,111.33333333333333
+"finanzas comercio y ventas","guayas",635.0,123.0,2.0,984.0,8.0,2021.0,173.0,128.5
+"construcción e infraestructura","pichincha",636.0,31.0,1.0,992.0,32.0,2021.0,31.0,31.0
+"administración y legislación","guayas",638.0,17.0,2.0,680.0,40.0,2021.0,55.0,52.673611111111114
+"procesos industriales","pichincha",645.0,40.0,4.0,320.0,8.0,2021.0,62.0,35.0
+"tecnologías de la información y comunicación","tungurahua",647.0,55.0,2.0,440.0,8.0,2021.0,57.0,83.28571428571429
+"tecnologías de la información y comunicación","tungurahua",648.0,2.0,2.0,48.0,24.0,2021.0,57.0,52.673611111111114
+"alimentación gastronomía y turismo","pichincha",651.0,4.0,4.0,64.0,16.0,2021.0,35.0,39.285714285714285
+"alimentación gastronomía y turismo","pichincha",652.0,7.0,4.0,168.0,24.0,2021.0,35.0,35.0
+"servicios socioculturales y a la comunidad","pichincha",658.0,585.0,3.0,23400.0,40.0,2021.0,858.0,954.6666666666666
+"procesos industriales","pichincha",660.0,499.0,10.0,3992.0,8.0,2021.0,5192.0,5192.0
+"procesos industriales","pichincha",667.0,148.0,10.0,5920.0,40.0,2021.0,5192.0,5192.0
+"administración y legislación","guayas",674.0,3.0,5.0,72.0,24.0,2021.0,39.0,39.285714285714285
+"procesos industriales","guayas",677.0,4.0,5.0,64.0,16.0,2021.0,39.0,39.285714285714285
+"procesos industriales","tungurahua",682.0,2.0,3.0,80.0,40.0,2021.0,110.0,111.33333333333333
+"administración y legislación","tungurahua",684.0,3.0,3.0,120.0,40.0,2021.0,110.0,27.0
+"procesos industriales","loja",685.0,2.0,1.0,32.0,16.0,2021.0,2.0,2.0
+"finanzas comercio y ventas","pichincha",687.0,1.0,1.0,40.0,40.0,2021.0,1.0,1.0
+"servicios socioculturales y a la comunidad","manabi",690.0,8.0,2.0,320.0,40.0,2021.0,58.0,52.673611111111114
+"administración y legislación","pichincha",694.0,20.0,2.0,800.0,40.0,2021.0,44.0,52.673611111111114
+"educación y capacitación","pichincha",695.0,398.0,2.0,12736.0,32.0,2021.0,785.0,583.2857142857143
+"finanzas comercio y ventas","sin provincia",697.0,112.0,3.0,4480.0,40.0,2021.0,255.0,335.5833333333333
+"administración y legislación","tungurahua",698.0,1.0,1.0,16.0,16.0,2021.0,1.0,1.0
+"educación y capacitación","pichincha",704.0,1.0,2.0,40.0,40.0,2021.0,2.0,52.673611111111114
+"procesos industriales","manabi",711.0,3.0,4.0,120.0,40.0,2021.0,11.0,39.285714285714285
+"procesos industriales","manabi",714.0,3.0,4.0,120.0,40.0,2021.0,11.0,39.285714285714285
+"administración y legislación","manabi",716.0,70.0,2.0,2240.0,32.0,2021.0,140.0,155.0
+"comunicación y artes gráficas","el oro",717.0,15.0,2.0,600.0,40.0,2021.0,31.0,52.673611111111114
+"comunicación y artes gráficas","el oro",718.0,16.0,2.0,640.0,40.0,2021.0,31.0,52.673611111111114
+"procesos industriales","pichincha",726.0,7.0,2.0,280.0,40.0,2021.0,11.0,52.673611111111114
+"educación y capacitación","azuay",727.0,8.0,5.0,320.0,40.0,2021.0,61.0,93.5
+"forestal ecología y medio ambiente","azuay",728.0,6.0,5.0,240.0,40.0,2021.0,61.0,93.5
+"procesos industriales","los rios",732.0,11.0,1.0,88.0,8.0,2021.0,11.0,11.25
+"educación y capacitación","pichincha",733.0,107.0,1.0,1712.0,16.0,2022.0,107.0,94.33333333333333
+"administración y legislación","pichincha",734.0,3.0,1.0,120.0,40.0,2022.0,3.0,3.0
+"procesos industriales","los rios",735.0,130.0,2.0,3120.0,24.0,2022.0,165.0,155.0
+"servicios socioculturales y a la comunidad","los rios",736.0,35.0,2.0,1400.0,40.0,2022.0,165.0,52.673611111111114
+"electricidad y electrónica","pichincha",740.0,18.0,2.0,576.0,32.0,2022.0,22.0,52.673611111111114
+"electricidad y electrónica","imbabura",742.0,5.0,1.0,160.0,32.0,2022.0,5.0,5.0
+"educación y capacitación","pichincha",747.0,31.0,3.0,992.0,32.0,2022.0,53.0,55.75
+"procesos industriales","guayas",754.0,132.0,6.0,5280.0,40.0,2022.0,543.0,363.5
+"procesos industriales","guayas",755.0,1.0,6.0,40.0,40.0,2022.0,543.0,543.0
+"electricidad y electrónica","guayas",757.0,26.0,1.0,832.0,32.0,2022.0,26.0,26.0
+"procesos industriales","pichincha",761.0,11.0,2.0,176.0,16.0,2022.0,13.0,52.673611111111114
+"forestal ecología y medio ambiente","sin provincia",764.0,1.0,3.0,24.0,24.0,2022.0,3.0,6.25
+"tecnologías de la información y comunicación","pichincha",765.0,6.0,8.0,48.0,8.0,2022.0,248.0,248.0
+"procesos industriales","pichincha",768.0,118.0,8.0,944.0,8.0,2022.0,248.0,248.0
+"forestal ecología y medio ambiente","pichincha",770.0,15.0,8.0,240.0,16.0,2022.0,248.0,248.0
+"forestal ecología y medio ambiente","pichincha",779.0,3.0,1.0,48.0,16.0,2022.0,3.0,3.0
+"administración y legislación","guayas",780.0,446.0,7.0,3568.0,8.0,2022.0,1107.0,1154.8
+"servicios socioculturales y a la comunidad","pichincha",783.0,14.0,1.0,560.0,40.0,2022.0,14.0,14.0
+"procesos industriales","pichincha",784.0,27.0,1.0,1080.0,40.0,2022.0,27.0,27.833333333333332
+"procesos industriales","pichincha",786.0,26.0,2.0,624.0,24.0,2022.0,27.0,52.673611111111114
+"administración y legislación","loja",787.0,16.0,1.0,384.0,24.0,2022.0,16.0,16.0
+"finanzas comercio y ventas","pichincha",790.0,32.0,1.0,1280.0,40.0,2022.0,32.0,32.0
+"procesos industriales","guayas",792.0,28.0,2.0,1120.0,40.0,2022.0,46.0,52.673611111111114
+"administración y legislación","pichincha",800.0,97.0,3.0,3880.0,40.0,2022.0,120.0,335.5833333333333
+"procesos industriales","pichincha",801.0,10.0,3.0,160.0,16.0,2022.0,120.0,27.5
+"alimentación gastronomía y turismo","pichincha",802.0,3.0,1.0,120.0,40.0,2022.0,3.0,3.0
+"procesos industriales","guayas",803.0,8.0,3.0,320.0,40.0,2022.0,18.0,27.5
+"educación y capacitación","guayas",804.0,1.0,3.0,16.0,16.0,2022.0,18.0,6.25
+"administración y legislación","pichincha",805.0,202.0,6.0,6464.0,32.0,2022.0,377.0,1288.0
+"administración y legislación","pichincha",806.0,150.0,6.0,3600.0,24.0,2022.0,377.0,969.0
+"procesos industriales","napo",814.0,8.0,3.0,128.0,16.0,2022.0,16.0,27.5
+"procesos industriales","napo",815.0,4.0,3.0,160.0,40.0,2022.0,16.0,32.0
+"transporte y logística","chimborazo",817.0,85.0,2.0,3400.0,40.0,2022.0,175.0,155.0
+"administración y legislación","cañar",819.0,4.0,1.0,128.0,32.0,2022.0,4.0,4.0
+"electricidad y electrónica","guayas",821.0,10.0,1.0,400.0,40.0,2022.0,10.0,10.0
+"procesos industriales","pichincha",825.0,2.0,2.0,80.0,40.0,2022.0,3.0,52.673611111111114
+"procesos industriales","santa elena",827.0,11.0,2.0,440.0,40.0,2022.0,21.0,52.673611111111114
+"mecánica industrial y minería","imbabura",831.0,4.0,2.0,160.0,40.0,2022.0,7.0,52.673611111111114
+"administración y legislación","manabi",834.0,169.0,2.0,6760.0,40.0,2022.0,339.0,179.5
+"servicios socioculturales y a la comunidad","chimborazo",840.0,29.0,3.0,1160.0,40.0,2022.0,86.0,80.0
+"servicios socioculturales y a la comunidad","chimborazo",841.0,29.0,3.0,1160.0,40.0,2022.0,86.0,80.0
+"servicios socioculturales y a la comunidad","chimborazo",842.0,28.0,3.0,1120.0,40.0,2022.0,86.0,80.0
+"educación y capacitación","pichincha",844.0,2.0,1.0,80.0,40.0,2022.0,2.0,2.0
+"procesos industriales","guayas",846.0,19.0,4.0,152.0,8.0,2022.0,126.0,199.0
+"electricidad y electrónica","sin provincia",847.0,2.0,1.0,64.0,32.0,2022.0,2.0,2.0
+"procesos industriales","tungurahua",848.0,8.0,2.0,64.0,8.0,2022.0,41.0,52.673611111111114
+"educación y capacitación","tungurahua",849.0,33.0,2.0,528.0,16.0,2022.0,41.0,52.673611111111114
+"alimentación gastronomía y turismo","manabi",852.0,13.0,9.0,520.0,40.0,2022.0,969.0,937.0
+"procesos industriales","manabi",854.0,309.0,9.0,4944.0,16.0,2022.0,969.0,1154.8
+"tecnologías de la información y comunicación","guayas",858.0,12.0,1.0,480.0,40.0,2022.0,12.0,11.25
+"servicios socioculturales y a la comunidad","tungurahua",860.0,7.0,1.0,280.0,40.0,2022.0,7.0,7.0
+"alimentación gastronomía y turismo","guayas",868.0,3.0,1.0,120.0,40.0,2022.0,3.0,3.0
+"procesos industriales","cotopaxi",874.0,11.0,3.0,176.0,16.0,2022.0,24.0,27.5
+"tecnologías de la información y comunicación","imbabura",875.0,1.0,1.0,40.0,40.0,2022.0,1.0,1.0
+"administración y legislación","tungurahua",881.0,4.0,4.0,32.0,8.0,2022.0,8.0,39.285714285714285
+"administración y legislación","tungurahua",882.0,2.0,4.0,64.0,32.0,2022.0,8.0,39.285714285714285
+"finanzas comercio y ventas","tungurahua",884.0,1.0,4.0,40.0,40.0,2022.0,8.0,39.285714285714285
+"educación y capacitación","guayas",889.0,39.0,1.0,1560.0,40.0,2022.0,39.0,38.25
+"procesos industriales","guayas",891.0,11.0,2.0,176.0,16.0,2022.0,12.0,52.673611111111114
+"educación y capacitación","pichincha",893.0,3.0,1.0,120.0,40.0,2022.0,3.0,3.0
+"servicios socioculturales y a la comunidad","pichincha",894.0,1.0,2.0,8.0,8.0,2022.0,2.0,52.673611111111114
+"educación y capacitación","pichincha",895.0,1.0,2.0,24.0,24.0,2022.0,2.0,52.673611111111114
+"educación y capacitación","pichincha",897.0,23.0,1.0,920.0,40.0,2022.0,23.0,23.5
+"electricidad y electrónica","pichincha",904.0,1.0,3.0,32.0,32.0,2022.0,3.0,6.25
+"procesos industriales","pichincha",905.0,1.0,3.0,16.0,16.0,2022.0,3.0,6.25
+"procesos industriales","tungurahua",907.0,228.0,6.0,9120.0,40.0,2022.0,441.0,1288.0
+"forestal ecología y medio ambiente","tungurahua",908.0,112.0,6.0,4480.0,40.0,2022.0,441.0,1502.5
+"servicios socioculturales y a la comunidad","pichincha",911.0,7.0,1.0,280.0,40.0,2022.0,7.0,6.0
+"educación y capacitación","pichincha",918.0,2.0,1.0,80.0,40.0,2022.0,2.0,2.0
+"procesos industriales","santa elena",919.0,345.0,7.0,2760.0,8.0,2022.0,1181.0,1154.8
+"administración y legislación","santa elena",920.0,183.0,7.0,5856.0,32.0,2022.0,1181.0,1288.0
+"procesos industriales","santa elena",924.0,120.0,7.0,4800.0,40.0,2022.0,1181.0,969.0
+"procesos industriales","tungurahua",927.0,5.0,3.0,200.0,40.0,2022.0,19.0,32.0
+"procesos industriales","tungurahua",928.0,10.0,3.0,400.0,40.0,2022.0,19.0,355.0
+"servicios socioculturales y a la comunidad","el oro",929.0,2.0,1.0,80.0,40.0,2022.0,2.0,2.0
+"procesos industriales","pichincha",934.0,48.0,3.0,384.0,8.0,2022.0,84.0,152.0
+"administración y legislación","pichincha",939.0,57.0,5.0,2280.0,40.0,2020.0,94.0,93.5
+"educación y capacitación","pichincha",948.0,3.0,3.0,120.0,40.0,2020.0,17.0,27.0
+"educación y capacitación","pichincha",949.0,6.0,3.0,240.0,40.0,2020.0,17.0,355.0
+"educación y capacitación","pichincha",950.0,8.0,3.0,320.0,40.0,2020.0,17.0,355.0
+"educación y capacitación","guayas",952.0,364.0,3.0,14560.0,40.0,2020.0,464.0,408.6666666666667
+"administración y legislación","pichincha",953.0,5.0,2.0,200.0,40.0,2020.0,10.0,52.673611111111114
+"procesos industriales","el oro",959.0,6.0,5.0,48.0,8.0,2020.0,908.0,93.5
+"procesos industriales","el oro",961.0,74.0,5.0,1184.0,16.0,2020.0,908.0,566.0
+"tecnologías de la información y comunicación","guayas",965.0,10.0,2.0,400.0,40.0,2020.0,25.0,52.673611111111114
+"servicios socioculturales y a la comunidad","cañar",968.0,285.0,1.0,4560.0,16.0,2020.0,285.0,240.33333333333334
+"educación y capacitación","pichincha",969.0,301.0,2.0,12040.0,40.0,2020.0,455.0,408.6666666666667
+"educación y capacitación","pichincha",972.0,282.0,3.0,11280.0,40.0,2020.0,507.0,282.3333333333333
+"transporte y logística","chimborazo",976.0,1.0,6.0,40.0,40.0,2020.0,1455.0,1210.3333333333333
+"transporte y logística","chimborazo",977.0,1.0,6.0,40.0,40.0,2020.0,1455.0,1210.3333333333333
+"administración y legislación","chimborazo",978.0,809.0,6.0,25888.0,32.0,2020.0,1455.0,1288.0
+"administración y legislación","chimborazo",980.0,19.0,6.0,760.0,40.0,2020.0,1455.0,1210.3333333333333
+"administración y legislación","chimborazo",981.0,570.0,6.0,22800.0,40.0,2020.0,1455.0,1288.0
+"procesos industriales","imbabura",985.0,22.0,3.0,176.0,8.0,2020.0,168.0,627.5
+"procesos industriales","santo domingo de los tsachilas",988.0,2.0,2.0,80.0,40.0,2020.0,3.0,52.673611111111114
+"administración y legislación","pichincha",989.0,2.0,1.0,32.0,16.0,2020.0,2.0,2.0
+"procesos industriales","pichincha",992.0,30.0,6.0,480.0,16.0,2020.0,1162.0,1162.0
+"procesos industriales","napo",998.0,15.0,3.0,120.0,8.0,2020.0,170.0,627.5
+"procesos industriales","napo",999.0,30.0,3.0,720.0,24.0,2020.0,170.0,152.0
+"transporte y logística","pichincha",1001.0,14.0,3.0,560.0,40.0,2020.0,101.0,355.0
+"forestal ecología y medio ambiente","pichincha",1002.0,50.0,3.0,800.0,16.0,2020.0,101.0,152.0
+"forestal ecología y medio ambiente","pichincha",1003.0,37.0,3.0,1480.0,40.0,2020.0,101.0,152.0
+"educación y capacitación","cotopaxi",1004.0,97.0,2.0,3880.0,40.0,2020.0,144.0,216.0
+"procesos industriales","cotopaxi",1005.0,47.0,2.0,752.0,16.0,2020.0,144.0,52.673611111111114
+"procesos industriales","cotopaxi",1010.0,111.0,3.0,4440.0,40.0,2020.0,542.0,335.5833333333333
+"forestal ecología y medio ambiente","chimborazo",1012.0,2.0,1.0,32.0,16.0,2020.0,2.0,2.0
+"servicios socioculturales y a la comunidad","pichincha",1013.0,84.0,1.0,3360.0,40.0,2020.0,84.0,116.5
+"finanzas comercio y ventas","pichincha",1015.0,1211.0,2.0,29064.0,24.0,2020.0,1216.0,954.6666666666666
+"tecnologías de la información y comunicación","pichincha",1016.0,495.0,1.0,19800.0,40.0,2020.0,495.0,583.2857142857143
+"procesos industriales","sin provincia",1019.0,4.0,9.0,64.0,16.0,2020.0,195.0,195.0
+"procesos industriales","sin provincia",1021.0,107.0,9.0,1712.0,16.0,2020.0,195.0,244.5
+"educación y capacitación","el oro",1022.0,1.0,2.0,32.0,32.0,2020.0,10.0,52.673611111111114
+"educación y capacitación","el oro",1023.0,9.0,2.0,216.0,24.0,2020.0,10.0,52.673611111111114
+"mecánica automotriz","pichincha",1026.0,4.0,1.0,160.0,40.0,2020.0,4.0,4.0
+"procesos industriales","guayas",1034.0,4.0,4.0,64.0,16.0,2020.0,1524.0,214.33333333333334
+"procesos industriales","guayas",1035.0,280.0,4.0,4480.0,16.0,2020.0,1524.0,1524.0
+"administración y legislación","el oro",1037.0,1.0,1.0,40.0,40.0,2020.0,1.0,1.0
+"procesos industriales","manabi",1040.0,6.0,3.0,240.0,40.0,2020.0,56.0,355.0
+"administración y legislación","pichincha",1042.0,116.0,3.0,2784.0,24.0,2020.0,279.0,335.5833333333333
+"finanzas comercio y ventas","pichincha",1044.0,160.0,3.0,3840.0,24.0,2020.0,279.0,642.3333333333334
+"procesos industriales","pichincha",1048.0,34.0,1.0,1360.0,40.0,2020.0,34.0,34.0
+"administración y legislación","pichincha",1051.0,4.0,6.0,160.0,40.0,2020.0,190.0,190.0
+"administración y legislación","pichincha",1052.0,22.0,6.0,880.0,40.0,2020.0,190.0,244.5
+"administración y legislación","pichincha",1054.0,5.0,6.0,200.0,40.0,2020.0,190.0,190.0
+"procesos industriales","pichincha",1055.0,155.0,6.0,6200.0,40.0,2020.0,190.0,969.0
+"administración y legislación","tungurahua",1059.0,12.0,4.0,192.0,16.0,2020.0,164.0,93.5
+"administración y legislación","tungurahua",1061.0,1.0,4.0,16.0,16.0,2020.0,164.0,214.33333333333334
+"mecánica industrial y minería","pichincha",1064.0,9.0,1.0,360.0,40.0,2020.0,9.0,9.0
+"procesos industriales","pichincha",1068.0,24.0,6.0,192.0,8.0,2020.0,294.0,244.5
+"procesos industriales","pichincha",1069.0,8.0,6.0,128.0,16.0,2020.0,294.0,190.0
+"procesos industriales","pichincha",1070.0,8.0,6.0,128.0,16.0,2020.0,294.0,190.0
+"procesos industriales","pichincha",1071.0,216.0,6.0,3456.0,16.0,2020.0,294.0,1154.8
+"procesos industriales","pichincha",1073.0,1.0,6.0,16.0,16.0,2020.0,294.0,190.0
+"procesos industriales","pichincha",1076.0,436.0,8.0,17440.0,40.0,2020.0,4788.0,4788.0
+"procesos industriales","pichincha",1080.0,484.0,8.0,7744.0,16.0,2020.0,4788.0,4788.0
+"educación y capacitación","el oro",1086.0,258.0,3.0,10320.0,40.0,2020.0,1054.0,320.0
+"transporte y logística","el oro",1088.0,227.0,3.0,9080.0,40.0,2020.0,1054.0,320.0
+"electricidad y electrónica","pichincha",1091.0,63.0,3.0,2520.0,40.0,2020.0,150.0,953.0
+"electricidad y electrónica","pichincha",1092.0,41.0,3.0,1640.0,40.0,2020.0,150.0,152.0
+"educación y capacitación","pichincha",1094.0,82.0,3.0,2624.0,32.0,2020.0,665.0,335.5833333333333
+"construcción e infraestructura","azuay",1096.0,166.0,1.0,3984.0,24.0,2020.0,166.0,320.0

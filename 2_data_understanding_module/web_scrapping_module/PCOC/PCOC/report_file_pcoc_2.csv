@@ -1,0 +1,10 @@
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-30 01:00:27.268882,2,pcoc,0,0,0,6122,9183,6122,0,0,START PROGRAM
+2023-01-30 01:01:25.281760,2,pcoc,1,0,0,6122,9183,6122,0,0,"Portal Web Loaded, Go to Page"
+2023-01-30 01:02:01.035512,2,pcoc,1,0,0,6122,9183,6122,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-30 01:02:01.325297,2,pcoc,1,1,0,6122,9183,0,0,0,falied session
+2023-01-30 01:02:33.257196,2,pcoc,1,1,0,6122,9183,0,0,0,RESTART PROGRAM
+2023-01-30 01:04:16.094610,2,pcoc,2,1,0,6122,9183,0,0,0,"Portal Web Loaded, Go to Page"
+2023-01-30 01:04:16.108610,2,pcoc,2,1,0,6122,9183,0,0,0,Resume Mining
+2023-01-30 01:04:17.135610,2,pcoc,2,1,0,6122,9183,0,0,0,CSV Not Found
+2023-01-30 01:10:50.948658,2,pcoc,2,1,0,6122,9183,7,140,7,Saved Data

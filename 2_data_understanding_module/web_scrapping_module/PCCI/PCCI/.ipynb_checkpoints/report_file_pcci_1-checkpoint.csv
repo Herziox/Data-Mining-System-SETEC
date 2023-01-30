@@ -1,0 +1,9 @@
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-29 12:46:14.989768,1,pcci,0,0,0,4922,9844,4922,0,0,START PROGRAM
+2023-01-29 12:46:34.298030,1,pcci,1,0,0,4922,9844,4922,0,0,"Page Loaded, Go to Page"
+2023-01-29 12:47:03.987917,1,pcci,1,0,0,4922,9844,251,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-29 12:47:14.922922,1,pcci,1,0,0,4922,9844,275,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-29 12:47:40.285173,1,pcci,1,0,0,4922,9844,559,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-29 12:48:00.000047,1,pcci,1,0,0,4922,9844,711,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-29 12:48:53.557406,1,pcci,1,0,0,4922,9844,827,0,0,Check Expired session in FIND LAST PAGE MINED
+2023-01-29 12:50:06.550204,1,pcci,1,0,0,4922,9844,1295,0,0,Check Expired session in FIND LAST PAGE MINED

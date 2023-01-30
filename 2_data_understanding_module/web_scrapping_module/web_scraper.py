@@ -63,12 +63,14 @@ xpath_TABLE_DETAIL = ''
 xpath_BOTTON_DETAIL_NEXT_PAGE = ''
 xpath_BOTTON_EXIT = ''
 columns = []
-n_column = -1
 FOLDER = ''
 SUBFOLDER = ''
 xpath_EXPIRED_SESSION = '/html/body/div[2]/div/span[3]'
+xpath_FAIL_SESSION ='/html/body/div[2]/div/span[1]'
 regist_columns = ['time_bot', 'id_bot', 'doc_name', 'session', 'failed_session','expired_session', 'start_page', 'end_page', 'page', 'n_rows', 'n_cols', 'message']
-
+cache_path = ''
+report_path = ''
+data_path = ''
 
 # # Funciones de guardado
 
@@ -77,15 +79,23 @@ regist_columns = ['time_bot', 'id_bot', 'doc_name', 'session', 'failed_session',
 
 def save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, message):
     regist = [str(datetime.now()), id_bot, doc_name,sessions,failed_sessions,expired_sessions,start_page, end_page, page, n_rows, n_cols, message]  
-    report_path = 'report_file_'+doc_name+'_'+str(id_bot)+'.csv'
-    report = pd.DataFrame(data=[regist],columns=regist_columns)
-    report.to_csv(os.path.join(FOLDER,SUBFOLDER,report_path),index=False, mode='a', header=not os.path.exists(os.path.join(FOLDER,SUBFOLDER,report_path)))
+    
+    if os.path.exists(report_path):
+      report = pd.read_csv(report_path)
+      if regist[-1] == report.iloc[-1]['message']:
+        report.iloc[-1] = regist
+        report.to_csv(report_path,index=False)
+      else:
+        report = pd.DataFrame(data=[regist],columns=regist_columns)
+        report.to_csv(report_path,index=False, mode='a', header=not os.path.exists(report_path))
+    else:
+      report = pd.DataFrame(data=[regist],columns=regist_columns)
+      report.to_csv(report_path,index=False, mode='a', header=not os.path.exists(report_path))
 
 
 def save_info(id_bot,doc_name,data,sessions,failed_sessions,expired_sessions,start_page,end_page,page,message):
     df = pd.DataFrame(data=data,columns=columns)
-    data_path = doc_name+'_'+str(id_bot)+'.csv'
-    df.to_csv(os.path.join(FOLDER,SUBFOLDER,data_path),index=False)
+    df.to_csv(data_path,index=False)
     save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page,df.shape[0], df.shape[1], message)
 
 
@@ -103,24 +113,29 @@ def get_final_page(options,QUERY_INPUT=' ',try_load=True):
     try:
 
       ## URL
+      print('Get URL')
       driver.get(xpath_URL)
 
       ## MODULE
+      print('Get Module')
       driver.implicitly_wait(5)
       btn_module = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.LINK_TEXT, xpath_MODULE)))
       driver.execute_script('arguments[0].click()',btn_module)
 
       ## SELECT FILTER
+      print('Select Filter')
       driver.implicitly_wait(5)
       cmb_seleccione_filtro = driver.find_element(By.ID, xpath_FILTER)
       cmb_seleccione_filtro.click()
 
       ## SELECT OPTION
+      print('Select Option')
       driver.implicitly_wait(5)
       cmb_item_nombre_curso = driver.find_element(By.ID, xpath_OPTION)
       cmb_item_nombre_curso.click()
 
       ## WRITE QUERY
+      print('Write Query')
       driver.implicitly_wait(5)
       txt_nombre_curso_perfil = driver.find_element(By.ID, xpath_TEXTBOX_QUERY)
       txt_nombre_curso_perfil.click()
@@ -128,14 +143,17 @@ def get_final_page(options,QUERY_INPUT=' ',try_load=True):
       txt_nombre_curso_perfil.send_keys(QUERY_INPUT)
 
       ## SEARCH QUERY
+      print('Search Query')
       driver.implicitly_wait(5)
       btn_buscar = driver.find_element(By.ID, xpath_BOTTON_SEARCH)
       btn_buscar.click()           
-      sleep(10)
+      sleep(40)
+      
       #GET LAST PAGE
+      print('Get Last Page')
       btn_control = driver.find_element(By.XPATH, xpath_BOTTON_LAST_PAGE)
       driver.execute_script('arguments[0].click()',btn_control)
-      sleep(3)
+      sleep(5)
       page_active = driver.find_elements(By.CLASS_NAME,'ui-state-active')
       end_page = int(page_active[1].text)
       return end_page
@@ -182,32 +200,35 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
 
   # Reporte de minado
   report = ''
-
-  #Verificar si existe REPORTE de ws
-  try:
-        report = pd.read_csv(report_path)
-
-        sessions = report['sessions'].iloc[-1]
-
-        failed_sessions = report['failed_sessions'].iloc[-1]
-
-        expired_sessions = report['expired_sessions'].iloc[-1]
-
-        page = report['page'].iloc[-1] 
-
-        n_rows= report['n_rows'].iloc[-1]
-
-        n_cols= report['n_cols'].iloc[-1]
-
-        message='RESTART PROGRAM'
-
-  except:
-        pass
-  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, message)
+  
+  
+  
 
 
   # PRICIPAL LOOP
-  while(go):  
+  while(go):
+    
+    #Verificar si existe REPORTE de ws
+    try:
+      report = pd.read_csv(report_path)
+
+      sessions = report['session'].iloc[-1]
+
+      failed_sessions = report['failed_session'].iloc[-1]
+
+      expired_sessions = report['expired_session'].iloc[-1]
+
+      page = report['page'].iloc[-1] 
+
+      n_rows= report['n_rows'].iloc[-1]
+
+      n_cols= report['n_cols'].iloc[-1]
+
+      message='RESTART PROGRAM'
+
+    except Exception as e:
+      print('REPORT FILE ERROR: ',e)
+    save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, message)
 
     try_load = True
 
@@ -258,7 +279,7 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
         driver.quit() 
 
     #START - WRITE REPORT
-    save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, 'Page Loaded, Go to Page')      
+    save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, 'Portal Web Loaded, Go to Page')      
     #END - WRITE REPORT
 
     expired_session = False
@@ -285,31 +306,42 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
 
             if (page_number>=end_page):
                 #START - WRITE REPORT
-                save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'FINAL MINED')      
+                save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_checkpoint, n_rows, n_cols, 'FINAL MINED')      
                 #END - WRITE REPORT
                 break
 
         except:
-          if (naeip>10):
+          if (naeip>5):
             #START - WRITE REPORT
-            save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Check Expired session')      
+            save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_checkpoint, n_rows, n_cols, 'Check Expired session in FIND LAST PAGE MINED')      
             #END - WRITE REPORT
             try:
               #Check Expired session
                 span_expired_session = driver.find_element(By.XPATH, xpath_EXPIRED_SESSION)
                 if 'Sesión Caducada' == span_expired_session.text:
-                  n_expired_sessions +=1
+                  expired_sessions +=1
                   expired_session = True
                   #START - WRITE REPORT
                   save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Expired session')      
                   #END - WRITE REPORT
                   break
-            except:
+                span_failed_session = driver.find_element(By.XPATH, xpath_FAIL_SESSION)
+                if 'Ocurrio una Excepcion Grave' == span_failed_session.text:
+                  failed_sessions +=1
+                  expired_session = True
+                  #START - WRITE REPORT
+                  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'falied session')      
+                  #END - WRITE REPORT
+                  break
+                print('NAEIP exceded in FIND LAST PAGE MINED')
+                try_load = False
+            except Exception as e :
+                print("Error Checking Page: ",e)
                 naeip = 0
           else:
             naeip += 1
 
-
+    page = page_number
     if (page_number >= end_page):
       go = False
       break
@@ -325,7 +357,7 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
       data = np.zeros((0,len(columns)))
       sleep(1)
       try:
-        df_data = pd.read_csv(doc_name+'_'+str(id_bot)+'.csv')
+        df_data = pd.read_csv(data_path)
         data = df_data.values
       except:
         #START - WRITE REPORT
@@ -343,7 +375,11 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
 
         while(try_load):
           try:
-            table_data = driver.find_element(By.ID,xpath_TABLE)
+            table_data=''
+            if xpath_TABLE == 'tbody':
+              table_data = driver.find_element(By.TAG_NAME,xpath_TABLE)
+            else: 
+              table_data = driver.find_element(By.ID,xpath_TABLE)
             row_data = table_data.find_elements(By.TAG_NAME,'tr')
             table_page =[]
             if DETAIL != 'detalle':
@@ -398,18 +434,30 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
                           condition_cc = False
                           try_load_cc = False
                           break
-                        if naeip_cc>=10:
+                        if naeip_cc>=5:
                           try:
+                              save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Check Expired session in TABLE SCRAP')
                             #Check Expired session
                               span_expired_session = driver.find_element(By.XPATH, xpath_EXPIRED_SESSION)
                               if 'Sesión Caducada' == span_expired_session.text:
-                                n_expired_sessions +=1
+                                expired_sessions +=1
                                 expired_session = True
                                 #START - WRITE REPORT
                                 save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Expired session')      
                                 #END - WRITE REPORT
                                 break
-                          except:
+                              span_failed_session = driver.find_element(By.XPATH, xpath_FAIL_SESSION) 
+                              if 'Ocurrio una Excepcion Grave' == span_failed_session.text:
+                                failed_sessions +=1
+                                expired_session = True
+                                #START - WRITE REPORT
+                                save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'falied session')      
+                                #END - WRITE REPORT
+                                break
+                              print('NAEIP exceded in CC')
+                              try_load = False
+                          except Exception as e :
+                              print("Error Checking: ",e)
                               naeip_cc = 0
                         else:
                           #print('carga CC ',naeip_cc)
@@ -441,18 +489,32 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
           except Exception:
             e = sys.exc_info()[1]
             print("Error data: ",e.args[0])
-            if naeip>=10:
+            if naeip>=5:
+              save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Check Expired session in FIND LAST PAGE DETAIL MINED')
               try:
                 #Check Expired session
+                 
                   span_expired_session = driver.find_element(By.XPATH, xpath_EXPIRED_SESSION)
                   if 'Sesión Caducada' == span_expired_session.text:
-                    n_expired_sessions +=1
+                    expired_sessions +=1
                     expired_session = True
                     #START - WRITE REPORT
                     save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Expired session')      
                     #END - WRITE REPORT
                     break
-              except:
+                  span_failed_session = driver.find_element(By.XPATH, xpath_FAIL_SESSION) 
+                  if 'Ocurrio una Excepcion Grave' == span_failed_session.text:
+                    failed_sessions +=1
+                    expired_session = True
+                    #START - WRITE REPORT
+                    save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'falied session')      
+                    #END - WRITE REPORT
+                    break
+                  print('NAEIP exceded')
+                  try_load = False
+                  break
+              except Exception as e :
+                  print("Error Checking: ",e)
                   naeip = 0
             else:
               naeip += 1
@@ -463,6 +525,7 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
           # SAVE INFORMATION ABOUT MINING
           page_active = driver.find_elements(By.CLASS_NAME,'ui-state-active')
           page_number = int(page_active[1].text)
+          page = page_number
           driver.implicitly_wait(30)
           tiempo_data_fin = time()
           save_info(id_bot,doc_name,data,sessions,failed_sessions,expired_sessions,start_page,end_page,page_number,'Saved Data')
@@ -488,9 +551,6 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
 
       #START - WRITE REPORT
       save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'End Session')      
-      #END - WRITE REPORT
-
-      save_info(id_bot,doc_name,data,sessions,failed_sessions,expired_sessions,start_page,end_page,page_number,'END PROGRAM')
 
       if(page_number<end_page):
         go = True
@@ -514,24 +574,20 @@ def main_bot(thread,i,doc_name,options,start_page,end_page,QUERY_INPUT):
 
 if __name__==('__main__'):
   
-  doc_name = 'ci'
+  doc_name = sys.argv[1]
   QUERY_INPUT = ' '
-  N_DRIVERS = 1
-  new_ws = 'no'
+  N_DRIVERS = int(sys.argv[3])
+  new_ws = sys.argv[4]
+  id_bot = int(sys.argv[5])
   df_control = pd.read_csv(os.path.join(os.getcwd(),'data_controller_bot.csv'))
   df_control = df_control[df_control['doc_name'] == doc_name]
   if df_control.shape[0]>0:
-    doc_name = sys.argv[1]
     if '_' == sys.argv[2]:
       QUERY_INPUT = ' '
     elif '-' == sys.argv[2]:
-      QUERY_INPUT = ' '
+      QUERY_INPUT = ''
     else:
       QUERY_INPUT = sys.argv[2]
-    
-    N_DRIVERS = int(sys.argv[3])
-    
-    new_ws = sys.argv[4]
     
     columns = df_control['columns'].iloc[0].replace('\"','').replace('\'','').replace('[','').replace(']','').split(',')
     xpath_URL = df_control['xpath_URL'].iloc[0]
@@ -549,12 +605,14 @@ if __name__==('__main__'):
     xpath_TABLE_DETAIL = df_control['xpath_TABLE_DETAIL'].iloc[0]
     xpath_BOTTON_DETAIL_NEXT_PAGE = df_control['xpath_BOTTON_DETAIL_NEXT_PAGE'].iloc[0]
     xpath_BOTTON_EXIT = df_control['xpath_BOTTON_EXIT'].iloc[0]
-    n_column = df_control['n_column'].iloc[0]
     FOLDER = df_control['folder'].iloc[0]
     SUBFOLDER = df_control['subfolder'].iloc[0]
   else:
     print('No existe este modulo')
   
+  cache_path = os.path.join(FOLDER,SUBFOLDER,"cache_bots_"+doc_name+".txt")
+  report_path = os.path.join(FOLDER,SUBFOLDER,'report_file_'+doc_name+'_'+str(id_bot)+'.csv')
+  data_path = os.path.join(FOLDER,SUBFOLDER, doc_name+'_'+str(id_bot)+'.csv') 
 
   
 
@@ -570,52 +628,39 @@ if __name__==('__main__'):
   start_page_list = []
   final_page_list = []
 
-  if new_ws == 'yes' and os.path.exists(os.path.join(FOLDER,SUBFOLDER,"cache_bots_"+doc_name+".txt")):
-    os.remove("cache_bots_"+doc_name+".txt")      
+  if new_ws == 'yes' and os.path.exists(cache_path):
+    os.remove(cache_path)      
         
-  if os.path.exists(os.path.join(FOLDER,SUBFOLDER,"cache_bots_"+doc_name+".txt")):
-    print('File Found')
-    report_file = open(os.path.join(FOLDER,SUBFOLDER,"cache_bots_"+doc_name+".txt"), "r")
-    value_bot = report_file.readline().split(' ')
+  if os.path.exists(os.path.join(cache_path)):
+    print('Cache File Found')
+    cache_file = open(cache_path, "r")
+    value_bot = cache_file.readline().split(' ')
     final_page = int(value_bot[0])
     N_DRIVERS = int(value_bot[1])
-    report_file.close()  
+    cache_file.close()  
   else:
     print('New File')
     final_page = get_final_page(options,QUERY_INPUT)
-    print(final_page)
-    report_file = open(os.path.join(FOLDER,SUBFOLDER,"cache_bots_"+doc_name+".txt"), "w")
-    report_file.write(str(final_page)+' '+str(N_DRIVERS))
-    report_file.close()  
+    cache_file = open(cache_path, "w")
+    cache_file.write(str(final_page)+' '+str(N_DRIVERS))
+    cache_file.close()  
   
   print(final_page) 
     
     
   
   range_page = final_page//N_DRIVERS
-  if range_page > 0:
-    mark_page = 0
-    for i in range(N_DRIVERS):
-      start_page_list.append(mark_page)
-      mark_page+=range_page
-      if(mark_page>final_page):
-        final_page_list.append(final_page)
-      else:
-        final_page_list.append(mark_page)
-    
-    barrier = Barrier(N_DRIVERS)
- 
-    thread_list = []
-     
-    for i in range(N_DRIVERS):
-      t = Thread(target=main_bot,args=(barrier,i,doc_name,options,start_page_list[i],final_page_list[i],QUERY_INPUT))
-      t.start()
-      thread_list.append(t)
-      #bot_poc(i,options,1,final_page,QUERY_INPUT)
-    for t in thread_list:
-      t.join()
-  else:
-    bot(0,doc_name,options,0,final_page,QUERY_INPUT)
+  mark_page = 0
+  for i in range(N_DRIVERS):
+    start_page_list.append(mark_page)
+    mark_page+=range_page
+    if(mark_page>final_page):
+      final_page_list.append(final_page)
+    else:
+      final_page_list.append(mark_page)
+  
+  print('Inicia el Bot ',doc_name,'_',id_bot)
+  bot(id_bot,doc_name,options,start_page_list[id_bot],final_page_list[id_bot],QUERY_INPUT)
 
   
 

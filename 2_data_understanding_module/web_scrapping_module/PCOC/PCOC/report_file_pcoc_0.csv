@@ -1,0 +1,6 @@
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-30 00:50:14.081483,0,pcoc,0,0,0,0,3061,0,0,0,START PROGRAM
+2023-01-30 00:51:15.619846,0,pcoc,1,0,0,0,3061,0,0,0,"Portal Web Loaded, Go to Page"
+2023-01-30 00:51:15.634377,0,pcoc,1,0,0,0,3061,0,0,0,Resume Mining
+2023-01-30 00:51:16.648301,0,pcoc,1,0,0,0,3061,0,0,0,CSV Not Found
+2023-01-30 01:10:06.974790,0,pcoc,1,0,0,0,3061,20,420,7,Saved Data

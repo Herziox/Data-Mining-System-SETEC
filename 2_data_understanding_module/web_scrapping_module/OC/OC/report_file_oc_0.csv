@@ -1,0 +1,5 @@
+time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_page,page,n_rows,n_cols,message
+2023-01-19 23:42:44.114154,0,oc,0,0,0,0,28,0,0,0,START PROGRAM
+2023-01-19 23:42:52.591162,0,oc,1,0,0,0,28,0,0,0,"Page Loaded, Go to Page"
+2023-01-19 23:42:52.593621,0,oc,1,0,0,0,28,0,0,0,Resume Mining
+2023-01-19 23:42:53.605192,0,oc,1,0,0,0,28,0,0,0,CSV Not Found
