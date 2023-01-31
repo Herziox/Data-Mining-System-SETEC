@@ -322,7 +322,7 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
                   expired_sessions +=1
                   expired_session = True
                   #START - WRITE REPORT
-                  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'Expired session')      
+                  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_checkpoint, n_rows, n_cols, 'Expired session')      
                   #END - WRITE REPORT
                   break
                 span_failed_session = driver.find_element(By.XPATH, xpath_FAIL_SESSION)
@@ -330,7 +330,7 @@ def bot(id_bot,doc_name,options,start_page,end_page,QUERY_INPUT=' '):
                   failed_sessions +=1
                   expired_session = True
                   #START - WRITE REPORT
-                  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_number, n_rows, n_cols, 'falied session')      
+                  save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page_checkpoint, n_rows, n_cols, 'falied session')      
                   #END - WRITE REPORT
                   break
                 print('NAEIP exceded in FIND LAST PAGE MINED')
