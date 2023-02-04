@@ -137,6 +137,7 @@ def get_final_page(options,QUERY_INPUT=' ',try_load=True):
       ## WRITE QUERY
       print('Write Query')
       driver.implicitly_wait(5)
+      sleep(2)
       txt_nombre_curso_perfil = driver.find_element(By.ID, xpath_TEXTBOX_QUERY)
       txt_nombre_curso_perfil.click()
       driver.implicitly_wait(5)
