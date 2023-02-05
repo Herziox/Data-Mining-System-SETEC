@@ -456,4 +456,4 @@ time_bot,id_bot,doc_name,session,failed_session,expired_session,start_page,end_p
 2023-02-04 00:06:37.648459,3,pcoc,185,182,2,9183,12244,9183,0,0,"Portal Web Loaded, Go to Page"
 2023-02-04 00:07:12.978919,3,pcoc,185,182,2,9183,12244,9183,0,0,Check Expired session in FIND LAST PAGE MINED
 2023-02-04 00:07:37.885090,3,pcoc,185,183,2,9183,12244,9183,0,0,falied session
-2023-02-04 00:09:04.160295,3,pcoc,185,183,2,9183,12244,9183,0,0,RESTART PROGRAM
+2023-02-05 01:28:03.525057,3,pcoc,185,183,2,9183,12244,9183,0,0,RESTART PROGRAM
