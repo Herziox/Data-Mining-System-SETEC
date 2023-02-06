@@ -1,0 +1,543 @@
+ciudad,area_familia,cursos,modalidad_set,carga_horaria,precio_por_hora,precio_mean_by_mod,precio_mean_by_area,precio_mean_by_ciudad,precio_mean_by_ma,precio_mean_by_ac,precio_mean_by_mc
+quito,administración y legislación,gerencia de instituciones de salud,online,1736.0,6.875873015873012,0.1,0.21,0.1,0.07,0.06,0.18
+quito,educación y capacitación,liderazgo educativo,online,1680.0,6.875873015873012,0.1,0.08,0.1,0.12,0.05,0.18
+quito,actividades de salud,seguridad y salud ocupacional,online,1680.0,6.875873015873012,0.1,0.31,0.1,0.04,0.54,0.18
+quito,administración y legislación,administracion de empresas,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,administración y legislación,desarrollo de negocios y emprendimiento,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,administración y legislación,direccion estrategica,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,administración y legislación,e-commerce,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,administración y legislación,gestion de negocios con tecnologias digitrales,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,administración y legislación,gestion de riesgos y manejo de crisis en el sector de servicios,online,168.0,6.875873015873012,1.01,2.15,1.0,0.67,0.67,1.84
+quito,tecnologías de la información y comunicación,big data,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,bussines intelligentes,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,ciberseguridad,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,cloud computing,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,desarrollo de videojuegos,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,design thinking,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,tecnologías de la información y comunicación,marketing digital,online,168.0,6.875873015873012,1.01,1.91,1.0,1.59,1.25,1.84
+quito,actividades de salud,administracion para auxiliares de odontologia,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,alimentacion y nutricion para salud y el bienestar,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,armonizacion orofacial y estetica dental,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,estimulacion temprana y oportuna,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,nutricion deportiva,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,nutricion pediatrica,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,odontologia para bebe,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,actividades de salud,seguridad y salud ocupacional,online,168.0,6.875873015873012,1.01,3.06,1.0,0.42,5.42,1.84
+quito,educación y capacitación,calidad educactiva,online,168.0,6.875873015873012,1.01,0.78,1.0,1.21,0.52,1.84
+quito guayaquil loja,area base,formación de formadores,presencial,4.0,17.25,,,,,,
+quito guayaquil loja,area base,prevención de riesgos laborales: construcción y obras públicas (guayaquil),presencial,4.0,13.75,,,,,,
+quito guayaquil loja,area base,prevención de riesgos laborales: energía eléctrica (guayaquil),presencial,4.0,13.75,,,,,,
+quito guayaquil loja,area base,prevención de riesgos laborales: construcción y obras públicas (guayaquil),presencial,4.0,13.75,,,,,,
+quito guayaquil loja,area base,medidas eficaces de bioseguridad para centros educativos y otros centros de aglomeración,online,14.0,3.93,,,,,,
+quito guayaquil loja,area base,webinar: responsable del sistema de gestión de seguridad y salud laboral,online,1.0,6.875873015873012,170.35,744.41,227.11,182.67,227.11,362.0
+quito guayaquil loja,area base,curso de preparación para la certificación physical security professional (psp),online,80.0,6.12,,,,,,
+quito guayaquil loja,area base,responsable del sistema de gestión de seguridad y salud laboral,online,40.0,2.62,,,,,,
+quito guayaquil loja,area base,administración y gestión de la seguridad bancaria en un ecosistema delincuencial mixto,online,15.0,11.33,,,,,,
+quito guayaquil loja,area base,gerencia de seguridad cpp,online,384.0,2.58,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación online de teleoperador de call center,online,50.0,2.0,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación de diseño de plan de negocios y proyecto de inversión,online,45.0,2.0,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación en diseño gráfico (ilustrador y photoshop),online,51.0,3.43,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación en coach de liderazgo con inteligencia emocional,online,200.0,1.95,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,curso de auxiliar en gestión del talento humano,online,60.0,0.58,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación en inteligencia de negocios digitales,online,80.0,6.85,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,programa de especialización para administrador de restaurantes,online,409.11652542372906,0.64,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,fundamentos de movilidad urbana sostenible y su aplicación en la planificación de ciudades,online,40.0,1.5,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",administración y legislación,certificación en auditorías y estándares internacionales de rse (responsabilidad social empresarial) estrategias ante la crisis del covid-19,presencial,16.0,24.5,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación en auxiliares de enfermería y cuidados paliativos ,presencial,600.0,0.98,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación en auxiliar en servicios farmacéuticos ,presencial,550.0,0.44,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación en auxiliar en servicios farmacéuticos ,presencial,409.11652542372906,0.54,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación como auxiliar de enfermería con mención en cuidado del adulto mayor,presencial,500.0,1.16,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación internacional en primeros auxilios rcp – dea,presencial,40.0,3.5,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,curso de seguridad & salud ocupacional,presencial,40.0,1.88,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",actividades de salud,certificación en auxiliar instrumentación quirúrgica,presencial,700.0,1.44,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",comunicación y artes gráficas,curso online de photoshop para edición de imágenes,online,40.0,3.0,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",comunicación y artes gráficas,certificación de introducción a las artes visuales,online,80.0,2.25,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",comunicación y artes gráficas,programa en marketing digital con mención en community manager (online),online,67.0,2.97,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",comunicación y artes gráficas,curso online de iniciación a la radio,online,40.0,1.5,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,curso básico profesional de lengua de señas ecuatoriana ii,online,60.0,0.58,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,curso superior en asistente en psicología infantil,online,80.0,0.44,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,certificación online en gamificación como estrategia de enseñanza,online,128.0,2.81,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,certificación de innovación educativa,online,40.0,1.75,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,certificación en auxiliar de parvulario mención asistente materno infantil ,presencial,600.0,0.46,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",educación y capacitación,certificación en auxiliar de parvulario mención asistente materno infantil ,presencial,600.0,0.46,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",area base,certificación de pastelería moderna,presencial,16.0,8.12,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",area base,certificación internacional de gastronomía mexicana,presencial,40.0,5.0,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",area base,programa de especialización para administrador de restaurantes,online,16.0,16.25,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",mecánica automotriz,certificación en diagnóstico electrónico automotriz,online,20.0,8.33,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",mecánica automotriz,certificación en sistemas de transmisión y frenado,online,20.0,8.33,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",mecánica automotriz,certificación en mantenimiento automotriz ii,online,20.0,8.33,,,,,,
+"quito , guaranda ,ambato, manta, santa elena , santo domingo ; por toviejo , babahoyo, machala",mecánica automotriz,certificación en mantenimiento automotriz i,online,20.0,8.33,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,academia de inglés pearson,online,160.0,0.94,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,academia de inglés berlitz,online,409.11652542372906,0.29,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,academia de inglés cambridge,online,180.0,0.83,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,nivel b2,online,200.0,1.38,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,conocimiento del alumno: valores y hábitos,online,40.0,1.5,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,manejo de habilidades blandas,online,12.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,manejo del tiempo y la productividad,online,8.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,arte y pedagogía aplicarte,online,409.11652542372906,0.11,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,técnicas y metodología de estudio para docentes,online,50.0,1.0,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,manejo de tics aplicadas a la educación,online,50.0,1.0,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,derecho laboral,online,12.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,fundamentos de marketing,online,12.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,introducción al coaching,online,12.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,excelencia en el servicio y fidelización al cliente,online,12.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,construye tu modelo de negocio,online,8.0,2.5,,,,,,
+"quito  , guayaquil , cuenca y loja",administración y legislación,técnicas básicas de ventas,online,40.0,1.12,,,,,,
+"quito  , guayaquil , cuenca y loja",area base,escuela de capacitación de conductores profesionales - licencia tipo g,presencial,409.11652542372906,4.4,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,programming essentials in python,online,70.0,4.0,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,ccna cybersecurity operations,online,70.0,4.0,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,ccna1 v7: introducción a redes,online,70.0,4.0,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,"ccna3 v7: redes empresariales, seguridad y automatización",online,30.0,3.33,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,fundamentos de ciberseguridad,online,70.0,4.0,,,,,,
+"quito  , guayaquil , cuenca y loja",tecnologías de la información y comunicación,iot fudamentals: connecting things,online,50.0,2.5,,,,,,
+guayaquil,administración y legislación,diplomado en compras y contrataciones del estado,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado creación de aplicaciones 4.0 para la educación disruptiva​,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado en innovación y transformación digital del negocio y las tecnologías de información y comunicación​,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado en gestión integrada en seguridad y salud en el trabajo,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado en marketing y comunicación política en tiempos de distanciamiento,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado en gestión hotelera,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,administración y legislación,diplomado en gerencia comercial,online,144.0,6.875873015873012,1.18,2.5,0.97,0.79,0.28,0.97
+guayaquil,administración y legislación,diplomado de administración de gobiernos seccionales,online,120.0,6.875873015873012,1.42,3.0,1.17,0.94,0.33,1.17
+guayaquil,educación y capacitación,diplomado en inclusión educativa: atención a la diversidad en el aula,online,120.0,6.875873015873012,1.42,1.1,1.17,1.7,4.33,1.17
+guayaquil,educación y capacitación,"diplomado en diseño de recursos educativos digitales interactivos para educación básica, inicial y elemental",online,120.0,6.875873015873012,1.42,1.1,1.17,1.7,4.33,1.17
+guayaquil,educación y capacitación,diplomado en fortalecimiento profesional para psicólogos y afines: abordaje de problemáticas en la niñez y en la adolescencia en el contexto educativo,online,120.0,6.875873015873012,1.42,1.1,1.17,1.7,4.33,1.17
+guayaquil,educación y capacitación,didáctica para la enseñanza en educación general básica,online,120.0,4.33,,,,,,
+guayaquil,educación y capacitación,diplomado de ambientes virtuales para el proceso de enseñanza aprendizaje en la educación básica​,online,120.0,6.875873015873012,1.42,1.1,1.17,1.7,4.33,1.17
+guayaquil,tecnologías de la información y comunicación,diplomado en experto en diseño de publicaciones interactivas con adobe indesign para dispositivos móviles,online,120.0,6.875873015873012,1.42,2.67,1.17,2.22,,1.17
+guayaquil,tecnologías de la información y comunicación,diplomado en infopedagogía: aplicaciones de las tics para la enseñanza,online,120.0,6.875873015873012,1.42,2.67,1.17,2.22,,1.17
+guayaquil,tecnologías de la información y comunicación,diplomado de customer experience en entornos digitales y tradicionales,online,120.0,6.875873015873012,1.42,2.67,1.17,2.22,,1.17
+guayaquil,actividades de salud,programa auxiliar de enfermería,online,600.0,6.875873015873012,0.28,0.86,0.23,0.12,0.12,0.23
+guayaquil,actividades de salud,diplomado en urgencias médicas hospitalarias,online,120.0,6.875873015873012,1.42,4.29,1.17,0.58,0.58,1.17
+guayaquil,actividades de salud,programa auxiliar de odontología,online,120.0,6.875873015873012,1.42,4.29,1.17,0.58,0.58,1.17
+guayaquil,actividades de salud,diplomado de nutrición enteral y parenteral,online,120.0,6.875873015873012,1.42,4.29,1.17,0.58,0.58,1.17
+guayaquil,actividades de salud,diplomado en especialidades odontológicas,online,120.0,6.875873015873012,1.42,4.29,1.17,0.58,0.58,1.17
+guayaquil,actividades de salud,diplomado en salud y medicina del trabajo,online,140.0,6.875873015873012,1.22,3.67,1.0,0.5,0.5,1.0
+guayaquil,administración y legislación,de artesano a empresario modalidad mooc,online,40.0,1.0,,,,,,
+guayaquil,administración y legislación,curso legislacion electoral ecuatoriana y actores politicos,online,40.0,6.875873015873012,4.26,9.01,3.5,2.83,1.0,3.5
+guayaquil,administración y legislación,curso administración de proyectos con uso de la herramienta ms project,online,40.0,6.875873015873012,4.26,9.01,3.5,2.83,1.0,3.5
+guayaquil,actividades de salud,certificado de atención pre hospitalaria,online,90.0,6.875873015873012,1.89,5.71,1.56,0.78,0.78,1.56
+guayaquil,actividades de salud,el caso social como método de intervención profesional del trabajador social en tiempos de covid-19,online,50.0,0.8,,,,,,
+guayaquil,tecnologías de la información y comunicación,curso de excel para la correcta toma de decisiones administrativas – financieras en la empresa,online,40.0,6.875873015873012,4.26,8.0,3.5,6.66,,3.5
+guayaquil,actividades de salud,curso superior de nutrición hospitalaria​,online,20.0,4.0,,,,,,
+guayaquil,actividades de salud,"curso enfermedades digestivas frecuentes en la niñez: cuidados, diagnóstico y tratamiento​",online,20.0,4.0,,,,,,
+guayaquil,actividades de salud,"curso enfermedades digestivas frecuentes en la niñez: cuidados, diagnóstico y tratamiento​",online,20.0,4.0,,,,,,
+guayaquil,area base,curso teoría de la justicia de j.rawls,online,8.0,6.875873015873012,21.29,93.05,17.5,22.83,,17.5
+guayaquil,area base,curso derecho penal ambiental,online,16.0,6.875873015873012,10.65,46.53,8.75,11.42,,8.75
+guayaquil,area base,curso sobre código orgánico general de procesos,online,35.0,6.875873015873012,4.87,21.27,4.0,5.22,,4.0
+guayaquil,area base,seminario-taller: fundamentos y práctica del trabajo social clínico,online,68.0,6.875873015873012,2.51,10.95,2.06,2.69,,2.06
+guayaquil,servicios financieros,seminario ley de prevencion de lavado de activos y el control del patrimonio,online,11.0,6.875873015873012,15.49,85.45,12.73,,,12.73
+quito,area base,estrategia digital: cómo integrar tus activos digitales con visión estratégica,online,30.0,9.67,,,,,,
+quito,tecnologías de la información y comunicación,social media data analytics,online,30.0,9.67,,,,,,
+quito,tecnologías de la información y comunicación,"growth hacking: estrategias, técnicas y acciones para generar tráfico a tu sitio web y redes sociales (seo, sem, analytics).",online,30.0,9.67,,,,,,
+quito,tecnologías de la información y comunicación,facebook e instagram para emprendedores,online,30.0,9.67,,,,,,
+quito,area base,curso universitario de simulación de campaña electoral,online,30.0,13.0,,,,,,
+quito,tecnologías de la información y comunicación,biomecánica del cuerpo humano y neurorrehabilitación a través de la robótica,online,30.0,9.67,,,,,,
+quito,tecnologías de la información y comunicación,"narrativa digital: storytelling, copywriting y contenido para medios digitales",online,30.0,9.67,,,,,,
+quito,tecnologías de la información y comunicación,el abc de ilustrador y photoshop,online,24.0,12.08,,,,,,
+quito,tecnologías de la información y comunicación,qlik sense - business analyst,online,24.0,15.83,,,,,,
+quito,artes y artesanía,historia del arte: las obras maestras del renacimiento,online,32.0,9.06,,,,,,
+cuenca,administración y legislación,experto en tributación y niifs,online,72.0,1.67,,,,,,
+cuenca,administración y legislación,administración de recursos públicos y sus responsabilidades,online,48.0,1.67,,,,,,
+cuenca,administración y legislación,gestión integral de proyectos basada en el pmi,online,48.0,1.67,,,,,,
+cuenca,administración y legislación,redacción administrativa para asistentes ejecutivas,online,48.0,1.67,,,,,,
+cuenca,administración y legislación,la lectura y escritura como herramientas didácticas en los entornos virtuales de aprendizaje,online,48.0,1.67,,,,,,
+cuenca,administración y legislación, excel aplicado a las finanzas empresariales,online,21.0,6.875873015873012,8.11,17.17,4.44,5.39,4.19,4.19
+cuenca,administración y legislación,selecciòn de personal,online,32.0,6.875873015873012,5.32,11.27,2.92,3.54,2.75,2.75
+cuenca,administración y legislación,auditoria gubernamental,online,32.0,6.875873015873012,5.32,11.27,2.92,3.54,2.75,2.75
+cuenca,administración y legislación,comunicación científica: estilo y pautas de redacción,online,20.0,6.875873015873012,8.52,18.03,4.67,5.66,4.4,4.4
+cuenca,administración y legislación,seminario integral de compras públicas,online,60.0,6.875873015873012,2.84,6.01,1.56,1.89,1.47,1.47
+cuenca,educación y capacitación,cursos de ingles para el adulto mayor,presencial,70.0,1.71,,,,,,
+quito,tecnologías de la información y comunicación,desarrollador frontend,presencial,409.11652542372906,6.875873015873012,1.86,0.78,0.41,0.88,0.51,1.29
+quito,actividades de salud,auxiliar de enfermeria,presencial,409.11652542372906,3.13,,,,,,
+quito,actividades de salud,instrumentacion quirurgica,presencial,409.11652542372906,1.93,,,,,,
+quito,actividades de salud,auxiliar de fisioterapia,presencial,409.11652542372906,2.22,,,,,,
+quito,actividades de salud,auxiliar geriatrico,presencial,409.11652542372906,1.61,,,,,,
+"quito , santo domingo",administración y legislación,marketing de contenido y escritura creativa,online,20.0,4.95,,,,,,
+"quito , santo domingo",administración y legislación,storytelling avanzado,online,20.0,4.95,,,,,,
+"quito , santo domingo",administración y legislación,diseño estrategico y gestion de marcas,online,20.0,4.95,,,,,,
+"quito , santo domingo",administración y legislación,gestion de innovacion y herramientas digitales,online,20.0,4.95,,,,,,
+"quito , santo domingo",area base,diseño de instalaciones para edificios autosustentables,online,40.0,4.5,,,,,,
+"quito , santo domingo",area base,sostenbilidad y economia circular analisis de ciclos de vida de productos y construcciones sostenibles,online,40.0,4.5,,,,,,
+"quito , santo domingo",area base,diseño de edificios sostenibles,online,40.0,4.5,,,,,,
+"quito , santo domingo",area base,formulacion y evaluacion de proyectos sostenibles,online,40.0,4.5,,,,,,
+"quito , santo domingo",area base,marco legal de las construcciones sustentables y certificados verdes,online,40.0,4.5,,,,,,
+"milagro , guayas, ecuador",area base,curso cursos de inglés básico para programas de maestría. modulo 1,online,72.0,2.08,,,,,,
+"milagro , guayas, ecuador",area base,curso cursos de inglés básico para programas de maestría. modulo 2,online,72.0,2.08,,,,,,
+"milagro , guayas, ecuador",area base,curso cursos de inglés básico para programas de maestría. modulo 3,online,72.0,2.08,,,,,,
+"milagro , guayas, ecuador",area base,formación docente de educación superior en línea,online,409.11652542372906,0.29,,,,,,
+"milagro , guayas, ecuador",area base,formación tributaria para microempresarios y emprendedores,online,60.0,0.83,,,,,,
+"milagro , guayas, ecuador",area base,emprendimiento online y manejo de redes sociales,online,40.0,1.5,,,,,,
+"milagro , guayas, ecuador",area base,introducción a la estadística y búsqueda e indexación de información bibliográfica,online,90.0,2.22,,,,,,
+quito,area base,ingles,presencial,80.0,2.88,,,,,,
+quito,area base,frances,presencial,80.0,2.88,,,,,,
+quito,area base,conversation club- inglés,presencial,20.0,3.5,,,,,,
+quito,educación y capacitación,didáctica y metodología para llegar a los estudiantes,presencial,16.0,6.875873015873012,47.56,8.22,10.53,15.62,5.51,33.05
+quito,educación y capacitación,diseño instruccional para cursos virtuales,virtual,48.0,2.92,,,,,,
+quito,educación y capacitación,diseño y montaje de aulas virtuales en moodle,virtual,64.0,2.81,,,,,,
+quito,educación y capacitación,elaboración de documentos técnicos con latex,presencial,30.0,6.875873015873012,25.37,4.39,5.62,8.33,2.94,17.62
+quito,educación y capacitación,evaluación y seguimiento de cursos virtuales,virtual,48.0,2.92,,,,,,
+quito,educación y capacitación,gestión del aprendizaje en moodle y videoclases,virtual,20.0,6.875873015873012,23.18,6.58,8.42,4.07,4.41,5.22
+quito,educación y capacitación,herramientas para el diseño de recursos didácticos - herramientas de autor,virtual,48.0,2.92,,,,,,
+quito,educación y capacitación,herramientas tecnológicas para docentes de educación superior,presencial,24.0,6.875873015873012,31.71,5.48,7.02,10.42,3.67,22.03
+quito,educación y capacitación,herramientas tic como apoyo para la educación en línea,virtual,20.0,6.875873015873012,23.18,6.58,8.42,4.07,4.41,5.22
+quito,educación y capacitación,programación neurolingüística (pnl) para docentes,presencial,20.0,6.875873015873012,38.05,6.58,8.42,12.5,4.41,26.44
+quito,educación y capacitación,fundamentos andragógicos para la facilitación de procesos formativos (taller con telepresencia),virtual,32.0,1.88,,,,,,
+quito,educación y capacitación,la teoría de las inteligencias múltiples en el acompañamiento del proceso educativo ,virtual,48.0,6.875873015873012,9.66,2.74,3.51,1.69,1.84,2.18
+quito,educación y capacitación,prevención del abuso sexual infantil,virtual,48.0,6.875873015873012,9.66,2.74,3.51,1.69,1.84,2.18
+quito,educación y capacitación,recursos didácticos digitales para el aula,virtual,32.0,1.88,,,,,,
+quito,educación y capacitación,storytelling - narrativas digitales para el aprendizaje virtual (taller con telepresencia),virtual,32.0,1.88,,,,,,
+quito,educación y capacitación,supervisión de tutores virtuales ,virtual,20.0,6.875873015873012,23.18,6.58,8.42,4.07,4.41,5.22
+quito,educación y capacitación,educación inicial para niños de 1 a 2 años,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,educación inicial para niños de 2 a 3 años,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,educación inicial para niños de 3 a 4 años,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,educación inicial para niños de 4 a 5 años,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,educación inicial para niños recién nacidos a 1 año,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,matemática para cuarto año de educación general básica,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,matemática para primer año de educación general básica,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,matemática para segundo año de educación general básica,virtual,120.0,0.58,,,,,,
+quito,educación y capacitación,matemática para tercero año de educación general básica,virtual,120.0,0.58,,,,,,
+quito,area base,creando ambientes de enseñanza aprendizaje con google classroom,virtual,48.0,6.875873015873012,9.66,15.51,3.51,34.38,5.04,2.18
+quito,area base,diseño y desarrollo de recursos y actividades virtuales,virtual,24.0,6.875873015873012,19.31,31.02,7.02,68.76,10.08,4.35
+quito,area base,flipped classroom: una experiencia pedagógica innovadora,virtual,64.0,6.875873015873012,7.24,11.63,2.63,25.79,3.78,1.63
+quito,area base,la teoría de las inteligencias múltiples en el acompañamiento del proceso educativo ,virtual,48.0,6.875873015873012,9.66,15.51,3.51,34.38,5.04,2.18
+quito,area base,presentaciones interactivas con prezi ,virtual,48.0,6.875873015873012,9.66,15.51,3.51,34.38,5.04,2.18
+quito,area base,introducción a la producción más limpia (p+l) - aplicaciones prácticas,presencial,40.0,6.875873015873012,19.02,18.61,4.21,21.07,6.05,13.22
+quito,area base,mantenimiento predictivo,presencial,40.0,6.875873015873012,19.02,18.61,4.21,21.07,6.05,13.22
+quito,area base,electrónica básica y avanzada,presencial,40.0,6.875873015873012,19.02,18.61,4.21,21.07,6.05,13.22
+quito,area base,electricidad básica,presencial,20.0,6.875873015873012,38.05,37.22,8.42,42.13,12.1,26.44
+quito,area base,análisis de vibraciones,presencial,32.0,6.875873015873012,23.78,23.26,5.27,26.33,7.56,16.52
+quito,area base,plan de manejo ambiental (pma) y registro ambiental - aplicación práctica,presencial,33.0,6.875873015873012,23.06,22.56,5.11,25.54,7.33,16.02
+quito,area base,"planificación, programación y evaluación de la gestión de mantenimiento",presencial,20.0,6.875873015873012,38.05,37.22,8.42,42.13,12.1,26.44
+quito,administración y legislación,gerencia de proyectos,virtual,24.0,3.71,,,,,,
+quito,administración y legislación,reclutamiento y selección basado en competencias,virtual,16.0,4.31,,,,,,
+quito,administración y legislación,excel 1: fundamentos y herramientas,virtual,24.0,3.29,,,,,,
+quito,administración y legislación,sql aplicado al análisis de datos,virtual,16.0,5.62,,,,,,
+quito,administración y legislación,estadística para la toma de decisiones,virtual,12.0,6.67,,,,,,
+quito,administración y legislación,diseño de manuales de procesos & procedimientos administrativos operativos,virtual,12.0,6.67,,,,,,
+quito,administración y legislación,sistema de gestión de seguridad y salud ocupacional,virtual,16.0,3.12,,,,,,
+quito,administración y legislación,determinación del presupuesto referencial en contratación pública,virtual,10.0,6.0,,,,,,
+quito,administración y legislación,introducción al marketing digital y redes sociales,virtual,16.0,3.75,,,,,,
+quito,administración y legislación,contratación pública para proveedores del estado con módulo facilitador mfc,virtual,16.0,3.75,,,,,,
+quito,administración y legislación,neurocobranzas y cierre efectivo de cobros,virtual,16.0,3.75,,,,,,
+quito,administración y legislación,proceso de notificación sanitaria obligatoria (nso) para productos diversos regulados por arcsa,virtual,12.0,4.17,,,,,,
+quito,administración y legislación,contratación pública para entidades contratantes con módulo facilitador mfc,virtual,16.0,3.75,,,,,,
+quito,administración y legislación,preparación de auditorías internas basadas en la iso 19011:2018,virtual,16.0,6.19,,,,,,
+quito,administración y legislación,excel 3: gestión de datos con tablas dinámicas,virtual,24.0,3.29,,,,,,
+quito,administración y legislación,cobranzas y recuperación de cartera,virtual,16.0,3.75,,,,,,
+quito,administración y legislación,excel 2: funciones y análisis de datos,virtual,24.0,3.29,,,,,,
+quito,administración y legislación,administración de contratos del sector público,virtual,12.0,4.17,,,,,,
+quito,administración y legislación,gestión e implementación de normas iso alternas,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,estadística aplicada a la prospección de mercados,virtual,16.0,3.12,,,,,,
+quito,administración y legislación,administración de no conformidades y herramientas de mejora continua,virtual,16.0,3.12,,,,,,
+quito,administración y legislación,ofimática básica - curso mooc,virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,liderazgo con inteligencia emocional y gestión de equipos de alto desempeño,virtual,20.0,6.875873015873012,23.18,18.03,8.42,13.57,5.59,5.22
+quito,administración y legislación,mis primeros pasos en estadística - curso mooc,virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,estrategia para la continuidad y reactivación del negocio,virtual,16.0,6.875873015873012,28.97,22.53,10.53,16.96,6.99,6.53
+quito,administración y legislación,gestión y seguimiento del teletrabajo por resultados,virtual,8.0,6.875873015873012,57.94,45.07,21.06,33.92,13.97,13.06
+quito,administración y legislación,prevención de riesgos en el trabajo frente al covid 19,virtual,10.0,6.875873015873012,46.35,36.05,16.85,27.14,11.18,10.45
+quito,administración y legislación,estrategias para buscar trabajo - curso mooc,virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,potencia tu negocio en internet,virtual,16.0,6.875873015873012,28.97,22.53,10.53,16.96,6.99,6.53
+quito,administración y legislación,liderazgo e inteligencia emocional aplicada,virtual,12.0,6.875873015873012,38.63,30.05,14.04,22.61,9.32,8.71
+quito,administración y legislación,"resiliencia frente a la crisis, superando entornos adversos",virtual,10.0,6.875873015873012,46.35,36.05,16.85,27.14,11.18,10.45
+quito,administración y legislación,acompañamiento emocional en tiempos de crisis,virtual,10.0,6.875873015873012,46.35,36.05,16.85,27.14,11.18,10.45
+quito,administración y legislación,higiene y desinfección de plantas de producción alimentaria,virtual,20.0,6.875873015873012,23.18,18.03,8.42,13.57,5.59,5.22
+quito,administración y legislación,marketing de contenidos - curso mooc,virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,introducción a la plataforma de facebook: páginas y ads,virtual,16.0,6.875873015873012,28.97,22.53,10.53,16.96,6.99,6.53
+quito,administración y legislación,creación del plan estratégico de mercadeo digital,virtual,16.0,6.875873015873012,28.97,22.53,10.53,16.96,6.99,6.53
+quito,administración y legislación,formación de gestores lean,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,diseño e implementación de un sistema de gestión de la calidad basado en la iso 9001:2015,virtual,24.0,6.875873015873012,19.31,15.02,7.02,11.31,4.66,4.35
+quito,administración y legislación,"auditor interno de sistemas integrados iso 9001, iso 14001 e iso 45001",presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,lenguaje no verbal en el ámbito laboral,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,prevención de riesgos ergonómicos fundamentada en la gimnasia laboral - curso mooc,virtual,24.0,6.875873015873012,19.31,15.02,7.02,11.31,4.66,4.35
+quito,administración y legislación,consejos para una mejor redacción y ortografía - curso mooc,virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,gestión de proyectos 2 con ms project,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,diseño y formulación de proyectos,virtual,32.0,6.875873015873012,14.49,11.27,5.27,8.48,3.49,3.27
+quito,administración y legislación,gestión de proyectos basado en la <i>guía pmbok®</i> – módulo 02,virtual,18.0,6.875873015873012,25.75,20.03,9.36,15.08,6.21,5.81
+quito,administración y legislación,técnicas de ventas para vendedores de empresas de consumo masivo,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,redacción avanzada,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,pnl,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,manejo de finanzas personales,presencial,8.0,6.875873015873012,95.12,45.07,21.06,148.43,13.97,66.09
+quito,administración y legislación,asertividad laboral y manejo de situaciones difíciles,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,administración efectiva del tiempo - curso mooc,virtual,24.0,6.875873015873012,19.31,15.02,7.02,11.31,4.66,4.35
+quito,administración y legislación,word intermedio 2013,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,word basico 2013,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,word avanzado,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,"
+trabajo en alturas",presencial,18.0,6.875873015873012,42.28,20.03,9.36,65.97,6.21,29.38
+quito,administración y legislación,taller de relaciones humanas y trabajo en equipo,presencial,8.0,6.875873015873012,95.12,45.07,21.06,148.43,13.97,66.09
+quito,administración y legislación,redacción periodística en plataformas digitales y tradicionales,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,prevención integral al uso y consumo de drogas,presencial,50.0,6.875873015873012,15.22,7.21,3.37,23.75,2.24,10.58
+quito,administración y legislación,prevención de lavado de activos,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,power point,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,normas de control interno,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,normas internacionales de información financiera (niif),presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,ms. access intermedio,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,minería de datos,presencial,40.0,6.875873015873012,19.02,9.01,4.21,29.69,2.79,13.22
+quito,administración y legislación,gestión documental,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,finanzas para no financieros,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,econometría con stata,presencial,40.0,6.875873015873012,19.02,9.01,4.21,29.69,2.79,13.22
+quito,administración y legislación,control de gestión pública,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,brigadas de incendios,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,"brigadas de evacuación y rescate
+",presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,bizagi,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,auditoría gubernamental,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,auditoría a los procesos de contratación pública,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,análisis financiero,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,programación aplicada a estadística con r,presencial,40.0,6.875873015873012,19.02,9.01,4.21,29.69,2.79,13.22
+quito,administración y legislación,administración y control de bienes y existencias del sector público,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,"plan de emergencia y autoprotección
+",presencial,12.0,6.875873015873012,63.42,30.05,14.04,98.96,9.32,44.06
+quito,administración y legislación,"brigadas de primeros auxilios
+",presencial,12.0,6.875873015873012,63.42,30.05,14.04,98.96,9.32,44.06
+quito,administración y legislación,brigadas de emergencia,presencial,29.0,6.875873015873012,26.24,12.43,5.81,40.95,3.85,18.23
+quito,administración y legislación,administración eficiente de bodegas,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,administración del tiempo,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,implementación de un sistema de gestión integrado,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,community manager y social media ii,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,normativa sanitaria para servicios de alimentación colectiva,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,estadística básica para gestionar datos,virtual,40.0,6.875873015873012,11.59,9.01,4.21,6.78,2.79,2.61
+quito,administración y legislación,diseño del plan de seguridad y salud en el trabajo,virtual,64.0,6.875873015873012,7.24,5.63,2.63,4.24,1.75,1.63
+quito,administración y legislación,gestión del cambio,presencial,8.0,6.875873015873012,95.12,45.07,21.06,148.43,13.97,66.09
+quito,administración y legislación,"administración por procesos, introducción a lean six sigma y bpmn",virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,administración y legislación,planificación e implementación de la estrategia,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,optimización del clima organizacional,presencial,28.0,6.875873015873012,27.18,12.88,6.02,42.41,3.99,18.88
+quito,administración y legislación,marketing para emprendedores (taller con telepresencia),presencial,32.0,1.88,,,,,,
+quito,administración y legislación,econometría,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,liderazgo disruptivo,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,"selección, evaluación, capacitación y plan de carrera del talento humano",presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,direccionamiento estratégico,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,principios de inspección y auditoria interna para plantas de alimentos,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,"
+plan financiero para un plan de negocio (taller con telepresencia)",virtual,32.0,1.88,,,,,,
+quito,administración y legislación,higiene y saneamiento en la industria alimentaria,presencial,8.0,6.875873015873012,95.12,45.07,21.06,148.43,13.97,66.09
+quito,administración y legislación,auditor interno sgc iso 9001:2015,virtual,24.0,6.875873015873012,19.31,15.02,7.02,11.31,4.66,4.35
+quito,administración y legislación,técnicas innovadoras y mejores prácticas en el servicio al cliente,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,técnicas efectivas en ventas,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,sistema de gestión de la calidad iso 9001:2015,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,"auditor interno de sistemas de gestión integrados norma iso 9001:2015, iso 14001 e iso 45001",virtual,48.0,2.92,,,,,,
+quito,administración y legislación,anexo de gastos personales y declaración del impuesto a la renta (taller b-learning),virtual,32.0,1.88,,,,,,
+quito,administración y legislación,prevención de riesgos laborales e implementación del programa de sst,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,excel avanzado con macros,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,análisis de puestos y valoraciones,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,contabilidad de costos y comercial,virtual,48.0,2.92,,,,,,
+quito,administración y legislación," diseño, formulación y evaluación de proyectos con marco lógico",virtual,64.0,2.81,,,,,,
+quito,administración y legislación,"
+habilidades y herramientas gerenciales avanzadas",presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,gerenciamiento y liderazgo,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,gestión por procesos para la acreditación de carreras: modelo caces,presencial,24.0,6.875873015873012,31.71,15.02,7.02,49.48,4.66,22.03
+quito,administración y legislación,administración tributaria,virtual,48.0,3.75,,,,,,
+quito,administración y legislación,contabilidad básica,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,contratación pública,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,microsoft project avanzado,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,técnicas de negociación efectiva,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,liderazgo de alto impacto,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,"
+microsoft excel avanzado, macros y tablas dinámicas",virtual,48.0,2.92,,,,,,
+quito,administración y legislación,gerencia del servicio atención al cliente,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,microsoft excel básico e intermedio,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,análisis financiero para directivos y funcionarios de cooperativas de ahorro y crédito (coacs),virtual,48.0,2.92,,,,,,
+quito,administración y legislación,administración por procesos,virtual,64.0,2.81,,,,,,
+quito,administración y legislación,spss avanzado,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,spss básico e intermedio,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,gestión de rrhh basada en competencias,presencial,40.0,6.875873015873012,19.02,9.01,4.21,29.69,2.79,13.22
+quito,administración y legislación,"
+diseño de programas de capacitación basado en competencias",presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,gestión de proyectos 1 con ms project,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,evaluación financiera de proyectos,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,"
+administración por procesos y uso de herramientas bpmn",presencial,36.0,6.875873015873012,21.14,10.02,4.68,32.99,3.11,14.69
+quito,administración y legislación,gestión de riesgos operacionales con enfoque en procesos,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,herramientas bpmn para modelamiento de procesos,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,sistema de inocuidad alimentaria: haccp,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,buenas prácticas de manufactura de alimentos procesados,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,coaching para mandos medios,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,análisis estadístico con spss básico e intermedio,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,análisis estadístico con spss avanzado,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,etiqueta y protocolo en los negocios,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,planificación estratégica y balanced scored card,presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,metodologías y técnicas de enseñanza para adultos,presencial,20.0,6.875873015873012,38.05,18.03,8.42,59.37,5.59,26.44
+quito,administración y legislación,estadística aplicada con rstudio,virtual,48.0,2.92,,,,,,
+quito,administración y legislación,microsoft project básico e intermedio,virtual,48.0,2.92,,,,,,
+quito,administración y legislación, herramientas de office 365 – escuela politécnica nacional - curso mooc,virtual,64.0,6.875873015873012,7.24,5.63,2.63,4.24,1.75,1.63
+quito,administración y legislación,"asistencia ejecutiva, gestión documental y archivo",presencial,32.0,6.875873015873012,23.78,11.27,5.27,37.11,3.49,16.52
+quito,administración y legislación,excel financiero,presencial,16.0,6.875873015873012,47.56,22.53,10.53,74.22,6.99,33.05
+quito,administración y legislación,"relaciones humanas, la clave del éxito personal y profesional - curso mooc",virtual,48.0,6.875873015873012,9.66,7.51,3.51,5.65,2.33,2.18
+quito,tecnologías de la información y comunicación,"
+gobierno de la información",presencial,24.0,6.875873015873012,31.71,13.34,7.02,15.03,8.74,22.03
+quito,tecnologías de la información y comunicación,administración de ms project server,presencial,16.0,6.875873015873012,47.56,20.0,10.53,22.54,13.11,33.05
+quito,tecnologías de la información y comunicación,"
+cableado estructurado de voz y datos",presencial,20.0,6.875873015873012,38.05,16.0,8.42,18.03,10.49,26.44
+quito,tecnologías de la información y comunicación,"
+cobit",presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,desarrollo de aplicaciones angular,presencial,50.0,6.875873015873012,15.22,6.4,3.37,7.21,4.2,10.58
+quito,tecnologías de la información y comunicación,fundamentos de scrum aplicados a proyectos de desarrollo de software.,presencial,20.0,6.875873015873012,38.05,16.0,8.42,18.03,10.49,26.44
+quito,tecnologías de la información y comunicación,fundamentos de scrum aplicados a proyectos de desarrollo de software.,presencial,20.0,6.875873015873012,38.05,16.0,8.42,18.03,10.49,26.44
+quito,tecnologías de la información y comunicación,togaf,presencial,40.0,6.875873015873012,19.02,8.0,4.21,9.02,5.24,13.22
+quito,tecnologías de la información y comunicación,"
+power bi: entorno y publicación",virtual,24.0,3.71,,,,,,
+quito,tecnologías de la información y comunicación,"
+power bi: funciones query y dax",virtual,24.0,3.71,,,,,,
+quito,tecnologías de la información y comunicación,estadística para la toma de decisiones,virtual,12.0,6.67,,,,,,
+quito,tecnologías de la información y comunicación,sql aplicado al análisis de datos,virtual,16.0,5.56,,,,,,
+quito,tecnologías de la información y comunicación,"
+gestión del aprendizaje en moodle y videoclases",virtual,20.0,6.875873015873012,23.18,16.0,8.42,17.55,10.49,5.22
+quito,tecnologías de la información y comunicación,estadística aplicada a la prospección de mercados,virtual,16.0,3.12,,,,,,
+quito,tecnologías de la información y comunicación,autocad basico,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,autocad avanzado,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,análisis estadístico con spss básico e intermedio,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,análisis estadístico con spss avanzado,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,gerencia de servicios de tecnología itsm-itil®: fundamentos & implementación,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,android básico,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,android avanzado,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,java fundamentals programming - módulo 01,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,java advanced programming - módulo 02,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,jee web applications - módulo 03,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,building ejb’s with jee – módulo 04,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,programación php y mysql básico - módulo 01,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,programación php y mysql avanzado - módulo 2,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,diseño e implementación telefonía ip asterisk,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,hackeo ético,presencial,40.0,6.875873015873012,19.02,8.0,4.21,9.02,5.24,13.22
+quito,tecnologías de la información y comunicación,informática forense,presencial,24.0,6.875873015873012,31.71,13.34,7.02,15.03,8.74,22.03
+quito,tecnologías de la información y comunicación,aplicación de la norma iso 27001 y código de prácticas iso 27002,presencial,40.0,6.875873015873012,19.02,8.0,4.21,9.02,5.24,13.22
+quito,tecnologías de la información y comunicación,administración linux - módulo 01,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,protocolo tcp/ip sobre linux - módulo 02,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+quito,tecnologías de la información y comunicación,servidores web sobre linux - módulo 03,presencial,32.0,6.875873015873012,23.78,10.0,5.27,11.27,6.55,16.52
+"cuenca , azogues ,cañar y machala",actividades de salud,certificación en auxiliar de odontología,presencial,900.0,0.83,,,,,,
+"cuenca , azogues ,cañar y machala",actividades de salud,curso de formación y entrenamiento paramédico i,presencial,900.0,0.83,,,,,,
+"cuenca , azogues ,cañar y machala",actividades de salud,curso de formación en auxiliar de enfermería,presencial,900.0,0.83,,,,,,
+"cuenca , azogues ,cañar y machala",actividades de salud,curso de formación en auxiliar de farmacia,presencial,900.0,0.83,,,,,,
+"cuenca , azogues ,cañar y machala",area base,"eduarte, neurodesarrollo e innovación en la educación inicial",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,certificación de empresas sanas,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,educación y deporte en el emprendimiento,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,observatorio fenómenos socioeconómicos,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,el observatorio informa (salud pública),virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,desarrollo de la autoregulación cognitiva y emocional en niños de 0 a 6 años,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base, conversatorio: experiencias de liderazgo de las mujeres en el ámbito estudiantil,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"webinar ""administración de empresas"" dia #1",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"webinar ""administración de empresas"" dia #2",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"webinar ""administración de empresas"" dia #3",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,jornadas académicas ondontológicas 21 de enero,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,estrategias innovadoras para el ambiente de aprendizaje de lectura en educación inicial,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,ambientes innovadores de aprendizaje en ciencias naturales en educación inicial,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,ambientes innovadores de aprendizaje en ciencias naturales en educación inicial,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,webinar realidad nacional post pandemia,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"contratación pública, adquisiciones en situaciones de emergencia",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,flexibilidad laboral y ley humanitaria en el ecuador,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,resoluciones de la administracion publica,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,liderazgo y educación financiera en tiempos de crisis,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"derecho penal, ""la constitucionalización del derecho penal; legitimidad en las sentencias""",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,"covid-19, grandes desafíos para el mundo.",virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,el dolo en las reformas al coip.,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,introducción a los sistemas de tracción eléctrica,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,patologías quirúrgicas frecuentes en odontopediatría,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"cuenca , azogues ,cañar y machala",area base,webinar instrumentación quirúrgica,virtual,409.11652542372906,6.875873015873012,1.13,1.82,1.83,4.03,,
+"guayaquil , quito , santa elena",administración y legislación,ushay para proveedores,virtual,15.0,9.33,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,"elaboración de tdrs utilizando la normativa de contratación
+pública
+",virtual,16.0,6.88,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,uso de ecuapass avanzado para importaciones y exportaciones,virtual,8.0,6.88,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,"administracion de empresa
+",virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,inteligencia de negocios con power bi,virtual,32.0,6.88,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,creación de dashboard en excel,virtual,12.0,8.33,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,ofimática básica,virtual,24.0,6.67,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,introducción al cómputo forense,virtual,8.0,6.88,,,,,,
+"guayaquil , quito , santa elena",educación y capacitación,escritura de artículos científicos,virtual,8.0,7.5,,,,,,
+"guayaquil , quito , santa elena",educación y capacitación,herramientas digitales para el dictado de clases virtuales (edpuzzle y screencast-o-matic),virtual,4.0,10.0,,,,,,
+"guayaquil , quito , santa elena",educación y capacitación,herramientas digitales para el dictado de clases virtuales (kahoot y mentimeter),virtual,4.0,8.75,,,,,,
+"guayaquil , quito , santa elena",area base,técnicas de negociación efectiva,virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",area base,gestión estratégica del talento,virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",area base,comunicación y liderazgo,virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",area base,comunicación efectiva,virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",area base,oleohidráulica,virtual,8.0,6.88,,,,,,
+"guayaquil , quito , santa elena",area base,gestión de equipos comerciales,virtual,28.0,21.43,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,habilidades para la venta,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,gestión estratégica de contratos,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,administración de las operaciones,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,big data para la toma de decisiones,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,gestión ambiental (orientado a la realidad de chile),virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,diplomado en retail management,virtual,112.0,11.16,,,,,,
+"guayaquil , quito , santa elena",area base,diplomado en product manager,virtual,112.0,11.16,,,,,,
+"guayaquil , quito , santa elena",area base,diplomado en marketing digital,virtual,112.0,11.16,,,,,,
+"guayaquil , quito , santa elena",area base,marketing estrategico,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,gestión estrategica de las comunicaciones,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,"gestión en la minería (orientado a la realidad de chile)
+",virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,gestión de la industria de la energía (orientado a la realidad de chile),virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,gestión de la construcción,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",area base,gestión logística,virtual,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,gestión de negocios,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,en gestión de operaciones,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,en control de gestión,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,en comunicación organizacional,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,liderazgo,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,coaching,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",area base,internacional de cacao,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",area base,marketing,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",area base,marketing digital,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",area base,retail management,presencial,72.0,44.44,,,,,,
+"guayaquil , quito , santa elena",area base,gestión logística y cadena de valor,presencial,150.0,14.47,,,,,,
+"guayaquil , quito , santa elena",area base, gerencia de proyectos de construcción,presencial,120.0,23.33,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,microsoft project para la gestión de proyectos,virtual,64.0,6.09,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,"formación de auxiliares administrativos
+",presencial,44.0,12.16,,,,,,
+"guayaquil , quito , santa elena",servicios financieros,gestión de ventas,presencial,76.0,12.37,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,microsoft project para la gestión de proyectos,presencial,64.0,13.59,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,normas internacionales de contabilidad para sector público (nicsp),presencial,8.0,18.75,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,conciliación tributaria y cierre fiscal 2019,presencial,24.0,11.67,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,negociaciones internacionales: política comercial e inserción en la alianza del pacífico,presencial,20.0,27.5,,,,,,
+"guayaquil , quito , santa elena",administración y legislación,auditor interno iso 9001:2015 con simulación (en alianza con sgs),presencial,24.0,18.75,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,software stata básico,presencial,20.0,10.5,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,software r básico,presencial,20.0,10.5,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,autocad (básico e intermedio),presencial,20.0,14.75,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,autodesk revit (básico intermedio),presencial,20.0,10.5,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,programación para no programadores,presencial,28.0,8.93,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,pentesting: seguridad ofensiva,presencial,40.0,13.75,,,,,,
+"guayaquil , quito , santa elena",tecnologías de la información y comunicación,"metodologías ágiles aplicando scrum, kanban y lean",presencial,16.0,18.12,,,,,,
+"guayaquil , quito , santa elena",educación y capacitación,proceso didáctico para la preparación del microcurrículum académico,presencial,40.0,3.75,,,,,,
+"guayaquil , quito , santa elena",educación y capacitación,desarrollo del pensamiento para el examen ser bachiller,presencial,120.0,3.58,,,,,,
+"guayaquil , quito , santa elena",area base,adobe photoshop y manejo de imágenes digitales,presencial,24.0,11.25,,,,,,
+"guayaquil , quito , santa elena",area base,adobe illustrator y manejo de imágenes vectoriales,presencial,24.0,11.25,,,,,,
+"guayaquil , quito , santa elena",area base,community managment,presencial,30.0,9.67,,,,,,
+"guayaquil , quito , santa elena",area base,creatividad e innovación en la experiencia turística,presencial,24.0,18.75,,,,,,
+"guayaquil , quito , santa elena",area base,refrigeración y aire acondicionado,presencial,24.0,14.17,,,,,,
+"guayaquil , quito , santa elena",area base,estrategias de logística y de distribución de mercancías,presencial,24.0,15.42,,,,,,
+"guayaquil , quito , santa elena",area base,auditor interno bpm arcsa (en alianza con sgs),presencial,24.0,15.42,,,,,,
+"guayaquil , quito , santa elena",area base,análisis de impactos y riesgos (en alianza con sgs),presencial,16.0,18.12,,,,,,
+guaranda,administración y legislación,contabilidad y auditoria,presencial,2300.0,6.875873015873012,0.33,0.16,,0.52,,
+guaranda,administración y legislación,comunicación,presencial,7200.0,6.875873015873012,0.11,0.05,,0.16,,
+guaranda,administración y legislación,turismo,presencial,5230.0,6.875873015873012,0.15,0.07,,0.23,,
+guaranda,administración y legislación,sotware,presencial,8240.0,6.875873015873012,0.09,0.04,,0.14,,
+guaranda,administración y legislación,mercadptecnia,presencial,6340.0,6.875873015873012,0.12,0.06,,0.19,,
+guaranda,administración y legislación,administracion de empresas ,presencial,7890.0,6.875873015873012,0.1,0.05,,0.15,,
+guaranda,area base,dereecho,presencial,7890.0,6.875873015873012,0.1,0.09,,0.11,,
+guaranda,area base,dereecho,presencial,8600.0,6.875873015873012,0.09,0.09,,0.1,,
+guaranda,area base,sociologia,presencial,7200.0,6.875873015873012,0.11,0.1,,0.12,,
+guaranda,area base,sociologia,presencial,7200.0,6.875873015873012,0.11,0.1,,0.12,,
+guaranda,educación y capacitación,educacion intercultural bilingüe,presencial,8200.0,6.875873015873012,0.09,0.02,,0.03,,
+guaranda,educación y capacitación,educacion inicial,presencial,7840.0,6.875873015873012,0.1,0.02,,0.03,,
+guaranda,educación y capacitación,pedagogia de la informacion,presencial,6590.0,6.875873015873012,0.12,0.02,,0.04,,
+guaranda,educación y capacitación,educacion basica,presencial,8200.0,6.875873015873012,0.09,0.02,,0.03,,
+guaranda,educación y capacitación,pedagocia de la matematica y fisica ,presencial,6500.0,6.875873015873012,0.12,0.02,,0.04,,
+guaranda,educación y capacitación,pedagocia de la matematica y fisica ,presencial,6500.0,6.875873015873012,0.12,0.02,,0.04,,
+guaranda,area base,medicina veterinaria,presencial,9800.0,6.875873015873012,0.08,0.08,,0.09,,
+guaranda,area base,agronomia,presencial,8450.0,6.875873015873012,0.09,0.09,,0.1,,
+guaranda,area base,agroindustrias,presencial,8420.0,6.875873015873012,0.09,0.09,,0.1,,
+guaranda,area base,enfermeria,presencial,8720.0,6.875873015873012,0.09,0.09,,0.1,,
+guaranda,area base,ingenieria de riesgos,presencial,1000.0,6.875873015873012,0.76,0.74,,0.84,,
+guaranda,area base,terapia fisica,presencial,8790.0,6.875873015873012,0.09,0.08,,0.1,,
+"cuenca , quito , guayaquil",administración y legislación,"gestión de archivos físicos, digitales, electrónicos",virtual,409.11652542372906,0.38,,,,,,
+"cuenca , quito , guayaquil",administración y legislación,niif para pymes,virtual,409.11652542372906,6.875873015873012,1.13,0.88,0.3,0.66,0.38,0.3
+"cuenca , quito , guayaquil",administración y legislación,taller de diseño para vender,virtual,409.11652542372906,6.875873015873012,1.13,0.88,0.3,0.66,0.38,0.3
+"cuenca , quito , guayaquil",area base,ajuste de protecciones utilizando ieds,virtual,409.11652542372906,6.875873015873012,1.13,1.82,0.3,4.03,,0.3
+"cuenca , quito , guayaquil",actividades de salud,“prevención de riesgos laborales - 2da edición”,virtual,409.11652542372906,6.875873015873012,1.13,1.26,0.3,,,0.3
+"cuenca , quito , guayaquil",tecnologías de la información y comunicación,curso de impresión 3d y sus aplicaciones en autopartes (virtual-marzo-2021),virtual,409.11652542372906,0.22,,,,,,
+"cuenca , quito , guayaquil",tecnologías de la información y comunicación,autocad básico,virtual,409.11652542372906,6.875873015873012,1.13,0.78,0.3,0.86,0.22,0.3
+"cuenca , quito , guayaquil",tecnologías de la información y comunicación,diseño simulación y programación 3d en blender,virtual,409.11652542372906,6.875873015873012,1.13,0.78,0.3,0.86,0.22,0.3
+"cuenca , quito , guayaquil",tecnologías de la información y comunicación,calculo estructural con sap 2000 - segunda cohorte,virtual,409.11652542372906,6.875873015873012,1.13,0.78,0.3,0.86,0.22,0.3
+"cuenca , quito , guayaquil",tecnologías de la información y comunicación,"manejo de herramientas de office: word y excel intermedio
+",virtual,409.11652542372906,6.875873015873012,1.13,0.78,0.3,0.86,0.22,0.3
+"cuenca , quito , guayaquil",area base,control de calidad de juntas soldadas en estructuras metálicas,virtual,409.11652542372906,6.875873015873012,1.13,1.82,0.3,4.03,,0.3
+"cuenca , quito , guayaquil",trabajo social,"""somos 786 - somos ecuador""",virtual,409.11652542372906,6.875873015873012,1.13,,0.3,,,0.3
+"cuenca , quito , guayaquil",agronomía,agricultura urbana,virtual,409.11652542372906,6.875873015873012,1.13,,0.3,,,0.3
