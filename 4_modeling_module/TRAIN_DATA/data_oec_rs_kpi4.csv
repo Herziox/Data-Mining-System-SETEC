@@ -1,0 +1,384 @@
+id_fact_oec_rs,id_razon_social,id_fecha,volumen_cer,volumen_horas,volumen_ganancias,volumen_porcentaje_asistencia,total_perfiles,fecha,dia,mes,anio,razon_social,estado,tipo_razon_social,fecha_resolucion,canton,provincia
+2107,1220,141,12.0,72.0,3000.0,0.5309734513274336,1,02-12-2020,2,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2126,1220,280,6.0,36.0,1500.0,0.2654867256637168,2,04-11-2020,4,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2167,1220,726,24.0,144.0,6000.0,1.0619469026548671,2,11-03-2021,11,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2244,1220,1760,3.0,18.0,750.0,0.1327433628318584,2,25-11-2021,25,11,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2267,1220,2032,6.0,36.0,1500.0,0.2654867256637168,1,29-10-2020,29,10,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2116,1220,232,1.0,6.0,250.0,0.0442477876106194,1,04-03-2021,4,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2128,1220,300,1.0,6.0,250.0,0.0442477876106194,1,05-02-2020,5,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2132,1220,334,2.0,12.0,500.0,0.0884955752212389,1,05-08-2019,5,8,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2142,1220,431,3.0,18.0,750.0,0.1327433628318584,2,06-12-2021,6,12,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2148,1220,516,1.0,6.0,250.0,0.0442477876106194,1,08-03-2021,8,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2171,1220,762,23.0,138.0,5750.0,1.0176991150442478,1,11-09-2020,11,9,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2175,1220,800,33.0,198.0,8250.0,1.4601769911504423,1,12-03-2021,12,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2176,1220,823,1.0,6.0,250.0,0.0442477876106194,1,12-07-2021,12,7,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2187,1220,1003,7.0,42.0,1750.0,0.3097345132743362,1,15-03-2019,15,3,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2198,1220,1147,18.0,108.0,4500.0,0.7964601769911505,1,17-03-2022,17,3,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2208,1220,1285,2.0,12.0,500.0,0.0884955752212389,1,19-03-2021,19,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2233,1220,1673,4.0,24.0,1000.0,0.1769911504424778,1,24-08-2021,24,8,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2236,1220,1709,3.0,18.0,750.0,0.1327433628318584,2,25-02-2021,25,2,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2242,1220,1746,5.0,30.0,1250.0,0.2212389380530973,1,25-09-2019,25,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2246,1220,1777,42.0,252.0,10500.0,1.8584070796460177,1,26-02-2021,26,2,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2248,1220,1789,2.0,12.0,500.0,0.0884955752212389,1,26-04-2021,26,4,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2271,1220,2094,8.0,48.0,2000.0,0.3539823008849557,1,30-10-2020,30,10,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2095,1220,53,9.0,54.0,2250.0,0.3982300884955752,1,01-09-2021,1,9,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2101,1220,94,5.0,30.0,1250.0,0.2212389380530973,3,02-04-2019,2,4,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2262,1220,1957,4.0,24.0,1000.0,0.1769911504424778,2,28-09-2017,28,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2206,1220,1257,1.0,6.0,250.0,0.0442477876106194,1,18-11-2016,18,11,2016,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2105,1220,123,55.0,330.0,13750.0,2.433628318584071,1,02-09-2021,2,9,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2158,1220,649,3.0,18.0,750.0,0.1327433628318584,1,10-02-2020,10,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2160,1220,686,40.0,240.0,10000.0,1.7699115044247788,1,10-08-2021,10,8,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2197,1220,1127,17.0,102.0,4250.0,0.7522123893805309,1,16-12-2020,16,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2102,1220,98,3.0,18.0,750.0,0.1327433628318584,1,02-05-2018,2,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2163,1220,706,7.0,42.0,1750.0,0.3097345132743362,1,10-12-2018,10,12,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2122,1220,266,2.0,12.0,500.0,0.0884955752212389,1,04-09-2019,4,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2134,1220,341,1.0,6.0,250.0,0.0442477876106194,1,05-09-2019,5,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2138,1220,412,3.0,18.0,750.0,0.1327433628318584,2,06-09-2019,6,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2184,1220,974,4.0,24.0,1000.0,0.1769911504424778,2,14-10-2019,14,10,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2195,1220,1108,4.0,24.0,1000.0,0.1769911504424778,2,16-09-2019,16,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2205,1220,1247,1.0,6.0,250.0,0.0442477876106194,1,18-09-2019,18,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2211,1220,1331,4.0,24.0,1000.0,0.1769911504424778,1,19-11-2019,19,11,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2229,1220,1595,3.0,18.0,750.0,0.1327433628318584,1,23-07-2019,23,7,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2238,1220,1728,8.0,48.0,2000.0,0.3539823008849557,1,25-06-2019,25,6,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2252,1220,1817,9.0,54.0,2250.0,0.3982300884955752,1,26-09-2019,26,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2274,1220,2135,1.0,6.0,250.0,0.0442477876106194,1,31-08-2021,31,8,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2120,1220,247,1.0,6.0,250.0,0.0442477876106194,1,04-06-2018,4,6,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2185,1220,978,1.0,6.0,250.0,0.0442477876106194,1,14-11-2017,14,11,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2191,1220,1037,1.0,6.0,250.0,0.0442477876106194,1,15-09-2018,15,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2192,1220,1042,3.0,18.0,750.0,0.1327433628318584,1,15-10-2018,15,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2224,1220,1549,1.0,6.0,250.0,0.0442477876106194,1,22-11-2018,22,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2263,1220,1984,3.0,18.0,750.0,0.1327433628318584,2,29-01-2020,29,1,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2153,1220,585,1.0,6.0,250.0,0.0442477876106194,1,09-03-2020,9,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2145,1220,480,5.0,30.0,1250.0,0.2212389380530973,2,07-09-2021,7,9,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2231,1220,1641,10.0,60.0,2500.0,0.4424778761061947,2,24-02-2022,24,2,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2094,1220,44,6.0,36.0,1500.0,0.2654867256637168,1,01-08-2019,1,8,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2114,1220,213,3.0,18.0,750.0,0.1327433628318584,2,03-12-2019,3,12,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2121,1220,264,26.0,156.0,6500.0,1.1504424778761062,3,04-09-2017,4,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2139,1220,417,1.0,6.0,250.0,0.0442477876106194,1,06-10-2018,6,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2143,1220,440,9.0,54.0,2250.0,0.3982300884955752,2,07-02-2020,7,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2165,1220,724,1.0,6.0,250.0,0.0442477876106194,1,11-03-2019,11,3,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2169,1220,757,2.0,12.0,500.0,0.0884955752212389,1,11-08-2021,11,8,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2174,1220,793,11.0,66.0,2750.0,0.4867256637168141,1,12-02-2020,12,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2196,1220,1112,1.0,6.0,250.0,0.0442477876106194,1,16-10-2017,16,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2225,1220,1550,7.0,42.0,1750.0,0.3097345132743362,1,22-11-2019,22,11,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2234,1220,1676,4.0,24.0,1000.0,0.1769911504424778,1,24-09-2019,24,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2257,1220,1912,7.0,42.0,1750.0,0.3097345132743362,1,28-01-2020,28,1,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2269,1220,2088,6.0,36.0,1500.0,0.2654867256637168,2,30-09-2019,30,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2178,1220,845,1.0,6.0,250.0,0.0442477876106194,1,12-11-2018,12,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2194,1220,1077,1.0,6.0,250.0,0.0442477876106194,1,16-04-2018,16,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2202,1220,1218,18.0,108.0,4500.0,0.7964601769911503,2,18-04-2019,18,4,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2213,1220,1366,7.0,42.0,1750.0,0.3097345132743362,1,20-05-2019,20,5,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2226,1220,1578,10.0,60.0,2500.0,0.4424778761061947,1,23-04-2018,23,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2119,1220,240,1.0,6.0,250.0,0.0442477876106194,1,04-05-2017,4,5,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2130,1220,314,5.0,30.0,1250.0,0.2212389380530973,1,05-04-2022,5,4,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2177,1220,831,3.0,18.0,750.0,0.1327433628318584,2,12-09-2017,12,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2237,1220,1710,9.0,54.0,2250.0,0.3982300884955752,1,25-02-2022,25,2,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2245,1220,1776,5.0,30.0,1250.0,0.2212389380530973,2,26-02-2020,26,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2268,1220,2054,6.0,36.0,1500.0,0.2654867256637168,1,30-03-2019,30,3,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2098,1220,62,3.0,18.0,750.0,0.1327433628318584,2,01-11-2017,1,11,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2157,1220,628,2.0,12.0,500.0,0.0884955752212389,1,09-11-2018,9,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2214,1220,1392,1.0,6.0,250.0,0.0442477876106194,1,20-09-2018,20,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2251,1220,1816,1.0,6.0,250.0,0.0442477876106194,1,26-09-2018,26,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2097,1220,57,13.0,78.0,3250.0,0.5752212389380531,2,01-10-2018,1,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2100,1220,93,1.0,6.0,250.0,0.0442477876106194,1,02-04-2018,2,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2106,1220,140,3.0,18.0,750.0,0.1327433628318584,1,02-12-2019,2,12,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2109,1220,164,5.0,30.0,1250.0,0.2212389380530973,2,03-04-2018,3,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2113,1220,200,14.0,84.0,3500.0,0.6194690265486725,2,03-10-2019,3,10,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2137,1220,411,4.0,24.0,1000.0,0.1769911504424778,1,06-09-2018,6,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2156,1220,622,4.0,24.0,1000.0,0.1769911504424778,1,09-10-2018,9,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2180,1220,904,2.0,12.0,500.0,0.0884955752212389,1,13-09-2018,13,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2182,1220,946,5.0,30.0,1250.0,0.2212389380530973,1,14-05-2018,14,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2210,1220,1330,1.0,6.0,250.0,0.0442477876106194,1,19-11-2018,19,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2220,1220,1476,1.0,6.0,250.0,0.0442477876106194,1,21-11-2018,21,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2221,1220,1543,1.0,6.0,250.0,0.0442477876106194,1,22-10-2018,22,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2227,1220,1584,3.0,18.0,750.0,0.1327433628318584,1,23-05-2018,23,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2243,1220,1751,1.0,6.0,250.0,0.0442477876106194,1,25-10-2018,25,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2247,1220,1786,9.0,54.0,2250.0,0.3982300884955752,1,26-04-2018,26,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2261,1220,1952,6.0,36.0,1500.0,0.2654867256637168,1,28-08-2018,28,8,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2276,1220,2138,2.0,12.0,500.0,0.0884955752212389,1,31-10-2018,31,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2125,1220,271,1.0,6.0,250.0,0.0442477876106194,1,04-10-2018,4,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2170,1220,760,7.0,42.0,1750.0,0.3097345132743362,2,11-09-2018,11,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2172,1220,765,13.0,78.0,3250.0,0.5752212389380531,2,11-10-2017,11,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2179,1220,876,1.0,6.0,250.0,0.0442477876106194,1,13-04-2018,13,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2209,1220,1325,6.0,36.0,1500.0,0.2654867256637168,1,19-10-2018,19,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2239,1220,1733,1.0,6.0,250.0,0.0442477876106194,1,25-07-2018,25,7,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2254,1220,1852,2.0,12.0,500.0,0.0884955752212389,1,27-03-2018,27,3,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2099,1220,89,1.0,6.0,250.0,0.0442477876106194,1,02-03-2020,2,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2135,1220,353,1.0,6.0,250.0,0.0442477876106194,1,05-11-2020,5,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2258,1220,1916,1.0,6.0,250.0,0.0442477876106194,1,28-02-2018,28,2,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2124,1220,270,6.0,36.0,1500.0,0.2654867256637168,3,04-10-2017,4,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2201,1220,1206,1.0,6.0,250.0,0.0442477876106194,1,18-02-2017,18,2,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2235,1220,1680,1.0,6.0,250.0,0.0442477876106194,1,24-10-2017,24,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2241,1220,1744,6.0,36.0,1500.0,0.2654867256637168,2,25-09-2017,25,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2250,1220,1815,16.0,96.0,4000.0,0.7079646017699115,4,26-09-2017,26,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2259,1220,1944,1.0,6.0,250.0,0.0442477876106194,1,28-07-2017,28,7,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2136,1220,357,1.0,6.0,250.0,0.0442477876106194,1,05-12-2017,5,12,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2141,1220,424,6.0,36.0,1500.0,0.2654867256637168,3,06-11-2020,6,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2154,1220,586,2.0,12.0,500.0,0.0884955752212389,1,09-03-2021,9,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2181,1220,937,4.0,24.0,1000.0,0.1769911504424778,1,14-03-2018,14,3,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2166,1220,725,1.0,6.0,250.0,0.0442477876106194,1,11-03-2020,11,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2223,1220,1545,1.0,6.0,250.0,0.0442477876106194,1,22-10-2020,22,10,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2203,1220,1234,2.0,12.0,500.0,0.0884955752212389,1,18-07-2019,18,7,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2217,1220,1418,3.0,18.0,750.0,0.1327433628318584,1,21-01-2020,21,1,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2253,1220,1847,17.0,102.0,4250.0,0.7522123893805309,2,27-02-2020,27,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2118,1220,237,3.0,18.0,750.0,0.1327433628318584,1,04-04-2019,4,4,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2162,1220,694,10.0,60.0,2500.0,0.4424778761061947,1,10-10-2018,10,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2204,1220,1239,15.0,90.0,3750.0,0.6637168141592921,1,18-08-2017,18,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2219,1220,1457,2.0,12.0,500.0,0.0884955752212389,1,21-08-2017,21,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2265,1220,2017,3.0,18.0,750.0,0.1327433628318584,2,29-08-2017,29,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2275,1220,2137,9.0,54.0,2250.0,0.3982300884955752,4,31-10-2017,31,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2240,1220,1739,15.0,90.0,3750.0,0.6637168141592921,2,25-08-2017,25,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2152,1220,579,4.0,24.0,1000.0,0.1769911504424778,2,09-02-2020,9,2,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2103,1220,99,6.0,36.0,1500.0,0.2654867256637168,1,02-05-2019,2,5,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2149,1220,560,1.0,6.0,250.0,0.0442477876106194,1,08-11-2019,8,11,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2155,1220,618,10.0,60.0,2500.0,0.4424778761061946,2,09-09-2019,9,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2168,1220,736,1.0,6.0,250.0,0.0442477876106194,1,11-05-2019,11,5,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2096,1220,56,13.0,78.0,3250.0,0.5752212389380531,3,01-10-2017,1,10,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2104,1220,119,1.0,6.0,250.0,0.0442477876106194,1,02-09-2017,2,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2108,1220,157,3.0,18.0,750.0,0.1327433628318584,1,03-03-2018,3,3,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2110,1220,192,1.0,6.0,250.0,0.0442477876106194,1,03-09-2018,3,9,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2111,1220,194,1.0,6.0,250.0,0.0442477876106194,1,03-09-2020,3,9,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2112,1220,195,3.0,18.0,750.0,0.1327433628318584,1,03-09-2021,3,9,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2115,1220,214,8.0,48.0,2000.0,0.3539823008849557,1,03-12-2020,3,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2117,1220,236,1.0,6.0,250.0,0.0442477876106194,1,04-04-2018,4,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2123,1220,267,47.0,282.0,11750.0,2.079646017699115,2,04-09-2020,4,9,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2127,1220,289,1.0,6.0,250.0,0.0442477876106194,1,04-12-2020,4,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2129,1220,307,6.0,36.0,1500.0,0.2654867256637168,1,05-03-2020,5,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2131,1220,317,1.0,6.0,250.0,0.0442477876106194,1,05-05-2018,5,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2133,1220,339,12.0,72.0,3000.0,0.5309734513274337,4,05-09-2017,5,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2140,1220,421,5.0,30.0,1250.0,0.2212389380530973,2,06-11-2017,6,11,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2144,1220,478,3.0,18.0,750.0,0.1327433628318584,1,07-09-2019,7,9,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2146,1220,490,1.0,6.0,250.0,0.0442477876106194,1,07-11-2017,7,11,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2147,1220,491,1.0,6.0,250.0,0.0442477876106194,1,07-11-2018,7,11,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2150,1220,568,13.0,78.0,3250.0,0.5752212389380531,1,08-12-2020,8,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2151,1220,569,1.0,6.0,250.0,0.0442477876106194,1,08-12-2021,8,12,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2159,1220,655,2.0,12.0,500.0,0.0884955752212389,1,10-03-2020,10,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2161,1220,690,24.0,144.0,6000.0,1.0619469026548671,1,10-09-2020,10,9,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2164,1220,718,1.0,6.0,250.0,0.0442477876106194,1,11-02-2019,11,2,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2173,1220,775,1.0,6.0,250.0,0.0442477876106194,1,11-11-2020,11,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2183,1220,973,1.0,6.0,250.0,0.0442477876106194,1,14-10-2018,14,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2186,1220,987,38.0,228.0,9500.0,1.6814159292035398,2,14-12-2020,14,12,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2188,1220,1005,1.0,6.0,250.0,0.0442477876106194,1,15-03-2021,15,3,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2189,1220,1012,1.0,6.0,250.0,0.0442477876106194,1,15-05-2018,15,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2190,1220,1019,1.0,6.0,250.0,0.0442477876106194,1,15-06-2021,15,6,2021,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2193,1220,1074,2.0,12.0,500.0,0.0884955752212389,1,16-03-2020,16,3,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2199,1220,1154,11.0,66.0,2750.0,0.4867256637168141,2,17-05-2018,17,5,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2200,1220,1178,1.0,6.0,250.0,0.0442477876106194,1,17-09-2020,17,9,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2207,1220,1261,18.0,108.0,4500.0,0.7964601769911505,1,18-11-2020,18,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2212,1220,1347,1.0,6.0,250.0,0.0442477876106194,1,20-02-2017,20,2,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2215,1220,1398,1.0,6.0,250.0,0.0442477876106194,1,20-10-2018,20,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2216,1220,1406,6.0,36.0,1500.0,0.2654867256637168,1,20-11-2020,20,11,2020,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2218,1220,1434,7.0,42.0,1750.0,0.3097345132743362,1,21-04-2018,21,4,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2222,1220,1544,26.0,156.0,6500.0,1.1504424778761062,1,22-10-2019,22,10,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2228,1220,1585,3.0,18.0,750.0,0.1327433628318584,1,23-05-2019,23,5,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2230,1220,1600,14.0,84.0,3500.0,0.6194690265486725,1,23-08-2017,23,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2232,1220,1669,1.0,6.0,250.0,0.0442477876106194,1,24-08-2017,24,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2249,1220,1809,19.0,114.0,4750.0,0.8407079646017699,2,26-08-2017,26,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2255,1220,1879,1.0,6.0,250.0,0.0442477876106194,1,27-08-2017,27,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2256,1220,1886,2.0,12.0,500.0,0.0884955752212389,2,27-09-2017,27,9,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2260,1220,1951,5.0,30.0,1250.0,0.2212389380530973,2,28-08-2017,28,8,2017,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2264,1220,1992,5.0,30.0,1250.0,0.2212389380530973,1,29-03-2022,29,3,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2266,1220,2028,1.0,6.0,250.0,0.0442477876106194,1,29-10-2016,29,10,2016,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2270,1220,2092,9.0,54.0,2250.0,0.3982300884955752,1,30-10-2018,30,10,2018,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2272,1220,2109,1.0,6.0,250.0,0.0442477876106194,1,31-01-2019,31,1,2019,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+2273,1220,2118,6.0,36.0,1500.0,0.2654867256637168,1,31-03-2022,31,3,2022,instituto tecnologico superior jose chiriboga grijalva,habilitado,organismo evaluador de la conformidad,24-05-2021,ibarra,imbabura
+6205,2176,925,1.0,6.0,250.0,0.0795544948289578,1,13-12-2021,13,12,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6220,2176,1237,1.0,6.0,250.0,0.0795544948289578,1,18-07-2022,18,7,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6236,2176,1454,1.0,6.0,250.0,0.0795544948289578,1,21-07-2022,21,7,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6269,2176,1902,2.0,12.0,500.0,0.1591089896579156,2,27-11-2020,27,11,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6274,2176,2037,1.0,6.0,250.0,0.0795544948289578,1,29-11-2019,29,11,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6144,2176,27,1.0,6.0,250.0,0.0795544948289578,1,01-04-2022,1,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6161,2176,268,1.0,6.0,250.0,0.0795544948289578,1,04-09-2021,4,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6189,2176,679,2.0,12.0,500.0,0.1591089896579156,2,10-07-2021,10,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6240,2176,1497,1.0,6.0,250.0,0.0795544948289578,1,22-02-2021,22,2,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6256,2176,1760,1.0,6.0,250.0,0.0795544948289578,1,25-11-2021,25,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6147,2176,72,2.0,12.0,500.0,0.1591089896579156,2,01-12-2020,1,12,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6150,2176,109,1.0,6.0,250.0,0.0795544948289578,1,02-07-2021,2,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6152,2176,160,1.0,6.0,250.0,0.0795544948289578,1,03-03-2021,3,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6158,2176,239,1.0,6.0,250.0,0.0795544948289578,1,04-04-2022,4,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6162,2176,296,1.0,6.0,250.0,0.0795544948289578,1,05-01-2022,5,1,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6173,2176,408,2.0,12.0,500.0,0.1591089896579156,1,06-08-2021,6,8,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6181,2176,516,3.0,18.0,750.0,0.2386634844868735,3,08-03-2021,8,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6182,2176,535,1.0,6.0,250.0,0.0795544948289578,1,08-07-2021,8,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6192,2176,800,1.0,6.0,250.0,0.0795544948289578,1,12-03-2021,12,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6216,2176,1141,1.0,6.0,250.0,0.0795544948289578,1,17-02-2022,17,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6224,2176,1285,1.0,6.0,250.0,0.0795544948289578,1,19-03-2021,19,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6226,2176,1314,1.0,6.0,250.0,0.0795544948289578,1,19-08-2021,19,8,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6230,2176,1381,1.0,6.0,250.0,0.0795544948289578,1,20-07-2021,20,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6234,2176,1436,1.0,6.0,250.0,0.0795544948289578,1,21-04-2021,21,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6239,2176,1484,1.0,6.0,250.0,0.0795544948289578,1,21-12-2020,21,12,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6244,2176,1592,1.0,6.0,250.0,0.0795544948289578,1,23-06-2021,23,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6248,2176,1626,1.0,6.0,250.0,0.0795544948289578,1,23-12-2019,23,12,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6250,2176,1646,1.0,6.0,250.0,0.0795544948289578,1,24-03-2021,24,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6251,2176,1660,1.0,6.0,250.0,0.0795544948289578,1,24-06-2021,24,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6253,2176,1690,1.0,6.0,250.0,0.0795544948289578,1,24-11-2021,24,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6259,2176,1834,1.0,6.0,250.0,0.0795544948289578,1,26-12-2019,26,12,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6267,2176,1890,1.0,6.0,250.0,0.0795544948289578,1,27-09-2021,27,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6270,2176,1930,2.0,12.0,500.0,0.1591089896579156,2,28-04-2021,28,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6279,2176,2071,1.0,6.0,250.0,0.0795544948289578,1,30-06-2021,30,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6282,2176,2093,88.0,528.0,22000.0,7.00079554494829,4,30-10-2019,30,10,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6283,2176,2095,1.0,6.0,250.0,0.0795544948289578,1,30-10-2021,30,10,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6285,2176,2117,1.0,6.0,250.0,0.0795544948289578,1,31-03-2021,31,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6286,2176,2122,1.0,6.0,250.0,0.0795544948289578,1,31-05-2021,31,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6170,2176,392,1.0,6.0,250.0,0.0795544948289578,1,06-05-2022,6,5,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6151,2176,121,6.0,36.0,1500.0,0.477326968973747,2,02-09-2019,2,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6164,2176,324,4.0,24.0,1000.0,0.3182179793158313,2,05-06-2021,5,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6176,2176,474,1.0,6.0,250.0,0.0795544948289578,1,07-08-2021,7,8,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6186,2176,649,1.0,6.0,250.0,0.0795544948289578,1,10-02-2020,10,2,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6160,2176,266,1.0,6.0,250.0,0.0795544948289578,1,04-09-2019,4,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6196,2176,826,4.0,24.0,1000.0,0.3182179793158313,1,12-08-2019,12,8,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6197,2176,833,3.0,18.0,750.0,0.2386634844868735,3,12-09-2019,12,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6208,2176,974,2.0,12.0,500.0,0.1591089896579156,2,14-10-2019,14,10,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6212,2176,1024,2.0,12.0,500.0,0.1591089896579156,1,15-07-2019,15,7,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6214,2176,1108,9.0,54.0,2250.0,0.7159904534606205,3,16-09-2019,16,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6227,2176,1320,1.0,6.0,250.0,0.0795544948289578,1,19-09-2019,19,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6228,2176,1331,11.0,66.0,2750.0,0.8750994431185363,4,19-11-2019,19,11,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6231,2176,1393,21.0,126.0,5250.0,1.6706443914081146,1,20-09-2019,20,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6243,2176,1532,13.0,78.0,3250.0,1.0342084327764518,1,22-08-2019,22,8,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6246,2176,1609,1.0,6.0,250.0,0.0795544948289578,1,23-09-2019,23,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6252,2176,1664,1.0,6.0,250.0,0.0795544948289578,1,24-07-2019,24,7,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6255,2176,1752,2.0,12.0,500.0,0.1591089896579156,2,25-10-2019,25,10,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6266,2176,1881,1.0,6.0,250.0,0.0795544948289578,1,27-08-2019,27,8,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6194,2176,806,1.0,6.0,250.0,0.0795544948289578,1,12-04-2022,12,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6209,2176,997,1.0,6.0,250.0,0.0795544948289578,1,15-02-2019,15,2,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6278,2176,2059,4.0,24.0,1000.0,0.3182179793158313,1,30-04-2019,30,4,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6142,2176,16,1.0,6.0,250.0,0.0795544948289578,1,01-02-2021,1,2,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6148,2176,84,2.0,12.0,500.0,0.1591089896579156,2,02-02-2022,2,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6177,2176,480,4.0,24.0,1000.0,0.3182179793158313,1,07-09-2021,7,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6223,2176,1262,1.0,6.0,250.0,0.0795544948289578,1,18-11-2021,18,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6249,2176,1641,1.0,6.0,250.0,0.0795544948289578,1,24-02-2022,24,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6280,2176,2088,4.0,24.0,1000.0,0.3182179793158313,2,30-09-2019,30,9,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6178,2176,485,13.0,78.0,3250.0,1.034208432776452,4,07-10-2019,7,10,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6273,2176,1994,6.0,36.0,1500.0,0.477326968973747,1,29-04-2019,29,4,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6143,2176,22,1.0,6.0,250.0,0.0795544948289578,1,01-03-2021,1,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6163,2176,314,2.0,12.0,500.0,0.1591089896579156,1,05-04-2022,5,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6265,2176,1861,1.0,6.0,250.0,0.0795544948289578,1,27-04-2022,27,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6154,2176,182,1.0,6.0,250.0,0.0795544948289578,1,03-07-2021,3,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6167,2176,365,10.0,60.0,2500.0,0.7955449482895783,6,06-01-2020,6,1,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6199,2176,846,1.0,6.0,250.0,0.0795544948289578,1,12-11-2019,12,11,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6218,2176,1208,1.0,6.0,250.0,0.0795544948289578,1,18-02-2019,18,2,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6221,2176,1243,1.0,6.0,250.0,0.0795544948289578,1,18-08-2021,18,8,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6215,2176,1121,2.0,12.0,500.0,0.1591089896579156,1,16-11-2020,16,11,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6275,2176,2044,3.0,18.0,750.0,0.2386634844868735,3,29-12-2020,29,12,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6166,2176,353,3.0,18.0,750.0,0.2386634844868735,1,05-11-2020,5,11,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6184,2176,586,1.0,6.0,250.0,0.0795544948289578,1,09-03-2021,9,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6195,2176,810,1.0,6.0,250.0,0.0795544948289578,1,12-05-2021,12,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6203,2176,882,1.0,6.0,250.0,0.0795544948289578,1,13-05-2021,13,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6235,2176,1446,1.0,6.0,250.0,0.0795544948289578,1,21-06-2021,21,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6175,2176,457,1.0,6.0,250.0,0.0795544948289578,1,07-05-2022,7,5,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6174,2176,423,1.0,6.0,250.0,0.0795544948289578,1,06-11-2019,6,11,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6172,2176,403,1.0,6.0,250.0,0.0795544948289578,1,06-07-2021,6,7,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6180,2176,500,1.0,6.0,250.0,0.0795544948289578,1,07-12-2021,7,12,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6156,2176,195,1.0,6.0,250.0,0.0795544948289578,1,03-09-2021,3,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6187,2176,655,1.0,6.0,250.0,0.0795544948289578,1,10-03-2020,10,3,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6211,2176,1005,1.0,6.0,250.0,0.0795544948289578,1,15-03-2021,15,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6210,2176,1000,1.0,6.0,250.0,0.0795544948289578,1,15-02-2022,15,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6237,2176,1471,17.0,102.0,4250.0,1.352426412092283,3,21-10-2019,21,10,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6153,2176,172,1.0,6.0,250.0,0.0795544948289578,1,03-05-2021,3,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6168,2176,367,1.0,6.0,250.0,0.0795544948289578,1,06-01-2022,6,1,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6169,2176,386,2.0,12.0,500.0,0.1591089896579156,1,06-04-2022,6,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6179,2176,487,3.0,18.0,750.0,0.2386634844868735,1,07-10-2021,7,10,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6183,2176,562,1.0,6.0,250.0,0.0795544948289578,1,08-11-2021,8,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6185,2176,597,1.0,6.0,250.0,0.0795544948289578,1,09-05-2022,9,5,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6191,2176,738,2.0,12.0,500.0,0.1591089896579156,1,11-05-2022,11,5,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6202,2176,879,1.0,6.0,250.0,0.0795544948289578,1,13-04-2022,13,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6277,2176,2056,1.0,6.0,250.0,0.0795544948289578,1,30-03-2021,30,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6272,2176,1985,2.0,12.0,500.0,0.1591089896579156,2,29-01-2021,29,1,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6281,2176,2090,1.0,6.0,250.0,0.0795544948289578,1,30-09-2021,30,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6146,2176,59,1.0,6.0,250.0,0.0795544948289578,1,01-10-2020,1,10,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6171,2176,402,1.0,6.0,250.0,0.0795544948289578,1,06-07-2020,6,7,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6201,2176,873,3.0,18.0,750.0,0.2386634844868735,3,13-03-2021,13,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6206,2176,945,2.0,12.0,500.0,0.1591089896579156,2,14-04-2022,14,4,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6207,2176,958,1.0,6.0,250.0,0.0795544948289578,1,14-07-2020,14,7,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6222,2176,1249,1.0,6.0,250.0,0.0795544948289578,1,18-09-2021,18,9,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6233,2176,1426,1.0,6.0,250.0,0.0795544948289578,1,21-02-2022,21,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6264,2176,1860,3.0,18.0,750.0,0.2386634844868735,2,27-04-2021,27,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6200,2176,867,1.0,6.0,250.0,0.0795544948289578,1,13-02-2021,13,2,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6260,2176,1842,1.0,6.0,250.0,0.0795544948289578,1,27-01-2021,27,1,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6271,2176,1934,1.0,6.0,250.0,0.0795544948289578,1,28-05-2021,28,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6284,2176,2104,6.0,36.0,1500.0,0.477326968973747,2,30-12-2019,30,12,2019,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6193,2176,805,3.0,18.0,750.0,0.2386634844868735,2,12-04-2021,12,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6149,2176,90,1.0,6.0,250.0,0.0795544948289578,1,02-03-2021,2,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6155,2176,188,3.0,18.0,750.0,0.2386634844868735,1,03-08-2020,3,8,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6165,2176,335,1.0,6.0,250.0,0.0795544948289578,1,05-08-2020,5,8,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6225,2176,1294,4.0,24.0,1000.0,0.3182179793158313,1,19-05-2021,19,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6261,2176,1843,1.0,6.0,250.0,0.0795544948289578,1,27-01-2022,27,1,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6263,2176,1855,1.0,6.0,250.0,0.0795544948289578,1,27-03-2021,27,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6258,2176,1799,2.0,12.0,500.0,0.1591089896579156,2,26-06-2021,26,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6276,2176,2050,2.0,12.0,500.0,0.1591089896579156,2,30-01-2021,30,1,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6145,2176,38,2.0,12.0,500.0,0.1591089896579156,1,01-07-2020,1,7,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6198,2176,841,1.0,6.0,250.0,0.0795544948289578,1,12-10-2021,12,10,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6204,2176,919,1.0,6.0,250.0,0.0795544948289578,1,13-11-2021,13,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6247,2176,1623,1.0,6.0,250.0,0.0795544948289578,1,23-11-2021,23,11,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6159,2176,245,1.0,6.0,250.0,0.0795544948289578,1,04-05-2022,4,5,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6232,2176,1420,2.0,12.0,500.0,0.1591089896579156,1,21-01-2022,21,1,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6190,2176,708,1.0,6.0,250.0,0.0795544948289578,1,10-12-2020,10,12,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6213,2176,1091,3.0,18.0,750.0,0.2386634844868735,2,16-06-2021,16,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6219,2176,1229,1.0,6.0,250.0,0.0795544948289578,1,18-06-2021,18,6,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6241,2176,1507,2.0,12.0,500.0,0.1591089896579156,1,22-04-2021,22,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6254,2176,1703,1.0,6.0,250.0,0.0795544948289578,1,25-01-2022,25,1,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6217,2176,1197,4.0,24.0,1000.0,0.3182179793158313,2,17-12-2021,17,12,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6238,2176,1472,1.0,6.0,250.0,0.0795544948289578,1,21-10-2020,21,10,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6245,2176,1598,1.0,6.0,250.0,0.0795544948289578,1,23-07-2022,23,7,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6141,2176,6,2.0,12.0,500.0,0.1591089896579156,1,31-12-2021,31,12,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6157,2176,201,1.0,6.0,250.0,0.0795544948289578,1,03-10-2020,3,10,2020,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6188,2176,661,6.0,36.0,1500.0,0.477326968973747,1,10-04-2021,10,4,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6229,2176,1357,2.0,12.0,500.0,0.1591089896579156,1,20-03-2021,20,3,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6242,2176,1513,1.0,6.0,250.0,0.0795544948289578,1,22-05-2021,22,5,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6257,2176,1778,1.0,6.0,250.0,0.0795544948289578,1,26-02-2022,26,2,2022,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6262,2176,1848,1.0,6.0,250.0,0.0795544948289578,1,27-02-2021,27,2,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+6268,2176,1896,1.0,6.0,250.0,0.0795544948289578,1,27-10-2021,27,10,2021,villacis lopez cesar geovanny,desconocido,organismo evaluador de la conformidad,sin fecha resolución,quito,pichincha
+5702,2098,2037,5.0,30.0,1250.0,0.0013056091580648,1,29-11-2019,29,11,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5691,2098,800,3.0,18.0,750.0,0.0007833654948389,1,12-03-2021,12,3,2021,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5698,2098,1724,2.0,12.0,500.0,0.0005222436632259,1,25-05-2021,25,5,2021,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5699,2098,1746,13.0,78.0,3250.0,0.0033945838109686,1,25-09-2019,25,9,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5693,2098,1127,7.0,42.0,1750.0,0.0018278528212908,1,16-12-2020,16,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5695,2098,1196,62.0,372.0,15500.0,0.0161895535600044,3,17-12-2020,17,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5696,2098,1413,1.0,6.0,250.0,0.0002611218316129,1,20-12-2020,20,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5684,2098,58,6.0,36.0,1500.0,0.0015667309896778,1,01-10-2019,1,10,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5687,2098,358,1.0,6.0,250.0,0.0002611218316129,1,05-12-2018,5,12,2018,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5701,2098,2036,1.0,6.0,250.0,0.0002611218316129,1,29-11-2018,29,11,2018,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5704,2098,2088,6.0,36.0,1500.0,0.0015667309896778,1,30-09-2019,30,9,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5690,2098,713,16.0,96.0,4000.0,0.0041779493058076,2,11-01-2021,11,1,2021,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5686,2098,153,3.0,18.0,750.0,0.0007833654948389,1,03-02-2021,3,2,2021,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5692,2098,927,1.0,6.0,250.0,0.0002611218316129,1,14-01-2020,14,1,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5685,2098,140,8.0,48.0,2000.0,0.0020889746529038,1,02-12-2019,2,12,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5703,2098,2044,9.0,54.0,2250.0,0.0023500964845167,2,29-12-2020,29,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5689,2098,533,1.0,6.0,250.0,0.0002611218316129,1,08-07-2019,8,7,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5688,2098,423,4.0,24.0,1000.0,0.0010444873264519,1,06-11-2019,6,11,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5694,2098,1177,13.0,78.0,3250.0,0.0033945838109686,1,17-09-2019,17,9,2019,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5697,2098,1558,44.0,264.0,11000.0,0.0114893605909709,3,22-12-2020,22,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+5700,2098,1765,4.0,24.0,1000.0,0.0010444873264519,3,25-12-2020,25,12,2020,universidad tecnica particular de loja,habilitado,organismo evaluador de la conformidad,24-05-2021,loja,loja
+2066,1216,334,5.0,30.0,1250.0,0.125,1,05-08-2019,5,8,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2070,1216,535,2.0,12.0,500.0,0.05,1,08-07-2021,8,7,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2085,1216,1484,5.0,30.0,1250.0,0.125,1,21-12-2020,21,12,2020,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2071,1216,564,1.0,6.0,250.0,0.025,1,08-12-2016,8,12,2016,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2073,1216,633,1.0,6.0,250.0,0.025,1,09-12-2016,9,12,2016,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2063,1216,142,1.0,6.0,250.0,0.025,1,02-12-2021,2,12,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2092,1216,2114,5.0,30.0,1250.0,0.125,2,31-03-2017,31,3,2017,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2077,1216,974,1.0,6.0,250.0,0.025,1,14-10-2019,14,10,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2084,1216,1482,5.0,30.0,1250.0,0.125,1,21-12-2018,21,12,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2093,1216,2126,37.0,222.0,9250.0,0.925,2,31-07-2019,31,7,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2087,1216,1572,17.0,102.0,4250.0,0.425,1,23-03-2017,23,3,2017,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2074,1216,881,1.0,6.0,250.0,0.025,1,13-05-2019,13,5,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2083,1216,1350,22.0,132.0,5500.0,0.5499999999999999,1,20-02-2020,20,2,2020,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2075,1216,883,2.0,12.0,500.0,0.05,1,13-05-2022,13,5,2022,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2079,1216,1030,1.0,6.0,250.0,0.025,1,15-08-2018,15,8,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2065,1216,253,27.0,162.0,6750.0,0.675,1,04-07-2019,4,7,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2076,1216,898,2.0,12.0,500.0,0.05,2,13-08-2019,13,8,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2081,1216,1243,1.0,6.0,250.0,0.025,1,18-08-2021,18,8,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2062,1216,106,35.0,210.0,8750.0,0.8750000000000001,1,02-07-2018,2,7,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2088,1216,1717,1.0,6.0,250.0,0.025,1,25-04-2018,25,4,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2090,1216,1921,1.0,6.0,250.0,0.025,1,28-03-2017,28,3,2017,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2091,1216,1971,1.0,6.0,250.0,0.025,1,28-11-2018,28,11,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2089,1216,1732,2.0,12.0,500.0,0.05,1,25-07-2017,25,7,2017,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2061,1216,75,1.0,6.0,250.0,0.025,1,02-01-2019,2,1,2019,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2064,1216,161,4.0,24.0,1000.0,0.1,1,03-03-2022,3,3,2022,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2067,1216,403,1.0,6.0,250.0,0.025,1,06-07-2021,6,7,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2068,1216,468,21.0,126.0,5250.0,0.525,1,07-07-2021,7,7,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2069,1216,500,7.0,42.0,1750.0,0.175,2,07-12-2021,7,12,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2072,1216,600,33.0,198.0,8250.0,0.8250000000000001,1,09-06-2018,9,6,2018,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2078,1216,1026,2.0,12.0,500.0,0.05,1,15-07-2021,15,7,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2080,1216,1045,1.0,6.0,250.0,0.025,1,15-10-2021,15,10,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2082,1216,1322,1.0,6.0,250.0,0.025,1,19-09-2021,19,9,2021,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura
+2086,1216,1498,25.0,150.0,6250.0,0.625,1,22-02-2022,22,2,2022,instituto tecnologico superior ibarra,habilitado,organismo evaluador de la conformidad,2/9/2021,ibarra,imbabura

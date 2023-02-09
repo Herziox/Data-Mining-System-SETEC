@@ -25,23 +25,7 @@ import sys
 import os
 
 
-# # Variables
-
-# In[3]:
-
-
-# xpath_URL = 'http://portal.trabajo.gob.ec/setec-portal-web/pages/operadoresCapacitacion.jsf'
-# xpath_FILTER = 'j_idt24:pnlOrganismo:cmbSubOc:cmbSubOc_label'
-# xpath_OPTION = 'j_idt24:pnlOrganismo:cmbSubOc:cmbSubOc_3'
-# xpath_TEXTBOX_QUERY = 'j_idt24:pnlOrganismo:txtRazonSocial:txtRazonSocial'
-# xpath_BOTTON_SEARCH = 'j_idt24:pnlOrganismo:j_idt43'
-# xpath_BOTTON_LAST_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_bottom"]/a[4]'
-# xpath_BOTTON_NEXT_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_bottom"]/a[3]'
-# xpath_JUMP_PAGE = '//*[@id="j_idt24:pnlOrganismo:tblDatosTabla_paginator_bottom"]/span/a[10]'
-# xpath_TABLE = 'j_idt24:pnlOrganismo:tblDatosTabla_data' 
-# xpath_EXPIRED_SESSION = '/html/body/div[2]/div/span[3]'
-# regist_columns = ['time_bot', 'id_bot', 'doc_name', 'session', 'failed_session','expired_session', 'start_page', 'end_page', 'page', 'n_rows', 'n_cols', 'message']
-# columns = ['ruc_o_codigo','razon_social', 'nombre_comercial', 'telefono',	'celular',	'correo_electronico',	'numero_resolucion', 'fecha_resolucion',	'estado', 'canton']
+# # Variables de los distitos xpaths de la pagina
 
 
 # In[4]:
@@ -76,7 +60,7 @@ data_path = ''
 
 # In[5]:
 
-
+# Funcion encargada de llevar los registros de del proceso de web scrapping del bot
 def save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, start_page, end_page, page, n_rows, n_cols, message):
     regist = [str(datetime.now()), id_bot, doc_name,sessions,failed_sessions,expired_sessions,start_page, end_page, page, n_rows, n_cols, message]  
     
@@ -93,6 +77,7 @@ def save_regist(id_bot, doc_name, sessions,failed_sessions,expired_sessions, sta
       report.to_csv(report_path,index=False, mode='a', header=not os.path.exists(report_path))
 
 
+#Funcion encargada de guardar los datos extraidos en el CSV dentro de la carpeta, subcarpeta y archivo correcto
 def save_info(id_bot,doc_name,data,sessions,failed_sessions,expired_sessions,start_page,end_page,page,message):
     df = pd.DataFrame(data=data,columns=columns)
     df.to_csv(data_path,index=False)
@@ -580,6 +565,8 @@ if __name__==('__main__'):
   N_DRIVERS = int(sys.argv[3])
   new_ws = sys.argv[4]
   id_bot = int(sys.argv[5])
+  
+  # Busca los datos para las variables determindas de cada submodulo a extraer la informacion
   df_control = pd.read_csv(os.path.join(os.getcwd(),'data_controller_bot.csv'))
   df_control = df_control[df_control['doc_name'] == doc_name]
   if df_control.shape[0]>0:
@@ -590,6 +577,7 @@ if __name__==('__main__'):
     else:
       QUERY_INPUT = sys.argv[2]
     
+    # Asignar los xpaths a las variables 
     columns = df_control['columns'].iloc[0].replace('\"','').replace('\'','').replace('[','').replace(']','').split(',')
     xpath_URL = df_control['xpath_URL'].iloc[0]
     xpath_MODULE = df_control['xpath_MODULE'].iloc[0]
@@ -616,11 +604,13 @@ if __name__==('__main__'):
   data_path = os.path.join(FOLDER,SUBFOLDER, doc_name+'_'+str(id_bot)+'.csv') 
 
   
-
+  # Opciones del scraper para ejecutar el broser
   options = webdriver.ChromeOptions() 
   # to supress the error messages/logs
 
   options.add_experimental_option('excludeSwitches', ['enable-logging'])
+  
+  # Estas opciones permiten ejecutar sin abrir un browser
   #options.add_argument('--headless')
   #options.add_argument('--no-sandbox')
   #options.add_argument('--disable-dev-shm-usage')
@@ -628,6 +618,9 @@ if __name__==('__main__'):
   final_page=1
   start_page_list = []
   final_page_list = []
+  
+  # Archivo Cache que recolecta la informacion del numero de paginas a extraer y las subdivide
+  # en el numero de scrapers bots que queremos que realizar la extraccion al mismo tiempo
 
   if new_ws == 'yes' and os.path.exists(cache_path):
     os.remove(cache_path)      
@@ -660,6 +653,7 @@ if __name__==('__main__'):
     else:
       final_page_list.append(mark_page)
   
+  # LLamada al bot
   print('Inicia el Bot ',doc_name,'_',id_bot)
   bot(id_bot,doc_name,options,start_page_list[id_bot],final_page_list[id_bot],QUERY_INPUT)
 

@@ -1,0 +1,20 @@
+id_fact_oc_rs,id_razon_social,id_fecha,volumen_cap_cer,volumen_horas,volumen_ganancias,volumen_porcentaje_asistencia,total_cursos_perfiles,fecha,dia,mes,anio,razon_social,estado,tipo_razon_social,fecha_resolucion,canton,provincia
+18,1208,6,33.0,990.0,9217.5,0.268445456764012,2,31-12-2021,31,12,2021,instituto tecnologico superior almirante illingworth,calificado,operador de capacitación,7/10/2021,guayaquil,guayas
+16,1208,3,107.0,3210.0,30952.2,0.8704140567802815,4,31-12-2018,31,12,2018,instituto tecnologico superior almirante illingworth,calificado,operador de capacitación,7/10/2021,guayaquil,guayas
+17,1208,4,143.0,4290.0,42772.5,1.1632636459773855,6,31-12-2019,31,12,2019,instituto tecnologico superior almirante illingworth,calificado,operador de capacitación,7/10/2021,guayaquil,guayas
+35,1286,6,1487.0,29436.0,484469.6952380952,23.929835854522047,23,31-12-2021,31,12,2021,klavempresarial compañia anonima,calificado,operador de capacitación,2/9/2021,quito,pichincha
+33,1286,3,164.0,6336.0,53619.36000000001,2.6392018023817188,4,31-12-2018,31,12,2018,klavempresarial compañia anonima,calificado,operador de capacitación,2/9/2021,quito,pichincha
+34,1286,4,325.0,9994.0,118099.9892063492,5.2301255230125525,7,31-12-2019,31,12,2019,klavempresarial compañia anonima,calificado,operador de capacitación,2/9/2021,quito,pichincha
+80,1580,6,2193.0,61548.0,647540.9542857142,4.099065420560748,63,31-12-2021,31,12,2021,novillo mendoza max andres,calificado,operador de capacitación,14-10-2021,guayaquil,guayas
+79,1580,4,434.0,17140.0,183601.54285714283,0.811214953271028,10,31-12-2019,31,12,2019,novillo mendoza max andres,calificado,operador de capacitación,14-10-2021,guayaquil,guayas
+168,333,6,1313.0,67500.0,420079.2698412697,10.941666666666666,24,31-12-2021,31,12,2021,capacitacion profesional geniusec cia.ltda.,calificado,operador de capacitación,24-08-2021,quito,pichincha
+167,333,4,25.0,1000.0,6875.873015873011,0.2083333333333333,5,31-12-2019,31,12,2019,capacitacion profesional geniusec cia.ltda.,calificado,operador de capacitación,24-08-2021,quito,pichincha
+192,452,6,5234.0,132950.0,1570741.4563492062,18.679514632405425,44,31-12-2021,31,12,2021,cetecform cia. ltda.,calificado,operador de capacitación,20-07-2021,quito,pichincha
+205,564,3,118.0,4720.0,4059.2,2.145454545454545,3,31-12-2018,31,12,2018,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,calificado,operador de capacitación,15-11-2022,cuenca,azuay
+207,564,7,198.0,7920.0,6811.2,3.6,7,31-12-2022,31,12,2022,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,calificado,operador de capacitación,15-11-2022,cuenca,azuay
+206,564,4,87.0,3480.0,2992.8,1.581818181818182,3,31-12-2019,31,12,2019,corporacion ecuatoriana para el desarrollo de la investigacion y la academia cedia,calificado,operador de capacitación,15-11-2022,cuenca,azuay
+196,491,7,1336.0,107405.0,559110.99,168.68686868686868,33,31-12-2022,31,12,2022,chuquicondor pilamunga carmen yolanda (sherydan international group),calificado,operador de capacitación,22-02-2022,santo domingo,santo domingo de los tsachilas
+212,613,7,20624.0,320600.0,5930162.34984127,12276.190476190475,192,31-12-2022,31,12,2022,cvimsa ecuador c-vimsaecuador s.a.,calificado,operador de capacitación,28-01-2022,quito,pichincha
+67,149,4,188.0,2384.0,40588.12,0.1358381502890173,9,31-12-2019,31,12,2019,asociacion red de talento humano del ecuador redthumanoec s.a.,calificado,operador de capacitación,18-03-2019,guayaquil,guayas
+118,1932,5,404.0,3346.0,11378.186666666665,32.87225386493084,5,31-12-2020,31,12,2020,seguridad industrial pompier chano seinpomep cia. ltda.,calificado,operador de capacitación,29-05-2020,quito,pichincha
+177,36,5,2850.0,91200.0,1273621.892063492,35.998484274346346,22,31-12-2020,31,12,2020,aguilar benavides juan miguel,calificado,operador de capacitación,9/3/2020,quito,pichincha
