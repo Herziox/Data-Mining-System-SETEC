@@ -1,0 +1,884 @@
+id_fact_ci_rs,id_razon_social,id_fecha,fecha,dia,mes,anio,razon_social,estado,tipo_razon_social,fecha_resolucion,canton,provincia
+0,1000,7,31-12-2022,31,12,2022,haro rojas stephanie cecilia,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0017,quito,pichincha
+3,1004,7,31-12-2022,31,12,2022,hernandez barros john henry,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0096,cuenca,azuay
+8,1023,7,31-12-2022,31,12,2022,hugo cevallos milton wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0108,el chaco,napo
+10,1025,7,31-12-2022,31,12,2022,huisha marcatoma abel isaias,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0095,riobamba,chimborazo
+738,1025,2143,28-02-2023,28,2,2023,huisha marcatoma abel isaias,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0095,riobamba,chimborazo
+12,1030,7,31-12-2022,31,12,2022,ibarra reyes luis fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0176,la troncal,cañar
+13,1031,7,31-12-2022,31,12,2022,ibarra sanchez maria jessenia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0269,guaranda,bolivar
+27,1251,7,31-12-2022,31,12,2022,jalca vivar marcos antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0005,guayaquil,guayas
+40,1274,7,31-12-2022,31,12,2022,jimenez segura joffre orlando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0135,quevedo,los rios
+48,1299,7,31-12-2022,31,12,2022,larrea esparza pablo xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0058,rumiñahui,pichincha
+54,1334,7,31-12-2022,31,12,2022,lima cabascango jaime alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0274,quito,pichincha
+56,1338,7,31-12-2022,31,12,2022,linzan buchelli daniel antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0279,la libertad,santa elena
+752,1338,2142,31-01-2023,31,1,2023,linzan buchelli daniel antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0279,la libertad,santa elena
+64,1355,7,31-12-2022,31,12,2022,lopez medranda nasthar karen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0015,portoviejo,manabi
+67,1361,7,31-12-2022,31,12,2022,lopez sanchez ivon yadira,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0033,riobamba,chimborazo
+69,1363,7,31-12-2022,31,12,2022,lopez torres joffre reinaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0097,guayaquil,guayas
+71,1365,7,31-12-2022,31,12,2022,lora leon kevin marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0002,ibarra,imbabura
+76,1378,7,31-12-2022,31,12,2022,macias zambrano victor emanuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0160,balzar,guayas
+83,1392,7,31-12-2022,31,12,2022,mantuano zambrano yandry felipe,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0003,portoviejo,manabi
+93,1415,7,31-12-2022,31,12,2022,mañay chochos edison david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0125,salcedo,cotopaxi
+117,1484,7,31-12-2022,31,12,2022,montero sanchez jhonathan vladimir,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0073,quito,pichincha
+118,1485,7,31-12-2022,31,12,2022,monteros vasquez leopoldo neptali,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0128,cayambe,pichincha
+127,1511,7,31-12-2022,31,12,2022,moreano ladines gerardo eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0162,cuenca,azuay
+130,1520,7,31-12-2022,31,12,2022,moreno borja daniela alejandra,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0020,riobamba,chimborazo
+141,1546,7,31-12-2022,31,12,2022,muñoz moran diana estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0158,quito,pichincha
+142,1548,7,31-12-2022,31,12,2022,muñoz regalado lorena vanessa,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0151,quito,pichincha
+144,155,7,31-12-2022,31,12,2022,atarihuana pardo manuel enrique,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0247,quito,pichincha
+151,1570,7,31-12-2022,31,12,2022,nevarez garcia cesar augusto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0124,la concordia (santo domingo de los tsachilas),sin provincia
+158,1594,7,31-12-2022,31,12,2022,ochoa coello joffre geovanni,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0013,daule,guayas
+168,1623,7,31-12-2022,31,12,2022,oviedo moreno freddy fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0065,duran,sin provincia
+170,1634,7,31-12-2022,31,12,2022,pacheco venegas mario fermin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0123,ambato,tungurahua
+176,1641,7,31-12-2022,31,12,2022,palma ramos jacqueline rocio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0021,manta,manabi
+177,1642,7,31-12-2022,31,12,2022,palomino aluisa jonathan alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0107,quito,pichincha
+178,1643,7,31-12-2022,31,12,2022,palta jimenez emily victoria,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0084,guayaquil,guayas
+181,1648,7,31-12-2022,31,12,2022,paredes esparza elvis jesus,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0185,quito,pichincha
+191,1678,7,31-12-2022,31,12,2022,perez guerrero catherine maribel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0243,cevallos,tungurahua
+194,1684,7,31-12-2022,31,12,2022,perez toapanta carlos ramiro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0016,quito,pichincha
+203,1701,7,31-12-2022,31,12,2022,pillalaza saransig lizeth patricia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0271,quito,pichincha
+804,1701,2142,31-01-2023,31,1,2023,pillalaza saransig lizeth patricia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0271,quito,pichincha
+205,1704,7,31-12-2022,31,12,2022,pineda del castillo santiago roberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0099,ibarra,imbabura
+212,1722,7,31-12-2022,31,12,2022,posligua casanova luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0010,santo domingo,santo domingo de los tsachilas
+219,1740,7,31-12-2022,31,12,2022,pullas garcia edison raul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0071,quito,pichincha
+231,1761,7,31-12-2022,31,12,2022,quintero cuero gustavo ricardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0244,guayaquil,guayas
+234,1765,7,31-12-2022,31,12,2022,quishpe rico edison bolivar,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0078,latacunga,cotopaxi
+239,1775,7,31-12-2022,31,12,2022,ramirez monteros carlos gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0009,quito,pichincha
+242,1789,7,31-12-2022,31,12,2022,reinoso aguas jhonatan fausto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0048,cayambe,pichincha
+246,1795,7,31-12-2022,31,12,2022,reyes segovia ivan geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0228,latacunga,cotopaxi
+817,1795,2142,31-01-2023,31,1,2023,reyes segovia ivan geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0228,latacunga,cotopaxi
+818,1795,2143,28-02-2023,28,2,2023,reyes segovia ivan geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0228,latacunga,cotopaxi
+255,182,7,31-12-2022,31,12,2022,baez alvarez christian geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0127,manta,manabi
+646,182,2142,31-01-2023,31,1,2023,baez alvarez christian geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0127,manta,manabi
+257,1826,7,31-12-2022,31,12,2022,rodriguez sanchez diego xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0235,ibarra,imbabura
+259,1829,7,31-12-2022,31,12,2022,rodriguez villarroel cristian omar,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0055,pujili,cotopaxi
+267,1845,7,31-12-2022,31,12,2022,ron ron yomaira sol,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0255,quito,pichincha
+825,1845,2142,31-01-2023,31,1,2023,ron ron yomaira sol,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0255,quito,pichincha
+268,1847,7,31-12-2022,31,12,2022,rosales gonzabay felix wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0134,guayaquil,guayas
+826,1847,2142,31-01-2023,31,1,2023,rosales gonzabay felix wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0134,guayaquil,guayas
+274,1865,7,31-12-2022,31,12,2022,ruiz galarza natalia paulina,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0002,ambato,tungurahua
+830,1865,2142,31-01-2023,31,1,2023,ruiz galarza natalia paulina,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0002,ambato,tungurahua
+275,1867,7,31-12-2022,31,12,2022,ruiz sanchez wladimir alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0205,quito,pichincha
+276,1868,7,31-12-2022,31,12,2022,ruiz sosa andrea dolores,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0256,quito,pichincha
+277,187,7,31-12-2022,31,12,2022,balladares burgos jorge antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0007,quito,pichincha
+279,1878,7,31-12-2022,31,12,2022,salazar perez milena anabel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0152,santo domingo,santo domingo de los tsachilas
+282,1884,7,31-12-2022,31,12,2022,salgado morales cristhian ricardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0062,cuenca,azuay
+833,1884,2143,28-02-2023,28,2,2023,salgado morales cristhian ricardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0062,cuenca,azuay
+285,1887,7,31-12-2022,31,12,2022,saltos bajaña marco vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0032,guayaquil,guayas
+290,1899,7,31-12-2022,31,12,2022,sanchez espinoza jennifer johana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0101,guayaquil,guayas
+293,1900,7,31-12-2022,31,12,2022,sanchez guzman eddy humberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0001,milagro,guayas
+301,1914,7,31-12-2022,31,12,2022,santamaria rivera jacinto daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0011,quito,pichincha
+304,1921,7,31-12-2022,31,12,2022,santin ochoa jose estuardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0035,pedro moncayo,pichincha
+840,1921,2143,28-02-2023,28,2,2023,santin ochoa jose estuardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0035,pedro moncayo,pichincha
+306,1927,7,31-12-2022,31,12,2022,sarzosa meza azucena elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0004,quito,pichincha
+319,1995,7,31-12-2022,31,12,2022,subia guerrero andres estefano,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0072,quito,pichincha
+335,2036,7,31-12-2022,31,12,2022,toapanta acosta carolina elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0061,salcedo,cotopaxi
+336,2038,7,31-12-2022,31,12,2022,toasa alpapucho edgar ruben,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0074,el chaco,napo
+337,204,7,31-12-2022,31,12,2022,barroso ruiz fernando anibal,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0188,guayaquil,guayas
+358,2108,7,31-12-2022,31,12,2022,utreras villacis cristhian eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0168,quito,pichincha
+855,2108,2143,28-02-2023,28,2,2023,utreras villacis cristhian eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0168,quito,pichincha
+359,211,7,31-12-2022,31,12,2022,baño sanchez angel gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0043,guayaquil,guayas
+361,2113,7,31-12-2022,31,12,2022,valdez espinel yessica mariela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0049,daule,guayas
+367,2124,7,31-12-2022,31,12,2022,valladares valenzuela cristian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0094,quito,pichincha
+368,2125,7,31-12-2022,31,12,2022,valle mayorga hector alberto,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0008,ambato,tungurahua
+859,2125,2142,31-01-2023,31,1,2023,valle mayorga hector alberto,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0008,ambato,tungurahua
+372,2129,7,31-12-2022,31,12,2022,vallejo guerra pablo marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0171,ibarra,imbabura
+375,2135,7,31-12-2022,31,12,2022,vasconez mora rommel gustavo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0044,quito,pichincha
+378,2140,7,31-12-2022,31,12,2022,vasquez flores rommel andres,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0004,quito,pichincha
+379,2141,7,31-12-2022,31,12,2022,vasquez montilla robert ali,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0029,quito,pichincha
+380,2148,7,31-12-2022,31,12,2022,velasco caicedo carlos luis,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0001,guayaquil,guayas
+865,2148,2143,28-02-2023,28,2,2023,velasco caicedo carlos luis,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0001,guayaquil,guayas
+383,2152,7,31-12-2022,31,12,2022,velasquez arroyo jhonatan josue,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0187,cayambe,pichincha
+867,2152,2142,31-01-2023,31,1,2023,velasquez arroyo jhonatan josue,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0187,cayambe,pichincha
+387,2166,7,31-12-2022,31,12,2022,vergara molina jose anibal,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0054,daule,guayas
+389,2171,7,31-12-2022,31,12,2022,vilatuña fustillos alfonso gabino,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0067,quito,pichincha
+390,2175,7,31-12-2022,31,12,2022,villacis banchon henry antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0010,salinas,santa elena
+868,2175,2142,31-01-2023,31,1,2023,villacis banchon henry antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0010,salinas,santa elena
+869,2175,2143,28-02-2023,28,2,2023,villacis banchon henry antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0010,salinas,santa elena
+394,2187,7,31-12-2022,31,12,2022,villahermosa castro betsy del valle,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0177,machala,el oro
+871,2187,2142,31-01-2023,31,1,2023,villahermosa castro betsy del valle,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0177,machala,el oro
+872,2187,2143,28-02-2023,28,2,2023,villahermosa castro betsy del valle,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0177,machala,el oro
+403,2214,7,31-12-2022,31,12,2022,yancha llumitaci juan francisco,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0220,ambato,tungurahua
+407,222,7,31-12-2022,31,12,2022,benavides criollo juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0019,guayaquil,guayas
+649,222,2142,31-01-2023,31,1,2023,benavides criollo juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0019,guayaquil,guayas
+411,2227,7,31-12-2022,31,12,2022,yupangui asanza victor fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0183,machala,el oro
+412,2228,7,31-12-2022,31,12,2022,yuquilema vilema juan pablo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0198,riobamba,chimborazo
+419,2241,7,31-12-2022,31,12,2022,zambrano vera gonzalo javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0140,manta,manabi
+421,2243,7,31-12-2022,31,12,2022,zambrano zamora juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0173,buena fe,sin provincia
+424,2248,7,31-12-2022,31,12,2022,zerpa santos henry dario,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0003,quito,pichincha
+425,2250,7,31-12-2022,31,12,2022,zhagui jaiguay paola mercedes,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0266,cuenca,azuay
+436,249,7,31-12-2022,31,12,2022,bravo recalde edison manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0056,quito,pichincha
+653,249,2142,31-01-2023,31,1,2023,bravo recalde edison manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0056,quito,pichincha
+437,25,7,31-12-2022,31,12,2022,acurio rodriguez nelson ricardo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0006,quito,pichincha
+438,250,7,31-12-2022,31,12,2022,briones garcia segundo efren,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0098,guayaquil,guayas
+441,259,7,31-12-2022,31,12,2022,burbano morillo diana katerine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0172,quito,pichincha
+654,259,2142,31-01-2023,31,1,2023,burbano morillo diana katerine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0172,quito,pichincha
+459,305,7,31-12-2022,31,12,2022,calva jimenez leodan luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0102,quito,pichincha
+464,320,7,31-12-2022,31,12,2022,campos alcivar jessica belen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0147,francisco de orellana,sin provincia
+663,320,2142,31-01-2023,31,1,2023,campos alcivar jessica belen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0147,francisco de orellana,sin provincia
+467,34,7,31-12-2022,31,12,2022,aguays garcia orlando sebastian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0017,quevedo,los rios
+471,358,7,31-12-2022,31,12,2022,carpio suarez esteban mauricio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0015,quito,pichincha
+472,360,7,31-12-2022,31,12,2022,carrera reyes kleber andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0080,ambato,tungurahua
+473,361,7,31-12-2022,31,12,2022,carrera toro luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0022,quito,pichincha
+476,366,7,31-12-2022,31,12,2022,carrillo ulloa christian david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0075,tena,napo
+484,387,7,31-12-2022,31,12,2022,castillo palacios francisco javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0051,francisco de orellana,sin provincia
+673,387,2143,28-02-2023,28,2,2023,castillo palacios francisco javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0051,francisco de orellana,sin provincia
+489,456,7,31-12-2022,31,12,2022,cevallos sanchez jhoselyn lizeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0083,rumiñahui,pichincha
+491,459,7,31-12-2022,31,12,2022,cevallos zurita francisco david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0018,rumiñahui,pichincha
+677,459,2143,28-02-2023,28,2,2023,cevallos zurita francisco david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0018,rumiñahui,pichincha
+499,481,7,31-12-2022,31,12,2022,checa calderon luis braulio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0014,guayaquil,guayas
+680,481,2143,28-02-2023,28,2,2023,checa calderon luis braulio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0014,guayaquil,guayas
+500,485,7,31-12-2022,31,12,2022,chicaiza guishcasho mercy alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0106,salcedo,cotopaxi
+681,485,2142,31-01-2023,31,1,2023,chicaiza guishcasho mercy alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0106,salcedo,cotopaxi
+505,490,7,31-12-2022,31,12,2022,chulca abalco edison ramiro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0180,cayambe,pichincha
+523,581,7,31-12-2022,31,12,2022,costales acurio jonathan wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0082,quito,pichincha
+694,581,2142,31-01-2023,31,1,2023,costales acurio jonathan wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0082,quito,pichincha
+525,585,7,31-12-2022,31,12,2022,criollo oña klever alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0045,quito,pichincha
+530,6,7,31-12-2022,31,12,2022,abril velez erika lucia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0087,puerto quito,pichincha
+627,6,2142,31-01-2023,31,1,2023,abril velez erika lucia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0087,puerto quito,pichincha
+531,60,7,31-12-2022,31,12,2022,almeida ruiz gloria tatiana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0210,quito,pichincha
+540,63,7,31-12-2022,31,12,2022,altamirano caiza marco vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0105,quito,pichincha
+633,63,2143,28-02-2023,28,2,2023,altamirano caiza marco vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0105,quito,pichincha
+549,65,7,31-12-2022,31,12,2022,altamirano quincha anthony damian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0064,quito,pichincha
+554,659,7,31-12-2022,31,12,2022,duque yaguache silvia paola,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0189,loja,loja
+558,70,7,31-12-2022,31,12,2022,alvarez jimenez jairo alexis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0007,ibarra,imbabura
+634,70,2143,28-02-2023,28,2,2023,alvarez jimenez jairo alexis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0007,ibarra,imbabura
+560,706,7,31-12-2022,31,12,2022,enriquez hidalgo dennys alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0278,quito,pichincha
+561,710,7,31-12-2022,31,12,2022,eras costa jose luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0119,loja,loja
+575,780,7,31-12-2022,31,12,2022,farinango defaz margarita alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0028,quito,pichincha
+712,780,2142,31-01-2023,31,1,2023,farinango defaz margarita alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0028,quito,pichincha
+579,810,7,31-12-2022,31,12,2022,flores salazar brayan arnold,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0005,cumanda,sin provincia
+713,810,2143,28-02-2023,28,2,2023,flores salazar brayan arnold,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0005,cumanda,sin provincia
+580,811,7,31-12-2022,31,12,2022,flores salvatierra cesar armando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0268,guayaquil,guayas
+581,812,7,31-12-2022,31,12,2022,flores sandoval edwin marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0201,salcedo,cotopaxi
+714,812,2143,28-02-2023,28,2,2023,flores sandoval edwin marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0201,salcedo,cotopaxi
+582,823,7,31-12-2022,31,12,2022,franco alarcon ingrid mariuxi,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0144,guayaquil,guayas
+715,823,2143,28-02-2023,28,2,2023,franco alarcon ingrid mariuxi,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0144,guayaquil,guayas
+586,877,7,31-12-2022,31,12,2022,galarza alay johanna ivonne,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0018,guayaquil,guayas
+596,922,7,31-12-2022,31,12,2022,gonzabay tomala ana belen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0012,guayaquil,guayas
+598,926,7,31-12-2022,31,12,2022,gonzalez calle alfredo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0034,cuenca,azuay
+601,934,7,31-12-2022,31,12,2022,gonzalez segovia diego xavier,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0013,quito,pichincha
+603,941,7,31-12-2022,31,12,2022,granda endara alex mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0100,cayambe,pichincha
+720,941,2143,28-02-2023,28,2,2023,granda endara alex mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0100,cayambe,pichincha
+619,98,7,31-12-2022,31,12,2022,angulo guerrero ronny joel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0230,esmeraldas,esmeraldas
+624,989,7,31-12-2022,31,12,2022,gutierrez soledispa jorge andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2022-0184,guayaquil,guayas
+626,995,7,31-12-2022,31,12,2022,guzman toasa francisco vicente,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0024,quito,pichincha
+734,995,2142,31-01-2023,31,1,2023,guzman toasa francisco vicente,calificado,capacitador independiente,resolución no. mdt-ci-ren-2022-0024,quito,pichincha
+1,1001,6,31-12-2021,31,12,2021,hasing sanchez samuel ricardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0361,guayaquil,guayas
+4,1006,6,31-12-2021,31,12,2021,hernandez velasquez marcos antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0002,guayaquil,guayas
+736,1006,2143,28-02-2023,28,2,2023,hernandez velasquez marcos antonio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0002,guayaquil,guayas
+5,1009,6,31-12-2021,31,12,2021,herrera daza jorge fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0107,quito,pichincha
+6,1011,6,31-12-2021,31,12,2021,herrera granja andrea soledad,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0207,quito,pichincha
+9,1024,6,31-12-2021,31,12,2021,huilcarema londo jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0497,quito,pichincha
+11,1027,6,31-12-2021,31,12,2021,hurtado nieto anita lorena,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0237,quito,pichincha
+14,1037,6,31-12-2021,31,12,2021,imba pineida edison miguel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0039,pedro moncayo,pichincha
+15,1043,6,31-12-2021,31,12,2021,inguillay naranjo fausto enrique,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0529,quito,pichincha
+16,108,6,31-12-2021,31,12,2021,arce vera luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0371,daule,guayas
+17,111,6,31-12-2021,31,12,2021,arevalo alvarado andrea aracely,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0323,guayaquil,guayas
+18,117,6,31-12-2021,31,12,2021,arias dominguez marjorie tatiana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0194,guayaquil,guayas
+19,120,6,31-12-2021,31,12,2021,arias proaño carlos kevin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0386,quito,pichincha
+20,1238,6,31-12-2021,31,12,2021,iturralde garcia jefferson david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0254,cuenca,azuay
+739,1238,2142,31-01-2023,31,1,2023,iturralde garcia jefferson david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0254,cuenca,azuay
+21,1239,6,31-12-2021,31,12,2021,iturralde paredes carmen cecilia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0213,ambato,tungurahua
+740,1239,2142,31-01-2023,31,1,2023,iturralde paredes carmen cecilia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0213,ambato,tungurahua
+22,1240,6,31-12-2021,31,12,2021,izurieta chicaiza elisabeth marlene,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0443,latacunga,cotopaxi
+23,1246,6,31-12-2021,31,12,2021,jacome yanez carla lissette,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0422,ambato,tungurahua
+24,1247,6,31-12-2021,31,12,2021,jacome yanez jessica paola,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0275,ambato,tungurahua
+25,125,6,31-12-2021,31,12,2021,armijo nuñez gina paola,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0116,guayaquil,guayas
+638,125,2142,31-01-2023,31,1,2023,armijo nuñez gina paola,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0116,guayaquil,guayas
+26,1250,6,31-12-2021,31,12,2021,jaimes gutierrez robinson,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0305,santo domingo,santo domingo de los tsachilas
+28,1253,6,31-12-2021,31,12,2021,jara frias edwin vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0048,sucua,sin provincia
+741,1253,2142,31-01-2023,31,1,2023,jara frias edwin vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0048,sucua,sin provincia
+29,1257,6,31-12-2021,31,12,2021,jaramillo sanchez viviana salome,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0022,quito,pichincha
+742,1257,2143,28-02-2023,28,2,2023,jaramillo sanchez viviana salome,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0022,quito,pichincha
+31,1263,6,31-12-2021,31,12,2021,jarrin tocto veronica paulina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0013,quito,pichincha
+743,1263,2143,28-02-2023,28,2,2023,jarrin tocto veronica paulina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0013,quito,pichincha
+33,1266,6,31-12-2021,31,12,2021,jimenez asanza juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0381,quito,pichincha
+34,1267,6,31-12-2021,31,12,2021,jimenez aviles adriana pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0229,guayaquil,guayas
+744,1267,2142,31-01-2023,31,1,2023,jimenez aviles adriana pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0229,guayaquil,guayas
+35,1268,6,31-12-2021,31,12,2021,jimenez castro wilson fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0133,ambato,tungurahua
+36,1269,6,31-12-2021,31,12,2021,jimenez chicaiza rafael alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0280,quito,pichincha
+37,127,6,31-12-2021,31,12,2021,arreaga sanchez nina veronica,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0317,guayaquil,guayas
+639,127,2143,28-02-2023,28,2,2023,arreaga sanchez nina veronica,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0317,guayaquil,guayas
+38,1270,6,31-12-2021,31,12,2021,jimenez loor cristhian wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0153,lago agrio,sucumbios
+745,1270,2143,28-02-2023,28,2,2023,jimenez loor cristhian wilfrido,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0153,lago agrio,sucumbios
+39,1272,6,31-12-2021,31,12,2021,jimenez rosales cristhian javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0561,la concordia (santo domingo de los tsachilas),sin provincia
+41,1275,6,31-12-2021,31,12,2021,jimenez tamayo jhuliana maribel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0377,loja,loja
+746,1275,2142,31-01-2023,31,1,2023,jimenez tamayo jhuliana maribel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0377,loja,loja
+43,128,6,31-12-2021,31,12,2021,arroyo leon elizabeth del carmen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0011,quito,pichincha
+640,128,2143,28-02-2023,28,2,2023,arroyo leon elizabeth del carmen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0011,quito,pichincha
+44,1281,6,31-12-2021,31,12,2021,jurado golles benjamin victor,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0027,ambato,tungurahua
+45,1282,6,31-12-2021,31,12,2021,jurado valle ivan rodrigo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0267,guayaquil,guayas
+46,1294,6,31-12-2021,31,12,2021,lalangui lima maritza silvana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0148,loja,loja
+47,1298,6,31-12-2021,31,12,2021,larrea arteaga michael andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0231,quito,pichincha
+49,1301,6,31-12-2021,31,12,2021,lavayen tomala juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0302,guayaquil,guayas
+748,1301,2142,31-01-2023,31,1,2023,lavayen tomala juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0302,guayaquil,guayas
+749,1301,2143,28-02-2023,28,2,2023,lavayen tomala juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0302,guayaquil,guayas
+50,1313,6,31-12-2021,31,12,2021,lema chimba edwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0077,quito,pichincha
+750,1313,2142,31-01-2023,31,1,2023,lema chimba edwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0077,quito,pichincha
+51,1315,6,31-12-2021,31,12,2021,lema moya jairo fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0514,quito,pichincha
+52,1316,6,31-12-2021,31,12,2021,lema recalde victor alfonso,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0184,quito,pichincha
+53,1333,6,31-12-2021,31,12,2021,ligña monta xavier freddy,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0009,quito,pichincha
+751,1333,2142,31-01-2023,31,1,2023,ligña monta xavier freddy,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0009,quito,pichincha
+55,1337,6,31-12-2021,31,12,2021,lindao sanchez luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0595,guayaquil,guayas
+57,1339,6,31-12-2021,31,12,2021,llano guanochanga ximena alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0065,mejia,pichincha
+58,1343,6,31-12-2021,31,12,2021,loachamin quinga edwin victor,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0612,quito,pichincha
+753,1343,2143,28-02-2023,28,2,2023,loachamin quinga edwin victor,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0612,quito,pichincha
+59,1345,6,31-12-2021,31,12,2021,loarte quinaucho maria veronica,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0341,quito,pichincha
+60,1348,6,31-12-2021,31,12,2021,lombeida tufiño jhalmar miguel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0154,guayaquil,guayas
+61,1349,6,31-12-2021,31,12,2021,loor muentes ramon antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0459,manta,manabi
+754,1349,2142,31-01-2023,31,1,2023,loor muentes ramon antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0459,manta,manabi
+755,1349,2143,28-02-2023,28,2,2023,loor muentes ramon antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0459,manta,manabi
+62,1350,6,31-12-2021,31,12,2021,loor parraga jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0652,santo domingo,santo domingo de los tsachilas
+756,1350,2142,31-01-2023,31,1,2023,loor parraga jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0652,santo domingo,santo domingo de los tsachilas
+63,1353,6,31-12-2021,31,12,2021,lopez chavez jose rene,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0019,quito,pichincha
+65,1358,6,31-12-2021,31,12,2021,lopez muñoz alvaro geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0147,quito,pichincha
+757,1358,2142,31-01-2023,31,1,2023,lopez muñoz alvaro geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0147,quito,pichincha
+758,1358,2143,28-02-2023,28,2,2023,lopez muñoz alvaro geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0147,quito,pichincha
+66,1359,6,31-12-2021,31,12,2021,lopez portilla amanda gabriela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0369,quito,pichincha
+68,1362,6,31-12-2021,31,12,2021,lopez silva edgar ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0162,ambato,tungurahua
+70,1364,6,31-12-2021,31,12,2021,lopez zhingre edmundo sebastian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0635,loja,loja
+72,1367,6,31-12-2021,31,12,2021,lozada pazmiño gerardo patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0249,quito,pichincha
+74,1370,6,31-12-2021,31,12,2021,luna lopez andrea kerly,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0215,guayaquil,guayas
+75,1371,6,31-12-2021,31,12,2021,luzuriaga cunto david antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0565,guayaquil,guayas
+77,1379,6,31-12-2021,31,12,2021,malave lino hamilton gustavo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0476,duran,sin provincia
+78,1380,6,31-12-2021,31,12,2021,maldonado andino patricio fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0006,francisco de orellana,sin provincia
+80,1385,6,31-12-2021,31,12,2021,maldonado renteria omar guillermo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0409,pasaje,el oro
+81,1386,6,31-12-2021,31,12,2021,malla alvarado franklin yovani,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0269,loja,loja
+82,1390,6,31-12-2021,31,12,2021,mantilla muñoz martin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0210,antonio ante,imbabura
+84,1393,6,31-12-2021,31,12,2021,manzano diaz mirtha,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0010,milagro,guayas
+759,1393,2142,31-01-2023,31,1,2023,manzano diaz mirtha,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0010,milagro,guayas
+85,1395,6,31-12-2021,31,12,2021,marañon rueda jose miguel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0024,guayaquil,guayas
+86,1397,6,31-12-2021,31,12,2021,marin lopez carlos fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0583,quito,pichincha
+87,1398,6,31-12-2021,31,12,2021,marin quishpe hector raul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0461,quito,pichincha
+88,1401,6,31-12-2021,31,12,2021,marquez guzman marco antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0439,la concordia (santo domingo de los tsachilas),sin provincia
+760,1401,2143,28-02-2023,28,2,2023,marquez guzman marco antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0439,la concordia (santo domingo de los tsachilas),sin provincia
+89,1402,6,31-12-2021,31,12,2021,martinez freire silvia gabriela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0061,ambato,tungurahua
+761,1402,2143,28-02-2023,28,2,2023,martinez freire silvia gabriela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0061,ambato,tungurahua
+90,1406,6,31-12-2021,31,12,2021,martinez sarabia marcelo javier,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0033,quevedo,los rios
+762,1406,2142,31-01-2023,31,1,2023,martinez sarabia marcelo javier,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0033,quevedo,los rios
+763,1406,2143,28-02-2023,28,2,2023,martinez sarabia marcelo javier,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0033,quevedo,los rios
+91,1408,6,31-12-2021,31,12,2021,maruri cepeda carlos abdon,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0087,guayaquil,guayas
+92,1413,6,31-12-2021,31,12,2021,matute cobos edwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0322,guayaquil,guayas
+764,1413,2142,31-01-2023,31,1,2023,matute cobos edwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0322,guayaquil,guayas
+94,1416,6,31-12-2021,31,12,2021,mecias herrera nelson luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0034,la concordia (santo domingo de los tsachilas),sin provincia
+95,1420,6,31-12-2021,31,12,2021,medina ayala marco fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0026,latacunga,cotopaxi
+96,1430,6,31-12-2021,31,12,2021,mendez dumas maria jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0608,cuenca,azuay
+765,1430,2143,28-02-2023,28,2,2023,mendez dumas maria jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0608,cuenca,azuay
+98,1438,6,31-12-2021,31,12,2021,mera mora carlos eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0078,milagro,guayas
+99,1439,6,31-12-2021,31,12,2021,mera pereas jonathan ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0020,guayaquil,guayas
+100,1441,6,31-12-2021,31,12,2021,merino guevara doris jeaneth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0097,mejia,pichincha
+767,1441,2142,31-01-2023,31,1,2023,merino guevara doris jeaneth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0097,mejia,pichincha
+101,1453,6,31-12-2021,31,12,2021,miranda miranda jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0088,quito,pichincha
+768,1453,2142,31-01-2023,31,1,2023,miranda miranda jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0088,quito,pichincha
+102,1455,6,31-12-2021,31,12,2021,miranda ruiz edmundo domingo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0175,tena,napo
+103,1457,6,31-12-2021,31,12,2021,mise herrera jaime danilo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0015,latacunga,cotopaxi
+769,1457,2143,28-02-2023,28,2,2023,mise herrera jaime danilo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0015,latacunga,cotopaxi
+104,1464,6,31-12-2021,31,12,2021,molina gomez jorge adrian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0653,el guabo,el oro
+770,1464,2142,31-01-2023,31,1,2023,molina gomez jorge adrian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0653,el guabo,el oro
+105,1465,6,31-12-2021,31,12,2021,molina villacis luis anibal,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0581,salcedo,cotopaxi
+106,1468,6,31-12-2021,31,12,2021,monga sanchez diego paul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0096,latacunga,cotopaxi
+771,1468,2143,28-02-2023,28,2,2023,monga sanchez diego paul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0096,latacunga,cotopaxi
+107,1469,6,31-12-2021,31,12,2021,monga sanchez mercedes belen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0360,latacunga,cotopaxi
+108,1470,6,31-12-2021,31,12,2021,monge ortiz christian santiago,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0471,quito,pichincha
+772,1470,2143,28-02-2023,28,2,2023,monge ortiz christian santiago,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0471,quito,pichincha
+109,1472,6,31-12-2021,31,12,2021,monrroy parra angel eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0071,guayaquil,guayas
+110,1474,6,31-12-2021,31,12,2021,montalvan perez lisseth mariela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0416,cuenca,azuay
+111,1475,6,31-12-2021,31,12,2021,montalvo paspuel juan gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0198,ibarra,imbabura
+112,1476,6,31-12-2021,31,12,2021,montaquiza herrera byron andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0058,quito,pichincha
+773,1476,2142,31-01-2023,31,1,2023,montaquiza herrera byron andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0058,quito,pichincha
+114,1479,6,31-12-2021,31,12,2021,montenegro tomala yelixa dayana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0141,quito,pichincha
+774,1479,2142,31-01-2023,31,1,2023,montenegro tomala yelixa dayana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0141,quito,pichincha
+115,1481,6,31-12-2021,31,12,2021,montero bueno danilo fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0171,lago agrio,sucumbios
+116,1482,6,31-12-2021,31,12,2021,montero cardenas diana brigitte,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0285,rumiñahui,pichincha
+122,1496,6,31-12-2021,31,12,2021,mora navas harold alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0186,rumiñahui,pichincha
+123,1502,6,31-12-2021,31,12,2021,morales salazar carlos gerardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0158,guayaquil,guayas
+776,1502,2142,31-01-2023,31,1,2023,morales salazar carlos gerardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0158,guayaquil,guayas
+124,1505,6,31-12-2021,31,12,2021,moran ambuludi johnny byron,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0236,quito,pichincha
+125,1506,6,31-12-2021,31,12,2021,moran paez jose luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0611,quito,pichincha
+128,1514,6,31-12-2021,31,12,2021,moreira cedeño steeven andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0181,manta,manabi
+129,1515,6,31-12-2021,31,12,2021,moreira cornejo heriberto luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0263,guayaquil,guayas
+131,1521,6,31-12-2021,31,12,2021,moreno castelo wilson kleber,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0570,quito,pichincha
+132,1523,6,31-12-2021,31,12,2021,moreno moreno javier yoel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0349,quito,pichincha
+133,1525,6,31-12-2021,31,12,2021,moreta neira andres sebastian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0613,quito,pichincha
+134,1526,6,31-12-2021,31,12,2021,moreta yandun darwin rolando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0628,santo domingo,santo domingo de los tsachilas
+777,1526,2143,28-02-2023,28,2,2023,moreta yandun darwin rolando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0628,santo domingo,santo domingo de los tsachilas
+135,1527,6,31-12-2021,31,12,2021,morocho diaz leonyd fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0135,guayaquil,guayas
+136,1532,6,31-12-2021,31,12,2021,moya cabezas ivan alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0216,quito,pichincha
+778,1532,2143,28-02-2023,28,2,2023,moya cabezas ivan alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0216,quito,pichincha
+137,1539,6,31-12-2021,31,12,2021,murillo calderon felix mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0648,ambato,tungurahua
+779,1539,2142,31-01-2023,31,1,2023,murillo calderon felix mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0648,ambato,tungurahua
+138,1541,6,31-12-2021,31,12,2021,muso tiban cristian fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0002,latacunga,cotopaxi
+139,1544,6,31-12-2021,31,12,2021,muñoz chavez miguel sebastian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0527,quito,pichincha
+140,1545,6,31-12-2021,31,12,2021,muñoz fernandez dennis bryan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0012,guayaquil,guayas
+780,1545,2142,31-01-2023,31,1,2023,muñoz fernandez dennis bryan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0012,guayaquil,guayas
+781,1545,2143,28-02-2023,28,2,2023,muñoz fernandez dennis bryan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0012,guayaquil,guayas
+143,1549,6,31-12-2021,31,12,2021,muñoz ricaurte gianella paula,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0592,guayaquil,guayas
+782,1549,2142,31-01-2023,31,1,2023,muñoz ricaurte gianella paula,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0592,guayaquil,guayas
+783,1549,2143,28-02-2023,28,2,2023,muñoz ricaurte gianella paula,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0592,guayaquil,guayas
+145,1550,6,31-12-2021,31,12,2021,muñoz ricaurte osmar antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0593,guayaquil,guayas
+784,1550,2142,31-01-2023,31,1,2023,muñoz ricaurte osmar antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0593,guayaquil,guayas
+146,1551,6,31-12-2021,31,12,2021,muñoz villegas johnny jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0104,guayaquil,guayas
+147,1552,6,31-12-2021,31,12,2021,muñoz zambrano diego antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0146,bolivar (manabi),sin provincia
+148,1558,6,31-12-2021,31,12,2021,narvaez benavides maria fernanda,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0069,quito,pichincha
+149,156,6,31-12-2021,31,12,2021,atiencia uribe edison deivy,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0522,quito,pichincha
+150,1568,6,31-12-2021,31,12,2021,nazamuez eche blanca edilsa,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0025,quito,pichincha
+152,1571,6,31-12-2021,31,12,2021,nieto pico luis dario,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0217,ambato,tungurahua
+153,1572,6,31-12-2021,31,12,2021,nieto vera milena betsabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0647,guayaquil,guayas
+154,1576,6,31-12-2021,31,12,2021,noboa viteri erika juana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0289,duran,sin provincia
+155,1577,6,31-12-2021,31,12,2021,nolivos mantilla katiuska jeanneth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0327,quito,pichincha
+785,1577,2142,31-01-2023,31,1,2023,nolivos mantilla katiuska jeanneth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0327,quito,pichincha
+156,1588,6,31-12-2021,31,12,2021,nuñez franco kleber jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0076,milagro,guayas
+786,1588,2143,28-02-2023,28,2,2023,nuñez franco kleber jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0076,milagro,guayas
+157,1593,6,31-12-2021,31,12,2021,ochoa barreto mariela estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0568,cuenca,azuay
+159,1597,6,31-12-2021,31,12,2021,olmedo becerra gabriela estefania,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0017,quito,pichincha
+787,1597,2142,31-01-2023,31,1,2023,olmedo becerra gabriela estefania,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0017,quito,pichincha
+160,1603,6,31-12-2021,31,12,2021,ordoñez chavez damaris lisseth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0152,esmeraldas,esmeraldas
+162,1609,6,31-12-2021,31,12,2021,orozco lima oscar oswaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0367,guayaquil,guayas
+788,1609,2142,31-01-2023,31,1,2023,orozco lima oscar oswaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0367,guayaquil,guayas
+163,1612,6,31-12-2021,31,12,2021,ortega reyes vicente angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0028,babahoyo,los rios
+789,1612,2143,28-02-2023,28,2,2023,ortega reyes vicente angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0028,babahoyo,los rios
+164,1617,6,31-12-2021,31,12,2021,ortiz rivera magdalena del cisne,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0199,pasaje,el oro
+165,1619,6,31-12-2021,31,12,2021,otañez herrera cristian daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0329,latacunga,cotopaxi
+790,1619,2143,28-02-2023,28,2,2023,otañez herrera cristian daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0329,latacunga,cotopaxi
+166,1620,6,31-12-2021,31,12,2021,otero gorotiza tomas victoriano,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0192,guayaquil,guayas
+167,1622,6,31-12-2021,31,12,2021,ovalles ramirez charlie wittmann,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0630,guayaquil,guayas
+169,1632,6,31-12-2021,31,12,2021,pacheco fabara franklin cristobal,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0597,quito,pichincha
+172,1636,6,31-12-2021,31,12,2021,paida barrera santiago fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0660,rumiñahui,pichincha
+792,1636,2143,28-02-2023,28,2,2023,paida barrera santiago fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0660,rumiñahui,pichincha
+173,1638,6,31-12-2021,31,12,2021,palacios rojas john paul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0643,quito,pichincha
+174,1639,6,31-12-2021,31,12,2021,palma jaramillo diego fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0603,loja,loja
+175,1640,6,31-12-2021,31,12,2021,palma ramos cristhian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0200,manta,manabi
+793,1640,2143,28-02-2023,28,2,2023,palma ramos cristhian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0200,manta,manabi
+179,1645,6,31-12-2021,31,12,2021,pantoja duran danny alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0208,quito,pichincha
+182,165,6,31-12-2021,31,12,2021,avila cedeño cesar gregorio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0211,guayaquil,guayas
+183,1650,6,31-12-2021,31,12,2021,paredes orbe hilda cruzkaya,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0018,quito,pichincha
+795,1650,2142,31-01-2023,31,1,2023,paredes orbe hilda cruzkaya,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0018,quito,pichincha
+184,1653,6,31-12-2021,31,12,2021,paredes valencia diana carolina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0466,quito,pichincha
+185,1655,6,31-12-2021,31,12,2021,parra gallardo paola viviana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0519,quito,pichincha
+796,1655,2143,28-02-2023,28,2,2023,parra gallardo paola viviana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0519,quito,pichincha
+187,1664,6,31-12-2021,31,12,2021,paucar salazar tatiana magali,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0600,quito,pichincha
+798,1664,2143,28-02-2023,28,2,2023,paucar salazar tatiana magali,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0600,quito,pichincha
+188,1668,6,31-12-2021,31,12,2021,pazmiño cruzatti ivan efrain,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0531,quito,pichincha
+189,1672,6,31-12-2021,31,12,2021,pazmiño villafuerte guillermo isaac,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0428,ambato,tungurahua
+799,1672,2142,31-01-2023,31,1,2023,pazmiño villafuerte guillermo isaac,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0428,ambato,tungurahua
+190,1677,6,31-12-2021,31,12,2021,perez centeno henry ramon,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0408,guayaquil,guayas
+800,1677,2143,28-02-2023,28,2,2023,perez centeno henry ramon,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0408,guayaquil,guayas
+192,168,6,31-12-2021,31,12,2021,aviles bastidas ashley katerine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0193,duran,sin provincia
+641,168,2142,31-01-2023,31,1,2023,aviles bastidas ashley katerine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0193,duran,sin provincia
+193,1680,6,31-12-2021,31,12,2021,perez mazon fabian antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0342,riobamba,chimborazo
+195,1685,6,31-12-2021,31,12,2021,perez velastegui washington heriberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0169,quito,pichincha
+801,1685,2143,28-02-2023,28,2,2023,perez velastegui washington heriberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0169,quito,pichincha
+196,1688,6,31-12-2021,31,12,2021,pesantez pesantez adrian fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0365,cuenca,azuay
+197,1689,6,31-12-2021,31,12,2021,peña encalada pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0101,cuenca,azuay
+802,1689,2143,28-02-2023,28,2,2023,peña encalada pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0101,cuenca,azuay
+198,1690,6,31-12-2021,31,12,2021,peñafiel artieda luis rene,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0654,quito,pichincha
+199,1691,6,31-12-2021,31,12,2021,peñafiel mora veronica fernanda,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0155,cuenca,azuay
+200,1698,6,31-12-2021,31,12,2021,pilataxi gonzalez estefany valeria,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0333,mejia,pichincha
+803,1698,2142,31-01-2023,31,1,2023,pilataxi gonzalez estefany valeria,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0333,mejia,pichincha
+201,1699,6,31-12-2021,31,12,2021,pilatuña guarnizo andrea carolina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0574,quito,pichincha
+202,1700,6,31-12-2021,31,12,2021,pillajo loor roberto carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0352,quijos,napo
+204,1702,6,31-12-2021,31,12,2021,pilligua orbe darlin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0277,duran,sin provincia
+805,1702,2142,31-01-2023,31,1,2023,pilligua orbe darlin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0277,duran,sin provincia
+806,1702,2143,28-02-2023,28,2,2023,pilligua orbe darlin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0277,duran,sin provincia
+206,1706,6,31-12-2021,31,12,2021,pineda gallardo jonathan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0545,playas,guayas
+207,1709,6,31-12-2021,31,12,2021,pinos flores patricio xavier,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0006,quito,pichincha
+208,171,6,31-12-2021,31,12,2021,ayala figueroa veronica alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0109,quito,pichincha
+209,1710,6,31-12-2021,31,12,2021,pintado romero jefferson alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0656,calvas,loja
+807,1710,2142,31-01-2023,31,1,2023,pintado romero jefferson alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0656,calvas,loja
+211,1721,6,31-12-2021,31,12,2021,posada sanchez pablo romulo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0063,daule,guayas
+215,1729,6,31-12-2021,31,12,2021,proaño triviño marcelo alejandro,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0021,rumiñahui,pichincha
+808,1729,2142,31-01-2023,31,1,2023,proaño triviño marcelo alejandro,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0021,rumiñahui,pichincha
+216,173,6,31-12-2021,31,12,2021,ayala monar christian mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0394,guaranda,bolivar
+217,1731,6,31-12-2021,31,12,2021,proaño vasconez paul andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0645,daule,guayas
+218,174,6,31-12-2021,31,12,2021,ayala spooner iliana tamara,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0569,quito,pichincha
+642,174,2143,28-02-2023,28,2,2023,ayala spooner iliana tamara,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0569,quito,pichincha
+220,1743,6,31-12-2021,31,12,2021,punguil moquinche edwin geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0067,quito,pichincha
+222,1748,6,31-12-2021,31,12,2021,quezada correa lady mireya,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0399,santa rosa,el oro
+809,1748,2143,28-02-2023,28,2,2023,quezada correa lady mireya,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0399,santa rosa,el oro
+223,175,6,31-12-2021,31,12,2021,aymacaña jami luis alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0623,latacunga,cotopaxi
+643,175,2142,31-01-2023,31,1,2023,aymacaña jami luis alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0623,latacunga,cotopaxi
+224,1750,6,31-12-2021,31,12,2021,quezada viñanzaca cristhian mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0113,la troncal,cañar
+810,1750,2142,31-01-2023,31,1,2023,quezada viñanzaca cristhian mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0113,la troncal,cañar
+225,1753,6,31-12-2021,31,12,2021,quimi lopez dennis ignacio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0347,duran,sin provincia
+811,1753,2142,31-01-2023,31,1,2023,quimi lopez dennis ignacio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0347,duran,sin provincia
+227,1755,6,31-12-2021,31,12,2021,quimi zambrano genesis paulina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0632,santa elena,santa elena
+812,1755,2142,31-01-2023,31,1,2023,quimi zambrano genesis paulina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0632,santa elena,santa elena
+228,1758,6,31-12-2021,31,12,2021,quinllin tituana rony wladimir,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0455,lago agrio,sucumbios
+230,1760,6,31-12-2021,31,12,2021,quintanilla montalvo luis fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0178,ibarra,imbabura
+232,1762,6,31-12-2021,31,12,2021,quishpe coyago darwin alexis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0182,cayambe,pichincha
+813,1762,2142,31-01-2023,31,1,2023,quishpe coyago darwin alexis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0182,cayambe,pichincha
+233,1763,6,31-12-2021,31,12,2021,quishpe lema edison patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0243,quito,pichincha
+235,1767,6,31-12-2021,31,12,2021,quishpe toapanta alejandro fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0102,rumiñahui,pichincha
+814,1767,2142,31-01-2023,31,1,2023,quishpe toapanta alejandro fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0102,rumiñahui,pichincha
+236,1769,6,31-12-2021,31,12,2021,quiñonez mera marlon fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0462,daule,guayas
+237,177,6,31-12-2021,31,12,2021,ayo barros luis danilo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0500,quito,pichincha
+645,177,2142,31-01-2023,31,1,2023,ayo barros luis danilo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0500,quito,pichincha
+238,1772,6,31-12-2021,31,12,2021,ramirez cabrera mario esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0085,quito,pichincha
+240,1778,6,31-12-2021,31,12,2021,ramirez villacres jorge agustin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0465,guayaquil,guayas
+241,1779,6,31-12-2021,31,12,2021,ramos albuja ricardo marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0585,quito,pichincha
+815,1779,2143,28-02-2023,28,2,2023,ramos albuja ricardo marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0585,quito,pichincha
+243,1790,6,31-12-2021,31,12,2021,rendon basabe ulises alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0488,quito,pichincha
+244,1793,6,31-12-2021,31,12,2021,reyes castillo valeria alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0644,loja,loja
+816,1793,2143,28-02-2023,28,2,2023,reyes castillo valeria alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0644,loja,loja
+245,1794,6,31-12-2021,31,12,2021,reyes pozo mauricio david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0244,rumiñahui,pichincha
+247,1798,6,31-12-2021,31,12,2021,riera vasquez dayanna solange,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0606,guayaquil,guayas
+819,1798,2142,31-01-2023,31,1,2023,riera vasquez dayanna solange,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0606,guayaquil,guayas
+248,1800,6,31-12-2021,31,12,2021,riofrio lopez luis eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0301,tena,napo
+249,1801,6,31-12-2021,31,12,2021,rios lugo jipson joel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0491,el empalme,guayas
+250,1806,6,31-12-2021,31,12,2021,rivera burbano marco fernando,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0028,crnl. marcelino maridueña,sin provincia
+252,1810,6,31-12-2021,31,12,2021,robalino chasipanta johana estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0348,santa cruz,galapagos
+253,1813,6,31-12-2021,31,12,2021,robayo cabrera glen freddy,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0259,duran,sin provincia
+254,1815,6,31-12-2021,31,12,2021,rocano yumiceba carlos napoleon,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0541,riobamba,chimborazo
+256,1822,6,31-12-2021,31,12,2021,rodriguez hurtado deyvi luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0036,santo domingo,santo domingo de los tsachilas
+820,1822,2142,31-01-2023,31,1,2023,rodriguez hurtado deyvi luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0036,santo domingo,santo domingo de los tsachilas
+258,1828,6,31-12-2021,31,12,2021,rodriguez velez aster tercero,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0649,jaramijo,sin provincia
+260,1830,6,31-12-2021,31,12,2021,rogel castillo willian jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0068,machala,el oro
+262,1836,6,31-12-2021,31,12,2021,romero freire danilo xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0303,quito,pichincha
+263,1838,6,31-12-2021,31,12,2021,romero gonzalez juan alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0247,quito,pichincha
+822,1838,2143,28-02-2023,28,2,2023,romero gonzalez juan alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0247,quito,pichincha
+264,184,6,31-12-2021,31,12,2021,bajaña quiroz jose eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0160,guayaquil,guayas
+265,1841,6,31-12-2021,31,12,2021,romero tejada fernando manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0004,milagro,guayas
+823,1841,2142,31-01-2023,31,1,2023,romero tejada fernando manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0004,milagro,guayas
+824,1841,2143,28-02-2023,28,2,2023,romero tejada fernando manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0004,milagro,guayas
+269,1854,6,31-12-2021,31,12,2021,rovalino tello fausto marcelo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0005,quito,pichincha
+827,1854,2142,31-01-2023,31,1,2023,rovalino tello fausto marcelo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0005,quito,pichincha
+270,1855,6,31-12-2021,31,12,2021,ruales franco lenin daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0110,quito,pichincha
+828,1855,2142,31-01-2023,31,1,2023,ruales franco lenin daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0110,quito,pichincha
+829,1855,2143,28-02-2023,28,2,2023,ruales franco lenin daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0110,quito,pichincha
+271,1857,6,31-12-2021,31,12,2021,ruales vera nelson benito,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0049,ventanas,los rios
+272,1861,6,31-12-2021,31,12,2021,rueda lopez carol andrea,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0445,quito,pichincha
+273,1863,6,31-12-2021,31,12,2021,ruiz ayme luis david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0622,francisco de orellana,sin provincia
+278,1873,6,31-12-2021,31,12,2021,salas becerra paul fabian,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0010,rumiñahui,pichincha
+280,1882,6,31-12-2021,31,12,2021,salgado andrade gilbert vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0187,guayaquil,guayas
+831,1882,2142,31-01-2023,31,1,2023,salgado andrade gilbert vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0187,guayaquil,guayas
+832,1882,2143,28-02-2023,28,2,2023,salgado andrade gilbert vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0187,guayaquil,guayas
+281,1883,6,31-12-2021,31,12,2021,salgado erazo cristian marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0344,riobamba,chimborazo
+284,1886,6,31-12-2021,31,12,2021,salinas cueva victor miguel,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0004,quito,pichincha
+835,1886,2142,31-01-2023,31,1,2023,salinas cueva victor miguel,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0004,quito,pichincha
+836,1886,2143,28-02-2023,28,2,2023,salinas cueva victor miguel,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0004,quito,pichincha
+286,1888,6,31-12-2021,31,12,2021,saltos lopez luis alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0528,quito,pichincha
+287,189,6,31-12-2021,31,12,2021,baque ponce jhoan enrique,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0034,guayaquil,guayas
+647,189,2143,28-02-2023,28,2,2023,baque ponce jhoan enrique,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0034,guayaquil,guayas
+288,1892,6,31-12-2021,31,12,2021,sampedro flores ernesto wladimir,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0214,quito,pichincha
+291,19,6,31-12-2021,31,12,2021,acosta mensias david alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0380,quito,pichincha
+292,190,6,31-12-2021,31,12,2021,baque robles byron alfonso,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0534,puerto quito,pichincha
+648,190,2143,28-02-2023,28,2,2023,baque robles byron alfonso,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0534,puerto quito,pichincha
+294,1903,6,31-12-2021,31,12,2021,sanchez mejia elizabeth samanta,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0142,quito,pichincha
+295,1904,6,31-12-2021,31,12,2021,sanchez ortega gabriela fernanda,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0246,quito,pichincha
+297,1910,6,31-12-2021,31,12,2021,sanchez suquillo mylena karina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0582,rumiñahui,pichincha
+298,1911,6,31-12-2021,31,12,2021,sandoval castillo manuel alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0090,guayaquil,guayas
+837,1911,2142,31-01-2023,31,1,2023,sandoval castillo manuel alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0090,guayaquil,guayas
+299,1912,6,31-12-2021,31,12,2021,sandoval montoya johnny jose,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0012,guayaquil,guayas
+300,1913,6,31-12-2021,31,12,2021,sanmartin quizhpi jefferson jose,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0011,cuenca,azuay
+838,1913,2143,28-02-2023,28,2,2023,sanmartin quizhpi jefferson jose,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0011,cuenca,azuay
+302,1916,6,31-12-2021,31,12,2021,santamaria salazar guido romeo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0025,quito,pichincha
+307,1931,6,31-12-2021,31,12,2021,segovia galarraga alejandro fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0331,quito,pichincha
+308,1953,6,31-12-2021,31,12,2021,silva endara ramiro estuardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0617,quito,pichincha
+309,1955,6,31-12-2021,31,12,2021,silva garcia francisco alberto,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0020,quito,pichincha
+841,1955,2142,31-01-2023,31,1,2023,silva garcia francisco alberto,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0020,quito,pichincha
+310,1956,6,31-12-2021,31,12,2021,silva montoya oscar fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0479,pastaza,pastaza
+312,1958,6,31-12-2021,31,12,2021,silva rodriguez juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0111,quito,pichincha
+313,1960,6,31-12-2021,31,12,2021,simba maxi jhonatan aladino,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0164,quito,pichincha
+842,1960,2143,28-02-2023,28,2,2023,simba maxi jhonatan aladino,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0164,quito,pichincha
+314,1961,6,31-12-2021,31,12,2021,simbaña benalcazar edison fernando,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0031,quito,pichincha
+315,197,6,31-12-2021,31,12,2021,barre gilce gissela fernanda,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0245,la troncal,cañar
+318,1989,6,31-12-2021,31,12,2021,soto salazar daniel leonardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0553,quito,pichincha
+322,2000,6,31-12-2021,31,12,2021,suquillo onofa ruben dario,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0174,cayambe,pichincha
+324,2004,6,31-12-2021,31,12,2021,taipicaña cayambe fabricio rodrigo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0335,quito,pichincha
+326,2013,6,31-12-2021,31,12,2021,tayupanta lopez amparo del consuelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0195,mejia,pichincha
+327,2018,6,31-12-2021,31,12,2021,tello intriago francisco javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0165,riobamba,chimborazo
+328,2019,6,31-12-2021,31,12,2021,tello toapanta pablo hernan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0297,quito,pichincha
+844,2019,2143,28-02-2023,28,2,2023,tello toapanta pablo hernan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0297,quito,pichincha
+329,2023,6,31-12-2021,31,12,2021,tenelema allaica victor hugo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0406,riobamba,chimborazo
+845,2023,2143,28-02-2023,28,2,2023,tenelema allaica victor hugo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0406,riobamba,chimborazo
+330,2024,6,31-12-2021,31,12,2021,tenjo alvarez susana carolina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0134,rumiñahui,pichincha
+332,2031,6,31-12-2021,31,12,2021,tigre quito lourdes veronica,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0602,cuenca,azuay
+333,2034,6,31-12-2021,31,12,2021,tituaña quilumba franklin gustavo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0575,quito,pichincha
+334,2035,6,31-12-2021,31,12,2021,toapanta acosta carlos germanico,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0520,cuenca,azuay
+338,2040,6,31-12-2021,31,12,2021,toca trujillo luis edison,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0508,quito,pichincha
+339,2041,6,31-12-2021,31,12,2021,tomala sanchez jhonny xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0364,duran,sin provincia
+340,2042,6,31-12-2021,31,12,2021,tomarema velasco alex german,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0268,mejia,pichincha
+341,2045,6,31-12-2021,31,12,2021,toro torres marco antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0475,guayaquil,guayas
+342,2047,6,31-12-2021,31,12,2021,torres andrade ricardo vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0204,quito,pichincha
+846,2047,2142,31-01-2023,31,1,2023,torres andrade ricardo vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0204,quito,pichincha
+344,2051,6,31-12-2021,31,12,2021,torres granda diana elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0001,daule,guayas
+847,2051,2143,28-02-2023,28,2,2023,torres granda diana elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0001,daule,guayas
+345,2052,6,31-12-2021,31,12,2021,torres haro esteban andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0242,quito,pichincha
+848,2052,2142,31-01-2023,31,1,2023,torres haro esteban andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0242,quito,pichincha
+346,2053,6,31-12-2021,31,12,2021,torres jumbo eddy manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0299,guayaquil,guayas
+849,2053,2143,28-02-2023,28,2,2023,torres jumbo eddy manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0299,guayaquil,guayas
+347,2054,6,31-12-2021,31,12,2021,torres klinger gianni alan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0543,daule,guayas
+348,2056,6,31-12-2021,31,12,2021,torres morales jenny marcela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0526,santo domingo,santo domingo de los tsachilas
+850,2056,2143,28-02-2023,28,2,2023,torres morales jenny marcela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0526,santo domingo,santo domingo de los tsachilas
+349,2058,6,31-12-2021,31,12,2021,torres puente ana bertha,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0258,quito,pichincha
+350,2066,6,31-12-2021,31,12,2021,troya andrade antonio jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0366,quito,pichincha
+351,2069,6,31-12-2021,31,12,2021,tupiza lamingo deysi lorena,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0438,quito,pichincha
+352,2073,6,31-12-2021,31,12,2021,ulloa martinez christian guillermo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0007,ambato,tungurahua
+353,2075,6,31-12-2021,31,12,2021,unapanta arias alexander andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0343,quito,pichincha
+851,2075,2143,28-02-2023,28,2,2023,unapanta arias alexander andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0343,quito,pichincha
+354,2100,6,31-12-2021,31,12,2021,urbina raza santiago salvador,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0121,ambato,tungurahua
+355,2102,6,31-12-2021,31,12,2021,urquia valencia christian hugo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0410,quito,pichincha
+356,2103,6,31-12-2021,31,12,2021,urquia valencia oscar mauricio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0008,quito,pichincha
+852,2103,2142,31-01-2023,31,1,2023,urquia valencia oscar mauricio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0008,quito,pichincha
+853,2103,2143,28-02-2023,28,2,2023,urquia valencia oscar mauricio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0008,quito,pichincha
+362,2115,6,31-12-2021,31,12,2021,valdivieso romero christian fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0661,quito,pichincha
+363,2116,6,31-12-2021,31,12,2021,valencia acosta jefferson eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0232,quito,pichincha
+857,2116,2142,31-01-2023,31,1,2023,valencia acosta jefferson eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0232,quito,pichincha
+364,2118,6,31-12-2021,31,12,2021,valencia nuñez edison roberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0576,ambato,tungurahua
+365,2119,6,31-12-2021,31,12,2021,valencia ramos angel vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0383,guayaquil,guayas
+858,2119,2143,28-02-2023,28,2,2023,valencia ramos angel vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0383,guayaquil,guayas
+366,2121,6,31-12-2021,31,12,2021,valenzuela mendieta richard oswaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0115,guayaquil,guayas
+369,2126,6,31-12-2021,31,12,2021,valle mayorga maritza yecenia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0041,ambato,tungurahua
+370,2127,6,31-12-2021,31,12,2021,valle mayorga paola michelle,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0196,cevallos,tungurahua
+374,2133,6,31-12-2021,31,12,2021,vasco carrasco daniel alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0223,ambato,tungurahua
+862,2133,2143,28-02-2023,28,2,2023,vasco carrasco daniel alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0223,ambato,tungurahua
+376,2137,6,31-12-2021,31,12,2021,vasquez alejandro cristian leonardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0640,loja,loja
+863,2137,2143,28-02-2023,28,2,2023,vasquez alejandro cristian leonardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0640,loja,loja
+377,2139,6,31-12-2021,31,12,2021,vasquez chiluisa alexander javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0636,quito,pichincha
+864,2139,2142,31-01-2023,31,1,2023,vasquez chiluisa alexander javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0636,quito,pichincha
+381,2150,6,31-12-2021,31,12,2021,velasco mora carlos eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0537,quito,pichincha
+866,2150,2142,31-01-2023,31,1,2023,velasco mora carlos eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0537,quito,pichincha
+382,2151,6,31-12-2021,31,12,2021,velasco pazmiño angel vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0472,pastaza,pastaza
+384,2153,6,31-12-2021,31,12,2021,velasquez cedeño mary carmen,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0556,portoviejo,manabi
+385,2156,6,31-12-2021,31,12,2021,velastegui quinapanta victor hugo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0357,quito,pichincha
+386,2160,6,31-12-2021,31,12,2021,veliz chevez rosendo edilberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0536,guayaquil,guayas
+388,217,6,31-12-2021,31,12,2021,bello delgado gabriela monserrate,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0140,manta,manabi
+392,2181,6,31-12-2021,31,12,2021,villafuerte mera edison daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0418,salinas,santa elena
+393,2185,6,31-12-2021,31,12,2021,villagomez valdez juan gabriel,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0003,quito,pichincha
+870,2185,2143,28-02-2023,28,2,2023,villagomez valdez juan gabriel,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0003,quito,pichincha
+395,2192,6,31-12-2021,31,12,2021,villarroel jaya juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0055,quito,pichincha
+873,2192,2143,28-02-2023,28,2,2023,villarroel jaya juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0055,quito,pichincha
+397,2196,6,31-12-2021,31,12,2021,viloria martinez claudio jose,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0016,joya de los sachas,sin provincia
+398,2198,6,31-12-2021,31,12,2021,vinueza lopez cristina nataly,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0279,ambato,tungurahua
+399,2201,6,31-12-2021,31,12,2021,viracucha masabanda luis alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0385,latacunga,cotopaxi
+400,2206,6,31-12-2021,31,12,2021,viñanzaca nacipucha maria olga,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0633,la troncal,cañar
+876,2206,2142,31-01-2023,31,1,2023,viñanzaca nacipucha maria olga,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0633,la troncal,cañar
+404,2215,6,31-12-2021,31,12,2021,yanez flores david xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0016,guayaquil,guayas
+405,2216,6,31-12-2021,31,12,2021,yanez moretta angel patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0625,quito,pichincha
+878,2216,2143,28-02-2023,28,2,2023,yanez moretta angel patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0625,quito,pichincha
+408,2221,6,31-12-2021,31,12,2021,yepez garcia yamil leonardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0353,guayaquil,guayas
+409,2223,6,31-12-2021,31,12,2021,yepez maygua marcelita veronica,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0490,riobamba,chimborazo
+413,2230,6,31-12-2021,31,12,2021,zambrano alvarez gema isabel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0218,manta,manabi
+414,2231,6,31-12-2021,31,12,2021,zambrano alvarez luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0555,manta,manabi
+879,2231,2143,28-02-2023,28,2,2023,zambrano alvarez luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0555,manta,manabi
+416,2233,6,31-12-2021,31,12,2021,zambrano guaman edison fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0209,machala,el oro
+880,2233,2143,28-02-2023,28,2,2023,zambrano guaman edison fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0209,machala,el oro
+417,2235,6,31-12-2021,31,12,2021,zambrano montoya joseline rebeca,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0525,guayaquil,guayas
+418,2240,6,31-12-2021,31,12,2021,zambrano santamaria christian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0080,quito,pichincha
+881,2240,2142,31-01-2023,31,1,2023,zambrano santamaria christian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0080,quito,pichincha
+420,2242,6,31-12-2021,31,12,2021,zambrano zambrano jhonny javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0225,rocafuerte,manabi
+422,2244,6,31-12-2021,31,12,2021,zambrano zurita jaime david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0120,quito,pichincha
+423,2246,6,31-12-2021,31,12,2021,zapata casa jorge david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0580,mejia,pichincha
+426,2251,6,31-12-2021,31,12,2021,zhiña villa dario xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0190,cuenca,azuay
+882,2251,2143,28-02-2023,28,2,2023,zhiña villa dario xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0190,cuenca,azuay
+427,2254,6,31-12-2021,31,12,2021,zuriaga anchundia maria jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0220,quevedo,los rios
+430,233,6,31-12-2021,31,12,2021,betancourt palacios david humberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0094,salinas,santa elena
+431,239,6,31-12-2021,31,12,2021,bombon bombon marcia patricia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0450,quito,pichincha
+432,24,6,31-12-2021,31,12,2021,acurio rivera alexandra pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0103,zaruma,el oro
+630,24,2142,31-01-2023,31,1,2023,acurio rivera alexandra pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0103,zaruma,el oro
+433,240,6,31-12-2021,31,12,2021,bonoso lima marlon orlando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0468,machala,el oro
+651,240,2143,28-02-2023,28,2,2023,bonoso lima marlon orlando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0468,machala,el oro
+434,241,6,31-12-2021,31,12,2021,borja jacome jiner flavio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0032,guayaquil,guayas
+652,241,2142,31-01-2023,31,1,2023,borja jacome jiner flavio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0032,guayaquil,guayas
+439,251,6,31-12-2021,31,12,2021,briones vera cristhofer rodolfo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0557,santo domingo,santo domingo de los tsachilas
+440,252,6,31-12-2021,31,12,2021,briones vera danna nicolle,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0480,santo domingo,santo domingo de los tsachilas
+442,260,6,31-12-2021,31,12,2021,burgos angulo darley jhosue,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0513,guayaquil,guayas
+443,261,6,31-12-2021,31,12,2021,burgos calle keisy joan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0567,guayaquil,guayas
+655,261,2142,31-01-2023,31,1,2023,burgos calle keisy joan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0567,guayaquil,guayas
+444,264,6,31-12-2021,31,12,2021,bustillos campaña lucia carolina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0138,ambato,tungurahua
+445,273,6,31-12-2021,31,12,2021,cabezas yanchapaxi saskya lizeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0354,quito,pichincha
+656,273,2143,28-02-2023,28,2,2023,cabezas yanchapaxi saskya lizeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0354,quito,pichincha
+448,286,6,31-12-2021,31,12,2021,cahuatijo sojos edwin ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0042,quito,pichincha
+657,286,2143,28-02-2023,28,2,2023,cahuatijo sojos edwin ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0042,quito,pichincha
+449,287,6,31-12-2021,31,12,2021,caicedo mina mariuxi karol,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0436,esmeraldas,esmeraldas
+450,288,6,31-12-2021,31,12,2021,caicedo villamarin danna jojahira,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0008,quito,pichincha
+451,295,6,31-12-2021,31,12,2021,calderon chavez pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0655,quito,pichincha
+658,295,2142,31-01-2023,31,1,2023,calderon chavez pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0655,quito,pichincha
+659,295,2143,28-02-2023,28,2,2023,calderon chavez pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0655,quito,pichincha
+452,296,6,31-12-2021,31,12,2021,calderon estevez willan marcelo,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0037,ibarra,imbabura
+453,297,6,31-12-2021,31,12,2021,calderon hidalgo evelyn lisset,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0324,cayambe,pichincha
+455,3,6,31-12-2021,31,12,2021,abata carrera gloria beatriz,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0021,esmeraldas,esmeraldas
+457,301,6,31-12-2021,31,12,2021,calle morocho byron fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0578,tena,napo
+458,302,6,31-12-2021,31,12,2021,calle quinde manuel marcelo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0126,cuenca,azuay
+460,31,6,31-12-2021,31,12,2021,aguaiza tenelema vanesa aurelia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0403,manta,manabi
+632,31,2143,28-02-2023,28,2,2023,aguaiza tenelema vanesa aurelia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0403,manta,manabi
+461,317,6,31-12-2021,31,12,2021,campaña carvajal raul gonzalo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0429,quito,pichincha
+661,317,2142,31-01-2023,31,1,2023,campaña carvajal raul gonzalo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0429,quito,pichincha
+662,317,2143,28-02-2023,28,2,2023,campaña carvajal raul gonzalo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0429,quito,pichincha
+462,319,6,31-12-2021,31,12,2021,campo yanez mauro geovany,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0024,quito,pichincha
+465,322,6,31-12-2021,31,12,2021,campoverde bustos franklin mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0666,azogues,cañar
+466,329,6,31-12-2021,31,12,2021,capa cobos luis fernando,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0030,loja,loja
+664,329,2143,28-02-2023,28,2,2023,capa cobos luis fernando,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0030,loja,loja
+468,351,6,31-12-2021,31,12,2021,carbo andrade reinaldo andres,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0036,samborondon,sin provincia
+665,351,2142,31-01-2023,31,1,2023,carbo andrade reinaldo andres,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0036,samborondon,sin provincia
+470,355,6,31-12-2021,31,12,2021,cardenas galloso antuane,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0441,quito,pichincha
+474,362,6,31-12-2021,31,12,2021,carreño calderon ricarte francisco,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0197,guayaquil,guayas
+475,364,6,31-12-2021,31,12,2021,carrillo saenz mario alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0292,machala,el oro
+477,370,6,31-12-2021,31,12,2021,carvajal bustos pablo lenin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0407,quito,pichincha
+478,373,6,31-12-2021,31,12,2021,carvajal parra edison xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0180,pastaza,pastaza
+479,375,6,31-12-2021,31,12,2021,carvajal rovalino tatiana pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0255,ambato,tungurahua
+666,375,2143,28-02-2023,28,2,2023,carvajal rovalino tatiana pamela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0255,ambato,tungurahua
+480,376,6,31-12-2021,31,12,2021,casanova villalba cesar ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0248,santo domingo,santo domingo de los tsachilas
+667,376,2142,31-01-2023,31,1,2023,casanova villalba cesar ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0248,santo domingo,santo domingo de los tsachilas
+668,376,2143,28-02-2023,28,2,2023,casanova villalba cesar ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0248,santo domingo,santo domingo de los tsachilas
+481,381,6,31-12-2021,31,12,2021,castañeda romero armando bayardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0123,quito,pichincha
+669,381,2142,31-01-2023,31,1,2023,castañeda romero armando bayardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0123,quito,pichincha
+670,381,2143,28-02-2023,28,2,2023,castañeda romero armando bayardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0123,quito,pichincha
+482,382,6,31-12-2021,31,12,2021,castellanos yagual johnny fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0056,daule,guayas
+671,382,2142,31-01-2023,31,1,2023,castellanos yagual johnny fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0056,daule,guayas
+672,382,2143,28-02-2023,28,2,2023,castellanos yagual johnny fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0056,daule,guayas
+483,385,6,31-12-2021,31,12,2021,castillo flores juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0106,cayambe,pichincha
+485,394,6,31-12-2021,31,12,2021,cañar riofrio edison alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0432,quito,pichincha
+674,394,2143,28-02-2023,28,2,2023,cañar riofrio edison alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0432,quito,pichincha
+486,413,6,31-12-2021,31,12,2021,celi arias edison gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0390,quito,pichincha
+675,413,2142,31-01-2023,31,1,2023,celi arias edison gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0390,quito,pichincha
+488,44,6,31-12-2021,31,12,2021,agurto mera jose ignacio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0590,daule,guayas
+490,458,6,31-12-2021,31,12,2021,cevallos zhunio jorge eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0075,guayaquil,guayas
+676,458,2142,31-01-2023,31,1,2023,cevallos zhunio jorge eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0075,guayaquil,guayas
+492,46,6,31-12-2021,31,12,2021,aimacaña toapanta fernanda maribel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0156,latacunga,cotopaxi
+493,463,6,31-12-2021,31,12,2021,chacha lopez mecias orlando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0163,riobamba,chimborazo
+494,466,6,31-12-2021,31,12,2021,chacon alvarez william jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0234,quito,pichincha
+678,466,2143,28-02-2023,28,2,2023,chacon alvarez william jose,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0234,quito,pichincha
+496,469,6,31-12-2021,31,12,2021,chalco herrera franklin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0523,quito,pichincha
+679,469,2142,31-01-2023,31,1,2023,chalco herrera franklin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0523,quito,pichincha
+497,473,6,31-12-2021,31,12,2021,chancusig chisag monica del rocio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0270,latacunga,cotopaxi
+498,475,6,31-12-2021,31,12,2021,charry buitrago sharon jeraldine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0086,quito,pichincha
+501,486,6,31-12-2021,31,12,2021,chiliquinga arechua luis oswaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0486,shushufindi,sucumbios
+502,487,6,31-12-2021,31,12,2021,chillagana ayol juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0447,quito,pichincha
+682,487,2142,31-01-2023,31,1,2023,chillagana ayol juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0447,quito,pichincha
+503,488,6,31-12-2021,31,12,2021,chimbo orellana victoria estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0044,chimbo,bolivar
+504,489,6,31-12-2021,31,12,2021,chong viteri alfredo guillermo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0093,daule,guayas
+506,493,6,31-12-2021,31,12,2021,cifuentes caiza katerine yessenia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0584,tena,napo
+507,494,6,31-12-2021,31,12,2021,cisneros ledesma ricardo javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0091,pastaza,pastaza
+683,494,2142,31-01-2023,31,1,2023,cisneros ledesma ricardo javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0091,pastaza,pastaza
+508,496,6,31-12-2021,31,12,2021,cisneros teran brenda luzmila,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0230,guayaquil,guayas
+684,496,2142,31-01-2023,31,1,2023,cisneros teran brenda luzmila,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0230,guayaquil,guayas
+685,496,2143,28-02-2023,28,2,2023,cisneros teran brenda luzmila,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0230,guayaquil,guayas
+509,498,6,31-12-2021,31,12,2021,claudio alvarez julio cesar,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0379,latacunga,cotopaxi
+511,503,6,31-12-2021,31,12,2021,cocha guaillaguaman franklin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0566,mejia,pichincha
+687,503,2143,28-02-2023,28,2,2023,cocha guaillaguaman franklin david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0566,mejia,pichincha
+512,505,6,31-12-2021,31,12,2021,coello shiguango flor lucia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0464,quito,pichincha
+688,505,2143,28-02-2023,28,2,2023,coello shiguango flor lucia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0464,quito,pichincha
+513,515,6,31-12-2021,31,12,2021,comina tubon mayra elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0089,quito,pichincha
+514,52,6,31-12-2021,31,12,2021,albarracin guashambo milton geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0444,cuenca,azuay
+515,523,6,31-12-2021,31,12,2021,condo carabajo alvaro santiago,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0235,cuenca,azuay
+689,523,2142,31-01-2023,31,1,2023,condo carabajo alvaro santiago,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0235,cuenca,azuay
+690,523,2143,28-02-2023,28,2,2023,condo carabajo alvaro santiago,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0235,cuenca,azuay
+516,526,6,31-12-2021,31,12,2021,condor yanez giovany paolo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0241,quito,pichincha
+691,526,2143,28-02-2023,28,2,2023,condor yanez giovany paolo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0241,quito,pichincha
+517,527,6,31-12-2021,31,12,2021,condoy ordoñez victor antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0250,latacunga,cotopaxi
+518,54,6,31-12-2021,31,12,2021,albuja leon nancy elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0014,rumiñahui,pichincha
+519,544,6,31-12-2021,31,12,2021,coral mafla luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0029,ibarra,imbabura
+692,544,2142,31-01-2023,31,1,2023,coral mafla luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0029,ibarra,imbabura
+520,547,6,31-12-2021,31,12,2021,cordova pacheco juan gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0167,salcedo,cotopaxi
+693,547,2142,31-01-2023,31,1,2023,cordova pacheco juan gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0167,salcedo,cotopaxi
+521,577,6,31-12-2021,31,12,2021,corrales silva gustavo eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0501,quito,pichincha
+522,578,6,31-12-2021,31,12,2021,correa quintanilla cesar ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0448,riobamba,chimborazo
+524,583,6,31-12-2021,31,12,2021,criollo altamirano monica elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0051,guayaquil,guayas
+526,586,6,31-12-2021,31,12,2021,crisanto paucar edwin paul,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0517,quito,pichincha
+527,588,6,31-12-2021,31,12,2021,cruz borbor pedro ruben,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0273,guayaquil,guayas
+528,590,6,31-12-2021,31,12,2021,cruz loaiza john freddy,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0130,rumiñahui,pichincha
+529,599,6,31-12-2021,31,12,2021,cualchi cachipuendo luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0074,cayambe,pichincha
+695,599,2142,31-01-2023,31,1,2023,cualchi cachipuendo luis alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0074,cayambe,pichincha
+533,607,6,31-12-2021,31,12,2021,culcay bermeo martha beatriz,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0128,cuenca,azuay
+534,609,6,31-12-2021,31,12,2021,cumbicos ortega diego oswaldo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0339,machala,el oro
+536,612,6,31-12-2021,31,12,2021,curipoma quizhpe galo israel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0072,loja,loja
+696,612,2142,31-01-2023,31,1,2023,curipoma quizhpe galo israel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0072,loja,loja
+537,625,6,31-12-2021,31,12,2021,de abril torralba sergio jesus,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0560,cuenca,azuay
+539,628,6,31-12-2021,31,12,2021,de la cruz romero calixto fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0391,daule,guayas
+542,635,6,31-12-2021,31,12,2021,delgado mendoza annie julisa,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0506,portoviejo,manabi
+698,635,2142,31-01-2023,31,1,2023,delgado mendoza annie julisa,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0506,portoviejo,manabi
+543,637,6,31-12-2021,31,12,2021,delgado shigui miguel angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0650,salinas,santa elena
+544,64,6,31-12-2021,31,12,2021,altamirano fiallos fabian alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0070,ambato,tungurahua
+545,641,6,31-12-2021,31,12,2021,diaz bautista gabriela alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0203,latacunga,cotopaxi
+699,641,2142,31-01-2023,31,1,2023,diaz bautista gabriela alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0203,latacunga,cotopaxi
+546,642,6,31-12-2021,31,12,2021,diaz cardenas carmen gabriela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0122,salcedo,cotopaxi
+700,642,2142,31-01-2023,31,1,2023,diaz cardenas carmen gabriela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0122,salcedo,cotopaxi
+547,643,6,31-12-2021,31,12,2021,diaz cordova luis benito,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0559,guayaquil,guayas
+701,643,2143,28-02-2023,28,2,2023,diaz cordova luis benito,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0559,guayaquil,guayas
+548,645,6,31-12-2021,31,12,2021,diaz sanchez veronica andrea,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0542,quito,pichincha
+550,651,6,31-12-2021,31,12,2021,donoso proaño maria fernanda,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0363,daule,guayas
+551,652,6,31-12-2021,31,12,2021,donoso vega daniel isaac,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0023,quito,pichincha
+552,656,6,31-12-2021,31,12,2021,duque cordova luis anibal,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0306,guayaquil,guayas
+555,661,6,31-12-2021,31,12,2021,echeverria silva carlos david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0616,manta,manabi
+556,67,6,31-12-2021,31,12,2021,alvarado mestanza victor mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0651,daule,guayas
+557,69,6,31-12-2021,31,12,2021,alvarez cevallos katty alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0482,guayaquil,guayas
+559,705,6,31-12-2021,31,12,2021,enriquez alvarez marco vinicio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0183,quito,pichincha
+562,716,6,31-12-2021,31,12,2021,escalante zambrano jorge william,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0610,guayaquil,guayas
+704,716,2142,31-01-2023,31,1,2023,escalante zambrano jorge william,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0610,guayaquil,guayas
+563,73,6,31-12-2021,31,12,2021,alvarez silva luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0251,duran,sin provincia
+564,746,6,31-12-2021,31,12,2021,espin ordoñez cesar arturo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0105,guayaquil,guayas
+705,746,2143,28-02-2023,28,2,2023,espin ordoñez cesar arturo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0105,guayaquil,guayas
+565,748,6,31-12-2021,31,12,2021,espinel cadena pablo sebastian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0458,latacunga,cotopaxi
+566,752,6,31-12-2021,31,12,2021,espinosa de los monteros galarraga guido esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0298,ibarra,imbabura
+706,752,2142,31-01-2023,31,1,2023,espinosa de los monteros galarraga guido esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0298,ibarra,imbabura
+707,752,2143,28-02-2023,28,2,2023,espinosa de los monteros galarraga guido esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0298,ibarra,imbabura
+567,753,6,31-12-2021,31,12,2021,espinosa garcia hernan eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0261,quito,pichincha
+708,753,2142,31-01-2023,31,1,2023,espinosa garcia hernan eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0261,quito,pichincha
+568,759,6,31-12-2021,31,12,2021,espinoza romero steven mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0496,quito,pichincha
+709,759,2142,31-01-2023,31,1,2023,espinoza romero steven mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0496,quito,pichincha
+710,759,2143,28-02-2023,28,2,2023,espinoza romero steven mauricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0496,quito,pichincha
+570,769,6,31-12-2021,31,12,2021,fabre ballester joffre humberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0389,daule,guayas
+572,775,6,31-12-2021,31,12,2021,fajardo medina danny andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0493,guayaquil,guayas
+573,776,6,31-12-2021,31,12,2021,fajardo pinos nidia mariuxi,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0295,la troncal,cañar
+574,779,6,31-12-2021,31,12,2021,farinango defaz juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0318,quito,pichincha
+576,79,6,31-12-2021,31,12,2021,amores endara fanny katherine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0108,latacunga,cotopaxi
+636,79,2142,31-01-2023,31,1,2023,amores endara fanny katherine,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0108,latacunga,cotopaxi
+577,794,6,31-12-2021,31,12,2021,figueroa candelario evelyn andreina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0112,duran,sin provincia
+578,804,6,31-12-2021,31,12,2021,flores flores david vicente,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0470,cuenca,azuay
+584,83,6,31-12-2021,31,12,2021,analuisa moreno israel alexander,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0081,latacunga,cotopaxi
+585,86,6,31-12-2021,31,12,2021,andino burbano roberto carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0262,tulcan,sin provincia
+587,881,6,31-12-2021,31,12,2021,gallardo aguirre miguel angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0516,loja,loja
+588,883,6,31-12-2021,31,12,2021,gallardo chiluisa emilio alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0325,quito,pichincha
+716,883,2142,31-01-2023,31,1,2023,gallardo chiluisa emilio alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0325,quito,pichincha
+589,884,6,31-12-2021,31,12,2021,gallardo ramon rossana patricia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0518,la troncal,cañar
+717,884,2143,28-02-2023,28,2,2023,gallardo ramon rossana patricia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0518,la troncal,cañar
+590,885,6,31-12-2021,31,12,2021,gallegos jimenez hector geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0082,salcedo,cotopaxi
+718,885,2143,28-02-2023,28,2,2023,gallegos jimenez hector geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0082,salcedo,cotopaxi
+591,891,6,31-12-2021,31,12,2021,garate sarmiento ivan fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0609,cuenca,azuay
+719,891,2142,31-01-2023,31,1,2023,garate sarmiento ivan fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0609,cuenca,azuay
+592,902,6,31-12-2021,31,12,2021,garzon chavez claudia melissa,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0026,guayaquil,guayas
+593,906,6,31-12-2021,31,12,2021,gavilanes quezada jose daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0404,quito,pichincha
+594,910,6,31-12-2021,31,12,2021,german chicaiza luis orlando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0033,quito,pichincha
+597,925,6,31-12-2021,31,12,2021,gonzalez arreaga barbara elena,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0618,guayaquil,guayas
+599,929,6,31-12-2021,31,12,2021,gonzalez ibarra diego fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0265,quito,pichincha
+600,930,6,31-12-2021,31,12,2021,gonzalez llumiquinga mayra alejandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0176,quito,pichincha
+602,937,6,31-12-2021,31,12,2021,gracia valencia migdonio lino,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0544,esmeraldas,esmeraldas
+604,942,6,31-12-2021,31,12,2021,granda gualpa darwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0631,salcedo,cotopaxi
+721,942,2142,31-01-2023,31,1,2023,granda gualpa darwin patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0631,salcedo,cotopaxi
+605,945,6,31-12-2021,31,12,2021,granda gualpa oscar gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0059,salcedo,cotopaxi
+722,945,2143,28-02-2023,28,2,2023,granda gualpa oscar gabriel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0059,salcedo,cotopaxi
+606,946,6,31-12-2021,31,12,2021,granizo merino andres leonardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0170,quito,pichincha
+608,952,6,31-12-2021,31,12,2021,grijalva pareja wilson xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0019,quito,pichincha
+724,952,2142,31-01-2023,31,1,2023,grijalva pareja wilson xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0019,quito,pichincha
+609,961,6,31-12-2021,31,12,2021,guaman luna juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0634,cuenca,azuay
+725,961,2143,28-02-2023,28,2,2023,guaman luna juan carlos,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0634,cuenca,azuay
+610,965,6,31-12-2021,31,12,2021,guamantario tuba guido fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0052,rumiñahui,pichincha
+726,965,2143,28-02-2023,28,2,2023,guamantario tuba guido fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0052,rumiñahui,pichincha
+612,97,6,31-12-2021,31,12,2021,angulo flores emily del rocio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0639,santa rosa,el oro
+613,970,6,31-12-2021,31,12,2021,guayllas ponce kevin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0434,cuenca,azuay
+728,970,2142,31-01-2023,31,1,2023,guayllas ponce kevin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0434,cuenca,azuay
+614,971,6,31-12-2021,31,12,2021,guañuna sanguña jeferson andre,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0485,quito,pichincha
+729,971,2142,31-01-2023,31,1,2023,guañuna sanguña jeferson andre,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0485,quito,pichincha
+615,972,6,31-12-2021,31,12,2021,guerra coronel ivan rodrigo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0001,quito,pichincha
+616,974,6,31-12-2021,31,12,2021,guerra jaya pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0288,quito,pichincha
+730,974,2143,28-02-2023,28,2,2023,guerra jaya pablo andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0288,quito,pichincha
+617,977,6,31-12-2021,31,12,2021,guerrero alvear joel alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0257,daule,guayas
+618,979,6,31-12-2021,31,12,2021,guerrero calero juan manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0396,portoviejo,manabi
+620,980,6,31-12-2021,31,12,2021,guerrero rivas edwuard david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0577,quito,pichincha
+731,980,2142,31-01-2023,31,1,2023,guerrero rivas edwuard david,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0577,quito,pichincha
+621,982,6,31-12-2021,31,12,2021,guerrero shaca rodrigo rene,calificado,capacitador independiente,resolución no. mdt-ci-ren-2021-0027,baños,sin provincia
+622,985,6,31-12-2021,31,12,2021,guevara black john erick,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0129,rumiñahui,pichincha
+623,986,6,31-12-2021,31,12,2021,guevara vaca erika esthefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0589,mejia,pichincha
+732,986,2142,31-01-2023,31,1,2023,guevara vaca erika esthefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0589,mejia,pichincha
+733,986,2143,28-02-2023,28,2,2023,guevara vaca erika esthefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0589,mejia,pichincha
+625,99,6,31-12-2021,31,12,2021,angulo valencia alexander manuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2021-0057,francisco de orellana,sin provincia
+2,1002,5,31-12-2020,31,12,2020,heredia silva jamil ruben,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0499,latacunga,cotopaxi
+735,1002,2142,31-01-2023,31,1,2023,heredia silva jamil ruben,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0499,latacunga,cotopaxi
+7,1018,5,31-12-2020,31,12,2020,hinojosa tonato marco alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0463,quito,pichincha
+737,1018,2143,28-02-2023,28,2,2023,hinojosa tonato marco alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0463,quito,pichincha
+30,1258,5,31-12-2020,31,12,2020,jaramillo sandoval jose ricardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0488,quito,pichincha
+32,1265,5,31-12-2020,31,12,2020,jimbo salinas mariuxi del cisne,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0485,machala,el oro
+42,1276,5,31-12-2020,31,12,2020,jimenez verdesoto darwin moises,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0453,salcedo,cotopaxi
+747,1276,2143,28-02-2023,28,2,2023,jimenez verdesoto darwin moises,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0453,salcedo,cotopaxi
+73,1368,5,31-12-2020,31,12,2020,lozano orna eduardo patricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0457,riobamba,chimborazo
+79,1384,5,31-12-2020,31,12,2020,maldonado morales marco vinicio,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0047,quito,pichincha
+97,1436,5,31-12-2020,31,12,2020,mendoza torres alirio roman,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0442,quito,pichincha
+766,1436,2143,28-02-2023,28,2,2023,mendoza torres alirio roman,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0442,quito,pichincha
+113,1478,5,31-12-2020,31,12,2020,montenegro alcivar gabriel nicolas,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0478,quito,pichincha
+119,1487,5,31-12-2020,31,12,2020,montes vega klever saul,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0050,francisco de orellana,sin provincia
+775,1487,2142,31-01-2023,31,1,2023,montes vega klever saul,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0050,francisco de orellana,sin provincia
+120,1488,5,31-12-2020,31,12,2020,montesdeoca delgado eizer fabian,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0443,machala,el oro
+121,1490,5,31-12-2020,31,12,2020,montoya gualoto nelly rocio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0484,quito,pichincha
+126,1510,5,31-12-2020,31,12,2020,moreano almeida fabian eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0436,quito,pichincha
+161,1604,5,31-12-2020,31,12,2020,ordoñez jose agustin,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0045,quito,pichincha
+171,1635,5,31-12-2020,31,12,2020,paez maldonado leslie marcela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0421,quito,pichincha
+791,1635,2143,28-02-2023,28,2,2023,paez maldonado leslie marcela,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0421,quito,pichincha
+180,1646,5,31-12-2020,31,12,2020,panza cajamarca marco ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0479,azogues,cañar
+794,1646,2143,28-02-2023,28,2,2023,panza cajamarca marco ivan,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0479,azogues,cañar
+186,1657,5,31-12-2020,31,12,2020,parrales sanchez carlos javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0424,guayaquil,guayas
+797,1657,2143,28-02-2023,28,2,2023,parrales sanchez carlos javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0424,guayaquil,guayas
+210,1717,5,31-12-2020,31,12,2020,ponce alcocer geovanny franklin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0448,daule,guayas
+213,1723,5,31-12-2020,31,12,2020,posligua leon cristhian andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0425,babahoyo,los rios
+214,1725,5,31-12-2020,31,12,2020,prado mendoza francisco,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0427,machala,el oro
+221,1744,5,31-12-2020,31,12,2020,punina mejia diego alejandro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0473,ambato,tungurahua
+226,1754,5,31-12-2020,31,12,2020,quimi mora cesar rene,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0497,montecristi,manabi
+229,176,5,31-12-2020,31,12,2020,aynuca vasconez herodita corina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0422,quito,pichincha
+644,176,2143,28-02-2023,28,2,2023,aynuca vasconez herodita corina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0422,quito,pichincha
+251,1807,5,31-12-2020,31,12,2020,rivera fernandez ismaira josefina,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0515,quito,pichincha
+261,1834,5,31-12-2020,31,12,2020,rojas rivera ivania priscila,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0455,quito,pichincha
+821,1834,2143,28-02-2023,28,2,2023,rojas rivera ivania priscila,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0455,quito,pichincha
+266,1842,5,31-12-2020,31,12,2020,romero torres gabriel ramiro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0439,quito,pichincha
+283,1885,5,31-12-2020,31,12,2020,salgado reyes nelson esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0430,quito,pichincha
+834,1885,2142,31-01-2023,31,1,2023,salgado reyes nelson esteban,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0430,quito,pichincha
+289,1897,5,31-12-2020,31,12,2020,sanchez coba esteban alfonso,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0444,quito,pichincha
+296,191,5,31-12-2020,31,12,2020,baquero arevalo hernan omar,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0403,manta,manabi
+303,1917,5,31-12-2020,31,12,2020,santana bravo jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0476,manta,manabi
+839,1917,2143,28-02-2023,28,2,2023,santana bravo jorge luis,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0476,manta,manabi
+305,1922,5,31-12-2020,31,12,2020,sarabia paredes carla vanessa,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0415,quito,pichincha
+311,1957,5,31-12-2020,31,12,2020,silva nowak jhoana valeria,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0500,samborondon,sin provincia
+316,1980,5,31-12-2020,31,12,2020,solis moreno estuardo edisson,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0464,ambato,tungurahua
+317,1984,5,31-12-2020,31,12,2020,soria noroña liliana carlota,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0466,lago agrio,sucumbios
+320,1999,5,31-12-2020,31,12,2020,suntaxi llumiquinga carlos alfredo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0428,rumiñahui,pichincha
+321,20,5,31-12-2020,31,12,2020,acosta mensias luis eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0394,quito,pichincha
+628,20,2142,31-01-2023,31,1,2023,acosta mensias luis eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0394,quito,pichincha
+629,20,2143,28-02-2023,28,2,2023,acosta mensias luis eduardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0394,quito,pichincha
+323,2003,5,31-12-2020,31,12,2020,taipe chimba jaime gustavo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0508,quito,pichincha
+843,2003,2143,28-02-2023,28,2,2023,taipe chimba jaime gustavo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0508,quito,pichincha
+325,2005,5,31-12-2020,31,12,2020,tamayo duque napoleon andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0498,quito,pichincha
+331,2027,5,31-12-2020,31,12,2020,teran davila mauricio javier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0486,quito,pichincha
+343,2049,5,31-12-2020,31,12,2020,torres espinoza edwin paul,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0048,quito,pichincha
+357,2104,5,31-12-2020,31,12,2020,urrejola ruiz-tagle jorge camilo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0268,guayaquil,guayas
+854,2104,2143,28-02-2023,28,2,2023,urrejola ruiz-tagle jorge camilo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0268,guayaquil,guayas
+360,2110,5,31-12-2020,31,12,2020,vaca cabezas samanta deyannira,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0465,quito,pichincha
+856,2110,2142,31-01-2023,31,1,2023,vaca cabezas samanta deyannira,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0465,quito,pichincha
+371,2128,5,31-12-2020,31,12,2020,vallejo guayasamin roberto coral,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0351,quito,pichincha
+860,2128,2142,31-01-2023,31,1,2023,vallejo guayasamin roberto coral,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0351,quito,pichincha
+373,2131,5,31-12-2020,31,12,2020,vargas aguilar yoffre rodrigo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0482,pasaje,el oro
+861,2131,2142,31-01-2023,31,1,2023,vargas aguilar yoffre rodrigo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0482,pasaje,el oro
+391,2180,5,31-12-2020,31,12,2020,villacres real julio enmanuel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0505,babahoyo,los rios
+396,2195,5,31-12-2020,31,12,2020,villenas gordon walter alcides,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0374,quito,pichincha
+874,2195,2142,31-01-2023,31,1,2023,villenas gordon walter alcides,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0374,quito,pichincha
+875,2195,2143,28-02-2023,28,2,2023,villenas gordon walter alcides,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0374,quito,pichincha
+401,2210,5,31-12-2020,31,12,2020,yaguachi rios maria liliana,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0477,quito,pichincha
+402,2213,5,31-12-2020,31,12,2020,yancha alvarado andres gonzalo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0494,cuenca,azuay
+877,2213,2143,28-02-2023,28,2,2023,yancha alvarado andres gonzalo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0494,cuenca,azuay
+406,2217,5,31-12-2020,31,12,2020,yanez naupay tatiana alexandra,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0502,guayaquil,guayas
+410,2224,5,31-12-2020,31,12,2020,yonfa mejia daniel alberto,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0481,quito,pichincha
+415,2232,5,31-12-2020,31,12,2020,zambrano de pizzino ana elena,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0493,quito,pichincha
+428,226,5,31-12-2020,31,12,2020,benitez gomez oscar malvin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0516,portovelo,el oro
+650,226,2142,31-01-2023,31,1,2023,benitez gomez oscar malvin,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0516,portovelo,el oro
+429,228,5,31-12-2020,31,12,2020,bermudez erazo joel andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0474,guayaquil,guayas
+435,245,5,31-12-2020,31,12,2020,bravo de la cruz henry nelson,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0475,latacunga,cotopaxi
+446,275,5,31-12-2020,31,12,2020,cabrera edwin bayardo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0510,quito,pichincha
+447,283,5,31-12-2020,31,12,2020,cadmen ochoa noemi elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0495,azogues,cañar
+454,298,5,31-12-2020,31,12,2020,calderon jimenez francisco xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0435,quito,pichincha
+660,298,2142,31-01-2023,31,1,2023,calderon jimenez francisco xavier,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0435,quito,pichincha
+456,30,5,31-12-2020,31,12,2020,aguaiza tenelema danny galindo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0337,manta,manabi
+631,30,2143,28-02-2023,28,2,2023,aguaiza tenelema danny galindo,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0337,manta,manabi
+463,32,5,31-12-2020,31,12,2020,aguaiza tenelema yuliana elizabeth,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0496,manta,manabi
+469,354,5,31-12-2020,31,12,2020,cardenas cardenas edwin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0487,quito,pichincha
+487,43,5,31-12-2020,31,12,2020,aguirre valarezo maria del rosario,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0408,quito,pichincha
+495,468,5,31-12-2020,31,12,2020,chalapu pozo jorge geovanny,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0462,quito,pichincha
+510,499,5,31-12-2020,31,12,2020,clavijo ayala luis angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0315,riobamba,chimborazo
+686,499,2142,31-01-2023,31,1,2023,clavijo ayala luis angel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0315,riobamba,chimborazo
+532,606,5,31-12-2020,31,12,2020,cueva villafuerte patricia estefania,calificado,capacitador independiente,resolución no. mdt-ci-ren-2020-0049,baños,sin provincia
+535,610,5,31-12-2020,31,12,2020,cunalata benavides jorge diego,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0512,ibarra,imbabura
+538,627,5,31-12-2020,31,12,2020,de la cruz moreta edison fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0350,santo domingo,santo domingo de los tsachilas
+697,627,2143,28-02-2023,28,2,2023,de la cruz moreta edison fabricio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0350,santo domingo,santo domingo de los tsachilas
+541,634,5,31-12-2020,31,12,2020,delgado bazan marcia cecilia,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0432,quito,pichincha
+553,657,5,31-12-2020,31,12,2020,duque mendoza alex fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0382,quito,pichincha
+702,657,2142,31-01-2023,31,1,2023,duque mendoza alex fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0382,quito,pichincha
+703,657,2143,28-02-2023,28,2,2023,duque mendoza alex fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0382,quito,pichincha
+569,763,5,31-12-2020,31,12,2020,esteves moncayo tatiana estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0504,daule,guayas
+711,763,2142,31-01-2023,31,1,2023,esteves moncayo tatiana estefania,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0504,daule,guayas
+571,77,5,31-12-2020,31,12,2020,amaya moncada carlos andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0447,guayaquil,guayas
+635,77,2143,28-02-2023,28,2,2023,amaya moncada carlos andres,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0447,guayaquil,guayas
+583,825,5,31-12-2020,31,12,2020,freire guaman christian daniel,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0509,la mana,sin provincia
+595,92,5,31-12-2020,31,12,2020,andrade rivadeneira edwin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0461,quito,pichincha
+637,92,2143,28-02-2023,28,2,2023,andrade rivadeneira edwin fernando,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0461,quito,pichincha
+607,950,5,31-12-2020,31,12,2020,grefa yumbo carlos teodoro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0472,tena,napo
+723,950,2142,31-01-2023,31,1,2023,grefa yumbo carlos teodoro,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0472,tena,napo
+611,967,5,31-12-2020,31,12,2020,guayasamin pilco luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0467,quito,pichincha
+727,967,2143,28-02-2023,28,2,2023,guayasamin pilco luis antonio,calificado,capacitador independiente,resolución no. mdt-ci-cal-2020-0467,quito,pichincha
