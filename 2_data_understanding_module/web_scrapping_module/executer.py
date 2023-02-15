@@ -10,9 +10,9 @@ doc_name = 'pcci' # Nombre del submodulo que quiero extraer los datos y que sera
 QUERY_INPUT = '_' # Consulta que quiero realizar en el cuadro de texto
 N_DRIVERS = 4 # Numero de controladores y particiones que quiero hacer para llamar a multiples Scraper
 new_ws = 'no' # Permite borrar los metadatos que recolectan informacion hacerca de si se quiere o no extraer datos nuevos
-
+id_bot= 1 # Identificador del bot o scraper (tiene que se menor al numero de drivers)
 ### Se envia la ejecucion del archivo web_scraper con los paremetros respectivos
-os.system(f'python web_scraper.py {doc_name} {QUERY_INPUT} {N_DRIVERS} {new_ws}')
+os.system(f'python web_scraper.py {doc_name} {QUERY_INPUT} {N_DRIVERS} {new_ws} {id_bot}')
 
 '''
 python web_scraper.py pcci _ 4 no 1

@@ -1,0 +1,5 @@
+Shape_data: (36450, 5)
+Page: 7233
+Star_Page: 3616
+End_Page: 7232
+Last session time: 00:38:59.98
